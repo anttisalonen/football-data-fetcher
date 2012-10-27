@@ -227,7 +227,7 @@ def getPage(title):
     title = title.replace(' ', '_')
 
     s = u'http://en.wikipedia.org/w/api.php?format=xml&action=query&titles=%s&prop=revisions&rvprop=content&redirects=1' % title
-    sys.stdout.write('Processing %s...\n' % title)
+    sys.stdout.write('Processing %s... ' % title)
     sys.stdout.flush()
     s2 = urllib2.quote(s.encode('utf-8'), ':/&=?')
     infile = opener.open(s2)
@@ -269,6 +269,9 @@ def fetchLeagueData():
                     seasons.add(s)
                 if relegationleagues:
                     newleagues.update(relegationleagues)
+                    print 'Added %d new league(s).' % len(relegationleagues)
+                else:
+                    print 'No new leagues.'
         processedleagues |= leagues
         leagues = newleagues - processedleagues
 
@@ -342,6 +345,8 @@ def handleLeague(rvtext, leaguedata):
             tableStatus = 0
             if len(thisteams) > len(teams):
                 teams = thisteams
+
+    print len(teams), 'teams found.'
 
     for t in teams:
         name, link = unlinkify(t)
