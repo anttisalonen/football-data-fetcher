@@ -73,6 +73,7 @@ def fetchTeamData(team):
         return
 
     players = []
+    teamposition = None
 
     with open('output/' + filebasename + '.txt', 'w') as f:
         f.write(rvtext.encode('utf-8'))
@@ -119,18 +120,32 @@ def fetchTeamData(team):
             if number and nationality and pos and name:
                 player = Player(name, number, pos, nationality)
                 players.append(player)
+
         if '{{fs end}}' in line.lower() or '{[football squad end}}' in line.lower() or '{{football squad end2}}' in line.lower():
             # end of player list
             break
+
+        if ''.join(line.split()).startswith("|position="):
+            # this seems to usually be either this or last season's position
+            # it's a bit problematic when a team was promoted or relegated, but...
+            [k, v] = [s.strip() for s in line.split('=')]
+            pos = re.findall(r'\d+', v)
+            if len(pos) == 1:
+                teamposition = int(pos[0])
 
     if len(players) < 15:
         print 'failed - only %d players found.' % (len(players), team)
         return
 
+    if not teamposition:
+        teamposition = 0
+
     root = etree.Element("root")
 
     teamelem = etree.SubElement(root, 'Team')
     teamelem.set('name', team)
+    if teamposition:
+        teamelem.set('position', str(teamposition))
     for p in players:
         playerelem = etree.SubElement(teamelem, 'Player')
         playerelem.set('name', p.name)
@@ -141,7 +156,7 @@ def fetchTeamData(team):
     with open('output/' + filebasename + '.xml', 'w') as f:
         f.write(etree.tostring(root, pretty_print=True))
 
-    print 'done (%d players)' % len(players)
+    print 'done (position %d, %d players)' % (teamposition, len(players))
 
 table_re = re.compile(r' *\{\| *class *= *"?wikitable"?.*')
 
