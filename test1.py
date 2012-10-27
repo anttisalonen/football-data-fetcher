@@ -7,6 +7,11 @@ import re
 import sys
 import os, errno
 
+unlinker_re = re.compile(r'(.*)\[\[(.*)\|(.*)\]\](.*)')
+attributeAtStart_re = re.compile(r'[\w\s]*\|(.*)', re.UNICODE)
+table_re = re.compile(r' *\{\| *class *= *"?wikitable"?.*')
+kitinfo_re = re.compile(r'\| *(body|shorts|socks|pattern_b)([12]) *= *([0-9a-fA-F]*)')
+
 def mkdir_p(path):
     try:
         os.makedirs(path)
@@ -24,7 +29,6 @@ class Team:
         self.name = name
         self.link = link
 
-attributeAtStart_re = re.compile(r'[\w\s]*\|(.*)', re.UNICODE)
 
 def stripFormatting(s):
     s2 = s.split('[[')
@@ -47,16 +51,58 @@ def unlinkify(origstr):
     else:
         return (s, None)
 
+def getKeyValue(line):
+    [k, v] = [s.strip() for s in line.split('=')]
+    return k, v
+
+def getColorValue(string):
+    if len(string) != 6:
+        return Color()
+    r = string[0:2]
+    g = string[2:4]
+    b = string[4:6]
+    return Color(int(r, 16), int(g, 16), int(b, 16))
+
+class Color:
+    def __init__(self, r = 0, g = 0, b = 0):
+        self.r = r
+        self.g = g
+        self.b = b
+
+    def __str__(self):
+        return '(%d, %d, %d)' % (self.r, self.g, self.b)
+
+class Player:
+    def __init__(self, name, number, pos, nationality):
+        self.name = name
+        self.number = number
+        self.pos = pos
+        self.nationality = nationality
+
+class KitType:
+    Plain = 0
+    Stripes = 1
+    Vertical = 2
+    Hoops = 3
+    Horizontal = 4
+    Half = 5
+    Sash = 6
+
+class Kit:
+    def __init__(self):
+        self.bodytype = KitType.Plain
+        self.bodycolor = Color()
+        self.bodycolor2 = Color()
+        self.shortscolor = Color()
+        self.sockscolor = Color()
+
+def addColorElement(parent, name, color):
+    elem = etree.SubElement(parent, name)
+    elem.set('r', str(color.r))
+    elem.set('g', str(color.g))
+    elem.set('b', str(color.b))
+
 def fetchTeamData(team):
-    class Player:
-        def __init__(self, name, number, pos, nationality):
-            self.name = name
-            self.number = number
-            self.pos = pos
-            self.nationality = nationality
-
-    unlinker_re = re.compile(r'(.*)\[\[(.*)\|(.*)\]\](.*)')
-
     s = u'http://en.wikipedia.org/w/api.php?format=xml&action=query&titles=%s&prop=revisions&rvprop=content&redirects=1' % team.replace(' ', '_')
     sys.stdout.write('Processing %s... ' % team)
     sys.stdout.flush()
@@ -74,12 +120,15 @@ def fetchTeamData(team):
 
     players = []
     teamposition = None
+    kit = [Kit(), Kit()]
+    finishedReadingPlayers = False
 
     with open('output/' + filebasename + '.txt', 'w') as f:
         f.write(rvtext.encode('utf-8'))
 
     for line in rvtext.split('\n'):
-        if ('{{fs player' in line.lower() or '{{football squad player' in line.lower()) and line.strip()[-2:] == '}}':
+        if not finishedReadingPlayers and \
+            (('{{fs player' in line.lower() or '{{football squad player' in line.lower()) and line.strip()[-2:] == '}}'):
             unlinkedline = line
             while True:
                 res = unlinker_re.match(unlinkedline)
@@ -101,7 +150,7 @@ def fetchTeamData(team):
             for column in columns:
                 if '=' in column:
                     try:
-                        [k, v] = [s.strip() for s in column.split('=')]
+                        k, v = getKeyValue(column)
                     except ValueError:
                         print >> sys.stderr, 'Could not parse column:', column
                         continue
@@ -109,7 +158,7 @@ def fetchTeamData(team):
                         try:
                             number = int(v)
                         except (UnicodeEncodeError, ValueError):
-                            print >> sys.stderr, 'Unknown number', v
+                            print >> sys.stderr, 'Unknown number'
                     elif k == 'nat':
                         nationality = v
                     elif k == 'pos':
@@ -123,18 +172,41 @@ def fetchTeamData(team):
 
         if '{{fs end}}' in line.lower() or '{[football squad end}}' in line.lower() or '{{football squad end2}}' in line.lower():
             # end of player list
-            break
+            finishedReadingPlayers = True
 
-        if ''.join(line.split()).startswith("|position="):
+        lineWithoutSpaces = ''.join(line.split())
+        if lineWithoutSpaces.startswith("|position="):
             # this seems to usually be either this or last season's position
             # it's a bit problematic when a team was promoted or relegated, but...
-            [k, v] = [s.strip() for s in line.split('=')]
+            k, v = getKeyValue(line)
             pos = re.findall(r'\d+', v)
             if len(pos) == 1:
                 teamposition = int(pos[0])
 
+        kitresults = kitinfo_re.findall(line)
+        for kitresult in kitresults:
+            columns = [x.strip() for x in line.split('|') if 'body' in x]
+            for c in columns:
+                k, v = getKeyValue(c)
+                if k.startswith('body'):
+                    k = k[4:]
+                    n = int(k[0]) - 1
+                    kit[n].bodycolor = getColorValue(v)
+                if k.startswith('shorts'):
+                    k = k[6:]
+                    n = int(k[0]) - 1
+                    kit[n].shortscolor = getColorValue(v)
+                if k.startswith('socks'):
+                    k = k[5:]
+                    n = int(k[0]) - 1
+                    kit[n].sockscolor = getColorValue(v)
+                if k.startswith('pattern_b'):
+                    k = k[9:]
+                    n = int(k[0]) - 1
+                    # TODO: body type, second color
+
     if len(players) < 15:
-        print 'failed - only %d players found.' % (len(players), team)
+        print 'failed - only %d players found.' % len(players)
         return
 
     if not teamposition:
@@ -146,6 +218,13 @@ def fetchTeamData(team):
     teamelem.set('name', team)
     if teamposition:
         teamelem.set('position', str(teamposition))
+    for k in kit:
+        kitelem = etree.SubElement(teamelem, 'Kit')
+        kitelem.set('type', str(k.bodytype))
+        addColorElement(kitelem, 'Body', k.bodycolor)
+        addColorElement(kitelem, 'Body2', k.bodycolor2)
+        addColorElement(kitelem, 'Shorts', k.shortscolor)
+        addColorElement(kitelem, 'Socks', k.sockscolor)
     for p in players:
         playerelem = etree.SubElement(teamelem, 'Player')
         playerelem.set('name', p.name)
@@ -156,9 +235,8 @@ def fetchTeamData(team):
     with open('output/' + filebasename + '.xml', 'w') as f:
         f.write(etree.tostring(root, pretty_print=True))
 
-    print 'done (position %d, %d players)' % (teamposition, len(players))
+    print 'done (kit %s, position %d, %d players)' % (kit[0].bodycolor, teamposition, len(players))
 
-table_re = re.compile(r' *\{\| *class *= *"?wikitable"?.*')
 
 def fetchLeagueData():
     leagues = ['2012–13_Premier_League', '2012–13_Fußball-Bundesliga', '2012_Norwegian_Premier_League',
