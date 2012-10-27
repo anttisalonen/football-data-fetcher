@@ -103,28 +103,14 @@ def addColorElement(parent, name, color):
     elem.set('b', str(color.b))
 
 def fetchTeamData(team):
-    s = u'http://en.wikipedia.org/w/api.php?format=xml&action=query&titles=%s&prop=revisions&rvprop=content&redirects=1' % team.replace(' ', '_')
-    sys.stdout.write('Processing %s... ' % team)
-    sys.stdout.flush()
-    infile = opener.open(s.encode('utf-8'))
-    page = infile.read()
-    filebasename = team.replace(' ', '_').replace('.', '')
-    filename = '%s.%s' % (team.replace(' ', '_').replace('.', ''), 'xml')
-
-    pagexml = etree.XML(page)
-    try:
-        rvtext = pagexml.xpath('/api/query/pages/page/revisions/rev/text()')[0]
-    except IndexError:
-        print >> sys.stderr, "Couldn't find wikitext for team", team
+    rvtext = getPage(team)
+    if not rvtext:
         return
 
     players = []
     teamposition = None
     kit = [Kit(), Kit()]
     finishedReadingPlayers = False
-
-    with open('output/' + filebasename + '.txt', 'w') as f:
-        f.write(rvtext.encode('utf-8'))
 
     for line in rvtext.split('\n'):
         if not finishedReadingPlayers and \
@@ -232,45 +218,96 @@ def fetchTeamData(team):
         playerelem.set('pos', p.pos)
         playerelem.set('nationality', p.nationality)
 
-    with open('output/' + filebasename + '.xml', 'w') as f:
+    with open('output/' + titleToFilename(team) + '.xml', 'w') as f:
         f.write(etree.tostring(root, pretty_print=True))
 
     print 'done (kit %s, position %d, %d players)' % (kit[0].bodycolor, teamposition, len(players))
 
+def getPage(title):
+    title = title.replace(' ', '_')
+
+    s = u'http://en.wikipedia.org/w/api.php?format=xml&action=query&titles=%s&prop=revisions&rvprop=content&redirects=1' % title
+    sys.stdout.write('Processing %s...\n' % title)
+    sys.stdout.flush()
+    s2 = urllib2.quote(s.encode('utf-8'), ':/&=?')
+    infile = opener.open(s2)
+    page = infile.read()
+
+    pagexml = etree.XML(page)
+    try:
+        rvtext = pagexml.xpath('/api/query/pages/page/revisions/rev/text()')[0]
+    except IndexError:
+        print >> sys.stderr, "Couldn't find wikitext for", title
+        return None
+
+    with open('output/' + titleToFilename(title) + '.txt', 'w') as f:
+        f.write(rvtext.encode('utf-8'))
+
+    return rvtext
+
+def titleToFilename(title):
+    return title.replace(' ', '_').replace('.', '')
+
 
 def fetchLeagueData():
-    leagues = ['2012–13_Premier_League', '2012–13_Fußball-Bundesliga', '2012_Norwegian_Premier_League',
-            '2012-13_Scottish_Premier_League']
+    leaguelist = [u'Premier_League', u'Fußball-Bundesliga', u'Norwegian_Premier_League', u'Scottish_Premier_League']
+
+    leagues = set(leaguelist)
+    processedleagues = set()
 
     leaguedata = []
     mkdir_p('output')
 
-    for l in leagues:
-        s = 'http://en.wikipedia.org/w/api.php?format=xml&action=query&titles=%s&prop=revisions&rvprop=content&redirects=1' % l.replace(' ', '_')
-        sys.stdout.write('Processing %s...\n' % l)
-        infile = opener.open(s)
-        page = infile.read()
-        filebasename = l.replace(' ', '_').replace('.', '')
-        filename = '%s.%s' % (l.replace(' ', '_').replace('.', ''), 'xml')
-        with open('output/' + filebasename + '.xml', 'w') as f:
-            f.write(page)
+    while len(leagues) > 0:
+        seasons = set()
+        newleagues = set()
+        for l in leagues:
+            rvtext = getPage(l)
+            if rvtext:
+                s, relegationleagues = getLeagueData(rvtext)
+                if s:
+                    seasons.add(s)
+                if relegationleagues:
+                    newleagues.update(relegationleagues)
+        processedleagues |= leagues
+        leagues = newleagues - processedleagues
 
-        pagexml = etree.XML(page)
-        try:
-            rvtext = pagexml.xpath('/api/query/pages/page/revisions/rev/text()')[0]
-        except IndexError:
-            print >> sys.stderr, "Couldn't find wikitext for team", l
-            continue
+        for s in seasons:
+            rvtext = getPage(s)
+            handleLeague(rvtext, leaguedata)
 
-        handleLeague(rvtext, leaguedata)
+def getLeagueData(rvtext):
+    season = None
+    relegationleagues = None
+    for line in rvtext.split('\n'):
+        lineWithoutSpaces = ''.join(line.split())
+        if not season and lineWithoutSpaces.startswith("|current="):
+            k, v = getKeyValue(line)
+            competition, competitionlink = unlinkify(v)
+            season = competitionlink
+
+        # TODO: handle infobox football like in Fußball-Regionalliga_Nord
+        if not relegationleagues and lineWithoutSpaces.startswith("|relegation="):
+            k, v = getKeyValue(line)
+            candidates = [unlinkify(x.strip())[1] for x in v.split('<br />')]
+            relegationleagues = [c for c in candidates if c]
+
+    return season, relegationleagues
 
 def handleLeague(rvtext, leaguedata):
     teams = []
+
+    competition = None
 
     tableStatus = 0
     teamColumn = -1
     thisColumn = -1
     for line in rvtext.split('\n'):
+        lineWithoutSpaces = ''.join(line.split())
+        if not competition and lineWithoutSpaces.startswith("|competition="):
+            k, v = getKeyValue(line)
+            competition, competitionlink = unlinkify(v)
+
         ls = line.strip()
         # print "Table status", tableStatus, "line", ls
         if table_re.match(ls):
@@ -308,6 +345,7 @@ def handleLeague(rvtext, leaguedata):
 
     for t in teams:
         name, link = unlinkify(t)
-        fetchTeamData(link)
+        if link:
+            fetchTeamData(link)
 
 fetchLeagueData()
