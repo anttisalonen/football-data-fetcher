@@ -11,6 +11,7 @@ unlinker_re = re.compile(r'(.*)\[\[(.*)\|(.*)\]\](.*)')
 attributeAtStart_re = re.compile(r'[\w\s]*\|(.*)', re.UNICODE)
 table_re = re.compile(r' *\{\| *class *= *"?wikitable"?.*')
 kitinfo_re = re.compile(r'\| *(body|shorts|socks|pattern_b)([12]) *= *([0-9a-fA-F]*)')
+removeAngleBrackets_re = re.compile(r'\<[^>]*\>')
 
 def mkdir_p(path):
     try:
@@ -52,8 +53,12 @@ def unlinkify(origstr):
         return (s, None)
 
 def getKeyValue(line):
-    [k, v] = [s.strip() for s in line.split('=')]
-    return k, v
+    try:
+        [k, v] = [s.strip() for s in line.split('=')]
+        return k, v
+    except:
+        print >> sys.stderr, 'Error getting key-value pair from "%s"' % line
+        raise
 
 def getColorValue(string):
     if len(string) != 6:
@@ -138,7 +143,7 @@ def fetchTeamData(team):
                     try:
                         k, v = getKeyValue(column)
                     except ValueError:
-                        print >> sys.stderr, 'Could not parse column:', column
+                        print >> sys.stderr, 'Could not parse player information column:', column.encode('utf-8')
                         continue
                     if k == 'no':
                         try:
@@ -163,8 +168,8 @@ def fetchTeamData(team):
         lineWithoutSpaces = ''.join(line.split())
         if lineWithoutSpaces.startswith("|position="):
             # this seems to usually be either this or last season's position
-            # it's a bit problematic when a team was promoted or relegated, but...
-            k, v = getKeyValue(line)
+            # TODO: Problems arise when a team was promoted or relegated
+            k, v = getKeyValue(removeAngleBrackets_re.sub('', line))
             pos = re.findall(r'\d+', v)
             if len(pos) == 1:
                 teamposition = int(pos[0])
@@ -223,14 +228,15 @@ def fetchTeamData(team):
 
     print 'done (kit %s, position %d, %d players)' % (kit[0].bodycolor, teamposition, len(players))
 
-def getPage(title):
+def getPage(title, expandTemplates = False):
     title = title.replace(' ', '_')
 
     s = u'http://en.wikipedia.org/w/api.php?format=xml&action=query&titles=%s&prop=revisions&rvprop=content&redirects=1' % title
+    if expandTemplates:
+        s += '&rvexpandtemplates=1'
     sys.stdout.write('Processing %s... ' % title)
     sys.stdout.flush()
-    s2 = urllib2.quote(s.encode('utf-8'), ':/&=?')
-    infile = opener.open(s2)
+    infile = opener.open(urllib2.quote(s.encode('utf-8'), ':/&=?'))
     page = infile.read()
 
     pagexml = etree.XML(page)
@@ -245,9 +251,29 @@ def getPage(title):
 
     return rvtext
 
-def titleToFilename(title):
-    return title.replace(' ', '_').replace('.', '')
+def expandTemplate(text):
+    s = u'http://en.wikipedia.org/w/api.php?action=expandtemplates&format=xml&text=%s' % text
+    s2 = urllib2.quote(s.encode('utf-8'), ':/&=?')
+    infile = opener.open(s2)
+    page = infile.read()
 
+    pagexml = etree.XML(page)
+    try:
+        text = pagexml.xpath('/api/expandtemplates/text()')[0]
+        return text
+    except IndexError:
+        print >> sys.stderr, "Couldn't expand template", title
+        return None
+
+
+
+def titleToFilename(title):
+    return title.replace(' ', '_').replace('.', '').replace('/', '_')
+
+class Season:
+    def __init__(self, season, numteams):
+        self.season = season
+        self.numteams = numteams
 
 def fetchLeagueData():
     leaguelist = [u'Premier_League', u'Fußball-Bundesliga', u'Norwegian_Premier_League', u'Scottish_Premier_League']
@@ -264,24 +290,28 @@ def fetchLeagueData():
         for l in leagues:
             rvtext = getPage(l)
             if rvtext:
-                s, relegationleagues = getLeagueData(rvtext)
-                if s:
-                    seasons.add(s)
-                if relegationleagues:
-                    newleagues.update(relegationleagues)
-                    print 'Added %d new league(s).' % len(relegationleagues)
+                s, relegationleagues, numteams = getLeagueData(rvtext)
+                if s and numteams:
+                    seasons.add(Season(s, numteams))
+                    if relegationleagues:
+                        newleagues.update(relegationleagues)
+                        print 'Added %d new league(s).' % len(relegationleagues)
+                    else:
+                        print 'No new leagues.'
                 else:
-                    print 'No new leagues.'
+                    print 'Failed.'
         processedleagues |= leagues
         leagues = newleagues - processedleagues
 
         for s in seasons:
-            rvtext = getPage(s)
-            handleLeague(rvtext, leaguedata)
+            rvtext = getPage(s.season, True)
+            handleSeason(rvtext, s.numteams, leaguedata)
 
 def getLeagueData(rvtext):
     season = None
     relegationleagues = None
+    numteams = None
+
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
         if not season and lineWithoutSpaces.startswith("|current="):
@@ -295,21 +325,31 @@ def getLeagueData(rvtext):
             candidates = [unlinkify(x.strip())[1] for x in v.split('<br />')]
             relegationleagues = [c for c in candidates if c]
 
-    return season, relegationleagues
+        if not numteams and lineWithoutSpaces.startswith('|teams='):
+            k, v = getKeyValue(line)
+            name, link = unlinkify(v)
+            try:
+                numteams = int(name)
+            except ValueError:
+                # TODO: parse fail here due to one league split across multiple levels
+                pass
 
-def handleLeague(rvtext, leaguedata):
-    teams = []
+    return season, relegationleagues, numteams
 
-    competition = None
+def sanitiseTeamTemplate(text):
+    if text.startswith('{{') and text.endswith('}}'):
+        return expandTemplate(text)
+    else:
+        return text
+
+def handleSeason(rvtext, numteams, leaguedata):
+    teams = None
 
     tableStatus = 0
     teamColumn = -1
     thisColumn = -1
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
-        if not competition and lineWithoutSpaces.startswith("|competition="):
-            k, v = getKeyValue(line)
-            competition, competitionlink = unlinkify(v)
 
         ls = line.strip()
         # print "Table status", tableStatus, "line", ls
@@ -334,23 +374,58 @@ def handleLeague(rvtext, leaguedata):
                 tableStatus = 2
                 thisColumn = -1
             elif ls and ls[0] == '|':
-                thisColumn += 1
-                if thisColumn == teamColumn:
-                    teamName = ls.strip('|')
-                    thisteams.append(teamName)
+                columns = ls.split('||')
+                if len(columns) == 1:
+                    ''' Columns divided by line. It looks like this (e.g. Premier League):
+                    {| class="wikitable sortable"
+                    ! Team
+                    ! Location
+                    ! Stadium
+                    |-
+                    | [[Arsenal]]
+                    | [[London]]
+                    | [[Emirates Stadium]]
+                    |-
+                    ...
+                    |}
+                    '''
+                    thisColumn += 1
+                    if thisColumn == teamColumn:
+                        teamName = ls.strip('|')
+                        thisteams.append(teamName)
+                        tableStatus = 2
+                        thisColumn = -1
+                else:
+                    ''' Columns on one line. It looks like this (e.g. Football_League_Championship):
+                    {| class="wikitable sortable"
+                    ! Team
+                    ! Location
+                    ! Stadium
+                    |-
+                    | {{ fb team Barnsley }} || [[Barnsley]] || [[Oakwell]]
+                    |-
+                    ...
+                    |}
+                    '''
+                    columns = [x.strip() for x in ls[1:].split('||')]
+                    if len(columns) >= teamColumn:
+                        # thisteams.append(sanitiseTeamTemplate(columns[teamColumn]))
+                        thisteams.append(columns[teamColumn])
                     tableStatus = 2
-                    thisColumn = -1
 
         if (tableStatus == 2 or tableStatus == 3) and ls[0:2] == '|}':
             tableStatus = 0
-            if len(thisteams) > len(teams):
+            if len(thisteams) == numteams:
                 teams = thisteams
+                break
 
-    print len(teams), 'teams found.'
-
-    for t in teams:
-        name, link = unlinkify(t)
-        if link:
-            fetchTeamData(link)
+    if teams:
+        print len(teams), 'teams found.'
+        for t in teams:
+            name, link = unlinkify(t)
+            if link:
+                fetchTeamData(link)
+    else:
+        print "Failed finding teams."
 
 fetchLeagueData()
