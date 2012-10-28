@@ -576,6 +576,8 @@ def fetchLeagueData(specificLeague):
         else:
             del Globals.progress.leagues[leaguetitle]
 
+        save()
+
         if specificLeague:
             return
 
