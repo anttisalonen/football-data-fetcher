@@ -299,7 +299,7 @@ def fetchTeamData(team):
 
         kitresults = kitinfo_re.findall(line)
         for kitresult in kitresults:
-            columns = [x.strip() for x in line.split('|') if 'body' in x]
+            columns = [x.strip() for x in line.split('|') if 'body' in x or 'shorts' in x or 'socks' in x or 'pattern_b' in x]
             # apparently, n may be more than 1 if more than one kit part is on a line
             for c in columns:
                 try:
