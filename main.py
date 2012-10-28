@@ -569,6 +569,8 @@ def fetchLeagueData(specificLeague):
                     print 'Failed - no season text.'
             else:
                 print 'Failed.'
+        else:
+            print 'No revision text for league.'
 
         Globals.didSomething = True
         if leaguedata:
