@@ -571,7 +571,10 @@ def fetchLeagueData(specificLeague):
                 print 'Failed.'
 
         Globals.didSomething = True
-        Globals.progress.leagueProcessed(leaguedata, numCompleteTeams, numPartialTeams, numFollowingLeagues)
+        if leaguedata:
+            Globals.progress.leagueProcessed(leaguedata, numCompleteTeams, numPartialTeams, numFollowingLeagues)
+        else:
+            del Globals.progress.leagues[leaguetitle]
 
         if specificLeague:
             return
