@@ -293,10 +293,9 @@ def fetchTeamData(team):
         if lineWithoutSpaces.startswith("|position="):
             # this seems to usually be either this or last season's position
             # TODO: Problems arise when a team was promoted or relegated
-            k, v = getKeyValue(removeAngleBrackets_re.sub('', line))
-            pos = re.findall(r'\d+', v)
-            if len(pos) == 1:
-                teamposition = int(pos[0])
+            tp = getNumberKeyValue(line)
+            if tp:
+                teamposition = tp
 
         kitresults = kitinfo_re.findall(line)
         for kitresult in kitresults:
@@ -357,8 +356,9 @@ def getPage(title, expandTemplates = False):
         print >> Globals.errlog, "Couldn't find wikitext for", title.encode('utf-8')
         return None
 
-    with open(Globals.outputdir + titleToFilename(title) + '.txt', 'w') as f:
-        f.write(rvtext.encode('utf-8'))
+    if Globals.dumpTextFiles:
+        with open(Globals.outputdir + titleToFilename(title) + '.txt', 'w') as f:
+            f.write(rvtext.encode('utf-8'))
 
     return rvtext
 
@@ -479,7 +479,8 @@ class Progress:
         return s
 
 def getTopLeagues():
-    templates = ['UEFA_leagues', 'CONMEBOL_leagues']
+    templates = ['UEFA_leagues', 'CONMEBOL_leagues', 'CONCACAF_leagues', 
+            'CAF_leagues', 'AFC_leagues', 'OFC_leagues']
     leagues = dict()
     for t in templates:
         text = getPage('Template:' + t)
@@ -492,14 +493,15 @@ def getTopLeagues():
                     state = 1
 
                 elif state == 1:
-                    if lineWithoutSpaces[0] == '|' or lineWithoutSpaces[0] == '}':
-                        break
-                    if lineWithoutSpaces[0] == '*':
-                        v = line.strip('*').strip()
-                        name, link = unlinkify(v)
-                        if link:
-                            leagues[link] = name
-                            print 'Found', name
+                    if lineWithoutSpaces:
+                        if (lineWithoutSpaces[0] == '|' or lineWithoutSpaces[0] == '}'):
+                            break
+                        if lineWithoutSpaces[0] == '*':
+                            v = line.strip('*').strip()
+                            name, link = unlinkify(v)
+                            if link:
+                                leagues[link] = name
+                                print 'Found', name
     return leagues
 
 def fetchLeagueData(specificLeague):
@@ -574,6 +576,14 @@ def fetchLeagueData(specificLeague):
         if specificLeague:
             return
 
+def getNumberKeyValue(line):
+    k, v = getKeyValue(removeAngleBrackets_re.sub('', line))
+    pos = re.findall(r'\d+', v)
+    if len(pos) == 1:
+        return int(pos[0])
+    else:
+        return None
+
 def getLeagueData(leaguetitle, promotionleague, rvtext):
     season = None
     relegationleagues = dict()
@@ -588,8 +598,9 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
             season = competitionlink
 
         if not levelnum and (lineWithoutSpaces.startswith("|levels=") or lineWithoutSpaces.startswith("|level=")):
-            k, v = getKeyValue(line)
-            levelnum = int(unlinkify(v)[0])
+            tp = getNumberKeyValue(line)
+            if tp:
+                levelnum = tp
 
         # TODO: handle infobox football like in Fußball-Regionalliga_Nord
         if len(relegationleagues) == 0 and lineWithoutSpaces.startswith("|relegation="):
@@ -729,6 +740,7 @@ class Globals:
     errlog = open(datadir + 'error.log', 'a')
     progpath = datadir + 'progress.json'
     didSomething = False
+    dumpTextFiles = False
 
 def usage():
     print 'Usage: %s [--help] [league to fetch]' % sys.argv[0]
@@ -740,7 +752,8 @@ def main():
             usage()
             sys.exit(0)
         else:
-            specificLeague = sys.argv[1]
+            specificLeague = sys.argv[1].decode('utf-8')
+            Globals.dumpTextFiles = True
     try:
         fetchLeagueData(specificLeague)
     except:
