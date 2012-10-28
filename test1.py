@@ -8,6 +8,8 @@ import sys
 import os, errno
 import json
 
+import cPickle as pickle
+
 def getAppDataDir(appname):
     # http://stackoverflow.com/questions/1084697/how-do-i-store-desktop-application-data-in-a-cross-platform-way-for-python
     if sys.platform == 'darwin':
@@ -42,9 +44,9 @@ opener = urllib2.build_opener()
 opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 
 class Team:
-    def __init__(self, name, link):
+    def __init__(self, name, title):
         self.name = name
-        self.link = link
+        self.title = title
 
 
 def stripFormatting(s):
@@ -73,7 +75,7 @@ def getKeyValue(line):
         vals = [s.strip() for s in line.split('=')]
         return vals[0], vals[1]
     except:
-        print >> errlog, 'Error getting key-value pair from "%s"' % line
+        print >> Globals.errlog, 'Error getting key-value pair from "%s"' % line
         raise
 
 def getColorValue(string):
@@ -98,7 +100,7 @@ def getColorValue(string):
     try:
         return Color(int(r, 16), int(g, 16), int(b, 16))
     except ValueError:
-        print >> errlog, 'Unknown color "%s"' % string
+        print >> Globals.errlog, 'Unknown color "%s"' % string
         return Color()
 
 class Color:
@@ -150,7 +152,7 @@ def getHeading(line):
 
 def fetchPlayer(line):
     def playerError(msg):
-        print >> errlog, "Player %s: %s" % (line.encode('utf-8'), msg.encode('utf-8'))
+        print >> Globals.errlog, "Player %s: %s" % (line.encode('utf-8'), msg.encode('utf-8'))
 
     lineWithoutSpaces = ''.join(line.split())
     ll = line.lower()
@@ -226,6 +228,34 @@ def fetchPlayers(text):
 
     return players
 
+class Team:
+    def __init__(self, name, kits, pos, players):
+        self.name = name
+        self.kits = kits
+        self.pos = pos
+        self.players = players
+
+    def toXML(self):
+        teamelem = etree.Element('Team')
+        teamelem.set('name', self.name)
+        if self.pos:
+            teamelem.set('position', str(self.pos))
+        for k in self.kits:
+            kitelem = etree.SubElement(teamelem, 'Kit')
+            kitelem.set('type', str(k.bodytype))
+            addColorElement(kitelem, 'Body', k.bodycolor)
+            addColorElement(kitelem, 'Body2', k.bodycolor2)
+            addColorElement(kitelem, 'Shorts', k.shortscolor)
+            addColorElement(kitelem, 'Socks', k.sockscolor)
+        for p in self.players:
+            playerelem = etree.SubElement(teamelem, 'Player')
+            playerelem.set('name', p.name)
+            playerelem.set('number', str(p.number))
+            playerelem.set('pos', p.pos)
+            playerelem.set('nationality', p.nationality)
+
+        return teamelem
+
 def fetchTeamData(team):
     rvtext = getPage(team)
     if not rvtext:
@@ -239,7 +269,7 @@ def fetchTeamData(team):
     lookForSquadTemplate = False
 
     def teamError(msg):
-        print >> errlog, "Team %s: %s" % (team.encode('utf-8'), msg.encode('utf-8'))
+        print >> Globals.errlog, "Team %s: %s" % (team.encode('utf-8'), msg.encode('utf-8'))
 
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
@@ -311,32 +341,9 @@ def fetchTeamData(team):
     if not teamposition:
         teamposition = 0
 
-    root = etree.Element("root")
-
-    teamelem = etree.SubElement(root, 'Team')
-    teamelem.set('name', team)
-    if teamposition:
-        teamelem.set('position', str(teamposition))
-    for k in kit:
-        kitelem = etree.SubElement(teamelem, 'Kit')
-        kitelem.set('type', str(k.bodytype))
-        addColorElement(kitelem, 'Body', k.bodycolor)
-        addColorElement(kitelem, 'Body2', k.bodycolor2)
-        addColorElement(kitelem, 'Shorts', k.shortscolor)
-        addColorElement(kitelem, 'Socks', k.sockscolor)
-    for p in players:
-        playerelem = etree.SubElement(teamelem, 'Player')
-        playerelem.set('name', p.name)
-        playerelem.set('number', str(p.number))
-        playerelem.set('pos', p.pos)
-        playerelem.set('nationality', p.nationality)
-
-    with open(outputdir + titleToFilename(team) + '.xml', 'w') as f:
-        f.write(etree.tostring(root, pretty_print=True))
-
     print 'done (kit %s, position %d, %d players)' % (kit[0].bodycolor, teamposition, len(players))
 
-    return len(players)
+    return Team(team, kit, teamposition, players)
 
 def getPage(title, expandTemplates = False):
     title = title.replace(' ', '_')
@@ -353,10 +360,10 @@ def getPage(title, expandTemplates = False):
     try:
         rvtext = pagexml.xpath('/api/query/pages/page/revisions/rev/text()')[0]
     except IndexError:
-        print >> errlog, "Couldn't find wikitext for", title.encode('utf-8')
+        print >> Globals.errlog, "Couldn't find wikitext for", title.encode('utf-8')
         return None
 
-    with open(outputdir + titleToFilename(title) + '.txt', 'w') as f:
+    with open(Globals.outputdir + titleToFilename(title) + '.txt', 'w') as f:
         f.write(rvtext.encode('utf-8'))
 
     return rvtext
@@ -372,7 +379,7 @@ def expandTemplate(text):
         text = pagexml.xpath('/api/expandtemplates/text()')[0]
         return text
     except IndexError:
-        print >> errlog, "Couldn't expand template", title
+        print >> Globals.errlog, "Couldn't expand template", title
         return None
 
 
@@ -380,35 +387,47 @@ def expandTemplate(text):
 def titleToFilename(title):
     return title.replace(' ', '_').replace('.', '').replace('/', '_')
 
-class Season:
-    def __init__(self, season, numteams):
+class LeagueData:
+    def __init__(self, title, season, relegationleagues, promotionleague, numteams):
+        self.title = title
         self.season = season
+        self.relegationleagues = relegationleagues
         self.numteams = numteams
+        self.promotionleague = promotionleague
+
+class ProcessedLeague:
+    def __init__(self, leaguedata, numCompleteTeams, numPartialTeams, numFollowingLeagues):
+        self.leaguedata = leaguedata
+        self.numCompleteTeams = numCompleteTeams
+        self.numPartialTeams = numPartialTeams
+        self.numFollowingLeagues = numFollowingLeagues
 
 class Progress:
     def __init__(self):
-        self.leagues = set()
+        self.leagues = dict()
         self.processedleagues = dict()
 
     def leagueProcessed(self, l, numCompleteTeams, numPartialTeams, numFollowingLeagues):
-        self.processedleagues[l] = (numCompleteTeams, numPartialTeams, numFollowingLeagues)
-        self.leagues.remove(l)
+        self.processedleagues[l.title] = ProcessedLeague(l, numCompleteTeams, numPartialTeams, numFollowingLeagues)
+        del self.leagues[l.title]
 
     def __str__(self):
         s = 'Progress: %d leagues in the queue, %d processed\n' % (len(self.leagues), len(self.processedleagues))
-        s += '%50s    %10s %10s %10s\n' % ('League', 'complete', 'partial', 'following')
-        for l, stats in sorted(self.processedleagues.items()):
-            s += '%50s => %10d %10d %10d\n' % (l.encode('utf-8'), stats[0], stats[1], stats[2])
+        if self.processedleagues:
+            s += '%50s    %10s %10s %10s %10s\n' % ('League', 'total', 'complete', 'partial', 'following')
+            for l, data in sorted(self.processedleagues.items()):
+                s += '%50s => %10d %10d %10d %10d\n' % (data.leaguedata.title.encode('utf-8'),
+                        data.leaguedata.numteams, data.numCompleteTeams, data.numPartialTeams, data.numFollowingLeagues)
 
         if self.leagues:
             s += 'Leagues in queue:\n'
-            for l in self.leagues:
+            for l in self.leagues.keys():
                 s += l.encode('utf-8') + '\n'
         return s
 
 def getTopLeagues():
     templates = ['UEFA_leagues', 'CONMEBOL_leagues']
-    leagues = set()
+    leagues = dict()
     for t in templates:
         text = getPage('Template:' + t)
         if text:
@@ -426,55 +445,57 @@ def getTopLeagues():
                         v = line.strip('*').strip()
                         name, link = unlinkify(v)
                         if link:
-                            leagues.add(link)
+                            leagues[link] = name
                             print 'Found', name
     return leagues
 
-def fetchLeagueData(progpath, progress):
+def fetchLeagueData():
     didSomething = False
     try:
-        with open(progpath, 'r') as f:
-            d = f.read()
-            leaguelist, processedleagues = json.loads(d)
-            progress.leagues = set(leaguelist)
-            progress.processedleagues = processedleagues
-            progress.leagues -= set(progress.processedleagues)
-            print progress
+        load()
+        print Globals.progress
     except IOError as exc:
         if exc.errno == errno.ENOENT:
             print 'No previous progress - starting from the top.'
-            progress.leagues = getTopLeagues()
-            progress.processedleagues = dict()
+            Globals.progress.leagues = getTopLeagues()
+            Globals.progress.processedleagues = dict()
+            save()
         else:
             raise
 
-    if len(progress.processedleagues) == 0:
+    if len(Globals.progress.processedleagues) == 0 and len(Globals.progress.leagues) == 0:
         print 'No progress - starting from the top.'
-        progress.leagues = getTopLeagues()
-        progress.processedleagues = dict()
+        Globals.progress.leagues = getTopLeagues()
+        Globals.progress.processedleagues = dict()
+        save()
 
-    leaguedata = []
-
-    while len(progress.leagues) > 0:
-        l = iter(progress.leagues).next()
+    while len(Globals.progress.leagues) > 0:
+        leaguetitle = iter(Globals.progress.leagues).next()
         numCompleteTeams = 0
         numPartialTeams = 0
         numFollowingLeagues = 0
 
-        rvtext = getPage(l)
+        promotionleague = None
+        for processedleaguename, processedleague in Globals.progress.processedleagues.items():
+            if processedleague.leaguedata.relegationleagues and leaguetitle in processedleague.leaguedata.relegationleagues:
+                promotionleague = processedleaguename
+                break
+
+        leaguedata = None
+        rvtext = getPage(leaguetitle)
         if rvtext:
-            s, relegationleagues, numteams = getLeagueData(rvtext)
-            if s and numteams:
+            leaguedata = getLeagueData(leaguetitle, promotionleague, rvtext)
+            if leaguedata.season and leaguedata.numteams:
                 print 'proceed to current season.'
-                stext = getPage(s, True)
+                stext = getPage(leaguedata.season, True)
                 if stext:
-                    numCompleteTeams, numPartialTeams = handleSeason(stext, numteams, leaguedata)
-                    if relegationleagues:
-                        relegationleagues = set(relegationleagues)
-                        relegationleagues -= set(progress.processedleagues)
-                        relegationleagues.discard(l)
-                        progress.leagues |= relegationleagues
-                        numFollowingLeagues = len(relegationleagues)
+                    numCompleteTeams, numPartialTeams = handleSeason(stext, leaguedata)
+                    if leaguedata.relegationleagues:
+                        numFollowingLeagues = 0
+                        for rln, rll in leaguedata.relegationleagues.items():
+                            if rln not in Globals.progress.leagues:
+                                Globals.progress.leagues[rll] = rln
+                                numFollowingLeagues += 1
                         print 'Added %d new league(s).' % numFollowingLeagues
                 else:
                     print 'Failed - no season text.'
@@ -482,14 +503,14 @@ def fetchLeagueData(progpath, progress):
                 print 'Failed.'
 
         didSomething = True
-        progress.leagueProcessed(l, numCompleteTeams, numPartialTeams, numFollowingLeagues)
+        Globals.progress.leagueProcessed(leaguedata, numCompleteTeams, numPartialTeams, numFollowingLeagues)
 
     return didSomething
 
-def getLeagueData(rvtext):
+def getLeagueData(leaguetitle, promotionleague, rvtext):
     season = None
-    relegationleagues = None
-    numteams = None
+    relegationleagues = dict()
+    numteams = 0
 
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
@@ -499,10 +520,12 @@ def getLeagueData(rvtext):
             season = competitionlink
 
         # TODO: handle infobox football like in Fußball-Regionalliga_Nord
-        if not relegationleagues and lineWithoutSpaces.startswith("|relegation="):
+        if len(relegationleagues) == 0 and lineWithoutSpaces.startswith("|relegation="):
             k, v = getKeyValue(line)
-            candidates = [unlinkify(x.strip())[1] for x in v.split('<br />')]
-            relegationleagues = [c for c in candidates if c]
+            candidates = [unlinkify(x.strip()) for x in v.split('<br />')]
+            for cn, cl in candidates:
+                if cl:
+                    relegationleagues[cn if cn else cl] = cl
 
         if not numteams and lineWithoutSpaces.startswith('|teams='):
             k, v = getKeyValue(line)
@@ -513,7 +536,7 @@ def getLeagueData(rvtext):
                 # TODO: parse fail here due to one league split across multiple levels
                 pass
 
-    return season, relegationleagues, numteams
+    return LeagueData(leaguetitle, season, relegationleagues, promotionleague, numteams)
 
 def getTemplate(text):
     l = text.strip()
@@ -524,12 +547,14 @@ def getTemplate(text):
     else:
         return None
 
-def handleSeason(rvtext, numteams, leaguedata):
+def handleSeason(rvtext, leaguedata):
     teams = None
 
     tableStatus = 0
     teamColumn = -1
     thisColumn = -1
+    haveTeams = False
+
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
 
@@ -555,7 +580,7 @@ def handleSeason(rvtext, numteams, leaguedata):
             if ls[0:2] == '|-':
                 tableStatus = 2
                 thisColumn = -1
-            elif ls and ls[0] == '|':
+            elif ls and ls[0] == '|' and ls[1] != '}':
                 columns = ls.split('||')
                 if len(columns) == 1:
                     ''' Columns divided by line. It looks like this (e.g. Premier League):
@@ -596,7 +621,7 @@ def handleSeason(rvtext, numteams, leaguedata):
 
         if (tableStatus == 2 or tableStatus == 3) and ls[0:2] == '|}':
             tableStatus = 0
-            if len(thisteams) == numteams:
+            if len(thisteams) == leaguedata.numteams:
                 teams = thisteams
                 break
 
@@ -605,52 +630,64 @@ def handleSeason(rvtext, numteams, leaguedata):
 
     if teams:
         print len(teams), 'teams found.'
+        root = etree.Element("League")
+        root.set('title', leaguedata.title)
         for t in teams:
             name, link = unlinkify(t)
             if link:
-                numplayers = fetchTeamData(link)
-                if numplayers is not None and numplayers > 0:
+                td = fetchTeamData(link)
+                if td and len(td.players) > 0:
                     numCompleteTeams += 1
-                else:
-                    numPartialTeams += 1
+                    teamelem = td.toXML()
+                    root.append(teamelem)
+        numPartialTeams = len(teams) - numCompleteTeams
+        with open(Globals.outputdir + leaguedata.title + '.xml', 'w') as f:
+            f.write(etree.tostring(root, pretty_print=True))
     else:
         print "Failed finding teams."
 
     return numCompleteTeams, numPartialTeams
 
-appname = "football_data_fetcher"
-datadir = getAppDataDir(appname) + '/'
-progress = Progress()
-outputdir = datadir + 'output/'
-mkdir_p(outputdir)
-errlog = open(datadir + 'error.log', 'a')
+class Globals:
+    appname = "football_data_fetcher"
+    datadir = getAppDataDir(appname) + '/'
+    progress = Progress()
+    outputdir = datadir + 'output/'
+    mkdir_p(outputdir)
+    errlog = open(datadir + 'error.log', 'a')
+    progpath = datadir + 'progress.json'
 
 def main():
-    progpath = datadir + 'progress.json'
     didSomething = False
     try:
-        didSomething = fetchLeagueData(progpath, progress)
+        didSomething = fetchLeagueData()
     except:
         # http://www.doughellmann.com/articles/how-tos/python-exception-handling/index.html
         try:
             raise
         finally:
             try:
-                cleanup(progpath, progress)
+                cleanup()
             except Exception, e:
                 print >> sys.stderr, "Error: couldn't save progress:", str(e)
                 pass
     else:
         if didSomething:
             print 'Success!'
-            cleanup(progpath, progress)
+            cleanup()
 
-def cleanup(progpath, progress):
-    print progress
-    d = json.dumps((list(progress.leagues), progress.processedleagues))
-    with open(progpath, 'w') as f:
-        f.write(d)
-    errlog.close()
+def save():
+    with open(Globals.progpath, 'w') as f:
+        pickle.dump(Globals.progress, f)
+
+def load():
+    with open(Globals.progpath, 'r') as f:
+        Globals.progress = pickle.load(f)
+
+def cleanup():
+    print Globals.progress
+    save()
+    Globals.errlog.close()
 
 if __name__ == '__main__':
     main()
