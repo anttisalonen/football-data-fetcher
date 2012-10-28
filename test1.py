@@ -70,19 +70,36 @@ def unlinkify(origstr):
 
 def getKeyValue(line):
     try:
-        [k, v] = [s.strip() for s in line.split('=')]
-        return k, v
+        vals = [s.strip() for s in line.split('=')]
+        return vals[0], vals[1]
     except:
         print >> errlog, 'Error getting key-value pair from "%s"' % line
         raise
 
 def getColorValue(string):
+    if string == 'yellow':
+        return Color(255, 255, 0)
+    elif string == 'red':
+        return Color(255, 0, 0)
+    elif string == 'blue':
+        return Color(0, 0, 255)
+    elif string == 'green':
+        return Color(0, 255, 0)
+    elif string == 'black':
+        return Color(0, 0, 0)
+    elif string == 'white':
+        return Color(255, 255, 255)
+
     if len(string) != 6:
         return Color()
     r = string[0:2]
     g = string[2:4]
     b = string[4:6]
-    return Color(int(r, 16), int(g, 16), int(b, 16))
+    try:
+        return Color(int(r, 16), int(g, 16), int(b, 16))
+    except ValueError:
+        print >> errlog, 'Unknown color "%s"' % string
+        return Color()
 
 class Color:
     def __init__(self, r = 0, g = 0, b = 0):
@@ -126,6 +143,7 @@ def addColorElement(parent, name, color):
 def fetchTeamData(team):
     rvtext = getPage(team)
     if not rvtext:
+        print 'No revision text.'
         return
 
     players = []
@@ -199,21 +217,29 @@ def fetchTeamData(team):
         kitresults = kitinfo_re.findall(line)
         for kitresult in kitresults:
             columns = [x.strip() for x in line.split('|') if 'body' in x]
+            # apparently, n may be more than 1 if more than one kit part is on a line
             for c in columns:
-                k, v = getKeyValue(c)
+                try:
+                    k, v = getKeyValue(c)
+                except:
+                    continue
+
                 if k.startswith('body'):
                     k = k[4:]
                     n = int(k[0]) - 1
-                    kit[n].bodycolor = getColorValue(v)
-                if k.startswith('shorts'):
+                    if n == 0 or n == 1:
+                        kit[n].bodycolor = getColorValue(v)
+                elif k.startswith('shorts'):
                     k = k[6:]
                     n = int(k[0]) - 1
-                    kit[n].shortscolor = getColorValue(v)
-                if k.startswith('socks'):
+                    if n == 0 or n == 1:
+                        kit[n].shortscolor = getColorValue(v)
+                elif k.startswith('socks'):
                     k = k[5:]
                     n = int(k[0]) - 1
-                    kit[n].sockscolor = getColorValue(v)
-                if k.startswith('pattern_b'):
+                    if n == 0 or n == 1:
+                        kit[n].sockscolor = getColorValue(v)
+                elif k.startswith('pattern_b'):
                     k = k[9:]
                     n = int(k[0]) - 1
                     # TODO: body type, second color
@@ -265,7 +291,7 @@ def getPage(title, expandTemplates = False):
     try:
         rvtext = pagexml.xpath('/api/query/pages/page/revisions/rev/text()')[0]
     except IndexError:
-        print >> errlog, "Couldn't find wikitext for", title
+        print >> errlog, "Couldn't find wikitext for", title.encode('utf-8')
         return None
 
     with open(outputdir + titleToFilename(title) + '.txt', 'w') as f:
@@ -305,6 +331,30 @@ class Progress:
     def __str__(self):
         return 'Progress: %d leagues in the queue, %d processed' % (len(self.leagues), len(self.processedleagues))
 
+def getTopLeagues():
+    templates = ['UEFA_leagues', 'CONMEBOL_leagues']
+    leagues = set()
+    for t in templates:
+        text = getPage('Template:' + t)
+        if text:
+            print 'done.'
+            state = 0
+            for line in text.split('\n'):
+                lineWithoutSpaces = ''.join(line.split())
+                if state == 0 and lineWithoutSpaces == '|list1=':
+                    state = 1
+
+                elif state == 1:
+                    if lineWithoutSpaces[0] == '|' or lineWithoutSpaces[0] == '}':
+                        break
+                    if lineWithoutSpaces[0] == '*':
+                        v = line.strip('*').strip()
+                        name, link = unlinkify(v)
+                        if link:
+                            leagues.add(link)
+                            print 'Found', name
+    return leagues
+
 def fetchLeagueData(progpath, progress):
     try:
         with open(progpath, 'r') as f:
@@ -317,10 +367,15 @@ def fetchLeagueData(progpath, progress):
     except IOError as exc:
         if exc.errno == errno.ENOENT:
             print 'No previous progress - starting from the top.'
-            progress.leagues = set([u'Premier_League', u'Fußball-Bundesliga', u'Norwegian_Premier_League', u'Scottish_Premier_League'])
+            progress.leagues = getTopLeagues()
             progress.processedleagues = set()
         else:
             raise
+
+    if len(progress.processedleagues) == 0:
+        print 'No progress - starting from the top.'
+        progress.leagues = getTopLeagues()
+        progress.processedleagues = set()
 
     leaguedata = []
 
@@ -333,13 +388,16 @@ def fetchLeagueData(progpath, progress):
             if s and numteams:
                 print 'proceed to current season.'
                 stext = getPage(s, True)
-                handleSeason(stext, numteams, leaguedata)
-                if relegationleagues:
-                    relegationleagues = set(relegationleagues)
-                    relegationleagues -= progress.processedleagues
-                    relegationleagues.discard(l)
-                    progress.leagues |= relegationleagues
-                    print 'Added %d new league(s).' % len(relegationleagues)
+                if stext:
+                    handleSeason(stext, numteams, leaguedata)
+                    if relegationleagues:
+                        relegationleagues = set(relegationleagues)
+                        relegationleagues -= progress.processedleagues
+                        relegationleagues.discard(l)
+                        progress.leagues |= relegationleagues
+                        print 'Added %d new league(s).' % len(relegationleagues)
+                else:
+                    print 'Failed - no season text.'
             else:
                 print 'Failed.'
 
@@ -447,8 +505,7 @@ def handleSeason(rvtext, numteams, leaguedata):
                     |}
                     '''
                     columns = [x.strip() for x in ls[1:].split('||')]
-                    if len(columns) >= teamColumn:
-                        # thisteams.append(sanitiseTeamTemplate(columns[teamColumn]))
+                    if len(columns) > teamColumn:
                         thisteams.append(columns[teamColumn])
                     tableStatus = 2
 
