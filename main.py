@@ -309,21 +309,25 @@ def fetchTeamData(team):
 
                 if k.startswith('body'):
                     k = k[4:]
+                    if not k: continue
                     n = int(k[0]) - 1
                     if n == 0 or n == 1:
                         kit[n].bodycolor = getColorValue(v)
                 elif k.startswith('shorts'):
                     k = k[6:]
+                    if not k: continue
                     n = int(k[0]) - 1
                     if n == 0 or n == 1:
                         kit[n].shortscolor = getColorValue(v)
                 elif k.startswith('socks'):
                     k = k[5:]
+                    if not k: continue
                     n = int(k[0]) - 1
                     if n == 0 or n == 1:
                         kit[n].sockscolor = getColorValue(v)
                 elif k.startswith('pattern_b'):
                     k = k[9:]
+                    if not k: continue
                     n = int(k[0]) - 1
                     # TODO: body type, second color
 
