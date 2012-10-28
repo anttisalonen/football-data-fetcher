@@ -140,6 +140,92 @@ def addColorElement(parent, name, color):
     elem.set('g', str(color.g))
     elem.set('b', str(color.b))
 
+def getHeading(line):
+    s = line.strip()
+    if not s.startswith('==') or not s.endswith('=='):
+        return None
+    s = s.strip('==')
+    s = s.strip()
+    return s
+
+def fetchPlayer(line):
+    def playerError(msg):
+        print >> errlog, "Player %s: %s" % (line.encode('utf-8'), msg.encode('utf-8'))
+
+    lineWithoutSpaces = ''.join(line.split())
+    ll = line.lower()
+    if '{{fs player' in ll or \
+            '{{football squad player' in ll or \
+            '{{fs2 player' in ll:
+        unlinkedline = line
+        while True:
+            res = unlinker_re.match(unlinkedline)
+            if res:
+                groups = res.groups()
+                try:
+                    unlinkedline = groups[0] + groups[2] + groups[3]
+                except IndexError:
+                    playerError(u"Couldn't find groups at %s" % groups)
+                    break
+            else:
+                break
+
+        columns = [s.strip() for s in unlinkedline.replace('{', '').replace('}', '').split('|')]
+        number = None
+        nationality = None
+        pos = None
+        name = None
+        firstname = None
+        lastname = None
+        for column in columns:
+            if '=' in column:
+                try:
+                    k, v = getKeyValue(column)
+                except ValueError:
+                    playerError("Couldn't parse player information column: %s" % column)
+                    continue
+                if k == 'no':
+                    try:
+                        number = int(v)
+                    except (UnicodeEncodeError, ValueError):
+                        playerError('Unknown number')
+                elif k == 'nat':
+                    nationality = v
+                elif k == 'pos':
+                    pos = v
+                elif k == 'name':
+                    name = unlinkify(v)[0]
+                elif k == 'first':
+                    firstname = unlinkify(v)[0]
+                elif k == 'last':
+                    lastname = unlinkify(v)[0]
+
+        if not name and firstname and lastname:
+            name = firstname + ' ' + lastname
+
+        if not number:
+            number = 0
+
+        if nationality and pos and name:
+            return Player(name, number, pos, nationality)
+
+    return None
+
+def endOfPlayerList(line):
+    return '{{fs end}}' in line.lower() or '{[football squad end}}' in line.lower() or '{{football squad end2}}' in line.lower()
+
+def fetchPlayers(text):
+    players = []
+
+    for line in text.split('\n'):
+        p = fetchPlayer(line)
+        if p:
+            players.append(p)
+        elif endOfPlayerList(line):
+            break
+
+    return players
+
 def fetchTeamData(team):
     rvtext = getPage(team)
     if not rvtext:
@@ -150,62 +236,36 @@ def fetchTeamData(team):
     teamposition = None
     kit = [Kit(), Kit()]
     finishedReadingPlayers = False
+    lookForSquadTemplate = False
 
     def teamError(msg):
         print >> errlog, "Team %s: %s" % (team.encode('utf-8'), msg.encode('utf-8'))
 
     for line in rvtext.split('\n'):
-        if not finishedReadingPlayers and \
-            (('{{fs player' in line.lower() or '{{football squad player' in line.lower()) and line.strip()[-2:] == '}}'):
-            unlinkedline = line
-            while True:
-                res = unlinker_re.match(unlinkedline)
-                if res:
-                    groups = res.groups()
-                    try:
-                        unlinkedline = groups[0] + groups[2] + groups[3]
-                    except IndexError:
-                        teamError(u"Couldn't find groups at %s" % groups)
-                        break
-                else:
-                    break
+        lineWithoutSpaces = ''.join(line.split())
+        if not finishedReadingPlayers:
+            p = fetchPlayer(line)
+            if p:
+                players.append(p)
+            else:
+                heading = getHeading(line)
+                if heading:
+                    if 'current squad' in heading.lower() or ('first' in heading.lower() and 'squad' in heading.lower()):
+                        lookForSquadTemplate = True
+                    else:
+                        lookForSquadTemplate = False
+                elif lookForSquadTemplate:
+                    t = getTemplate(line)
+                    if t:
+                        text = getPage('Template:' + t)
+                        if text:
+                            players = fetchPlayers(text)
+                            if len(players) > 15:
+                                finishedReadingPlayers = True
 
-            columns = [s.strip() for s in unlinkedline.replace('{', '').replace('}', '').split('|')]
-            number = None
-            nationality = None
-            pos = None
-            name = None
-            for column in columns:
-                if '=' in column:
-                    try:
-                        k, v = getKeyValue(column)
-                    except ValueError:
-                        teamError("Couldn't parse player information column: %s" % column)
-                        continue
-                    if k == 'no':
-                        try:
-                            number = int(v)
-                        except (UnicodeEncodeError, ValueError):
-                            teamError('Unknown number')
-                    elif k == 'nat':
-                        nationality = v
-                    elif k == 'pos':
-                        pos = v
-                    elif k == 'name':
-                        name = unlinkify(v)[0]
-
-            if not number:
-                number = 0
-
-            if nationality and pos and name:
-                player = Player(name, number, pos, nationality)
-                players.append(player)
-
-        if '{{fs end}}' in line.lower() or '{[football squad end}}' in line.lower() or '{{football squad end2}}' in line.lower():
-            # end of player list
+        elif endOfPlayerList(line):
             finishedReadingPlayers = True
 
-        lineWithoutSpaces = ''.join(line.split())
         if lineWithoutSpaces.startswith("|position="):
             # this seems to usually be either this or last season's position
             # TODO: Problems arise when a team was promoted or relegated
@@ -433,11 +493,14 @@ def getLeagueData(rvtext):
 
     return season, relegationleagues, numteams
 
-def sanitiseTeamTemplate(text):
-    if text.startswith('{{') and text.endswith('}}'):
-        return expandTemplate(text)
+def getTemplate(text):
+    l = text.strip()
+    if l.startswith('{{') and l.endswith('}}'):
+        l = l.strip('{{').strip('}}')
+        if '|' in l:
+            return l.split('|')[0]
     else:
-        return text
+        return None
 
 def handleSeason(rvtext, numteams, leaguedata):
     teams = None
