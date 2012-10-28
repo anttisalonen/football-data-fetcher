@@ -43,12 +43,6 @@ def mkdir_p(path):
 opener = urllib2.build_opener()
 opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 
-class Team:
-    def __init__(self, name, title):
-        self.name = name
-        self.title = title
-
-
 def stripFormatting(s):
     s2 = s.split('[[')
     if len(s2) > 1:
@@ -293,7 +287,7 @@ def fetchTeamData(team):
                             if len(players) > 15:
                                 finishedReadingPlayers = True
 
-        elif endOfPlayerList(line):
+        if endOfPlayerList(line):
             finishedReadingPlayers = True
 
         if lineWithoutSpaces.startswith("|position="):
@@ -388,12 +382,26 @@ def titleToFilename(title):
     return title.replace(' ', '_').replace('.', '').replace('/', '_')
 
 class LeagueData:
-    def __init__(self, title, season, relegationleagues, promotionleague, numteams):
+    def __init__(self, title, season, relegationleagues, promotionleague, numteams, levelnum):
         self.title = title
         self.season = season
         self.relegationleagues = relegationleagues
         self.numteams = numteams
         self.promotionleague = promotionleague
+        self.levelnum = levelnum
+
+    def __str__(self):
+        return unicode(self).encode('utf-8')
+
+    def __unicode__(self):
+        s =  u'LeagueData:\n'
+        s += u'\tTitle: %s\n' % self.title
+        s += u'\tSeason: %s\n' % self.season
+        s += u'\tRelegation leagues: %s\n' % self.relegationleagues
+        s += u'\tNumber of teams: %s\n' % self.numteams
+        s += u'\tPromotion league: %s\n' % self.promotionleague
+        s += u'\tLevel number: %s\n' % self.levelnum
+        return s
 
 class ProcessedLeague:
     def __init__(self, leaguedata, numCompleteTeams, numPartialTeams, numFollowingLeagues):
@@ -401,6 +409,13 @@ class ProcessedLeague:
         self.numCompleteTeams = numCompleteTeams
         self.numPartialTeams = numPartialTeams
         self.numFollowingLeagues = numFollowingLeagues
+
+    def __str__(self):
+        return unicode(self).encode('utf-8')
+
+    def __unicode__(self):
+        return u'ProcessedLeague with %d complete teams, %d partial teams, %d following leagues - LeagueData:\n%s' % \
+                (self.numCompleteTeams, self.numPartialTeams, self.numFollowingLeagues, self.leaguedata)
 
 class Progress:
     def __init__(self):
@@ -412,17 +427,55 @@ class Progress:
         del self.leagues[l.title]
 
     def __str__(self):
-        s = 'Progress: %d leagues in the queue, %d processed\n' % (len(self.leagues), len(self.processedleagues))
+        return unicode(self).encode('utf-8')
+
+    def __unicode__(self):
+        s = u''
+        for l, data in sorted(self.processedleagues.items()):
+            s += u'%s' % data
+        s += u'Progress: %d leagues in the queue, %d processed\n' % (len(self.leagues), len(self.processedleagues))
         if self.processedleagues:
-            s += '%50s    %10s %10s %10s %10s\n' % ('League', 'total', 'complete', 'partial', 'following')
+            s += u'%40s    %5s %5s %5s %5s %5s %5s %5s\n' % ('League', '1', '2', '3', '4', '5', '6', '7')
             for l, data in sorted(self.processedleagues.items()):
-                s += '%50s => %10d %10d %10d %10d\n' % (data.leaguedata.title.encode('utf-8'),
-                        data.leaguedata.numteams, data.numCompleteTeams, data.numPartialTeams, data.numFollowingLeagues)
+                if data.leaguedata.levelnum == 1:
+                    teaminfo = dict()
+                    teaminfo[1] = [(data.numCompleteTeams, data.leaguedata.numteams)]
+                    visitedDeps = set()
+                    openDeps = set(data.leaguedata.relegationleagues.keys())
+                    while True:
+                        if not openDeps:
+                            break
+                        dep = openDeps.pop()
+                        try:
+                            rel = self.processedleagues[dep]
+                        except KeyError:
+                            pass
+                        else:
+                            newDeps = set(rel.leaguedata.relegationleagues.keys())
+                            newDeps -= visitedDeps
+                            if newDeps:
+                                openDeps |= newDeps
+                            if rel.leaguedata.levelnum not in teaminfo:
+                                teaminfo[rel.leaguedata.levelnum] = [(rel.numCompleteTeams, rel.leaguedata.numteams)]
+                            else:
+                                teaminfo[rel.leaguedata.levelnum].append((rel.numCompleteTeams, rel.leaguedata.numteams))
+
+                    s += u'%40s => ' % data.leaguedata.title
+                    for i in xrange(1, 8):
+                        if i not in teaminfo:
+                            s += u'%5s ' % '-'
+                        else:
+                            if len(teaminfo[i]) == 1:
+                                stats = teaminfo[i][0]
+                                s += u'%2d/%2d ' % (stats[0], stats[1])
+                            else:
+                                s += u'%4dL ' % len(teaminfo[i])
+                    s += u'\n'
 
         if self.leagues:
-            s += 'Leagues in queue:\n'
-            for l in self.leagues.keys():
-                s += l.encode('utf-8') + '\n'
+            s += u'Leagues in queue:\n'
+            for t, n in sorted(self.leagues.items()):
+                s += u'%-40s %-40s\n' % (t, n)
         return s
 
 def getTopLeagues():
@@ -449,11 +502,9 @@ def getTopLeagues():
                             print 'Found', name
     return leagues
 
-def fetchLeagueData():
-    didSomething = False
+def fetchLeagueData(specificLeague):
     try:
         load()
-        print Globals.progress
     except IOError as exc:
         if exc.errno == errno.ENOENT:
             print 'No previous progress - starting from the top.'
@@ -470,7 +521,22 @@ def fetchLeagueData():
         save()
 
     while len(Globals.progress.leagues) > 0:
-        leaguetitle = iter(Globals.progress.leagues).next()
+        if specificLeague:
+            found = None
+            for k in Globals.progress.leagues.keys():
+                if k.startswith(specificLeague):
+                    found = k
+            if found:
+                leaguetitle = found
+            else:
+                print >> sys.stderr, "I don't have league '%s' queued. I just have these:\n\n" % specificLeague
+                for l in sorted(Globals.progress.leagues.keys()):
+                    print >> sys.stderr, '\t%s' % l
+                print >> sys.stderr, '\n'
+                return
+        else:
+            leaguetitle = iter(Globals.progress.leagues).next()
+
         numCompleteTeams = 0
         numPartialTeams = 0
         numFollowingLeagues = 0
@@ -485,7 +551,7 @@ def fetchLeagueData():
         rvtext = getPage(leaguetitle)
         if rvtext:
             leaguedata = getLeagueData(leaguetitle, promotionleague, rvtext)
-            if leaguedata.season and leaguedata.numteams:
+            if leaguedata.season and leaguedata.numteams and leaguedata.levelnum:
                 print 'proceed to current season.'
                 stext = getPage(leaguedata.season, True)
                 if stext:
@@ -502,15 +568,17 @@ def fetchLeagueData():
             else:
                 print 'Failed.'
 
-        didSomething = True
+        Globals.didSomething = True
         Globals.progress.leagueProcessed(leaguedata, numCompleteTeams, numPartialTeams, numFollowingLeagues)
 
-    return didSomething
+        if specificLeague:
+            return
 
 def getLeagueData(leaguetitle, promotionleague, rvtext):
     season = None
     relegationleagues = dict()
     numteams = 0
+    levelnum = 0
 
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
@@ -519,13 +587,17 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
             competition, competitionlink = unlinkify(v)
             season = competitionlink
 
+        if not levelnum and (lineWithoutSpaces.startswith("|levels=") or lineWithoutSpaces.startswith("|level=")):
+            k, v = getKeyValue(line)
+            levelnum = int(unlinkify(v)[0])
+
         # TODO: handle infobox football like in Fußball-Regionalliga_Nord
         if len(relegationleagues) == 0 and lineWithoutSpaces.startswith("|relegation="):
             k, v = getKeyValue(line)
             candidates = [unlinkify(x.strip()) for x in v.split('<br />')]
             for cn, cl in candidates:
                 if cl:
-                    relegationleagues[cn if cn else cl] = cl
+                    relegationleagues[cl] = cl
 
         if not numteams and lineWithoutSpaces.startswith('|teams='):
             k, v = getKeyValue(line)
@@ -536,7 +608,7 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
                 # TODO: parse fail here due to one league split across multiple levels
                 pass
 
-    return LeagueData(leaguetitle, season, relegationleagues, promotionleague, numteams)
+    return LeagueData(leaguetitle, season, relegationleagues, promotionleague, numteams, levelnum)
 
 def getTemplate(text):
     l = text.strip()
@@ -656,11 +728,21 @@ class Globals:
     mkdir_p(outputdir)
     errlog = open(datadir + 'error.log', 'a')
     progpath = datadir + 'progress.json'
+    didSomething = False
+
+def usage():
+    print 'Usage: %s [--help] [league to fetch]' % sys.argv[0]
 
 def main():
-    didSomething = False
+    specificLeague = None
+    if len(sys.argv) > 1:
+        if sys.argv[1] == '-h' or sys.argv[1] == '--help':
+            usage()
+            sys.exit(0)
+        else:
+            specificLeague = sys.argv[1]
     try:
-        didSomething = fetchLeagueData()
+        fetchLeagueData(specificLeague)
     except:
         # http://www.doughellmann.com/articles/how-tos/python-exception-handling/index.html
         try:
@@ -672,7 +754,7 @@ def main():
                 print >> sys.stderr, "Error: couldn't save progress:", str(e)
                 pass
     else:
-        if didSomething:
+        if Globals.didSomething:
             print 'Success!'
             cleanup()
 
@@ -686,7 +768,8 @@ def load():
 
 def cleanup():
     print Globals.progress
-    save()
+    if Globals.didSomething:
+        save()
     Globals.errlog.close()
 
 if __name__ == '__main__':
