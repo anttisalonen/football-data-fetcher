@@ -668,7 +668,7 @@ def handleSeason(rvtext, leaguedata):
             if ls[0:2] == '|-':
                 tableStatus = 2
                 thisColumn = -1
-            elif ls and ls[0] == '|' and ls[1] != '}':
+            elif len(ls) >= 2 and ls[0] == '|' and ls[1] != '}':
                 columns = ls.split('||')
                 if len(columns) == 1:
                     ''' Columns divided by line. It looks like this (e.g. Premier League):
