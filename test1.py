@@ -188,7 +188,7 @@ def fetchPlayer(line):
                     try:
                         number = int(v)
                     except (UnicodeEncodeError, ValueError):
-                        playerError('Unknown number')
+                        pass # usually dash as a player number
                 elif k == 'nat':
                     nationality = v
                 elif k == 'pos':
@@ -230,7 +230,7 @@ def fetchTeamData(team):
     rvtext = getPage(team)
     if not rvtext:
         print 'No revision text.'
-        return
+        return None
 
     players = []
     teamposition = None
@@ -306,7 +306,7 @@ def fetchTeamData(team):
 
     if len(players) < 15:
         print 'failed - %d players found.' % len(players)
-        return
+        return None
 
     if not teamposition:
         teamposition = 0
@@ -335,6 +335,8 @@ def fetchTeamData(team):
         f.write(etree.tostring(root, pretty_print=True))
 
     print 'done (kit %s, position %d, %d players)' % (kit[0].bodycolor, teamposition, len(players))
+
+    return len(players)
 
 def getPage(title, expandTemplates = False):
     title = title.replace(' ', '_')
@@ -386,10 +388,23 @@ class Season:
 class Progress:
     def __init__(self):
         self.leagues = set()
-        self.processedleagues = set()
+        self.processedleagues = dict()
+
+    def leagueProcessed(self, l, numCompleteTeams, numPartialTeams, numFollowingLeagues):
+        self.processedleagues[l] = (numCompleteTeams, numPartialTeams, numFollowingLeagues)
+        self.leagues.remove(l)
 
     def __str__(self):
-        return 'Progress: %d leagues in the queue, %d processed' % (len(self.leagues), len(self.processedleagues))
+        s = 'Progress: %d leagues in the queue, %d processed\n' % (len(self.leagues), len(self.processedleagues))
+        s += '%50s    %10s %10s %10s\n' % ('League', 'complete', 'partial', 'following')
+        for l, stats in sorted(self.processedleagues.items()):
+            s += '%50s => %10d %10d %10d\n' % (l.encode('utf-8'), stats[0], stats[1], stats[2])
+
+        if self.leagues:
+            s += 'Leagues in queue:\n'
+            for l in self.leagues:
+                s += l.encode('utf-8') + '\n'
+        return s
 
 def getTopLeagues():
     templates = ['UEFA_leagues', 'CONMEBOL_leagues']
@@ -416,31 +431,35 @@ def getTopLeagues():
     return leagues
 
 def fetchLeagueData(progpath, progress):
+    didSomething = False
     try:
         with open(progpath, 'r') as f:
             d = f.read()
-            leaguelist, processedleaguelist = json.loads(d)
+            leaguelist, processedleagues = json.loads(d)
             progress.leagues = set(leaguelist)
-            progress.processedleagues = set(processedleaguelist)
-            progress.leagues -= progress.processedleagues
+            progress.processedleagues = processedleagues
+            progress.leagues -= set(progress.processedleagues)
             print progress
     except IOError as exc:
         if exc.errno == errno.ENOENT:
             print 'No previous progress - starting from the top.'
             progress.leagues = getTopLeagues()
-            progress.processedleagues = set()
+            progress.processedleagues = dict()
         else:
             raise
 
     if len(progress.processedleagues) == 0:
         print 'No progress - starting from the top.'
         progress.leagues = getTopLeagues()
-        progress.processedleagues = set()
+        progress.processedleagues = dict()
 
     leaguedata = []
 
     while len(progress.leagues) > 0:
         l = iter(progress.leagues).next()
+        numCompleteTeams = 0
+        numPartialTeams = 0
+        numFollowingLeagues = 0
 
         rvtext = getPage(l)
         if rvtext:
@@ -449,20 +468,23 @@ def fetchLeagueData(progpath, progress):
                 print 'proceed to current season.'
                 stext = getPage(s, True)
                 if stext:
-                    handleSeason(stext, numteams, leaguedata)
+                    numCompleteTeams, numPartialTeams = handleSeason(stext, numteams, leaguedata)
                     if relegationleagues:
                         relegationleagues = set(relegationleagues)
-                        relegationleagues -= progress.processedleagues
+                        relegationleagues -= set(progress.processedleagues)
                         relegationleagues.discard(l)
                         progress.leagues |= relegationleagues
-                        print 'Added %d new league(s).' % len(relegationleagues)
+                        numFollowingLeagues = len(relegationleagues)
+                        print 'Added %d new league(s).' % numFollowingLeagues
                 else:
                     print 'Failed - no season text.'
             else:
                 print 'Failed.'
 
-        progress.processedleagues.add(l)
-        progress.leagues.remove(l)
+        didSomething = True
+        progress.leagueProcessed(l, numCompleteTeams, numPartialTeams, numFollowingLeagues)
+
+    return didSomething
 
 def getLeagueData(rvtext):
     season = None
@@ -578,14 +600,23 @@ def handleSeason(rvtext, numteams, leaguedata):
                 teams = thisteams
                 break
 
+    numPartialTeams = 0
+    numCompleteTeams = 0
+
     if teams:
         print len(teams), 'teams found.'
         for t in teams:
             name, link = unlinkify(t)
             if link:
-                fetchTeamData(link)
+                numplayers = fetchTeamData(link)
+                if numplayers is not None and numplayers > 0:
+                    numCompleteTeams += 1
+                else:
+                    numPartialTeams += 1
     else:
         print "Failed finding teams."
+
+    return numCompleteTeams, numPartialTeams
 
 appname = "football_data_fetcher"
 datadir = getAppDataDir(appname) + '/'
@@ -596,8 +627,9 @@ errlog = open(datadir + 'error.log', 'a')
 
 def main():
     progpath = datadir + 'progress.json'
+    didSomething = False
     try:
-        fetchLeagueData(progpath, progress)
+        didSomething = fetchLeagueData(progpath, progress)
     except:
         # http://www.doughellmann.com/articles/how-tos/python-exception-handling/index.html
         try:
@@ -609,12 +641,13 @@ def main():
                 print >> sys.stderr, "Error: couldn't save progress:", str(e)
                 pass
     else:
-        print 'Success!'
-        cleanup(progpath, progress)
+        if didSomething:
+            print 'Success!'
+            cleanup(progpath, progress)
 
 def cleanup(progpath, progress):
     print progress
-    d = json.dumps((list(progress.leagues), list(progress.processedleagues)))
+    d = json.dumps((list(progress.leagues), progress.processedleagues))
     with open(progpath, 'w') as f:
         f.write(d)
     errlog.close()
