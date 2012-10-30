@@ -148,7 +148,7 @@ def getSeasonTeams(rvtext, numteams):
 
         if (tableStatus == 2 or tableStatus == 3) and ls[0:2] == '|}':
             tableStatus = 0
-            if numteams > 0 and len(thisteams) == numteams:
+            if len(thisteams) == numteams:
                 teams = thisteams
                 break
 
