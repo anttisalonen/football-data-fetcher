@@ -12,8 +12,6 @@ import parser
 from settings import Globals
 import wikiutils
 
-attributeAtStart_re = re.compile(r'[\w\s]*\|(.*)', re.UNICODE)
-
 def fetchLeagueData(specificLeague):
     try:
         load()
@@ -104,8 +102,6 @@ def main():
             sys.exit(0)
         else:
             specificLeague = sys.argv[1].decode('utf-8')
-            if specificLeague == 'tests':
-                pass # TODO
             Globals.dumpTextFiles = True
     try:
         fetchLeagueData(specificLeague)

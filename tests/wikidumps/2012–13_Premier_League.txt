@@ -1,0 +1,1771 @@
+<table class="infobox " cellspacing="3" style="border-spacing: 3px; width:22em; "><caption class="" style="">[[Premier League]]</caption><tr class=""><th scope="row" style="text-align:left; ">Season</th>
+    <td class="" style="">
+2012–13</td></tr><tr class=""><th scope="row" style="text-align:left; ">Matches played</th>
+    <td class="" style="">
+89</td></tr><tr class=""><th scope="row" style="text-align:left; ">Goals scored</th>
+    <td class="" style="">
+260&nbsp;<span style="font-size:85%;">(2.92 per match)</span></td></tr><tr class=""><th scope="row" style="text-align:left; ">Top goalscorer</th>
+    <td class="" style="">
+[[Demba Ba]]<br />[[Robin van Persie]]<br />(7 goals each)<ref name=topscorer /></td></tr><tr class=""><th scope="row" style="text-align:left; ">Biggest home win</th>
+    <td class="" style="">
+[[Fulham F.C.|Fulham]] 5–0 [[Norwich City F.C.|Norwich City]]<br />[[Arsenal F.C.|Arsenal]] 6–1 [[Southampton F.C.|Southampton]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Biggest away win</th>
+    <td class="" style="">
+[[Queens Park Rangers F.C.|Queens Park Rangers]] 0–5 [[Swansea City A.F.C.|Swansea City]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Highest scoring</th>
+    <td class="" style="">
+[[Arsenal F.C.|Arsenal]] 6–1 [[Southampton F.C.|Southampton]]<br />[[Norwich City F.C.|Norwich City]] 2–5 [[Liverpool F.C.|Liverpool]]<br />(7 goals)</td></tr><tr class=""><th scope="row" style="text-align:left; ">Longest winning run</th>
+    <td class="" style="">
+4 games<br />[[Chelsea F.C.|Chelsea]]<br />[[Manchester United F.C.|Manchester United]]<br />[[Manchester City F.C.|Manchester City]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Longest unbeaten run</th>
+    <td class="" style="">
+9 games<br />[[Manchester City F.C.|Manchester City]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Longest winless run</th>
+    <td class="" style="">
+9 games<br />[[Queens Park Rangers F.C.|Queens Park Rangers]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Longest losing run</th>
+    <td class="" style="">
+4 games<br />[[Southampton F.C.|Southampton]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Highest attendance</th>
+    <td class="" style="">
+75,585<ref name="stats" /><br />[[Manchester United F.C.|Manchester United]] 4–2 [[Stoke City F.C.|Stoke City]]<br /><small>(20 October 2012)</small></td></tr><tr class=""><th scope="row" style="text-align:left; ">Lowest attendance</th>
+    <td class="" style="">
+16,247<ref name="stats" /><br />[[Wigan Athletic F.C.|Wigan Athletic]] 2–2 [[Stoke City F.C.|Stoke City]]<br /><small>(1 September 2012)</small></td></tr><tr class=""><th scope="row" style="text-align:left; ">Average attendance</th>
+    <td class="" style="">
+35,718<ref name="stats">{{cite web |url=http://soccernet.espn.go.com/stats/_/league/eng.1/english-premier-league?cc=5739 |title=Barclays Premier League Stats – 2012–13 |work=ESPN Soccernet |publisher=Entertainment and Sports Programming Network (ESPN) |accessdate=18 August 2012}}</ref></td></tr><tr><td colspan="2" class="" style="text-align:center; "><div style="float: left;">← [[2011–12 Premier League|2011–12]] </div></td></tr>
+</table>
+
+The '''2012–13 Premier League''' (known as the [[Barclays]] Premier League for sponsorship reasons) is the 21st season of the [[Premier League]], the English professional league for [[association football]] clubs, since its establishment in 1992. The fixture schedule was released on 18 June 2012.<ref name="=Fixtures out on Monday">{{cite web |url=http://www.manutd.com/en/News-And-Features/Features/2012/Jun/video-fixtures-released-on-monday.aspx|date=16 June 2012 |title=Fixtures out on Monday |work=manutd.com|accessdate=17 June 2012}}</ref><ref name="=When does the 2012/13 season start?">{{cite web |url=http://www.premierleague.com/en-gb/fans/faqs/when-does-2012-13-season-start.html |title=When does the 2012/13 season start? | work=premierleague.com |publisher=Premier League |date=8 May 2012 |accessdate=15 May 2012}}</ref> The season began on 18 August 2012<ref name="=When does the 2012/13 season start?"/> and will end on 19 May 2013.
+
+[[Manchester City F.C.|Manchester City]] are the defending champions, having won their first Premier League title the [[2011–12 Premier League|previous season]]. This was their first [[List of English football champions|league title]] since the [[1967–68 in English football|1967–68]] season.
+
+==Teams==
+A total of 20 teams will contest the league, including 17 sides from the 2011–12 season and three promoted from the [[2011–12 Football League Championship]].
+
+Relegation for [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] to the [[2012–13 Football League Championship]] was confirmed on 22 April 2012, ending a three-season Premier League tenure.<ref>{{cite web|title=Premier League and Football League: Ups and downs|url=http://www.bbc.co.uk/sport/0/football/17288116|publisher=BBC Sport|accessdate=29 April 2012}}</ref> [[Blackburn Rovers F.C.|Blackburn Rovers]] were relegated after a 1–0 defeat against [[Wigan Athletic F.C.|Wigan Athletic]] on 7 May 2012, ending an eleven-season tenure in top-flight football.<ref>{{cite news|title=Blackburn 0–1 Wigan|url=http://www.bbc.co.uk/sport/0/football/17890899|publisher=BBC Sport|accessdate=7 May 2012|date=7 May 2012}}</ref> The final team to be relegated from the [[2011–12 Premier League]] was [[Bolton Wanderers F.C.|Bolton Wanderers]] on 13 May 2012, the final day of the season, also after eleven seasons in the top flight. For only the second time in the history of the Premier League, all three sides who were promoted from the [[2010–11 Football League Championship]] survived and will compete in this season.
+
+[[Reading F.C.|Reading]] (as Champions) and [[Southampton F.C.|Southampton]] (as runners-up) secured direct promotion to the Premier League from the [[2011–12 Football League Championship]]. Reading will return to the Premier League after an absence of four years, while Southampton make a comeback to the highest tier after making two successive promotions and seven seasons in the leagues below. The third promoted team was decided in a [[2012 Football League play-offs|four-team play-off]] between the Championship teams ranked third through to sixth. Ultimately, third-placed [[West Ham United F.C.|West Ham United]] defeated fifth-placed [[Blackpool F.C.|Blackpool]] in the [[2012 Football League Championship play-off Final|Play-Off Final]] at [[Wembley Stadium]] on 19 May 2012. West Ham returned to the Premier League after only one season of absence.
+
+<div class="thumb tright">
+<div class="thumbinner" style="width:442px; ">
+<div style="position: relative; border: 1px solid lightgray">[[file:England location map.svg|440px|2012–13 Premier League is located in England]]<div style="position: absolute; z-index: 2; top: 55.9%; left: 55.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;position:relative;top:4px;">[[Aston Villa F.C.|Aston Villa]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;position:relative;top:4px;">[[Aston Villa F.C.|Aston Villa]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 41%; left: 43.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Everton F.C.|Everton]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;">[[Everton F.C.|Everton]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 41.1%; left: 43.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;position:relative;top:12px;left:-8px;">[[Liverpool F.C.|Liverpool]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;position:relative;top:12px;left:-8px;">[[Liverpool F.C.|Liverpool]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 40.3%; left: 52%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;position:relative;top:-4px;">[[Manchester City F.C.|Manchester&nbsp;City]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;position:relative;top:-4px;">[[Manchester City F.C.|Manchester&nbsp;City]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 40.6%; left: 51%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;position:relative;top:8px;">[[Manchester United F.C.|Manchester&nbsp;United]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;position:relative;top:8px;">[[Manchester United F.C.|Manchester&nbsp;United]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 16.4%; left: 58.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;position:relative;top:10px;">[[Newcastle United F.C.|Newcastle&nbsp;United]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;position:relative;top:10px;">[[Newcastle United F.C.|Newcastle&nbsp;United]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 54%; left: 92.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Norwich City F.C.|Norwich City]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;">[[Norwich City F.C.|Norwich City]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 73.2%; left: 65.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Reading F.C.|Reading]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;">[[Reading F.C.|Reading]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 81.5%; left: 61.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Southampton F.C.|Southampton]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:80%;">[[Southampton F.C.|Southampton]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 48.2%; left: 52.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Stoke City F.C.|Stoke City]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Stoke City F.C.|Stoke City]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 17.4%; left: 61.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Sunderland A.F.C.|Sunderland]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Sunderland A.F.C.|Sunderland]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 69.7%; left: 32.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Swansea City A.F.C.|Swansea City]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Swansea City A.F.C.|Swansea City]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 55.5%; left: 54.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;position:relative;top:7px;">[[West Bromwich Albion F.C.|West&nbsp;Brom]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;position:relative;top:7px;">[[West Bromwich Albion F.C.|West&nbsp;Brom]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 71.5%; left: 77.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">London</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">London</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 39.2%; left: 46.8%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Wigan Athletic F.C.|Wigan&nbsp;Athletic]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;">[[Wigan Athletic F.C.|Wigan&nbsp;Athletic]]</div></span></div></div>
+
+<div style="position: absolute; z-index: 2; top: 84.8%; left: 71.4%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -1px; top: -1px; width: 1px; font-size: 1px; line-height:0;" title="">[[File:TransparentPlaceholder.png|1x1px|<div style="font-size:80%;">'''[[Football in London|London]]&nbsp;teams'''<br />
+[[Arsenal F.C.|Arsenal]]<br />
+[[Chelsea F.C.|Chelsea]]<br />
+[[Fulham F.C.|Fulham]]<br />
+[[Queens Park Rangers F.C.|Queens&nbsp;Park&nbsp;Rangers]]<br />
+[[Tottenham Hotspur F.C.|Tottenham&nbsp;Hotspur]]<br />
+[[West Ham United F.C.|West&nbsp;Ham&nbsp;United]]<br />
+</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">'''[[Football in London|London]]&nbsp;teams'''<br />
+[[Arsenal F.C.|Arsenal]]<br />
+[[Chelsea F.C.|Chelsea]]<br />
+[[Fulham F.C.|Fulham]]<br />
+[[Queens Park Rangers F.C.|Queens&nbsp;Park&nbsp;Rangers]]<br />
+[[Tottenham Hotspur F.C.|Tottenham&nbsp;Hotspur]]<br />
+[[West Ham United F.C.|West&nbsp;Ham&nbsp;United]]<br />
+</div></span></div></div></div>
+<div class="thumbcaption">Locations of the 2012–13 Premier League teams
+</div>
+</div>
+</div>
+
+===Stadia and locations===
+:''Note: Table lists in alphabetical order.<ref>{{cite news|url=http://stats.football365.co.uk/dom/ENG/PR/runin.html|title=Barclays Premier League End of season Run-in|accessdate=27 April 2012|work=Football365.com}}</ref><ref>{{cite news|url=http://stats.football365.co.uk/dom/ENG/D1/runin.html|title=npower Football League Championship End of season Run-in|accessdate=27 April 2012|work=Football365.com}}</ref>
+{| class="wikitable sortable" style="text-align: left;"
+! Team
+! Location
+! Stadium<ref name="premierleague.com">{{cite web |url=http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/handbooks/premier-league-handbook-2012-2013.pdf |title=Premier League – Handbook Season 2012/13 |work=Premier League |accessdate=17 August 2012 }}</ref>
+! Capacity<ref name="premierleague.com"/>
+|-
+| [[Arsenal F.C.|Arsenal]]
+| [[London]]
+| [[Emirates Stadium]]
+| align="center" | <span style="display:none">7004603620000000000</span>60,362
+|-
+| [[Aston Villa F.C.|Aston Villa]]
+| [[Birmingham]]
+| [[Villa Park]]
+| align="center" | <span style="display:none">7004427850000000000</span>42,785
+|-
+| [[Chelsea F.C.|Chelsea]]
+| [[London]]
+| [[Stamford Bridge (stadium)|Stamford Bridge]]
+| align="center" | <span style="display:none">7004417980000000000</span>41,798
+|-
+| [[Everton F.C.|Everton]]
+| [[Liverpool]]
+| [[Goodison Park]]
+| align="center" | <span style="display:none">7004401570000000000</span>40,157
+|-
+| [[Fulham F.C.|Fulham]]
+| [[London]]
+| [[Craven Cottage]]
+| align="center" | <span style="display:none">7004257000000000000</span>25,700
+|-
+| [[Liverpool F.C.|Liverpool]]
+| [[Liverpool]]
+| [[Anfield]]
+| align="center" | <span style="display:none">7004452760000000000</span>45,276
+|-
+| [[Manchester City F.C.|Manchester City]]
+| [[Manchester]]
+| [[City of Manchester Stadium|Etihad Stadium]]
+| align="center" | <span style="display:none">7004474050000000000</span>47,405
+|-
+| [[Manchester United F.C.|Manchester United]]
+| [[Trafford]]
+| [[Old Trafford]]
+| align="center" | <span style="display:none">7004757650000000000</span>75,765
+|-
+| [[Newcastle United F.C.|Newcastle United]]
+| [[Newcastle upon Tyne]]
+| [[St James' Park]]
+| align="center" | <span style="display:none">7004524050000000000</span>52,405
+|-
+| [[Norwich City F.C.|Norwich City]]
+| [[Norwich]]
+| [[Carrow Road]]
+| align="center" | <span style="display:none">7004272240000000000</span>27,224
+|-
+| [[Queens Park Rangers F.C.|Queens Park Rangers]]
+| [[London]]
+| [[Loftus Road]]
+| align="center" | <span style="display:none">7004184390000000000</span>18,439
+|-
+| [[Reading F.C.|Reading]]
+| [[Reading, Berkshire|Reading]]
+| [[Madejski Stadium]]
+| align="center" | <span style="display:none">7004241970000000000</span>24,197
+|-
+| [[Southampton F.C.|Southampton]]
+| [[Southampton]]
+| [[St Mary's Stadium]]
+| align="center" | <span style="display:none">7004326890000000000</span>32,689
+|-
+| [[Stoke City F.C.|Stoke City]]
+| [[Stoke-on-Trent]]
+| [[Britannia Stadium]]
+| align="center" | <span style="display:none">7004277400000000000</span>27,740
+|-
+| [[Sunderland A.F.C.|Sunderland]]
+| [[Sunderland, Tyne and Wear|Sunderland]]
+| [[Stadium of Light]]
+| align="center" | <span style="display:none">7004487070000000000</span>48,707
+|-
+| [[Swansea City A.F.C.|Swansea City]]
+| [[Swansea]]
+| [[Liberty Stadium]]
+| align="center" | <span style="display:none">7004205320000000000</span>20,532
+|-
+| [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| [[London]]
+| [[White Hart Lane]]
+| align="center" | <span style="display:none">7004362840000000000</span>36,284
+|-
+| [[West Bromwich Albion F.C.|West Bromwich Albion]]
+| [[West Bromwich]]
+| [[The Hawthorns]]
+| align="center" | <span style="display:none">7004264450000000000</span>26,445
+|-
+| [[West Ham United F.C.|West Ham United]]
+| [[London]]
+| [[Boleyn Ground]]
+| align="center" | <span style="display:none">7004350160000000000</span>35,016
+|-
+| [[Wigan Athletic F.C.|Wigan Athletic]]
+| [[Wigan]]
+| [[DW Stadium]]
+| align="center" | <span style="display:none">7004251330000000000</span>25,133
+|}
+
+===Personnel and kits===
+<small>Note: Flags indicate national team as has been defined under [[FIFA]] eligibility rules. Players may hold more than one non-FIFA nationality.</small>
+{| class="wikitable sortable" style="text-align: left;"
+! Team
+! Manager<sup>1</sup>
+! Captain<ref>{{cite web |url=http://www.transfermarkt.co.uk/en/Premier%20League/mannschaftskapitaene/wettbewerb_GB1.html|title=Premier League Team Captains| date=23 August 2011|accessdate=23 August 2011|publisher= Transfer Markt Website }}</ref>
+! Kit manufacturer
+! Shirt sponsor
+|-
+| Arsenal
+| <span class="flagicon">[[File:Flag of France.svg|22x20px|border |alt=France|link=France]]</span> <span style="display:none;">Wenger, Arsene</span><span class="vcard"><span class="fn">[[Arsène Wenger|Arsène Wenger]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of Belgium (civil).svg|22x20px|border |alt=Belgium|link=Belgium]]</span> <span style="display:none;">Vermaelen, Thomas</span><span class="vcard"><span class="fn">[[Thomas Vermaelen|Thomas Vermaelen]]</span></span>[[Category:Articles with hCards]]
+| [[Nike, Inc.|Nike]]
+| [[Emirates (airline)|Emirates]]
+|-
+| Aston Villa
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Lambert, Paul</span><span class="vcard"><span class="fn">[[Paul Lambert|Paul Lambert]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of the Netherlands.svg|22x20px|border |alt=Netherlands|link=Netherlands]]</span> <span style="display:none;">Vlaar, Ron</span><span class="vcard"><span class="fn">[[Ron Vlaar|Ron Vlaar]]</span></span>[[Category:Articles with hCards]]<sup>2</sup>
+| [[Macron (sportswear)|Macron]]
+| [[Genting Group|Genting Casinos]]
+|-
+| Chelsea
+| <span class="flagicon">[[File:Flag of Italy.svg|22x20px|border |alt=Italy|link=Italy]]</span> <span style="display:none;">Di Matteo, Roberto</span><span class="vcard"><span class="fn">[[Roberto Di Matteo|Roberto Di Matteo]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Terry, John</span><span class="vcard"><span class="fn">[[John Terry|John Terry]]</span></span>[[Category:Articles with hCards]]
+| [[Adidas]]
+| [[Samsung]]
+|-
+| Everton
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Moyes, David</span><span class="vcard"><span class="fn">[[David Moyes|David Moyes]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Neville, Phil</span><span class="vcard"><span class="fn">[[Phil Neville|Phil Neville]]</span></span>[[Category:Articles with hCards]]
+| [[Nike, Inc.|Nike]]
+| [[ThaiBev|Chang Beer]]
+|-
+| Fulham
+| <span class="flagicon">[[File:Flag of the Netherlands.svg|22x20px|border |alt=Netherlands|link=Netherlands]]</span> <span style="display:none;">Jol, Martin</span><span class="vcard"><span class="fn">[[Martin Jol|Martin Jol]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of Norway.svg|22x20px|border |alt=Norway|link=Norway]]</span> <span style="display:none;">Hangeland, Brede</span><span class="vcard"><span class="fn">[[Brede Hangeland|Brede Hangeland]]</span></span>[[Category:Articles with hCards]]
+| [[Kappa (company)|Kappa]]
+| [[FxPro]]
+|-
+| Liverpool
+| <span class="flagicon">[[File:Ulster banner.svg|22x20px|border |alt=Northern Ireland|link=Northern Ireland]]</span> <span style="display:none;">Rodgers, Brendan</span><span class="vcard"><span class="fn">[[Brendan Rodgers|Brendan Rodgers]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Gerrard, Steven</span><span class="vcard"><span class="fn">[[Steven Gerrard|Steven Gerrard]]</span></span>[[Category:Articles with hCards]]
+| [[Warrior Sports|Warrior]]
+| [[Standard Chartered]]
+|-
+| Manchester City
+| <span class="flagicon">[[File:Flag of Italy.svg|22x20px|border |alt=Italy|link=Italy]]</span> <span style="display:none;">Mancini, Roberto</span><span class="vcard"><span class="fn">[[Roberto Mancini|Roberto Mancini]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of Belgium (civil).svg|22x20px|border |alt=Belgium|link=Belgium]]</span> <span style="display:none;">Kompany, Vincent</span><span class="vcard"><span class="fn">[[Vincent Kompany|Vincent Kompany]]</span></span>[[Category:Articles with hCards]]
+| [[Umbro]]
+| [[Etihad Airways]]
+|-
+| Manchester United
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Ferguson, Sir Alex</span><span class="vcard"><span class="fn">[[Alex Ferguson|Sir Alex Ferguson]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of Serbia.svg|22x20px|border |alt=Serbia|link=Serbia]]</span> <span style="display:none;">Vidić, Nemanja</span><span class="vcard"><span class="fn">[[Nemanja Vidić|Nemanja Vidić]]</span></span>[[Category:Articles with hCards]]
+| [[Nike, Inc.|Nike]]
+| [[Aon plc|Aon]]
+|-
+| Newcastle United
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Pardew, Alan</span><span class="vcard"><span class="fn">[[Alan Pardew|Alan Pardew]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of Argentina.svg|22x20px|border |alt=Argentina|link=Argentina]]</span> <span style="display:none;">Coloccini, Fabricio</span><span class="vcard"><span class="fn">[[Fabricio Coloccini|Fabricio Coloccini]]</span></span>[[Category:Articles with hCards]]
+| [[Puma SE|Puma]]
+| [[Virgin Money]]
+|-
+| Norwich City
+| <span class="flagicon">[[File:Flag of Ireland.svg|22x20px|border |alt=Republic of Ireland|link=Republic of Ireland]]</span> <span style="display:none;">Hughton, Chris</span><span class="vcard"><span class="fn">[[Chris Hughton|Chris Hughton]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Holt, Grant</span><span class="vcard"><span class="fn">[[Grant Holt|Grant Holt]]</span></span>[[Category:Articles with hCards]]
+| [[Erreà]]
+| [[Aviva]]
+|-
+| Queens Park Rangers
+| <span class="flagicon">[[File:Flag of Wales 2.svg|22x20px|border |alt=Wales|link=Wales]]</span> <span style="display:none;">Hughes, Mark</span><span class="vcard"><span class="fn">[[Mark Hughes|Mark Hughes]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of South Korea.svg|22x20px|border |alt=South Korea|link=South Korea]]</span> <span style="display:none;">Ji-Sung, Park</span><span class="vcard"><span class="fn">[[Park Ji-Sung|Park Ji-Sung]]</span></span>[[Category:Articles with hCards]]
+| [[Lotto Sport Italia|Lotto]]
+| [[AirAsia]]
+|-
+| Reading
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Mcdermott, Brian</span><span class="vcard"><span class="fn">[[Brian McDermott (footballer)|Brian McDermott]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of Jamaica.svg|22x20px|border |alt=Jamaica|link=Jamaica]]</span> <span style="display:none;">McAnuff, Jobi</span><span class="vcard"><span class="fn">[[Jobi McAnuff|Jobi McAnuff]]</span></span>[[Category:Articles with hCards]]
+| [[Puma SE|Puma]]
+| [[Waitrose]]
+|-
+| Southampton
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Adkins, Nigel</span><span class="vcard"><span class="fn">[[Nigel Adkins|Nigel Adkins]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Lallana, Adam</span><span class="vcard"><span class="fn">[[Adam Lallana|Adam Lallana]]</span></span>[[Category:Articles with hCards]]
+| [[Umbro]]
+| aap3
+|-
+| Stoke City
+| <span class="flagicon">[[File:Flag of Wales 2.svg|22x20px|border |alt=Wales|link=Wales]]</span> <span style="display:none;">Pulis, Tony</span><span class="vcard"><span class="fn">[[Tony Pulis|Tony Pulis]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Shawcross, Ryan</span><span class="vcard"><span class="fn">[[Ryan Shawcross|Ryan Shawcross]]</span></span>[[Category:Articles with hCards]]
+| [[Adidas]]
+| [[Bet365]]
+|-
+| Sunderland
+| <span class="flagicon">[[File:Ulster banner.svg|22x20px|border |alt=Northern Ireland|link=Northern Ireland]]</span> <span style="display:none;">O'Neill, Martin</span><span class="vcard"><span class="fn">[[Martin O'Neill|Martin O'Neill]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Cattermole, Lee</span><span class="vcard"><span class="fn">[[Lee Cattermole|Lee Cattermole]]</span></span>[[Category:Articles with hCards]]
+| [[Adidas]]
+| [[Tullow Oil|Invest In Africa]]
+|-
+| Swansea City
+| <span class="flagicon">[[File:Flag of Denmark.svg|22x20px|border |alt=Denmark|link=Denmark]]</span> <span style="display:none;">Laudrup, Michael</span><span class="vcard"><span class="fn">[[Michael Laudrup|Michael Laudrup]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Monk, Garry</span><span class="vcard"><span class="fn">[[Garry Monk|Garry Monk]]</span></span>[[Category:Articles with hCards]]
+| [[Adidas]]
+| [[32Red]]
+|-
+| Tottenham Hotspur
+| <span class="flagicon">[[File:Flag of Portugal.svg|22x20px|border |alt=Portugal|link=Portugal]]</span> <span style="display:none;">Villas-Boas, André</span><span class="vcard"><span class="fn">[[André Villas-Boas|André Villas-Boas]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of France.svg|22x20px|border |alt=France|link=France]]</span> <span style="display:none;">Gallas, William</span><span class="vcard"><span class="fn">[[William Gallas|William Gallas]]</span></span>[[Category:Articles with hCards]]
+| [[Under Armour]]
+| [[Autonomy Corporation|Autonomy]]
+|-
+| West Bromwich Albion
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Clarke, Steve</span><span class="vcard"><span class="fn">[[Steve Clarke|Steve Clarke]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Ulster banner.svg|22x20px|border |alt=Northern Ireland|link=Northern Ireland]]</span> <span style="display:none;">Brunt, Chris</span><span class="vcard"><span class="fn">[[Chris Brunt|Chris Brunt]]</span></span>[[Category:Articles with hCards]]
+| [[Adidas]]
+| [[Zoopla]]
+|-
+| West Ham United
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Allardyce, Sam</span><span class="vcard"><span class="fn">[[Sam Allardyce|Sam Allardyce]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Nolan, Kevin</span><span class="vcard"><span class="fn">[[Kevin Nolan|Kevin Nolan]]</span></span>[[Category:Articles with hCards]]
+| [[Macron (sportswear)|Macron]]
+| [[SBOBET]]
+|-
+| Wigan Athletic
+| <span class="flagicon">[[File:Flag of Spain.svg|22x20px|border |alt=Spain|link=Spain]]</span> <span style="display:none;">Martínez, Roberto</span><span class="vcard"><span class="fn">[[Roberto Martínez|Roberto Martínez]]</span></span>[[Category:Articles with hCards]]
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Caldwell, Gary</span><span class="vcard"><span class="fn">[[Gary Caldwell|Gary Caldwell]]</span></span>[[Category:Articles with hCards]]
+| [[JJB Sports|MiFit]]
+| 12BET
+|}
+* <small><sup>1</sup> According to current revision of [[List of English Football League managers]]</small>
+* <small><sup>2</sup> [[Stiliyan Petrov]] is Aston Villa's club captain, but Vlaar has been appointed team captain for the season whilst Petrov recovers from leukaemia.</small><ref>{{cite web |url=http://www.bbc.co.uk/sport/0/football/18385073 |title= Stiliyan Petrov to stay Aston Villa club captain, says Paul Lambert |work=British Broadcasting Corporation|publisher=(BBC) |date=10 June 2012}}</ref><ref>{{cite web |url=http://www.birminghammail.net/birmingham-sport/aston-villa-fc/aston-villa-news/2012/09/19/ron-vlaar-i-m-proud-to-be-new-captain-of-aston-villa-97319-31867309/ |title= Ron Vlaar: I'm proud to be new captain of Aston Villa |work=birminghammail.net |publisher=Birmingham Mail |date=19 September 2012 |accessdate=29 September 2012}}</ref>
+* <small>Additionally, referee kits are now being sponsored by [[Expedia]].com, and Nike has a new match ball, the Maxim Premier League.</small>
+
+===Managerial changes===
+{| class="wikitable sortable"
+|-
+!Team
+!Outgoing manager
+!Manner of departure
+!Date of vacancy
+!Position in table
+!Incoming manager
+!Date of appointment
+|-
+| West Bromwich Albion
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Hodgson, Roy</span><span class="vcard"><span class="fn">[[Roy Hodgson|Roy Hodgson]]</span></span>[[Category:Articles with hCards]]
+| Signed by [[England national football team|England]]
+| 13 May 2012<ref>{{cite web|title=Roy Hodgson named England Manager|url=http://www.thefa.com/England/News/2012/roy-hodgson-appointed-england-manager|publisher=The FA|accessdate=18 May 2012}}</ref>
+|rowspan=6 | ''Pre-season''
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Clarke, Steve</span><span class="vcard"><span class="fn">[[Steve Clarke|Steve Clarke]]</span></span>[[Category:Articles with hCards]]
+| 8 June 2012<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/18366208 |title=Steve Clarke named West Brom head coach after Liverpool exit |work=BBC Sport |publisher=British Broadcasting Corporation|date=8 June 2012|accessdate=8 June 2012}}</ref>
+|-
+| Aston Villa
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">McLeish, Alex</span><span class="vcard"><span class="fn">[[Alex McLeish|Alex McLeish]]</span></span>[[Category:Articles with hCards]]
+|rowspan=2 |Sacked
+|14 May 2012<ref>{{cite web|title=Alex McLeish sacked as Aston Villa manager|url=http://www.bbc.co.uk/sport/0/football/18056282|publisher=BBC Sport|accessdate=18 May 2012}}</ref>
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Lambert, Paul</span><span class="vcard"><span class="fn">[[Paul Lambert|Paul Lambert]]</span></span>[[Category:Articles with hCards]]
+| 2 June 2012<ref name="Lambert">{{cite news |title=Paul Lambert confirmed as Aston Villa manager |url=http://www.avfc.co.uk/page/NewsDetail/0,,10265~2794149,00.html|work=Aston Villa |publisher= |date=2 June 2012}}</ref>
+|-
+| Liverpool
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Dalglish, Kenny</span><span class="vcard"><span class="fn">[[Kenny Dalglish|Kenny Dalglish]]</span></span>[[Category:Articles with hCards]]
+| 16 May 2012<ref>{{cite news |title=Kenny Dalglish sacked as Liverpool manager|url=http://www.bbc.co.uk/sport/0/football/18073446|work=BBC Sport |publisher=British Broadcasting Corporation |date=16 May 2012}}</ref>
+| <span class="flagicon">[[File:Ulster banner.svg|22x20px|border |alt=Northern Ireland|link=Northern Ireland]]</span> <span style="display:none;">Rodgers, Brendan</span><span class="vcard"><span class="fn">[[Brendan Rodgers|Brendan Rodgers]]</span></span>[[Category:Articles with hCards]]
+| 1 June 2012<ref name="Rodgers">{{cite news |title=Liverpool manager Brendan Rodgers to 'fight for his life'|url=http://www.bbc.co.uk/sport/0/football/18294032|work=BBC Sport |publisher=British Broadcasting Corporation |date=1 June 2012}}</ref>
+|-
+| Swansea City
+| <span class="flagicon">[[File:Ulster banner.svg|22x20px|border |alt=Northern Ireland|link=Northern Ireland]]</span> <span style="display:none;">Rodgers, Brendan</span><span class="vcard"><span class="fn">[[Brendan Rodgers|Brendan Rodgers]]</span></span>[[Category:Articles with hCards]]
+| Signed by Liverpool
+| 1 June 2012<ref name="Rodgers"/>
+| <span class="flagicon">[[File:Flag of Denmark.svg|22x20px|border |alt=Denmark|link=Denmark]]</span> <span style="display:none;">Laudrup, Michael</span><span class="vcard"><span class="fn">[[Michael Laudrup|Michael Laudrup]]</span></span>[[Category:Articles with hCards]]
+| 15 June 2012<ref name="Laudrup">{{cite news | title=Swansea name Laudrup as manager|url=http://www.premierleague.com/en-gb/news/news/swansea-name-laudrup-as-manager.html|work = Premierleague.com|publisher = Premier League Official Site | date = 15 June 2012}}</ref>
+|-
+| Norwich City
+| <span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> <span style="display:none;">Lambert, Paul</span><span class="vcard"><span class="fn">[[Paul Lambert|Paul Lambert]]</span></span>[[Category:Articles with hCards]]
+| Signed by Aston Villa
+| 2 June 2012<ref name="Lambert"/>
+| <span class="flagicon">[[File:Flag of Ireland.svg|22x20px|border |alt=Republic of Ireland|link=Republic of Ireland]]</span> <span style="display:none;">Hughton, Chris</span><span class="vcard"><span class="fn">[[Chris Hughton|Chris Hughton]]</span></span>[[Category:Articles with hCards]]
+| 7 June 2012<ref name="Hughton">{{cite news |title=Chris Hughton appointed as new Norwich Manager'|url=http://www.bbc.co.uk/sport/0/football/18356657|work=BBC Sport |publisher=British Broadcasting Corporation |date=7 June 2012}}</ref>
+|-
+| Tottenham Hotspur
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Redknapp, Harry</span><span class="vcard"><span class="fn">[[Harry Redknapp|Harry Redknapp]]</span></span>[[Category:Articles with hCards]]
+| Sacked
+| 13 June 2012<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/18436663 | title=Harry Redknapp leaves Tottenham Hotspur manager's job | publisher=[[BBC Sport]] | accessdate=13 June 2012}}</ref>
+| <span class="flagicon">[[File:Flag of Portugal.svg|22x20px|border |alt=Portugal|link=Portugal]]</span> <span style="display:none;">Villas-Boas, André</span><span class="vcard"><span class="fn">[[André Villas-Boas|André Villas-Boas]]</span></span>[[Category:Articles with hCards]]
+| 3 July 2012<ref name="Villas-Boas">{{cite news | title=Tottenham Hotspur appoints Andre Villas-Boas as new head coach|url=http://www.tottenhamhotspur.com/spurs/News/tottenham-hotspur-appoints-andre-villas-boas-as-new-head-coach-03072012.page?|work = Tottenham | date = 3 July 2012}}</ref>
+|}
+
+==League table==
+<div class="hslice" id="hslice-54"><div style="display:none" class="entry-title">2012–13 Premier League table</div><div class="entry-content">
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- style="background-color:#D0F0C0; "
+|1
+| style="text-align: left" |  [[Chelsea F.C.|Chelsea]]
+|9
+|7
+|1
+|1
+|21
+|9||+12
+|'''22'''
+|rowspan=3 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">[[2013–14 UEFA Champions League#Group stage|2013–14 UEFA Champions League group stage]]
+|- style="background-color:#D0F0C0; "
+|2
+| style="text-align: left" |  [[Manchester United F.C.|Manchester United]]
+|9
+|7
+|0
+|2
+|24
+|13||+11
+|'''21'''
+|- style="background-color:#D0F0C0; "
+|3
+| style="text-align: left" |  [[Manchester City F.C.|Manchester City]]
+|9
+|6
+|3
+|0
+|18
+|9||+9
+|'''21'''
+|- style="background-color:#E8FFD8; "
+|4
+| style="text-align: left" |  [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|9
+|5
+|2
+|2
+|17
+|13||+4
+|'''17'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">[[2013–14 UEFA Champions League#Play-off round|2013–14 UEFA Champions League play-off round]]
+|- style="background-color:#97DEFF; "
+|5
+| style="text-align: left" |  [[Everton F.C.|Everton]]
+|9
+|4
+|4
+|1
+|17
+|11||+6
+|'''16'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">[[2013–14 UEFA Europa League#Play-off round|2013–14 UEFA Europa League play-off round]]
+|- style=" "
+|6
+| style="text-align: left" |  [[Arsenal F.C.|Arsenal]]
+|9
+|4
+|3
+|2
+|14
+|6||+8
+|'''15'''
+|- style=" "
+|7
+| style="text-align: left" |  [[Fulham F.C.|Fulham]]
+|9
+|4
+|2
+|3
+|19
+|14||+5
+|'''14'''
+|- style=" "
+|8
+| style="text-align: left" |  [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|9
+|4
+|2
+|3
+|13
+|11||+2
+|'''14'''
+|- style=" "
+|9
+| style="text-align: left" |  [[West Ham United F.C.|West Ham United]]
+|9
+|4
+|2
+|3
+|12
+|11||+1
+|'''14'''
+|- style=" "
+|10
+| style="text-align: left" |  [[Newcastle United F.C.|Newcastle United]]
+|9
+|3
+|4
+|2
+|11
+|13||&minus;2
+|'''13'''
+|- style=" "
+|11
+| style="text-align: left" |  [[Swansea City A.F.C.|Swansea City]]
+|9
+|3
+|2
+|4
+|14
+|13||+1
+|'''11'''
+|- style=" "
+|12
+| style="text-align: left" |  [[Liverpool F.C.|Liverpool]]
+|9
+|2
+|4
+|3
+|12
+|14||&minus;2
+|'''10'''
+|- style=" "
+|13
+| style="text-align: left" |  [[Stoke City F.C.|Stoke City]]
+|9
+|1
+|6
+|2
+|8
+|9||&minus;1
+|'''9'''
+|- style=" "
+|14
+| style="text-align: left" |  [[Sunderland A.F.C.|Sunderland]]
+|8
+|1
+|6
+|1
+|6
+|8||&minus;2
+|'''9'''
+|- style=" "
+|15
+| style="text-align: left" |  [[Wigan Athletic F.C.|Wigan Athletic]]
+|9
+|2
+|2
+|5
+|10
+|15||&minus;5
+|'''8'''
+|- style=" "
+|16
+| style="text-align: left" |  [[Norwich City F.C.|Norwich City]]
+|9
+|1
+|4
+|4
+|7
+|18||&minus;11
+|'''7'''
+|- style=" "
+|17
+| style="text-align: left" |  [[Aston Villa F.C.|Aston Villa]]
+|9
+|1
+|3
+|5
+|7
+|14||&minus;7
+|'''6'''
+|- style="background-color:#FFCCCC; "
+|18
+| style="text-align: left" |  [[Reading F.C.|Reading]]
+|8
+|0
+|4
+|4
+|11
+|17||&minus;6
+|'''4'''
+|rowspan=3 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">2013–14 [[Football League Championship]]
+|- style="background-color:#FFCCCC; "
+|19
+| style="text-align: left" |  [[Southampton F.C.|Southampton]]
+|9
+|1
+|1
+|7
+|14
+|26||&minus;12
+|'''4'''
+|- style="background-color:#FFCCCC; "
+|20
+| style="text-align: left" |  [[Queens Park Rangers F.C.|Queens Park Rangers]]
+|9
+|0
+|3
+|6
+|7
+|18||&minus;11
+|'''3'''
+|}
+<small>
+Updated to games played on 28 October 2012<br />Source: [http://www.premierleague.com/page/LeagueTables/0,,12306,00.html Barclays Premier League]<br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+</div></div>
+
+==Results==
+{| class="wikitable" style="font-size: 90%; text-align: center;"
+|-
+|Home \ Away<sup class="reference" id="ref_Home \ Away^">[[#endnote_Home \ Away^|[1]]]</sup>
+|width=30|[[Arsenal F.C.|ARS]]
+|width=30|[[Aston Villa F.C.|AST]]
+|width=30|[[Chelsea F.C.|CHE]]||width=30|[[Everton F.C.|EVE]]||width=30|[[Fulham F.C.|FUL]]||width=30|[[Liverpool F.C.|LIV]]||width=30|[[Manchester City F.C.|MNC]]||width=30|[[Manchester United F.C.|MNU]]||width=30|[[Newcastle United F.C.|NEW]]||width=30|[[Norwich City F.C.|NOR]]||width=30|[[Queens Park Rangers F.C.|QPR]]||width=30|[[Reading F.C.|REA]]||width=30|[[Southampton F.C.|SOT]]||width=30|[[Stoke City F.C.|STO]]||width=30|[[Sunderland A.F.C.|SUN]]||width=30|[[Swansea City A.F.C.|SWA]]||width=30|[[Tottenham Hotspur F.C.|TOT]]||width=30|[[West Bromwich Albion F.C.|WBA]]||width=30|[[West Ham United F.C.|WHU]]||width=30|[[Wigan Athletic F.C.|WIG]]
+|-
+|align=right|[[Arsenal F.C.|Arsenal]]
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#FFDFDF|[[Arsenal F.C.–Chelsea F.C. rivalry|<span style="line-height: 80%">1&ndash;2</span>]]
+ |
+ |
+ |
+ |
+ |[[Arsenal F.C.–Manchester United F.C. rivalry|a]]
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">6&ndash;1</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |[[North London derby|a]]
+ |
+ |
+ |
+
+|-
+|align=right|[[Aston Villa F.C.|Aston Villa]]
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+
+|-
+|align=right|[[Chelsea F.C.|Chelsea]]
+ |[[Arsenal F.C.–Chelsea F.C. rivalry|a]]
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |[[West London derby|a]]
+ |
+ |
+ |bgcolor=#FFDFDF|[[Chelsea 2–3 Manchester United 2012|<span style="line-height: 80%">2&ndash;3</span>]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;1</span>
+ |[[West London derby|a]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;2</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Everton F.C.|Everton]]
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#FFFFDD|[[Merseyside derby|<span style="line-height: 80%">2&ndash;2</span>]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Fulham F.C.|Fulham]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |[[West London derby|a]]
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">5&ndash;0</span>
+ |[[West London derby|a]]
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+ |
+
+|-
+|align=right|[[Liverpool F.C.|Liverpool]]
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |
+ |
+ |[[Merseyside derby|a]]
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |bgcolor=#FFDFDF|[[Liverpool F.C.–Manchester United F.C. rivalry|<span style="line-height: 80%">1&ndash;2</span>]]
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Manchester City F.C.|Manchester City]]
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |[[Manchester derby|a]]
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;2</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Manchester United F.C.|Manchester United]]
+ |[[Arsenal F.C.–Manchester United F.C. rivalry|a]]
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;2</span>
+ |[[Liverpool F.C.–Manchester United F.C. rivalry|a]]
+ |[[Manchester derby|a]]
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;0</span>
+
+|-
+|align=right|[[Newcastle United F.C.|Newcastle United]]
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |
+ |
+ |[[Tyne–Wear derby|a]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |
+
+|-
+|align=right|[[Norwich City F.C.|Norwich City]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;5</span>
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+
+|-
+|align=right|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+ |
+ |
+ |bgcolor=#FFFFDD|[[West London derby|<span style="line-height: 80%">0&ndash;0</span>]]
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |[[West London derby|a]]
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;5</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+
+|-
+|align=right|[[Reading F.C.|Reading]]
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">3&ndash;3</span>
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |
+ |
+ |
+
+|-
+|align=right|[[Southampton F.C.|Southampton]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;1</span>
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+
+|-
+|align=right|[[Stoke City F.C.|Stoke City]]
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Sunderland A.F.C.|Sunderland]]
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |bgcolor=#FFFFDD|[[Tyne–Wear derby|<span style="line-height: 80%">1&ndash;1</span>]]
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+
+|-
+|align=right|[[Swansea City A.F.C.|Swansea City]]
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+
+|-
+|align=right|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+ |[[North London derby|a]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;4</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+
+|-
+|align=right|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;2</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+
+|-
+|align=right|[[West Ham United F.C.|West Ham United]]
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;1</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+
+|-
+|align=right|[[Wigan Athletic F.C.|Wigan Athletic]]
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+|}<small>Updated to games played on 28 October 2012<br />Source: [http://www.premierleague.com/page/FixturesResults/0,,12306,00.html Premier League]<br /><sup>1&nbsp;<span class="citation wikicite" id="endnote_Home_.5C_Away.5E">[[#ref_Home \ Away^|'''<sup>^</sup>''']]</span> </sup>The home team is listed in the left-hand column.<br />'''Colours''': Blue = home team win; Yellow = draw; Red = away team win.<br />For coming matches, an '''a''' indicates there is an article about the match.<br /></small>
+
+==Season statistics==
+{| class=" multicol" style="border-collapse: collapse; padding: 0px; border: 0px; background:transparent; width:100%;"
+<p></p>
+| width="50%" align="left" valign="top" |
+
+===Top scorers===
+: ''As of 28 October 2012''
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Goals<ref name=topscorer>{{cite web |url=http://soccernet.espn.go.com/stats/scorers/_/league/eng.1/barclays-premier-league?cc=5739 |title=Barclays Premier League Stats: Top Goal Scorers – 2012–13 |work=ESPN Soccernet |publisher=Entertainment and Sports Programming Network (ESPN) |accessdate=25 August 2012}}</ref>
+|-
+|rowspan=2|1
+|align="left"|<span class="flagicon">[[File:Flag of Senegal.svg|22x20px|border |alt=Senegal|link=Senegal]]</span> [[Demba Ba]]
+|align="left"|Newcastle United
+|7
+|-
+|align="left"|<span class="flagicon">[[File:Flag of the Netherlands.svg|22x20px|border |alt=Netherlands|link=Netherlands]]</span> [[Robin van Persie]]
+|align="left"|Manchester United
+|7
+|-
+|rowspan=2|3
+|align="left"|<span class="flagicon">[[File:Flag of Spain.svg|22x20px|border |alt=Spain|link=Spain]]</span> [[Miguel Pérez Cuesta|Michu]]
+|align="left"|Swansea City
+|6
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Uruguay.svg|22x20px|border |alt=Uruguay|link=Uruguay]]</span> [[Luis Suárez]]
+|align="left"|Liverpool
+|6
+|-
+|rowspan=3|5
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jermain Defoe]]
+|align="left"|Tottenham Hotspur
+|5
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Bosnia and Herzegovina.svg|22x20px|border |alt=Bosnia and Herzegovina|link=Bosnia and Herzegovina]]</span> [[Edin Džeko]]
+|align="left"|Manchester City
+|5
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Steven Fletcher (footballer)|Steven Fletcher]]
+|align="left"|Sunderland
+|5
+|-
+|rowspan=8|8
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Peter Crouch]]
+|align="left"|Stoke City
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Croatia.svg|22x20px|border |alt=Croatia|link=Croatia]]</span> [[Nikica Jelavić]]
+|align="left"|Everton
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Spain.svg|22x20px|border |alt=Spain|link=Spain]]</span> [[Juan Mata]]
+|align="left"|Chelsea
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Rickie Lambert]]
+|align="left"|Southampton
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Kevin Nolan]]
+|align="left"|West Ham United
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Argentina.svg|22x20px|border |alt=Argentina|link=Argentina]]</span> [[Carlos Tévez]]
+|align="left"|Manchester City
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Spain.svg|22x20px|border |alt=Spain|link=Spain]]</span> [[Fernando Torres]]
+|align="left"|Chelsea
+|4
+|}
+<p></p>
+| width="50%" align="left" valign="top" |
+
+===Assists===
+: ''As of 28 October 2012''
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Assists<ref name="assists">{{cite web |url=http://soccernet.espn.go.com/stats/assists/_/league/eng.1/barclays-premier-league?cc=5739 |title=Barclays Premier League Stats: Assists Leaders – 2012–13 |work=ESPN Soccernet |publisher=Entertainment and Sports Programming Network (ESPN) |accessdate=19 August 2012}}</ref>
+|-
+|rowspan=2|1
+|align="left"|<span class="flagicon">[[File:Flag of Belgium (civil).svg|22x20px|border |alt=Belgium|link=Belgium]]</span> [[Eden Hazard]]
+|align="left"|Chelsea
+|5
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Spain.svg|22x20px|border |alt=Spain|link=Spain]]</span> [[Juan Mata]]
+|align="left"|Chelsea
+|5
+|-
+|rowspan=4|3
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Adam Lallana]]
+|align="left"|Southampton
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Jamaica.svg|22x20px|border |alt=Jamaica|link=Jamaica]]</span> [[Jobi McAnuff]]
+|align="left"|Reading
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Wayne Rooney]]
+|align="left"|Manchester United
+|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Costa Rica.svg|22x20px|border |alt=Costa Rica|link=Costa Rica]]</span> [[Bryan Ruiz]]
+|align="left"|Fulham
+|4
+|-
+|rowspan=7|7
+|align="left"|<span class="flagicon">[[File:Flag of Canada.svg|22x20px|border |alt=Canada|link=Canada]]</span> [[Jonathan de Guzmán]]
+|align="left"|Swansea City
+|3
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Shaun Maloney]]
+|align="left"|Wigan Athletic
+|3
+|-
+|align="left"|<span class="flagicon">[[File:Flag of South Africa.svg|22x20px|border |alt=South Africa|link=South Africa]]</span> [[Steven Pienaar]]
+|align="left"|Everton
+|3
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Wayne Routledge]]
+|align="left"|Swansea City
+|3
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Argentina.svg|22x20px|border |alt=Argentina|link=Argentina]]</span> [[Carlos Tévez]]
+|align="left"|Manchester City
+|3
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Ecuador.svg|22x20px|border |alt=Ecuador|link=Ecuador]]</span> [[Antonio Valencia]]
+|align="left"|Manchester United
+|3
+|-
+|align="left"|<span class="flagicon">[[File:Flag of the Netherlands.svg|22x20px|border |alt=Netherlands|link=Netherlands]]</span> [[Robin van Persie]]
+|align="left"|Manchester United
+|3
+|}
+<p></p>
+|}
+
+===Hat-tricks===
+<div class="rellink<nowiki> </nowiki>relarticle mainarticle">Main article: [[List of Premier League hat-tricks|List of Premier League hat-tricks]]</div>
+{| class="wikitable sortable"
+|-
+! Player !! For !! Against !! style="text-align:center"| Result !! Date
+|-
+|<span class="flagicon">[[File:Flag of the Netherlands.svg|22x20px|border |alt=Netherlands|link=Netherlands]]</span> <span style="display:none;">van Persie, Robin</span><span class="vcard"><span class="fn">[[Robin van Persie|Robin van Persie]]</span></span>[[Category:Articles with hCards]] || Manchester United || Southampton || style="text-align:center;"| 3–2<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/19384117 |title=Southampton 2–3 Man Utd |last=Pearce |first=Jonathan |date=2 September 2012 |publisher=[[BBC Sport]] |accessdate=2 September 2012}}</ref> || <span style="display:none; speak:none">02012-09-02</span><span style="white-space:nowrap;">2 September 2012</span>
+|-
+|<span class="flagicon">[[File:Flag of Uruguay.svg|22x20px|border |alt=Uruguay|link=Uruguay]]</span> <span style="display:none;">Suárez, Luis</span><span class="vcard"><span class="fn">[[Luis Suárez|Luis Suárez]]</span></span>[[Category:Articles with hCards]] || Liverpool || Norwich City || style="text-align:center;"| 5–2<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/19684133 |title=Norwich 2–5 Liverpool |date=29 September 2012 |publisher=[[BBC Sport]] |accessdate=29 September 2012}}</ref> || <span style="display:none; speak:none">02012-09-29</span><span style="white-space:nowrap;">29 September 2012</span>
+|}
+
+===Scoring===
+* First goal of the season: [[Miguel Pérez Cuesta|Michu]] for Swansea City against Queens Park Rangers (<small>''18 August 2012''</small>)
+* Fastest goal of the season: '''53 seconds''', [[Kevin Nolan]] for West Ham United against Fulham (<small>''1 September 2012''</small>)<ref>{{cite web|title=West Ham 3–0 Fulham|url=http://www.bbc.co.uk/sport/0/football/19377834|publisher=BBC Sport|accessdate=1 September 2012}}</ref>
+* Latest goal of the season: '''94 minutes and 33 seconds''', [[Branislav Ivanović]] for Chelsea against Reading (<small>''22 August 2012''</small>)<ref>{{cite web|title=Chelsea 4–2 Reading|url=http://www.bbc.co.uk/sport/0/football/19279583|publisher=BBC Sport|accessdate=22 August 2012}}</ref>
+* Largest winning margin: '''5 goals'''
+:*Fulham 5–0 Norwich City (<small>''18 August 2012''</small>)
+:*Queens Park Rangers 0–5 Swansea City (<small>''18 August 2012''</small>)
+:*Arsenal 6–1 Southampton (<small>''15 September 2012''</small>)
+* Highest scoring game: '''7 goals'''
+:*Arsenal 6–1 Southampton (<small>''15 September 2012''</small>)
+:*Norwich City 2–5 Liverpool (<small>''29 September 2012''</small>)
+* Most goals scored in a match by a single team: '''6 goals'''
+:*Arsenal 6–1 Southampton (<small>''15 September 2012''</small>)
+* Most goals scored in a match by a losing team: '''2 goals'''
+:*Manchester City 3–2 Southampton (<small>''19 August 2012''</small>)
+:*Chelsea 4–2 Reading (<small>''22 August 2012''</small>)
+:*Manchester United 3–2 Fulham (<small>''25 August 2012''</small>)
+:*Southampton 2–3 Manchester United (<small>''2 September 2012''</small>)
+:*Norwich City 2–5 Liverpool (<small>''29 September 2012''</small>)
+:*Manchester United 2–3 Tottenham Hotspur (<small>''29 September 2012''</small>)
+:*West Bromwich Albion 3–2 Queens Park Rangers (<small>''6 October 2012''</small>)
+:*Tottenham Hotspur 2–4 Chelsea (<small>''20 October 2012''</small>)
+:*Manchester United 4–2 Stoke City (<small>''20 October 2012''</small>)
+:*Chelsea 2–3 Manchester United (<small>''28 October 2012''</small>)
+
+===Clean sheets===
+* Most [[Shutout|clean sheets]] (club): '''4'''<ref name="stats" />
+:*Arsenal
+:*Chelsea
+:*Stoke City
+* Most clean sheets (player): '''4'''<ref name="stats" />
+:*[[Petr Čech]] (Chelsea)
+:*[[Asmir Begović]] (Stoke City)
+* Fewest clean sheets: '''0'''<ref name="stats" />
+:*Reading
+:*Southampton
+
+===Discipline===
+{| class=" multicol" style="border-collapse: collapse; padding: 0px; border: 0px; background:transparent; width:100%;"
+<p></p>
+| width="50%" align="left" valign="top" |
+* Most yellow cards (club): '''22'''<ref name=teamdiscipline>{{cite web|title=Barclays Premier League Stats: Team Discipline – 2012–13|url=http://soccernet.espn.go.com/stats/fairplay/_/league/eng.1/barclays-premier-league?cc=5739|work=ESPN Soccernet|publisher=Entertainment and Sports Programming Network (ESPN)|accessdate=25 August 2012}}</ref>
+:*West Ham United
+
+* Most yellow cards (player): '''5'''<ref name=playerdiscipline>{{cite web|title=Barclays Premier League Stats: Player Discipline – 2012–13|url=http://soccernet.espn.go.com/stats/discipline/_/league/eng.1/barclays-premier-league?cc=5739|work=ESPN Soccernet|publisher=Entertainment and Sports Programming Network (ESPN)|accessdate=25 August 2012}}</ref>
+:*[[Àngel Rangel]] (Swansea City)
+
+*Most yellow cards in a game: '''11'''<ref>{{cite news|first=Ben|last=Smith|title=QPR 1–2 West Ham United|url=http://www.bbc.co.uk/sport/0/football/19697353|publisher=BBC Sport|accessdate=7 October 2012}}</ref>
+:*Queens Park Rangers – '''3'''
+:*West Ham United – '''8'''
+
+* Most red cards (club): '''2'''<ref name=teamdiscipline />
+:*Aston Villa
+:*Liverpool
+:*Queens Park Rangers
+:*Swansea City
+:*Chelsea
+<p></p>
+| width="50%" align="left" valign="top" |
+* Most red cards (player): '''1'''<ref name=playerdiscipline />
+:*[[Joe Bennett (footballer)|Joe Bennett]] (Aston Villa)
+:*[[Ciaran Clark]] (Aston Villa)
+:*[[Branislav Ivanovic]] (Chelsea)
+:*[[Fernando Torres]] (Chelsea)
+:*[[Steven Pienaar]] (Everton)
+:*[[Daniel Agger]] (Liverpool)
+:*[[Jonjo Shelvey]] (Liverpool)
+:*[[James Milner]] (Manchester City)
+:*[[Cheick Tioté]] (Newcastle United)
+:*[[Samba Diakité]] (Queens Park Rangers)
+:*[[Stephane Mbia]] (Queens Park Rangers)
+:*[[Dean Whitehead]] (Stoke City)
+:*[[Nathan Dyer]] (Swansea City)
+:*[[José Manuel Flores|Chico]] (Swansea City)
+:*[[Tom Huddlestone]] (Tottenham Hotspur)<sup>1</sup>
+:*[[Peter Odemwingie]] (West Bromwich Albion)
+:*[[Jordi Gómez]] (Wigan Athletic)<sup>1</sup>
+
+
+<sup>1</sup> Red card rescinded, no suspension served.<ref>{{cite news|title=Tom Huddlestone red card for Tottenham rescinded by FA|url=http://www.bbc.co.uk/sport/0/football/19482119|accessdate=15 September 2012|newspaper=BBC Sport|date=4 September 2012}}</ref><ref>{{cite news|title=Wigan's Jordi Gomez has Sunderland red card rescinded|url=http://www.bbc.co.uk/sport/0/football/19818590|accessdate =3 October 2012|newspaper=BBC Sport|date=3 October 2012}}</ref> <p></p>
+|}
+
+==Awards==
+
+===Monthly awards===
+{| class="wikitable"
+|-
+!rowspan="2"|Month
+!colspan="2"|[[Premier League Manager of the Month|Manager of the Month]]
+!colspan="2"|[[Premier League Player of the Month|Player of the Month]]
+|-
+!Manager
+!Club
+!Player
+!Club
+|-
+|September<ref>{{cite news|url=http://www.premierleague.com/en-gb/news/news/moyes-manager-of-september.html |title=David Moyes named Barclays Manager of the Month |work=premierleague.com |publisher=Premier League |date=9 October 2012 |accessdate=9 October 2012 }}</ref>
+|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[David Moyes]]
+|Everton
+|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Steven Fletcher (footballer)|Steven Fletcher]]
+|Sunderland
+|}
+
+==References==
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<references group=""></references></div>
+
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:Premier League|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:Premier League|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:Premier_League&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[Premier League]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[List of Premier League seasons|Seasons]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[1991–92 Football League|Football League]]
+* [[1992–93 FA Premier League|1992–93]]
+* [[1993–94 FA Premier League|1993–94]]
+* [[1994–95 FA Premier League|1994–95]]
+* [[1995–96 FA Premier League|1995–96]]
+* [[1996–97 FA Premier League|1996–97]]
+* [[1997–98 FA Premier League|1997–98]]
+* [[1998–99 FA Premier League|1998–99]]
+* [[1999–2000 FA Premier League|1999–2000]]
+* [[2000–01 FA Premier League|2000–01]]
+* [[2001–02 FA Premier League|2001–02]]
+* [[2002–03 FA Premier League|2002–03]]
+* [[2003–04 FA Premier League|2003–04]]
+* [[2004–05 FA Premier League|2004–05]]
+* [[2005–06 FA Premier League|2005–06]]
+* [[2006–07 FA Premier League|2006–07]]
+* [[2007–08 Premier League|2007–08]]
+* [[2008–09 Premier League|2008–09]]
+* [[2009–10 Premier League|2009–10]]
+* [[2010–11 Premier League|2010–11]]
+* [[2011–12 Premier League|2011–12]]
+* [[2012–13 Premier League|2012–13]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Clubs</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">[[2012–13 Premier League|2012–13]]</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[Arsenal F.C.|Arsenal]]
+* [[Aston Villa F.C.|Aston Villa]]
+* [[Chelsea F.C.|Chelsea]]
+* [[Everton F.C.|Everton]]
+* [[Fulham F.C.|Fulham]]
+* [[Liverpool F.C.|Liverpool]]
+* [[Manchester City F.C.|Manchester City]]
+* [[Manchester United F.C.|Manchester United]]
+* [[Newcastle United F.C.|Newcastle United]]
+* [[Norwich City F.C.|Norwich City]]
+* [[Queens Park Rangers F.C.|Queens Park Rangers]]
+* [[Reading F.C.|Reading]]
+* [[Southampton F.C.|Southampton]]
+* [[Stoke City F.C.|Stoke City]]
+* [[Sunderland A.F.C.|Sunderland]]
+* [[Swansea City A.F.C.|Swansea City]]
+* [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+* [[West Bromwich Albion F.C.|West Bromwich Albion]]
+* [[West Ham United F.C.|West Ham United]]
+* [[Wigan Athletic F.C.|Wigan Athletic]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">[[Football_League_Championship#Relegated_teams_.28from_Premier_League_to_Championship.29|Former]]</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[Barnsley F.C.|Barnsley]]
+* [[Birmingham City F.C.|Birmingham City]]
+* [[Blackburn Rovers F.C.|Blackburn Rovers]]
+* [[Blackpool F.C.|Blackpool]]
+* [[Bolton Wanderers F.C.|Bolton Wanderers]]
+* [[Bradford City A.F.C.|Bradford City]]
+* [[Burnley F.C.|Burnley]]
+* [[Charlton Athletic F.C.|Charlton Athletic]]
+* [[Coventry City F.C.|Coventry City]]
+* [[Crystal Palace F.C.|Crystal Palace]]
+* [[Derby County F.C.|Derby County]]
+* [[Hull City A.F.C.|Hull City]]
+* [[Ipswich Town F.C.|Ipswich Town]]
+* [[Leeds United A.F.C.|Leeds United]]
+* [[Leicester City F.C.|Leicester City]]
+* [[Middlesbrough F.C.|Middlesbrough]]
+* [[Nottingham Forest F.C.|Nottingham Forest]]
+* [[Oldham Athletic A.F.C.|Oldham Athletic]]
+* [[Portsmouth F.C.|Portsmouth]]
+* [[Sheffield United F.C.|Sheffield United]]
+* [[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+* [[Swindon Town F.C.|Swindon Town]]
+* [[Watford F.C.|Watford]]
+* [[Wimbledon F.C.|Wimbledon]] 
+* [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Competition</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[List of Premier League clubs|Teams]] ([[List of English football champions#Premier League (1992–present)|winners]])
+* [[List of Premier League players|Players]] ([[List of foreign Premier League players|foreign]]) ([[List of football players with a Premier League winner's medal|winners]])
+* [[List of Premier League managers|Managers]] ([[List of English Football League managers|current]])
+* [[List of Premier League stadiums|Stadia]]
+* [[Foundation of the Premier League|Founding]]
+* [[List of Premier League broadcasters|Broadcasters]]
+* [[Select Group Referees|Referees]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Statistics and awards</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[Premier League records and statistics|Records]]
+* [[Premier League records and statistics#All-Time FA Premier League Table|All-time table]]
+* [[Average attendances of European football clubs|Average attendances]]
+* [[List of Premier League hat-tricks|Hat-tricks]]
+* [[List of Premier League highest scoring games|Highest scores]] 
+* [[Premier League Golden Boot|Golden Boot]]
+* [[Premier League Golden Glove|Golden Glove]]
+* [[Premier League Manager of the Season|Manager of the Season]]
+* [[Premier League Player of the Season|Player of the Season]]
+* [[Premier League Manager of the Month|Manager of the Month]]
+* [[Premier League Player of the Month|Player of the Month]]
+* [[List of Premier League players with 100 or more goals|Players with 100+ goals]]
+*[[Top Premier League goal scorers by season|Top scorers by season]]
+* [[Premier League 10 Seasons Awards|10 Seasons Awards]]
+* [[Premier League 20 Seasons Awards|20 Seasons Awards]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Finances</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* Richest clubs:
+** [[Deloitte Football Money League|Deloitte list]]
+** [[Forbes' list of the most valuable football clubs|Forbes' list]]
+* [[List of English football club owners#Premier_League|Team owners]]
+* [[Progression of British football transfer fee record|Transfer records]]
+* [[Game 39]]
+* [[Premier League–Football League gulf]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Associated competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[Premier League Asia Trophy|Asia Trophy]]
+* [[FA Community Shield]]
+* [[FA Cup]]
+* [[Football League Cup]]
+* [[UEFA Champions League]]
+* [[UEFA Europa League]]
+* [[FA Women's Premier League|Women's League]]
+* [[Premier Reserve League|Reserve League]]
+* [[Premier Academy League|Academy League]]</div></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+* [[File:Folder Hexagonal Icon.svg               | Category                           |16px|link=]] '''[[:Category:Premier League|Category]]'''
+* [[File:Commons-logo.svg|16x16px|link=|alt=]] '''[[commons:Category:FA Premier League|Commons]]'''</div></td></tr></table></td></tr></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:2012–13 in English football|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:2012–13 in English football|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:2012%E2%80%9313_in_English_football&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[2012–13 in English football]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+<div style="float: left;"> « <span style="font-size:90%;">[[2011–12 in English football|2011–12]]</span> </div></div></td></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[The Football Association|FA]] competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 FA Cup|FA Cup]] <span style="font-size:85%;">([[2012–13 FA Cup Qualifying Rounds|Qualifying Rounds]], [[2013 FA Cup Final|Final]])</span>
+*[[2012 FA Community Shield|Community Shield]]
+*[[2012–13 FA Trophy|FA Trophy]] <span style="font-size:85%;">([[2013 FA Trophy Final|Final]])</span>
+*[[2012–13 FA Youth Cup|FA Youth Cup]]
+*[[2012–13 FA Women's Cup|FA Women's Cup]] <span style="font-size:85%;">([[2013 FA Women's Cup Final|Final]])</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[Premier League|Premier]] and [[The Football League|Football League]]s</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";;">Men</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 Premier League|Premier League]]
+*[[2012–13 Football League|Football League]] <span style="white-space: normal;"><span style="font-size:85%;">([[2012–13 Football League Championship|Championship]], [[2012–13 Football League One|League One]], [[2012–13 Football League Two|League Two]])</span></span>
+*[[2012–13 Football League Cup|League Cup]] <span style="font-size:85%;">([[2013 Football League Cup Final|Final]])</span>
+*[[2012–13 Football League Trophy|Football League Trophy]] <span style="font-size:85%;">([[2013 Football League Trophy Final|Final]])</span>
+*[[2013 Football League play-offs|Play-offs]] <span style="white-space: normal;"><span style="font-size:85%;">([[2013 Football League Championship play-off Final|Championship Final]], [[2013 Football League One play-off Final|League One Final]], [[2013 Football League Two play-off Final|League Two Final]])</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Women</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+*Super League <span style="font-size:85%;">([[2012 FA WSL|'12]], [[2013 FA WSL|'13]])</span>
+*[[2012–13 FA Women's Premier League|Premier League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Youth</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*Professional Development League <span style="font-size:85%;">([[2012–13 Professional Development League 1|League 1]], [[2012–13 Professional Development League 2|League 2]])</span></div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[Football Conference]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 Football Conference|Football Conference]] <span style="font-size:85%;">([[2012–13 Football Conference#Conference National|National]], [[2012–13 Football Conference#Conference North|North]], [[2012–13 Football Conference#Conference South|South]])</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Level 7–8</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+*[[2012–13 Isthmian League|Isthmian League]]
+*[[2012–13 Northern Premier League|Northern Premier League]]
+*[[2012–13 Southern Football League|Southern Football League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Level 9–10</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 Combined Counties Football League|Combined Counties Football League]]
+*[[2012–13 Eastern Counties Football League|Eastern Counties Football League]]
+*[[2012–13 Essex Senior Football League|Essex Senior Football League]]
+*[[2012–13 Hellenic Football League|Hellenic Football League]]
+*[[2012–13 Kent Football League|Kent League]]
+*[[2012–13 Kent Invicta Football League|Kent Invicta League]]
+*[[2012–13 Midlands football leagues (levels 9–10)#Midland Football Alliance|Midland Football Alliance]]
+*[[2012–13 Midlands football leagues (levels 9–10)#Midland Football Combination Premier Division|Midland Football Combination]]
+*[[2012–13 North West Counties Football League|North West Counties Football League]]
+*[[2012–13 Northern Counties East Football League|Northern Counties East Football League]]
+*[[2012–13 Northern Football League|Northern Football League]]
+*[[2012–13 Spartan South Midlands Football League|Spartan South Midlands Football League]]
+*[[2012–13 Sussex County Football League|Sussex County Football League]]
+*[[2012–13 United Counties Football League|United Counties Football League]]
+*[[2012–13 Wessex Football League|Wessex League]]
+*[[2012–13 Western Football League|Western Football League]]
+*[[2012–13 Midlands football leagues (levels 9–10)#West Midlands (Regional) League Premier Division|West Midlands (Regional) League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">European competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";;">Men</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 UEFA Champions League|Champions League]] <span style="font-size:85%;">([[2013 UEFA Champions League Final|Final]])</span>
+*[[2012–13 UEFA Europa League|Europa League]] <span style="font-size:85%;">([[2013 UEFA Europa League Final|Final]])</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Women</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+*[[2012–13 UEFA Women's Champions League|Champions League]] <span style="font-size:85%;">([[2013 UEFA Women's Champions League Final|Final]])</span></div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Related to national teams</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";;">[[England national football team|Men]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2014 FIFA World Cup qualification]] <span style="font-size:85%;">([[2014 FIFA World Cup qualification – UEFA Group H|Group H]])</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[England women's national football team|Women]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+*[[Hope Powell]]</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td colspan=2 style="width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+'''Club seasons'''</div></td></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Premier League|Premier League]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2012–13 Arsenal F.C. season|Arsenal]]
+* [[2012–13 Aston Villa F.C. season|Aston Villa]]
+* [[2012–13 Chelsea F.C. season|Chelsea]]
+* [[2012–13 Everton F.C. season|Everton]]
+* [[2012–13 Fulham F.C. season|Fulham]]
+* [[2012–13 Liverpool F.C. season|Liverpool]]
+* [[2012–13 Manchester City F.C. season|Manchester City]]
+* [[2012–13 Manchester United F.C. season|Manchester United]]
+* [[2012–13 Newcastle United F.C. season|Newcastle United]]
+* [[2012–13 Norwich City F.C. season|Norwich City]]
+* [[2012–13 Queens Park Rangers F.C. season|Queens Park Rangers]]
+* [[2012–13 Reading F.C. season|Reading]]
+* [[2012–13 Southampton F.C. season|Southampton]]
+* [[2012–13 Stoke City F.C. season|Stoke City]]
+* [[2012–13 Sunderland A.F.C. season|Sunderland]]
+* [[2012–13 Swansea City A.F.C. season|Swansea City]]
+* [[2012–13 Tottenham Hotspur F.C. season|Tottenham Hotspur]]
+* [[2012–13 West Bromwich Albion F.C. season|West Bromwich Albion]]
+* [[2012–13 West Ham United F.C. season|West Ham United]]
+* [[2012–13 Wigan Athletic F.C. season|Wigan Athletic]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Football League Championship|Championship]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[2012–13 Barnsley F.C. season|Barnsley]]
+* [[2012–13 Birmingham City F.C. season|Birmingham City]]
+* [[2012–13 Blackburn Rovers F.C. season|Blackburn Rovers]]
+* [[2012–13 Blackpool F.C. season|Blackpool]]
+* [[2012–13 Bolton Wanderers F.C. season|Bolton Wanderers]]
+* [[2012–13 Brighton & Hove Albion F.C. season|Brighton & Hove Albion]]
+* [[2012–13 Bristol City F.C. season|Bristol City]]
+* [[2012–13 Burnley F.C. season|Burnley]]
+* [[2012–13 Cardiff City F.C. season|Cardiff City]]
+* [[2012–13 Charlton Athletic F.C. season|Charlton Athletic]]
+* [[2012–13 Crystal Palace F.C. season|Crystal Palace]]
+* [[2012–13 Derby County F.C. season|Derby County]]
+* [[2012–13 Huddersfield Town F.C. season|Huddersfield Town]]
+* [[2012–13 Hull City A.F.C. season|Hull City]]
+* [[2012–13 Ipswich Town F.C. season|Ipswich Town]]
+* [[2012–13 Leeds United A.F.C. season|Leeds United]]
+* [[2012–13 Leicester City F.C. season|Leicester City]]
+* [[2012–13 Middlesbrough F.C. season|Middlesbrough]]
+* [[2012–13 Millwall F.C. season|Millwall]]
+* [[2012–13 Nottingham Forest F.C. season|Nottingham Forest]]
+* [[2012–13 Peterborough United F.C. season|Peterborough United]]
+* [[2012–13 Sheffield Wednesday F.C. season|Sheffield Wednesday]]
+* [[2012–13 Watford F.C. season|Watford]]
+* [[2012–13 Wolverhampton Wanderers F.C. season|Wolverhampton Wanderers]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Football League One|League One]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2012–13 A.F.C. Bournemouth season|Bournemouth]]
+* [[2012–13 Brentford F.C. season|Brentford]]
+* [[2012–13 Bury F.C. season|Bury]]
+* [[2012–13 Carlisle United F.C. season|Carlisle United]]
+* [[2012–13 Colchester United F.C. season|Colchester United]]
+* [[2012–13 Coventry City F.C. season|Coventry City]]
+* [[2012–13 Crawley Town F.C. season|Crawley Town]]
+* [[2012–13 Crewe Alexandra F.C. season|Crewe Alexandra]]
+* [[2012–13 Doncaster Rovers F.C. season|Doncaster Rovers]]
+* [[2012–13 Hartlepool United F.C. season|Hartlepool United]]
+* [[2012–13 Leyton Orient F.C. season|Leyton Orient]]
+* [[2012–13 Milton Keynes Dons F.C. season|Milton Keynes Dons]]
+* [[2012–13 Notts County F.C. season|Notts County]]
+* [[2012–13 Oldham Athletic A.F.C. season|Oldham Athletic]]
+* [[2012–13 Portsmouth F.C. season|Portsmouth]]
+* [[2012–13 Preston North End F.C. season|Preston North End]]
+* [[2012–13 Scunthorpe United F.C. season|Scunthorpe United]]
+* [[2012–13 Sheffield United F.C. season|Sheffield United]]
+* [[2012–13 Shrewsbury Town F.C. season|Shrewsbury Town]]
+* [[2012–13 Stevenage F.C. season|Stevenage]]
+* [[2012–13 Swindon Town F.C. season|Swindon Town]]
+* [[2012–13 Tranmere Rovers F.C. season|Tranmere Rovers]]
+* [[2012–13 Walsall F.C. season|Walsall]]
+* [[2012–13 Yeovil Town F.C. season|Yeovil Town]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Football League Two|League Two]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[2012–13 Accrington Stanley F.C. season|Accrington Stanley]]
+* [[2012–13 AFC Wimbledon season|AFC Wimbledon]]
+* [[2012–13 Aldershot Town F.C. season|Aldershot Town]]
+* [[2012–13 Barnet F.C. season|Barnet]]
+* [[2012–13 Bradford City A.F.C. season|Bradford City]]
+* [[2012–13 Bristol Rovers F.C. season|Bristol Rovers]]
+* [[2012–13 Burton Albion F.C. season|Burton Albion]]
+* [[2012–13 Cheltenham Town F.C. season|Cheltenham Town]]
+* [[2012–13 Chesterfield F.C. season|Chesterfield]]
+* [[2012–13 Dagenham & Redbridge F.C. season|Dagenham & Redbridge]]
+* [[2012–13 Exeter City F.C. season|Exeter City]]
+* [[2012–13 Fleetwood Town F.C. season|Fleetwood Town]]
+* [[2012–13 Gillingham F.C. season|Gillingham]]
+* [[2012–13 Morecambe F.C. season|Morecambe]]
+* [[2012–13 Northampton Town F.C. season|Northampton Town]]
+* [[2012–13 Oxford United F.C. season|Oxford United]]
+* [[2012–13 Plymouth Argyle F.C. season|Plymouth Argyle]]
+* [[2012–13 Port Vale F.C. season|Port Vale]]
+* [[2012–13 Rochdale A.F.C. season|Rochdale]]
+* [[2012–13 Rotherham United F.C. season|Rotherham United]]
+* [[2012–13 Southend United F.C. season|Southend United]]
+* [[2012–13 Torquay United F.C. season|Torquay United]]
+* [[2012–13 Wycombe Wanderers F.C. season|Wycombe Wanderers]]
+* [[2012–13 York City F.C. season|York City]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Football Conference|Football Conference]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2012–13 A.F.C. Telford United season|AFC Telford United]]
+* [[2012–13 Alfreton Town F.C. season|Alfreton Town]]
+* [[2012–13 Barrow A.F.C. season|Barrow]]
+* [[2012–13 Braintree Town F.C. season|Braintree Town]]
+* [[2012–13 Cambridge United F.C. season|Cambridge United]]
+* [[2012–13 Dartford F.C. season|Dartford]]
+* [[2012–13 Ebbsfleet United F.C. season|Ebbsfleet United]]
+* [[2012–13 Forest Green Rovers F.C. season|Forest Green Rovers]]
+* [[2012–13 Gateshead F.C. season|Gateshead]]
+* [[2012–13 Grimsby Town F.C. season|Grimsby Town]]
+* [[2012–13 Hereford United F.C. season|Hereford United]]
+* [[2012–13 Hyde F.C. season|Hyde]]
+* [[2012–13 Kidderminster Harriers F.C. season|Kidderminster Harriers]]
+* [[2012–13 Lincoln City F.C. season|Lincoln City]]
+* [[2012–13 Luton Town F.C. season|Luton Town]]
+* [[2012–13 Macclesfield Town F.C. season|Macclesfield Town]]
+* [[2012–13 Mansfield Town F.C. season|Mansfield Town]]
+* [[2012–13 Newport County A.F.C. season|Newport County]]
+* [[2012–13 Nuneaton Town F.C. season|Nuneaton Town]]
+* [[2012–13 Southport F.C. season|Southport]]
+* [[2012–13 Stockport County F.C. season|Stockport County]]
+* [[2012–13 Tamworth F.C. season|Tamworth]]
+* [[2012–13 Woking F.C. season|Woking]]
+* [[2012–13 Wrexham F.C. season|Wrexham]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Others</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[2012–13 F.C. United of Manchester season|F.C. United]]</div></td></tr></table><div></div></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+* [[List of English football transfers summer 2012|Summer 2012 transfers]]
+* [[List of English football transfers winter 2012–13|Winter 2012–13 transfers]]</div></td></tr></table></td></tr></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:2012–13 in European football (UEFA)|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:2012–13 in European football (UEFA)|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:2012%E2%80%9313_in_European_football_(UEFA)&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[2012 in association football|2012]]–[[2013 in association football|13]] in European football ([[UEFA]])</div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic leagues</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2012–13 Albanian Superliga|Albania]]
+* [[2012–13 Primera Divisió|Andorra]]
+* [[2012–13 Armenian Premier League|Armenia]]
+* [[2012–13 Austrian Football Bundesliga|Austria]]
+* [[2012–13 Azerbaijan Premier League|Azerbaijan]]
+* Belarus [[2012 Belarusian Premier League|<small>'12</small>]] [[2013 Belarusian Premier League|<small>'13</small>]]
+* [[2012–13 Belgian Pro League|Belgium]]
+* [[2012–13 Premier League of Bosnia and Herzegovina|Bosnia and Herzegovina]]
+* [[2012–13 A PFG |Bulgaria]]
+* [[2012–13 Prva HNL|Croatia]]
+* [[2012–13 Cypriot First Division|Cyprus]]
+* [[2012–13 Gambrinus liga|Czech Republic]]
+* [[2012–13 Danish Superliga|Denmark]]
+* [[2012–13 Premier League|England]]
+* Estonia [[2012 Meistriliiga|<small>'12</small>]] [[2013 Meistriliiga|<small>'13</small>]]
+* Faroe Islands [[2012 Faroe Islands Premier League|<small>'12</small>]] [[2013 Faroe Islands Premier League|<small>'13</small>]]
+* Finland [[2012 Veikkausliiga|<small>'12</small>]] [[2013 Veikkausliiga|<small>'13</small>]]
+* [[2012–13 Ligue 1|France]]
+* [[2012–13 Umaglesi Liga|Georgia]]
+* [[2012–13 Fußball-Bundesliga|Germany]]
+* [[2012–13 Superleague Greece|Greece]]
+* [[2012–13 Nemzeti Bajnokság I|Hungary]]
+* Iceland [[2012 Úrvalsdeild|<small>'12</small>]] [[2013 Úrvalsdeild|<small>'13</small>]]
+* [[2012–13 Israeli Premier League|Israel]]
+* [[2012–13 Serie A|Italy]]
+* Kazakhstan [[2012 Kazakhstan Premier League|<small>'12</small>]] [[2013 Kazakhstan Premier League|<small>'13</small>]]
+* Latvia [[2012 Latvian Higher League|<small>'12</small>]] [[2013 Latvian Higher League|<small>'13</small>]]
+* Lithuania [[2012 A Lyga|<small>'12</small>]] [[2013 A Lyga|<small>'13</small>]]
+* [[2012–13 Luxembourg National Division|Luxembourg]]
+* [[2012–13 First Macedonian Football League|Macedonia]]
+* [[2012–13 Maltese Premier League|Malta]]
+* [[2012–13 Moldovan National Division|Moldova]]
+* [[2012–13 Montenegrin First League|Montenegro]]
+* [[2012–13 Eredivisie|Netherlands]]
+* [[2012–13 IFA Premiership|Northern Ireland]]
+* Norway [[2012 Norwegian Premier League|<small>'12</small>]] [[2013 Norwegian Premier League|<small>'13</small>]]
+* [[2012–13 Ekstraklasa|Poland]]
+* [[2012–13 Primeira Liga|Portugal]]
+* Republic of Ireland [[2012 League of Ireland|<small>'12</small>]] [[2013 League of Ireland|<small>'13</small>]]
+* [[2012–13 Liga I|Romania]]
+* [[2012–13 Russian Premier League|Russia]]
+* [[2012–13 Campionato Sammarinese di Calcio|San Marino]]
+* [[2012–13 Scottish Premier League|Scotland]]
+* [[2012–13 Serbian SuperLiga|Serbia]]
+* [[2012–13 Slovak First Football League|Slovakia]]
+* [[2012–13 Slovenian PrvaLiga|Slovenia]]
+* [[2012–13 La Liga|Spain]]
+* Sweden [[2012 Allsvenskan|<small>'12</small>]] [[2013 Allsvenskan|<small>'13</small>]]
+* [[2012–13 Swiss Super League|Switzerland]]
+* [[2012–13 Süper Lig|Turkey]]
+* [[2012–13 Ukrainian Premier League|Ukraine]]
+* [[2012–13 Welsh Premier League|Wales]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic cups</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012–13 Albanian Cup|Albania]]
+* [[2013 Copa Constitució|Andorra]]
+* [[2012–13 Armenian Cup|Armenia]]
+* [[2012–13 Austrian Cup|Austria]]
+* [[2012–13 Azerbaijan Cup|Azerbaijan]]
+* [[2012–13 Belarusian Cup|Belarus]]
+* [[2012–13 Belgian Cup|Belgium]]
+* [[2012–13 Bosnia and Herzegovina Football Cup|Bosnia and Herzegovina]]
+* [[2012–13 Bulgarian Cup|Bulgaria]]
+* [[2012–13 Croatian Cup|Croatia]]
+* [[2012–13 Cypriot Cup|Cyprus]]
+* [[2012–13 Czech Republic Football Cup|Czech Republic]]
+* [[2012–13 Danish Cup|Denmark]]
+* [[2012–13 FA Cup|England]]
+* [[2012–13 Estonian Cup|Estonia]]
+* Faroe Islands [[2012 Faroe Islands Cup|<small>'12</small>]] [[2013 Faroe Islands Cup|<small>'13</small>]]
+* Finland [[2012 Finnish Cup|<small>'12</small>]] [[2013 Finnish Cup|<small>'13</small>]]
+* [[2012–13 Coupe de France|France]]
+* [[2012–13 Georgian Cup|Georgia]]
+* [[2012–13 DFB-Pokal|Germany]]
+* [[2012–13 Greek Football Cup|Greece]]
+* [[2012–13 Magyar Kupa|Hungary]]
+* Iceland [[2012 Icelandic Cup|<small>'12</small>]] [[2013 Icelandic Cup|<small>'13</small>]]
+* [[2012–13 Israel State Cup|Israel]]
+* [[2012–13 Coppa Italia|Italy]]
+* Kazakhstan [[2012 Kazakhstan Cup|<small>'12</small>]] [[2013 Kazakhstan Cup|<small>'13</small>]]
+* [[2012–13 Latvian Football Cup|Latvia]]
+* [[2012–13 Liechtenstein Cup|Liechtenstein]]
+* [[2012–13 Lithuanian Football Cup|Lithuania]]
+* [[2012–13 Luxembourg Cup|Luxembourg]]
+* [[2012–13 Macedonian Cup|Macedonia]]
+* [[2012–13 Maltese FA Trophy|Malta]]
+* [[2012–13 Moldovan Cup|Moldova]]
+* [[2012–13 Montenegrin Cup|Montenegro]]
+* [[2012–13 KNVB Cup|Netherlands]]
+* [[2012–13 Irish Cup|Northern Ireland]]
+* Norway [[2012 Norwegian Football Cup|<small>'12</small>]] [[2013 Norwegian Football Cup|<small>'13</small>]]
+* [[2012–13 Polish Cup|Poland]]
+* [[2012–13 Taça de Portugal|Portugal]]
+* Republic of Ireland [[2012 FAI Cup|<small>'12</small>]] [[2013 FAI Cup|<small>'13</small>]]
+* [[2012–13 Cupa României|Romania]]
+* [[2012–13 Russian Cup|Russia]]
+* [[2012–13 Coppa Titano|San Marino]]
+* [[2012–13 Scottish Cup|Scotland]]
+* [[2012–13 Serbian Cup|Serbia]]
+* [[2012–13 Slovak Cup|Slovakia]]
+* [[2012–13 Slovenian Cup|Slovenia]]
+* [[2012–13 Copa del Rey|Spain]]
+* [[2012–13 Svenska Cupen|Sweden]]
+* [[2012–13 Swiss Cup|Switzerland]]
+* [[2012–13 Turkish Cup|Turkey]]
+* [[2012–13 Ukrainian Cup|Ukraine]]
+* [[2012–13 Welsh Cup|Wales]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">League cups</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2012–13 Football League Cup|England]]
+* Finland [[2012 Finnish League Cup|<small>'12</small>]] [[2013 Finnish League Cup|<small>'13</small>]]
+* [[2012–13 Coupe de la Ligue|France]]
+* [[2012–13 Ligakupa|Hungary]]
+* Iceland [[2012 Deildabikar|<small>'12</small>]] [[2013 Deildabikar|<small>'13</small>]]
+* [[2012–13 Toto Cup Al|Israel]]
+* [[2012–13 Irish League Cup|Northern Ireland]]
+* [[2012–13 Taça da Liga|Portugal]]
+* Republic of Ireland [[2012 League of Ireland Cup|<small>'12</small>]] [[2013 League of Ireland Cup|<small>'13</small>]]
+* [[2012–13 Scottish League Cup|Scotland]]
+* [[2012–13 Welsh League Cup|Wales]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">UEFA competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012–13 UEFA Champions League|Champions League]]
+** <small>[[2012–13 UEFA Champions League qualifying phase and play-off round|qualifying phase and play-off round]]</small>
+** <small>[[2012–13 UEFA Champions League group stage|group stage]]</small>
+** <small>[[2012–13 UEFA Champions League knockout phase|knockout phase]]</small>
+** <small>[[2013 UEFA Champions League Final|Final]]</small>
+* [[2012–13 UEFA Europa League|Europa League]]
+** <small>[[2012–13 UEFA Europa League qualifying phase and play-off round|qualifying phase and play-off round]]</small>
+** <small>[[2012–13 UEFA Europa League group stage|group stage]]</small>
+** <small>[[2012–13 UEFA Europa League knockout phase|knockout phase]]</small>
+** <small>[[2013 UEFA Europa League Final|Final]]</small>
+* [[2012 UEFA Super Cup|Super Cup]]</div></td></tr></table></td></tr></table>
+
+
+[[Category:2012–13 domestic association football leagues]]
+[[Category:Premier League seasons|2012–13]]
+[[Category:2012–13 in English football|1]]
+
+[[ar:الدوري الإنجليزي الممتاز 2012–13]]
+[[bg:Английска висша лига 2012/13]]
+[[da:Premier League 2012-13]]
+[[de:Premier League 2012/13]]
+[[et:Premier League'i hooaeg 2012–2013]]
+[[el:Αγγλικό πρωτάθλημα ποδοσφαίρου ανδρών 2012-2013]]
+[[es:Premier League 2012/13]]
+[[fr:Championnat d'Angleterre de football 2012-2013]]
+[[gl:Premier League 2012-2013]]
+[[ko:프리미어리그 2012-13]]
+[[hy:Պրեմիեր Լիգա 2012-13 (Անգլիա)]]
+[[id:Liga Utama Inggris 2012–13]]
+[[it:Premier League 2012-2013]]
+[[kk:Футболдан Англия чемпионаты 2012/2013]]
+[[hu:2012–2013-as angol labdarúgó-bajnokság (első osztály)]]
+[[ml:പ്രീമിയർ ലീഗ് 2012-13]]
+[[nl:Engels voetbalkampioenschap 2012/13]]
+[[no:Premier League 2012/13]]
+[[pl:Premier League (2012/2013)]]
+[[pt:Premier League 2012-13]]
+[[ru:Чемпионат Англии по футболу 2012/2013]]
+[[simple:2012-13 Premier League]]
+[[sv:Premier League 2012/2013]]
+[[th:พรีเมียร์ลีก ฤดูกาล 2012–13]]
+[[uk:Чемпіонат Англії з футболу 2012—2013: Прем'єр-ліга]]
+[[vi:Giải bóng đá Ngoại hạng Anh 2012-13]]
+[[zh:2012–13賽季英格蘭超級聯賽]]

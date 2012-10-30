@@ -73,7 +73,7 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
 
     return soccer.LeagueData(leaguetitle, season, relegationleagues, promotionleague, numteams, levelnum)
 
-def handleSeason(rvtext, leaguedata):
+def getSeasonTeams(rvtext, numteams):
     teams = None
 
     tableStatus = 0
@@ -147,9 +147,21 @@ def handleSeason(rvtext, leaguedata):
 
         if (tableStatus == 2 or tableStatus == 3) and ls[0:2] == '|}':
             tableStatus = 0
-            if len(thisteams) == leaguedata.numteams:
+            if numteams > 0 and len(thisteams) == numteams:
                 teams = thisteams
                 break
+
+    if teams:
+        teamres = []
+        for t in teams:
+            name, link = wikiutils.unlinkify(t)
+            teamres.append((name, link))
+        return teamres
+    else:
+        return None
+
+def handleSeason(rvtext, leaguedata):
+    teams = getSeasonTeams(rvtext, leaguedata.numteams)
 
     numPartialTeams = 0
     numCompleteTeams = 0
@@ -158,8 +170,7 @@ def handleSeason(rvtext, leaguedata):
         print len(teams), 'teams found.'
         root = etree.Element("League")
         root.set('title', leaguedata.title)
-        for t in teams:
-            name, link = wikiutils.unlinkify(t)
+        for name, link in teams:
             if link:
                 td = teamparser.fetchTeamData(link)
                 if td and len(td.players) > 0:

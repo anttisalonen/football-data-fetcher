@@ -1,0 +1,672 @@
+{{Use British English|date=October 2012}}
+{{About|the English football league}}
+{{Infobox football league
+| name = Barclays Premier League
+| image = Premier League.svg
+| pixels = 150px
+| country = England<br />Wales
+| confed = [[UEFA]]
+| founded = 20 February 1992
+| teams = [[#Clubs|20]]
+| relegation = [[Football League Championship]]
+| levels = 1
+| domest_cup = [[FA Cup]]<br />[[FA Community Shield]]
+| league_cup = [[Football League Cup|League Cup]]
+| confed_cup = [[UEFA Champions League]]<br />[[UEFA Europa League]]
+| champions = [[Manchester City F.C.|Manchester City]] (1st title)
+| season = [[2011–12 Premier League|2011–12]]
+| most_successful_club = [[Manchester United F.C.|Manchester United]] (12 titles)
+| tv = [[Sky Sports]] & [[ESPN (UK)|ESPN]] (live matches)<br />[[BBC Sport|BBC]] (highlights)
+| website = [http://www.premierleague.com Premierleague.com]
+| current = [[2012–13 Premier League]]
+}}
+The '''Premier League''' is an English professional league for association football clubs. At the top of the [[English football league system]], it is the country's primary football competition. Contested by 20 clubs, it operates on a system of [[promotion and relegation]] with [[the Football League]]. The Premier League is a corporation in which the 20 member clubs act as shareholders. Seasons run from August to May, with teams playing 38 matches each, totalling 380 matches in the season. Most games are played in the afternoons of Saturdays and Sundays, the other games during weekday evenings. It is currently [[English football sponsorship|sponsored]] by [[Barclays|Barclays Bank]] and thus officially known as the '''Barclays Premier League'''. Outside England it is commonly referred to as the '''English Premier League''' (EPL).
+
+The competition formed as the '''FA Premier League''' on 20 February 1992 following the decision of clubs in the [[Football League First Division]] to break away from The Football League, which was originally founded in 1888, and take advantage of a lucrative television rights deal.<ref>{{cite news |url= http://worldsport.blogs.cnn.com/2011/01/16/which-football-league-is-the-worlds-best/ |title=United (versus Liverpool) Nations |newspaper=The Observer |date=6 January 2002 |accessdate =8 August 2006}}</ref> This deal will be worth £3&nbsp;billion as of 2013–14, with [[BSkyB]] and [[BT Group]] securing the rights to broadcast 116 and 38 games respectively.<ref>{{cite news |title=Premier League lands £bn deal |url=http://www.guardian.co.uk/media/2012/jun/13/premier-league-tv-rights-3-billion-sky-bt/ |newspaper=The Guardian |date=14 June 2012 |accessdate=14 June 2012 }}</ref> The Premier League is the most-watched football league in the world, broadcast in 212 territories to 643&nbsp;million homes.<ref>{{cite news |title=The World's Most Watched League |url=http://www.premierleague.com/en-gb/about/the-worlds-most-watched-league.html |work=Premier League |publisher=PremierLeague.com |date=16 November 2011 |accessdate=11 April 2012}}</ref> In the [[2010–11 Premier League|2010–11 season]] the average Premier League match attendance was 35,363, the second highest of any professional football league other than the German [[Fußball-Bundesliga|Bundesliga]],<ref>{{cite web|title=German Bundesliga Stats: Team Attendance – 2010–11|url=http://soccernet.espn.go.com/stats/attendance/_/league/ger.1/year/2010/german-bundesliga?cc=4716}}</ref> and stadium occupancy was 92.2% capacity.<ref>[http://www.premierleague.com/en-gb/about/history.html History<!-- Bot generated title -->]</ref> The Premier League ranked first in the [[UEFA coefficient|Union of European Football Associations (UEFA) coefficient]]s of leagues based on performances in European competitions over the last five years.<ref>{{cite news |url=http://www.xs4all.nl/~kassiesa/bert/uefa/data/method4/crank2011.html |title=UEFA ranking of European leagues |last=Kassies |first=Bert |publisher=Bert Kassies |date=4 November 2010 |accessdate=13 November 2010 }}</ref>
+
+Since 1888, a total of 23 clubs have been crowned [[list of English football champions|champions of the English football system]]. Of the [[List of Premier League clubs|45 clubs to have competed]] since the inception of the Premier League in 1992, five have won the title: [[Manchester United F.C.|Manchester United]] (12 titles), [[Arsenal F.C.|Arsenal]] (3), [[Chelsea F.C.|Chelsea]] (3), [[Blackburn Rovers F.C.|Blackburn Rovers]] (1) and [[Manchester City F.C.|Manchester City]] (1). The current champions are Manchester City, who won the title in the [[2011–12 Premier League|2011–12]] season.
+
+== History ==
+=== Origins ===
+Despite significant European success during the 1970s and early 1980s, the late '80s had marked a low point for English football. [[Stadium|Stadia]] were crumbling, supporters endured poor facilities, [[Football hooliganism|hooliganism]] was rife, and English clubs were banned from European competition for five years following the [[Heysel Stadium disaster]] in 1985.<ref>{{cite news |url=http://news.bbc.co.uk/onthisday/hi/dates/stories/may/31/newsid_2481000/2481723.stm |title=1985: English teams banned after Heysel |work=BBC Archive |publisher=BBC |accessdate=8 August 2006 |date=31 May 1985}}</ref> The [[Football League First Division]], which had been the top level of English football since 1888, was well behind leagues such as Italy's [[Serie A]] and Spain's [[La Liga]] in attendances and revenues, and several top English players had moved abroad.<ref name="premsitehistory">{{cite web |url=http://www.premierleague.com/page/History/0,,12306,00.html |title=A History of The Premier League |publisher=Premier League |accessdate=22 November 2007}}</ref> However, by the turn of the 1990s the downward trend was starting to reverse; England had been successful in the [[1990 FIFA World Cup]], reaching the semi-finals. [[UEFA]], European football's governing body, lifted the five-year ban on English clubs playing in European competitions in 1990 (resulting in Manchester United lifting the [[UEFA Cup Winners' Cup]] in 1991) and the [[Taylor Report]] on stadium safety standards, which proposed expensive upgrades to create all-seater stadia in the aftermath of the [[Hillsborough disaster]], was published in January of that year.<ref>{{cite web |url=http://www.footballnetwork.org/dev/communityfootball/violence_taylor_report.asp |title=The Taylor Report |publisher=Football Network |accessdate=22 November 2007}}</ref>
+
+Television money had also become much more important; the Football League received £6.3&nbsp;million for a two-year agreement in 1986, but when that deal was renewed in 1988, the price rose to £44&nbsp;million over four years.<ref name="leicester_tv">{{cite web |url=http://www.le.ac.uk/sociology/css/resources/factsheets/fs8.html |title=Fact Sheet 8: British Football on Television |publisher=Centre for the Sociology of Sport, University of Leicester |last=Crawford |first=Gerry |accessdate=10 August 2006}}</ref> The 1988 negotiations were the first signs of a breakaway league; ten clubs threatened to leave and form a "super league", but were eventually persuaded to stay.<ref name="FLhistory">{{cite web |url=http://www.football-league.premiumtv.co.uk/page/History/0,,10794,00.html |title=The History of the Football League |publisher=Football League |accessdate=12 September 2010 |archivedate=11 April 2008 |archiveurl=http://web.archive.org/web/20080411034859/http://www.football-league.premiumtv.co.uk/page/History/0,,10794,00.html |deadurl=yes}}</ref> As stadia improved and match attendance and revenues rose, the country's top teams again considered leaving the Football League in order to capitalise on the growing influx of money being pumped into the sport.<ref name="FLhistory"/>
+
+=== Foundation ===
+{{See also|Foundation of the Premier League}}
+{| class="wikitable" style="text-align:center; margin-left:1em; font-size:90%; float:right"
+|-
+!style="width:75px"|Season
+!style="width:125px"|Champions
+|-
+| style="text-align:center"|[[1992–93 FA Premier League|1992–93]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[1993–94 FA Premier League|1993–94]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[1994–95 FA Premier League|1994–95]]
+| [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|-
+| style="text-align:center"|[[1995–96 FA Premier League|1995–96]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[1996–97 FA Premier League|1996–97]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[1997–98 FA Premier League|1997–98]]
+| [[Arsenal F.C.|Arsenal]]
+|-
+| style="text-align:center"|[[1998–99 FA Premier League|1998–99]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[1999–2000 FA Premier League|1999–2000]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[2000–01 FA Premier League|2000–01]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[2001–02 FA Premier League|2001–02]]
+| [[Arsenal F.C.|Arsenal]]
+|-
+| style="text-align:center"|[[2002–03 FA Premier League|2002–03]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[2003–04 FA Premier League|2003–04]]
+| [[Arsenal F.C.|Arsenal]]
+|-
+| style="text-align:center"|[[2004–05 FA Premier League|2004–05]]
+| [[Chelsea F.C.|Chelsea]]
+|-
+| style="text-align:center"|[[2005–06 FA Premier League|2005–06]]
+| [[Chelsea F.C.|Chelsea]]
+|-
+| style="text-align:center"|[[2006–07 FA Premier League|2006–07]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[2007–08 Premier League|2007–08]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[2008–09 Premier League|2008–09]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[2009–10 Premier League|2009–10]]
+| [[Chelsea F.C.|Chelsea]]
+|-
+| style="text-align:center"|[[2010–11 Premier League|2010–11]]
+| [[Manchester United F.C.|Manchester United]]
+|-
+| style="text-align:center"|[[2011–12 Premier League|2011–12]]
+| [[Manchester City F.C.|Manchester City]]
+|-
+| style="text-align:center" colspan="2"|{{Further2|<br />[[List of English football champions|English football champions]]}}
+|}
+
+At the close of the 1991 season, a proposal for the establishment of a new league was tabled that would bring more money into the game overall. The Founder Members Agreement, signed on 17 July 1991 by the game's top-flight clubs, established the basic principles for setting up the FA Premier League.<ref>{{cite news |url=http://www.hmcourts-service.gov.uk/judgmentsfiles/j9/pljmtint.htm |title=In the matter of an agreement between the Football Association Premier League Limited and the Football Association Limited and the Football League Limited and their respective member clubs |work=HM Courts Service |publisher=HM Government |year=2006 |accessdate=8 August 2006 |archiveurl=http://web.archive.org/web/20070927222536/http://www.hmcourts-service.gov.uk/judgmentsfiles/j9/pljmtint.htm |archivedate=27 September 2007|deadurl=yes}}</ref> The newly formed top division would have commercial independence from [[The Football Association]] and the Football League, giving the FA Premier League licence to negotiate its own [[Broadcasting|broadcast]] and [[sponsor (commercial)|sponsorship]] agreements. The argument given at the time was that the extra income would allow English clubs to compete with teams across Europe.<ref>{{cite web |url=http://www.premierleague.com/page/History/0,,12306,00.html |title=A history of the Premier League |publisher=Premier League|accessdate=4 January 2008}}</ref>
+
+In 1992 the First Division clubs resigned from the Football League ''[[en masse]]'' and on 27 May 1992 the FA Premier League was formed as a [[private limited company by shares|limited company]] working out of an office at the Football Association's then headquarters in [[Lancaster Gate]].<ref name="premsitehistory"/> This meant a break-up of the 104-year-old Football League that had operated until then with four divisions; the Premier League would operate with a single division and the Football League with three. There was no change in competition format; the same number of teams competed in the top flight, and promotion and relegation between the Premier League and the new First Division remained the same as the old First and Second Divisions with three teams relegated from the league and three promoted.<ref name="FLhistory"/>
+
+The league held its first season in [[1992–93 FA Premier League|1992–93]] and was originally composed of 22 clubs. The first ever Premier League goal was scored by [[Brian Deane]] of Sheffield United in a 2–1 win against Manchester United.<ref>{{cite news |url=http://www.independent.co.uk/sport/football--the-premier-kickoff-fergusons-false-start-1540915.html |title=The Premier Kick-Off: Ferguson's false start |first=Phil |last=Shaw |newspaper=The Independent |date=17 August 1992 |accessdate=24 August 2010}}</ref> The 22 inaugural members of the new Premier League were [[Arsenal F.C.|Arsenal]], [[Aston Villa F.C.|Aston Villa]], [[Blackburn Rovers F.C.|Blackburn Rovers]], [[Chelsea F.C.|Chelsea]], [[Coventry City F.C.|Coventry City]], [[Crystal Palace F.C.|Crystal Palace]], [[Everton F.C.|Everton]], [[Ipswich Town F.C.|Ipswich Town]], [[Leeds United A.F.C.|Leeds United]], [[Liverpool F.C.|Liverpool]], [[Manchester City F.C.|Manchester City]], [[Manchester United F.C.|Manchester United]], [[Middlesbrough F.C.|Middlesbrough]], [[Norwich City F.C.|Norwich City]], [[Nottingham Forest F.C.|Nottingham Forest]], [[Oldham Athletic A.F.C.|Oldham Athletic]], [[Queens Park Rangers F.C.|Queens Park Rangers]], [[Sheffield United F.C.|Sheffield United]], [[Sheffield Wednesday F.C.|Sheffield Wednesday]], [[Southampton F.C.|Southampton]], [[Tottenham Hotspur F.C.|Tottenham Hotspur]], and [[Wimbledon F.C.|Wimbledon]].<ref>{{cite web |url=http://www.soccerbase.com/league2.sd?competitionid=1&seasonid=122 |title=Final 1992/1993 English Premier Table |work=Soccerbase |publisher=Racing Post |accessdate=14 September 2010}}</ref> [[Luton Town F.C.|Luton Town]], [[Notts County F.C.|Notts County]] and [[West Ham United F.C.|West Ham United]] were the three teams relegated from the old first division at the end of the 1991–92 season, and did not take part in the inaugural Premier League season.
+
+=== Development ===
+{{See also|List of Premier League seasons}}
+Due to insistence by the [[FIFA|International Federation of Association Football]] (FIFA), the international governing body of football, that domestic leagues reduce the number of games clubs played, the number of clubs was reduced to 20 in 1995 when four teams were relegated from the league and only two teams promoted. On 8 June 2006, FIFA requested that all major European leagues, including Italy's Serie A and Spain's La Liga be reduced to 18 teams by the start of the 2007–08 season. The Premier League responded by announcing their intention to resist such a reduction.<ref>{{cite news |title=Fifa wants 18-team Premier League |url=http://news.bbc.co.uk/sport1/hi/football/5061302.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=8 June 2006 |accessdate=8 August 2006 }}</ref> Ultimately, the 2007–08 season kicked off again with 20 teams. The league changed its name from the ''FA Premier League'' to simply the ''Premier League'' in 2007.<ref>{{cite web |url=http://www.premierleague.com/staticFiles/22/65/0,,12306~91426,00.pdf |title=Premier League and Barclays Announce Competition Name Change |publisher=Premier League |accessdate =22 November 2006 |format=PDF}}</ref> Welsh club [[Swansea City A.F.C.|Swansea City]] were promoted to the Premier League for the 2011–12 season. They were the first non-English team to compete in the Premier League. On 20 August 2011, the first Premier League match to be played outside England was between [[Swansea City A.F.C.|Swansea City]] and [[Wigan Athletic F.C.|Wigan Athletic]] at the [[Liberty Stadium]] in [[Swansea]], Wales.<ref>{{cite news |url=http://www.independent.co.uk/sport/football/premier-league/vorm-is-man-in-form-to-save-swans-2341296.html |title=Vorm is man in form to save Swans |date=21 August 2011 |last=Herbert |first=Ian |newspaper=The Independent |accessdate=22 August 2011}}</ref>
+
+== Corporate structure ==
+The Premier League is operated as a corporation and is owned by the 20 member clubs. Each club is a [[shareholder]], with one vote each on issues such as rule changes and contracts. The clubs elect a chairman, chief executive, and board of directors to oversee the daily operations of the league.<ref>{{cite web |url=http://www.premierleague.com/fapl.rac?command=setSelectedId&nextPage=enSimpleStories&id=2861&type=com.fapl.website.stories.SimpleStories&categoryCode=Who%20We%20Are&breadcrumb=about_breadcrumb |title=Our relationship with the clubs |publisher=Premier League |accessdate=8 August 2006 |archiveurl=http://web.archive.org/web/20061114102011/http://www.premierleague.com/fapl.rac?command=setSelectedId&nextPage=enSimpleStories&id=2861&type=com.fapl.website.stories.SimpleStories&categoryCode=Who+We+Are&breadcrumb=about_breadcrumb |archivedate=14 November 2006 }}</ref> The current chairman is [[Dave Richards|Sir Dave Richards]], who was appointed in April 1999, and the chief executive is [[Richard Scudamore]], appointed in November 1999.<ref>{{cite news|url=http://www.guardian.co.uk/football/2008/jun/10/premierleague. englandfootballteam1|title=Premier League v England time-line|first=Sachin|last=Nakrani|newspaper=The Guardian|date=10 June 2008|accessdate=14 September 2010}}</ref> The former chairman and chief executive, [[John Quinton (banker)|John Quinton]] and [[Peter Leaver]], were forced to resign in March 1999 after awarding consultancy contracts to former Sky executives [[Sam Chisholm]] and [[David Chance]].<ref>{{cite news|url=http://www.guardian.co.uk/media/2003/feb/25/broadcasting3|title=Timeline: a history of TV football rights|newspaper=The Guardian|date=25 February 2003|accessdate=14 September 2010}}</ref> The Football Association is not directly involved in the day-to-day operations of the Premier League, but has veto power as a special shareholder during the election of the chairman and chief executive and when new rules are adopted by the league.<ref>{{cite web |url=http://www.premierleague.com/fapl.rac?command=setSelectedId&nextPage=enSimpleStories&id=2851&type=com.fapl.website.stories.SimpleStories&categoryCode=Who%20We%20Are&breadcrumb=about_breadcrumb |archivedate=18 March 2006 |archiveurl=http://web.archive.org/web/20060318214006/http://www.premierleague.com/fapl.rac?command=setSelectedId&nextPage=enSimpleStories&id=2851&type=com.fapl.website.stories.SimpleStories&categoryCode=Who+We+Are&breadcrumb=about_breadcrumb |deadurl=yes |title=The Premier League and Other Football Bodies |publisher=Premier League |accessdate=12 September 2010}}</ref>
+
+The Premier League sends representatives to UEFA's [[European Club Association]], the number of clubs and the clubs themselves chosen according to [[UEFA coefficients]]. For the 2010–11 season the Premier League had 10 representatives in the Association: Arsenal, Aston Villa, Chelsea, Everton, Fulham, Liverpool, Manchester City, Manchester United, Newcastle United and Tottenham Hotspur.<ref>{{cite web |url=http://www.ecaeurope.com/Default.aspx?id=1082680 |title=ECA Members |publisher=European Club Association |accessdate=7 September 2010}} {{Dead link|date=April 2012|bot=H3llBot}}</ref> The European Club Association is responsible for electing three members to UEFA's Club Competitions Committee, which is involved in the operations of UEFA competitions such as the [[UEFA Champions League|Champions League]] and [[UEFA Europa League]].<ref>{{cite web |url=http://www.ecaeurope.com/Default.aspx?id=1085058 |title=European Club Association: General Presentation |publisher=European Club Association |accessdate=7 September 2010 |archiveurl=http://web.archive.org/web/20100809132539/http://www.ecaeurope.com/Default.aspx?id=1085058 <!-- Added by H3llBot --> |archivedate=9 August 2010}}</ref>
+
+== Competition format ==
+=== Competition ===
+There are 20 clubs in the Premier League. During the course of a season (from August to May) each club plays the others twice (a double [[Round-robin tournament|round-robin system]]), once at their home stadium and once at that of their opponents, for a total of 38 games. Teams receive three points for a win and one point for a draw. No points are awarded for a loss. Teams are ranked by total points, then [[goal difference]], and then goals scored. At the end of each season, the club with the most points is crowned champion. If points are equal, the goal difference and then goals scored determine the winner. If still equal, teams are deemed to occupy the same position. If there is a tie for the championship, for relegation, or for qualification to other competitions, a play-off match at a neutral venue decides rank.<ref>{{cite web |url=http://www.sporting-life.com/football/live/tables/premiership.html |title=Barclays Premier League |work=Sporting Life |publisher=365 Media Group |accessdate=26 November 2007}}</ref> The three lowest placed teams are relegated into the [[Football League Championship]], and the top two teams from the Championship, together with the winner of [[Football League Championship play-offs|play-offs]] involving the third to sixth placed Championship clubs, are promoted in their place.<ref>{{cite news |url=http://www.goal.com/en/Articolo.aspx?ContenutoId=294727 |title=Huge Stakes For Championship Play-Off Contenders |work=Goal |publisher=MSNBC |accessdate=26 November 2007 |archiveurl=http://web.archive.org/web/20071203202007/http://www.goal.com/en/Articolo.aspx?ContenutoId=294727 <!-- Added by H3llBot --> |archivedate=3 December 2007}}</ref>
+
+==== Qualification for European competitions ====
+[[File:Arsenal vs Borussia Dortmund.jpg|thumb|[[Arsenal FC|Arsenal]] against [[Borussia Dortmund]] in the [[UEFA Champions League]] in 2011]]
+As of the 2009–10 season qualification for the UEFA Champions League changed, the top four teams in the Premier League qualify for the [[UEFA Champions League]], with the top three teams directly entering the group stage. Previously only the top two teams qualified automatically. The fourth-placed team enters the Champions League at the play-off round for non-champions and must win a [[two-legged tie|two-legged knockout tie]] in order to enter the group stage.<ref>{{cite news |title=UEFA Executive Committee approves changes to UEFA club competitions |url=http://www.uefa.com/newsfiles/630630.pdf |format=PDF |publisher=UEFA |date=30 November 2007 |accessdate=15 August 2008}}</ref> The team placed fifth in the Premier League automatically qualifies for the [[UEFA Europa League]], and the sixth and seventh-placed teams can also qualify, depending on the winners and runners-up of the two domestic cup competitions. Two Europa League places are reserved for the winner of each of the domestic cup competitions; if the winner of the FA Cup qualifies for the Champions League, then that place will go to the runner-up, and if the runner-up is also already qualified, then that place will go to the next-best placed finisher in the Premier League. If the winner of the League Cup has already qualified, that place goes to the next-best placed team in the league.<ref>{{cite web |title=Regulations of the UEFA Europa League |url=http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/62/69/60/1626960_DOWNLOAD.pdf |format=PDF |accessdate=28 February 2012}}</ref><ref>{{cite web |url=http://www.premierleague.com/en-gb/fans/faqs/who-qualifies-to-play-in-europe/ |publisher=Premier League |title=Who qualifies to play in Europe? |accessdate=7 April 2012}}</ref> A further place in the UEFA Europa League is also available via the [[UEFA Fair Play ranking|Fair Play initiative]]. If the Premier League has one of the three highest Fair Play rankings in Europe, the highest ranked team in the Premier League Fair Play standings which has not already qualified for Europe will automatically qualify for the UEFA Europa League first qualifying round.<ref>{{cite news |url=http://en.archive.uefa.com/uefa/keytopics/kind=8/newsid=795065.html |title=Norway lead Respect Fair Play league |date=26 January 2009 |accessdate=29 August 2010 |publisher=UEFA}}</ref>
+
+An [[Liverpool F.C. 2005–06 UEFA Champions League qualification|exception to the usual European qualification system]] happened in 2005, after [[Liverpool F.C.|Liverpool]] won the Champions League the year before, but did not finish in a Champions League qualification place in the Premier League that season. UEFA gave special dispensation for Liverpool to enter the Champions League, giving England five qualifiers.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/4613695.stm |title=Liverpool get in Champions League |work=BBC Sport |publisher=British Broadcasting Corporation |date=10 June 2005 |accessdate=11 December 2007}}</ref> UEFA subsequently ruled that the defending champions qualify for the competition the following year regardless of their domestic league placing. However, for those leagues with four entrants in the Champions League, this meant that if the Champions League winner finished outside the top four in its domestic league, it would qualify at the expense of the fourth-placed team in the league. No association can have more than four entrants in the Champions League.<ref>{{cite news |url=http://www.uefa.com/uefa/keytopics/kind=64/newsid=698237.html?cid=rssfeed&att=index |title=EXCO approves new coefficient system |publisher=UEFA |date=20 May 2008 |accessdate=12 September 2010 |archivedate=21 May 2008 |archiveurl=http://web.archive.org/web/20080521053931/http://www.uefa.com/uefa/keytopics/kind=64/newsid=698237.html?cid=rssfeed&att=index |deadurl=yes}}</ref> This occurred in 2012, when Chelsea – who had won the Champions League the previous year, but finished sixth in the league – qualified for the Champions League in place of Tottenham Hotspur, who went into the Europa League.{{fact|date=August 2012}}
+
+In 2007, the Premier League became the highest ranking European League based on the performances of English teams in European competitions over a five-year period. This broke the eight-year dominance of the Spanish league, [[La Liga]].<ref>{{cite news |url=http://www.xs4all.nl/~kassiesa/bert/uefa/data/index.html#part3 |title=UEFA European Cup Coefficients Database |last=Kassies |first=Bert |publisher=Bert Kassies |year=2010 |accessdate=9 September 2010 }}</ref> The top three leagues in Europe are currently allowed to enter four teams into the Champions League. [[Michel Platini]], the UEFA president, had proposed taking one place from the top three leagues and allocating it to that nation's cup winners. This proposal was rejected in a vote at a UEFA Strategy Council meeting.<ref>{{cite news |url=http://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2007/11/13/sfnuef113.xml |title=Clubs force UEFA's Michel Platini into climbdown |newspaper=The Daily Telegraph |date=13 November 2007 |accessdate=2 December 2007 |first=David |last=Bond}}</ref> In the same meeting, however, it was agreed that the third-placed team in the top four leagues would receive automatic qualification for the group stage, rather than entry into the third qualifying round, while the fourth-placed team would enter the play-off round for non-champions, guaranteeing an opponent from one of the top 15 leagues in Europe. This was part of Platini's plan to increase the number of teams qualifying directly into the group stage, while simultaneously increasing the number of teams from lower-ranked nations in the group stage.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/7090646.stm |title=Platini's Euro Cup plan rejected |work=BBC Sport |publisher=British Broadcasting Corporation |date=12 December 2007 |accessdate=11 December 2007 }}</ref>
+
+== Trophy ==
+[[File:Vincent Kompany holds up the Premier League trophy 2012.jpg|thumb|right|The Premier League trophy, held by [[Vincent Kompany]], captain of [[Manchester City]].]]
+The current Premier League trophy was created by Royal Jewellers [[Garrard & Co|Asprey of London]]. It consists of a trophy with a golden crown and a [[malachite]] plinth base. The plinth weighs 33&nbsp;lbs (15&nbsp;kg) and the trophy weighs 22&nbsp;lbs (10&nbsp;kg).<ref>{{Cite news |title=Size and weight of the Barclays Premier League trophy |url=http://premierleague.custhelp.com/app/answers/detail/a_id/28/~/size-and-weight-of-the-barclays-premier-league-trophy |work=Premier League |date=12 March 2010 |accessdate=16 May 2012}}</ref> The trophy and plinth are {{convert|76|cm|in|abbr=on}} tall, {{convert|43|cm|in|abbr=on}} wide and {{convert|25|cm|in|abbr=on}} deep.<ref name="Trophy">{{cite web |url=http://premierskills.britishcouncil.org/premier-league/the-premier-league-trophy |title=The Premier League Trophy |accessdate=11 September 2010 |work=Premier Skills|publisher=British Council}} {{Dead link|date=April 2012|bot=H3llBot}}</ref>
+
+Its main body is solid [[sterling silver]] and silver [[gilding|gilt]], while its plinth is made of malachite, a [[semi-precious]] stone. The plinth has a silver band around its circumference, upon which the names of the title-winning clubs are listed. Malachite's green colour is also representative of the green field of play.<ref name="Trophy"/> The design of the trophy is based on the [[heraldry]] of [[Royal Arms of England|Three Lions]] that is associated with English football. Two of the lions are found above the handles on either side of the trophy – the third is symbolised by the captain of the title winning team as he raises the trophy, and its gold crown, above his head at the end of the season.<ref>{{cite web |url=http://www.sponsorship.barclays.co.uk/football/trophy-tour-fact.html |title=What makes the Barclays Premier League Trophy so special? |publisher=Barclays |accessdate=13 September 2010}}</ref> In 2004, a special gold version of the trophy was commissioned to commemorate Arsenal winning the title [[The Invincibles (football)|without a single defeat]].<ref>{{cite web |url=http://www.gettyimages.com/detail/51204716/Getty-Images-Sport |title=Arsenal v Middlesbrough |date=22 August 2004 |publisher=Getty Images |accessdate=7 September 2010}}</ref>
+
+== Sponsorship ==
+{{see also|English football sponsorship}}
+[[File:Barclays-Premier-League.svg|thumb|The Barclays Premier League sponsorship logo as used by media]]
+The Premier League has been sponsored since 1993. The sponsor has been able to determine the league's sponsorship name. There have been three sponsors since the league's formation.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/business/5384750.stm |title=Barclays nets Premier League deal |date=27 September 2006 |work=BBC News |publisher=BBC |accessdate=7 September 2010}}</ref>
+
+* 1993–2001: [[Carling]] (FA Carling Premiership)<ref name="premsitehistory"/>
+* 2001–2004: [[Barclaycard]] (Barclaycard Premiership)<ref name="premsitehistory"/>
+* 2004–present: [[Barclays]] (Barclays Premiership (until 2007) then Barclays Premier League)<ref name="premsitehistory"/><ref>{{cite web |url=http://www.premierleague.com/page/Headlines/0,,12306~1835324,00.html |title=Barclays renews Premier sponsorship |publisher=Premier League |date=23 October 2009 |accessdate=23 October 2009}}</ref>
+
+As well as sponsorship for the league itself, the Premier League has a number of official partners and suppliers.<ref name="partners">{{cite web |url=http://www.premierleague.com/page/Partners/0,,12306,00.html |title=Partners |publisher=Premier League |accessdate=7 September 2010}}</ref> The official ball supplier for the league is [[Nike, Inc.|Nike]] who have had the contract since the 2000–01 season when they took over from [[Mitre Sports International|Mitre]].<ref>{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/article6860188.ece |title=The Premier League's goal rush |date=4 October 2009 |newspaper=The Sunday Times |last=Northcroft |first=Jonathan |accessdate=7 September 2010}}</ref>
+
+== Finances ==
+{{See also|List of English football club owners#Premier League|l1=List of Premier League football club owners}}
+The Premier League has the highest revenue of any football league in the world, with total club revenues of €2.479&nbsp;billion in 2009–10,<ref>{{cite news |title=Premier League wages keep on rising, Deloitte says |url=http://www.bbc.co.uk/news/business-13679632 |work=BBC News |publisher=British Broadcasting Corporation |date=9 June 2011 |accessdate=13 August 2012 }}</ref> and is the second most profitable after the German [[Fußball-Bundesliga|Bundesliga]].<ref name="Revenues">{{cite news |title=English Premier League generates highest revenue, German Bundesliga most profitable |url=http://www.cnn.com/2010/SPORT/football/06/08/football.finance.deloitte.bundesliga/index.html |newspaper=The Observer |publisher=Guardian News and Media |date=10 June 2010 |accessdate=20 September 2010 }}</ref> In 2010 the Premier League was awarded the [[Queen's Awards for Enterprise|Queen's Award for Enterprise]] in the International Trade category by Her Majesty [[Elizabeth II|Queen Elizabeth II]]. The Premier League was recognised for its outstanding contribution to international trade and the value it brings to English football and the [[United Kingdom|United Kingdom's]] broadcasting industry.<ref>{{cite web |url=http://www.premierleague.com/page/Headlines/0,,12306~2030479,00.html |title=Prestigious Award for Premier League |publisher=Premier League |date=21 April 2010 |accessdate=21 April 2010}}</ref> The Premier League's gross revenue is regularly the fourth highest of any sports league worldwide, behind the annual revenues of the three most popular North American [[Major professional sports leagues in the United States and Canada|major sports leagues]] (the [[National Football League]], [[Major League Baseball]] and the [[National Basketball Association]]).<ref>{{cite journal |title=Theory of the Perfect Game: Competitive Balance in Monopoly Sports Leagues |url=http://www.vanderbilt.edu/Econ/faculty/Vrooman/vrooman-rio-sports-special.pdf |year=2009 |last=Vrooman |first=John |journal=Review of Industrial Organization |volume=34|issue=1|pages=5–44|doi=10.1007/s11151-009-9202-7}}</ref>
+
+In terms of world football, the Premier League clubs are some of the richest in the world. Deloitte, who annually release figures on club revenues through its "[[Deloitte Football Money League|Football Money League]]", listed seven Premier League clubs in the top 20 for the 2009–10 season.<ref name=Deloitte0809>{{cite web |url=http://www.deloitte.com/view/en_GB/uk/industries/sportsbusinessgroup/sports/football/deloitte-football-money-league-2011/c774a9e481a7d210VgnVCM1000001a56f00aRCRD.htm |title=Top 20 clubs Deloitte Football Money League 2011
+}}</ref> No other league has more than four clubs in this table. Premier League teams have dominated the list for many years, and even topped the list for almost a decade until the 2004–05 season. After the Premier League's new TV deal went into effect, the league-wide increase in revenues is expected to increase the Premier League clubs' standing in the list, and there is a possibility that a Premier League club will be top of the list.<ref name=Deloitte0506>{{cite web |url=http://www.deloitte.com/view/en_GB/uk/news/news-releases/ab51ae59be0fb110VgnVCM100000ba42f00aRCRD.htm |title=Real Madrid stay at the top |publisher=Deloitte |date=2 August 2007 |accessdate=29 August 2010}}</ref><ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/7009944.stm |title=Arsenal bullish over £200m income |work=BBC Sport |publisher=British Broadcasting Corporation |date=24 September 2007 |accessdate=24 September 2007 }}</ref>
+
+== Media coverage ==
+{{See also|List of Premier League broadcasters}}
+
+=== United Kingdom and Ireland ===
+{{See also|English football on television}}
+[[File:Newcastle vs Chesea 28 Nov 2010 - 1.jpg|thumb|right|A 2010 match between [[Chelsea F.C.|Chelsea]] and [[Newcastle United F.C.|Newcastle United]]]]
+Television has played a major role in the history of the Premier League. The money from television rights has been vital in helping to create excellence both on and off the field. The League's decision to assign broadcasting rights to [[BSkyB]] in 1992 was at the time a radical decision, but one that has paid off. At the time pay television was an almost untested proposition in the UK market, as was charging fans to watch live televised football. However, a combination of Sky's strategy, the quality of Premier League football and the public's appetite for the game has seen the value of the Premier League's TV rights soar.<ref name="leicester_tv"/>
+
+The Premier League sells its television rights on a collective basis. This is in contrast to some other European Leagues, including La Liga, in which each club sells its rights individually, leading to a much higher share of the total income going to the top few clubs.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/business/8545202.stm|title=Why TV is the key to Real success|first=Nils|last=Blythe|work=BBC News|publisher=BBC|date=2 March 2010|accessdate=14 September 2010}}</ref> The money is divided into three parts:<ref>{{cite news |url=http://www.premierleague.com/page/Faqs/0,,12306,00.html |title=Frequently asked questions about the F.A. Premier League, (How are television revenues distributed to Premier League clubs?) |publisher=Premier League |accessdate=11 December 2007}}</ref> half is divided equally between the clubs; one quarter is awarded on a merit basis based on final league position, the top club getting twenty times as much as the bottom club, and equal steps all the way down the table; the final quarter is paid out as facilities fees for games that are shown on television, with the top clubs generally receiving the largest shares of this. The income from overseas rights is divided equally between the twenty clubs.<ref>{{cite news |url=http://www.independent.co.uk/sport/football/premier-league/premier-league-nets-16314bn-tv-rights-bonanza-1925462.html |title=Premier League nets £1.4bn TV rights bonanza |newspaper=The Independent |last=Harris |first=Nick |date=23 March 2010 |accessdate=12 September 2010}}</ref>
+
+The first Sky television rights agreement was worth £304&nbsp;million over five seasons.<ref name="fgrc">{{cite web |url=http://corporate.sky.com/about_sky/timeline.htm |title=BSkyB Timeline |publisher=BSkyB |accessdate=20 October 2009}}</ref> The next contract, negotiated to start from the 1997–98 season, rose to £670&nbsp;million over four seasons.<ref name="fgrc"/> The third contract was a £1.024&nbsp;billion deal with BSkyB for the three seasons from 2001–02 to 2003–04. The league brought in £320&nbsp;million from the sale of its international rights for the three-year period from 2004–05 to 2006–07. It sold the rights itself on a territory-by-territory basis.<ref>{{cite news |url=http://www.sportbusiness.com/news/160604/premier-league-launches-international-rights-tender |title=Premier League launches international rights tender |work=SportBusiness |publisher=SBG Companies Ltd. |accessdate=12 September 2010}}</ref> Sky's monopoly was broken from August 2006 when [[Setanta Sports]] was awarded rights to show two out of the six packages of matches available. This occurred following an insistence by the [[European Commission]] that exclusive rights should not be sold to one television company. Sky and Setanta paid a total of £1.7&nbsp;billion, a two-thirds increase which took many commentators by surprise as it had been widely assumed that the value of the rights had levelled off following many years of rapid growth. Setanta also hold rights to a live 3&nbsp;pm match solely for Irish viewers. The [[BBC]] has retained the rights to show highlights for the same three seasons (on ''[[Match of the Day]]'') for £171.6&nbsp;million, a 63&nbsp;per&nbsp;cent increase on the £105&nbsp;million it paid for the previous three-year period.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/match_of_the_day/5060828.stm |title=BBC keeps Premiership highlights |work=BBC Sport |publisher=British Broadcasting Corporation |date=8 June 2006 |accessdate=8 August 2006}}</ref> [[Raidió Teilifís Éireann]] broadcast the [[Premier Soccer Saturday|highlights package]] in Ireland. Sky and [[BT Group|BT]] have agreed to jointly pay £84.3&nbsp;million for delayed television rights to 242 games (that is the right to broadcast them in full on television and over the internet) in most cases for a period of 50 hours after 10&nbsp;pm on matchday.<ref>{{cite news |url=http://www.telegraph.co.uk/sport/main.jhtml?view=DETAILS&grid=&xml=/sport/2006/05/26/sfntv26.xml |title= TV deal pays another £84m |newspaper=The Daily Telegraph |date=26 May 2006 |accessdate=8 August 2006 |first=David |last=Bond}}</ref> Overseas television rights fetched £625&nbsp;million, nearly double the previous contract.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/business/6273617.stm |title=Premiership in new £625m TV deal |accessdate=3 June 2007 |date=18 January 2007 |work=BBC News |publisher=BBC}}</ref> The total raised from these deals is more than £2.7&nbsp;billion, giving Premier League clubs an average media income from league games of around £40&nbsp;million-a-year from 2007 to 2010.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8595655.stm |title=Premier League clubs benefit from new overseas TV deal |date=30 March 2010 |work=BBC Sport |publisher=British Broadcasting Corporation |accessdate=11 September 2010}}</ref>
+
+[[File:2009-3-14 ManUtd vs LFC Ronaldo Freekick Back.JPG|thumb|[[Cristiano Ronaldo]] preparing to take a free kick in a 2009 match between [[Manchester United F.C.|Manchester United]] and [[Liverpool F.C.|Liverpool]].]]
+
+The TV rights agreement between the Premier League and Sky has faced accusations of being a cartel, and a number of court cases have arisen as a result.<ref>{{cite news |url=http://www.independent.co.uk/sport/football-high-court-countdown-battle-begins-for-footballs-future-1046614.html |title=Football: High Court countdown: Battle begins for football's future |last=Harris |first=Nick |date=12 January 1999 |newspaper=The Independent |accessdate=11 September 2010}}</ref> An investigation by the [[Office of Fair Trading]] in 2002 found BSkyB to be dominant within the pay TV sports market, but concluded that there were insufficient grounds for the claim that BSkyB had abused its dominant position.<ref>{{cite news |url=http://www.oft.gov.uk/NR/rdonlyres/D36BD282-3F52-410E-86EA-F494E41BC199/0/bskybfinal1.pdf |archiveurl=http://web.archive.org/web/20060823170841/http://www.oft.gov.uk/NR/rdonlyres/D36BD282-3F52-410E-86EA-F494E41BC199/0/bskybfinal1.pdf |archivedate=23 August 2006 |title=BSkyB investigation: alleged infringement of the Chapter II prohibition |work=Office of Fair Trading |publisher=HM Government |date=17 December 2002 |accessdate=11 September 2010 |format=PDF}}</ref> In July 1999 the Premier League's method of selling rights collectively for all member clubs was investigated by the UK Restrictive Practices Court, who concluded that the agreement was not contrary to the public interest.<ref>{{cite news |url=http://ec.europa.eu/comm/competition/speeches/text/sp1999_019_en.pdf |format=PDF |title=Sport and European Competition Policy |publisher=European Commission Directorate-General IV – Competition|year=1999 |accessdate=8 August 2006}}</ref> The BBC's highlights package on Saturday and Sunday nights, as well as other evenings when fixtures justify, will run until 2016.<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/18205519 |title=BBC renews Match of the Day deal |work=BBC Sport |publisher=British Broadcasting Corporation |date=25 May 2012 |accessdate=25 May 2012}}</ref> Television rights alone for the period 2010 to 2013 have been purchased for £1.782&nbsp;billion.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/business/7875478.stm |title=New Television Rights |work=BBC News |publisher=BBC |date=6 February 2009 |accessdate=6 January 2010}}</ref> On 22 June 2009, due to troubles encountered by Setanta Sports after it failed to meet a final deadline over a £30&nbsp;million payment to the Premier League, [[ESPN (UK)|ESPN]] was awarded two packages of UK rights containing a total of 46 matches that were available for the 2009–10 season as well as a package of 23 matches per season from 2010–11 to 2012–13.<ref>{{cite web |url=http://www.premierleague.com/page/Headlines/0,,12306~1698362,00.html |title=ESPN win Premier League rights |publisher=Premier League |date=22 June 2009 |accessdate=22 June 2009}}</ref> On 13 June 2012, the Premier League announced that [[British Telecom|BT]] had been awarded 38 games a season for the 2013–14 through 2015–16 seasons at £246&nbsp;million-a-year. The remaining 116 games were retained by [[BSkyB]] who will pay £760&nbsp;million-a-year. The total rights have raised £3.018&nbsp;billion, an increase of 70.2% over the 2010–11 to 2012–13 rights.<ref>[http://www.bbc.co.uk/news/business-18430036 BBC News – Premier League rights sold to BT and BSkyB for £3bn<!-- Bot generated title -->]</ref>
+
+=== Worldwide ===
+Promoted as "The Greatest Show On Earth",<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/wales/8687540.stm |title=Wales lines up for identity parade |date=19 May 2010 |work=BBC Wales |publisher=BBC |accessdate=7 April 2011}}</ref><ref>{{cite web |url=http://worldsport.blogs.cnn.com/2011/01/16/which-football-league-is-the-worlds-best/ |title=Who is the Premier League's best? |publisher=FIFA |date=11 December 2007 |accessdate=7 April 2011}}</ref> being broadcast to over 600+&nbsp;million people in over 200 countries worldwide,<ref name="Telegraph6Nov2007">{{cite news |title=Premier League is world's favourite league |url=http://www.telegraph.co.uk/sport/football/2325057/Premier-League-is-worlds-favourite-league.html |newspaper=The Daily Telegraph |date=6 November 2007 |first=Jeremy |last=Wilson |accessdate=7 November 2007}}</ref> often on networks owned and/or controlled by [[News Corporation]], who owns about 39.1% of BSkyB. In the United States, coverage is shared between [[Fox Soccer]]/[[Fox Soccer Plus]] (which are also owned by News Corp.) and [[ESPN]].<ref>{{cite web |url=http://www.sportsbusinessjournal.com/article/61334 |title=Bidders line up for U.S. rights to Premiership |work=Sports Business Journal |publisher=Street & Smith's Sports Group |date=26 January 2009 |accessdate=8 April 2009}}</ref> [[NBC Sports]] (primarily through [[NBC Sports Network]]) will replace ESPN and Fox Soccer as the exclusive broadcaster of the league in the U.S. (in both English and Spanish) beginning in the 2013-14 season, as the result of a new three-year, $250 million [[United States dollar|USD]] deal with the league.<ref name=nbc-epl-guardian>{{cite web|title=NBC wins $250m rights to broadcast English Premier League in US|url=http://www.guardian.co.uk/sport/2012/oct/29/nbc-250m-english-premier-league-epl-broadcast-us?newsfeed=true|publisher=The Associated Press|accessdate=29 October 2012}}</ref> In Canada, [[Sportsnet]] owns the Premier League rights for three years from the 2010–11 season. Select games (particularly those aired by ESPN) are sub-licensed to [[The Sports Network|TSN]].<ref>{{cite web |url=http://www.sportsnet.ca/soccer/2009/12/04/sportsnet_epl/ |title=EPL returns to Sportsnet |date=4 December 2009 |work=Sportsnet |publisher=Rogers Digital Media |accessdate=7 September 2010}}</ref> In Australia, [[Fox Sports (Australia)|Fox Sports]] shows the games with a Viewers Choice option for up to five live games and up to nine games live on any given game-week.<ref>{{cite web |url=http://au.fourfourtwo.com/news/58663,never-miss-an-epl-moment.aspx |title=Never Miss An EPL Moment... |work=Australian Four Four Two |publisher=Haymarket Media |date=10 August 2007 |accessdate=8 April 2009}}</ref>
+
+The Premier League is particularly popular in Asia, where it is the most widely distributed sports programme.<ref>{{cite news |url=http://www.blonnet.com/2004/03/21/stories/2004032101440300.htm |title=ESPN-Star extends pact with FA Premier League |work=Business Line |date=21 March 2004 |accessdate=9 August 2006}}</ref> In India, the matches are broadcast live on ESPN and Star Sports. In the People's Republic of China, data from 2003 suggested that matches were attracting television audiences between 100&nbsp;million and 360&nbsp;million, more than any other foreign sport.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/business/3207829.stm |title=Chinese phone maker's fancy footwork |work=BBC News |publisher=BBC |date=27 October 2003 |accessdate=9 August 2006 |first=Mary |last=Hennock}}</ref> However, when the Chinese rights to Premier League matches were sold to a subscription channel in 2007, the number of viewers proved to be in the tens of thousands.<ref>{{cite news|url=http://www.timesonline.co.uk/tol/sport/football/premier_league/article6256033.ece|title=Premier League targets China|newspaper=The Sunday Times|location=London|first=Nick|last=Harris|date=10 May 2009|accessdate=9 November 2010}}</ref> Due to its popularity in Asia, the league has held four pre-season tournaments there, the only Premier League affiliated tournaments ever to have been held outside England.<ref>{{cite web|url=http://premierskills.britishcouncil.org/premier-league/premier-league-around-the-world|title=The Premier League around the world|work=Premier Skills|publisher=British Council|accessdate=14 September 2010}} {{Dead link|date=April 2012|bot=H3llBot}}</ref> The [[Premier League Asia Trophy]] has been played in Malaysia, Thailand, Hong Kong and China and involves three Premier League clubs playing against a local team from the host nation, often the national side.<ref>{{cite news|url=http://sports.globaltimes.cn/editor-picks/2009-06/436161.html|title=English Premier League stars to shine in Beijing|first=Peter|last=Simpson|newspaper=The Global Times|date=10 June 2009|accessdate=14 September 2010}}</ref>
+
+Figures from UK tourism body [[VisitBritain]] suggest that 750,000 visitors to Britain attended a Premier League match in 2010, spending a total £595&nbsp;million and an average of £766. Visitors from [[Norway]] are most likely to come to watch Premier League football, with one in 13 Norwegian tourists travelling specifically to attend matches. Second on the list is the [[United Arab Emirates]]. For those visiting family and friends, the most likely to watch a football match are from Japan, China and Australia.<ref>{{cite news|url=http://uk.reuters.com/article/2011/08/18/uk-soccer-premier-league-idUKTRE77H7KG20110818|title=Premier League draws 750,000 visitors a year|publisher=Reuters|date=19 August 2011}}</ref>
+
+== Criticisms ==
+=== "Big Four" dominance (2003-04 to 2008–09) ===
+{| class="wikitable sortable" style="text-align:center; font-size:90%; float:right; margin-left:1em"
+|-
+! Season !! [[Arsenal F.C.|A]] !! [[Chelsea F.C.|C]] !! [[Liverpool F.C.|L]] !! [[Manchester United F.C.|MU]]
+|-
+| [[1992–93 FA Premier League|1992–93]] || style="background:#badaff"|10 || style="background:#badaff"|11 || style="background:#badaff"|6 || style="background:gold"|1
+|-
+| [[1993–94 FA Premier League|1993–94]] || 4 || style="background:#badaff"|14 || style="background:#badaff"|8 || style="background:gold"|1
+|-
+| [[1994–95 FA Premier League|1994–95]] || style="background:#badaff"|12 || style="background:#badaff"|11 || 4 || 2
+|-
+| [[1995–96 FA Premier League|1995–96]] || style="background:#badaff"|5 || style="background:#badaff"|11 || 3 || style="background:gold"|1
+|-
+| [[1996–97 FA Premier League|1996–97]] || 3 || style="background:#badaff"|6 || 4 || style="background:gold"|1
+|-
+| [[1997–98 FA Premier League|1997–98]] || style="background:gold"|1 || 4 || 3 || 2
+|-
+| [[1998–99 FA Premier League|1998–99]] || 2 || 3 || style="background:#badaff"|7 || style="background:gold"|1
+|-
+| [[1999–2000 FA Premier League|1999–2000]] || 2 || style="background:#badaff"|5 || 4 || style="background:gold"|1
+|-
+| [[2000–01 FA Premier League|2000–01]] || 2 || style="background:#badaff"|6 || 3 || style="background:gold"|1
+|-
+| [[2001–02 FA Premier League|2001–02]] || style="background:gold"|1 || style="background:#badaff"|6 || 2 || 3
+|-
+| [[2002–03 FA Premier League|2002–03]] || 2 || 4 || style="background:#badaff"|5 || style="background:gold"|1
+|-
+| [[2003–04 FA Premier League|2003–04]] || style="background:gold"|1 || 2 || 4 || 3
+|-
+| [[2004–05 FA Premier League|2004–05]] || 2 || style="background:gold"|1 || style="background:#badaff"|5 || 3
+|-
+| [[2005–06 FA Premier League|2005–06]] || 4 || style="background:gold"|1 || 3 || 2
+|-
+| [[2006–07 FA Premier League|2006–07]] || 4 || 2 || 3 || style="background:gold"|1
+|-
+| [[2007–08 Premier League|2007–08]] || 3 || 2 || 4 || style="background:gold"|1
+|-
+| [[2008–09 Premier League|2008–09]] || 4 || 3 || 2 || style="background:gold"|1
+|-
+| [[2009–10 Premier League|2009–10]] || 3 || style="background:gold"|1 || style="background:#badaff"|7 || 2
+|-
+| [[2010–11 Premier League|2010–11]] || 4 || 2 || style="background:#badaff"|6 || style="background:gold"|1
+|-
+| [[2011–12 Premier League|2011–12]] || 3 || style="background:#badaff"|6 || style="background:#badaff"|8 || 2
+|- style="border-top:3px solid black" class="sortbottom"
+| '''Top four<br />finishes''' || 17 || 11 || 12 || 20
+|- class="sortbottom"
+| colspan="5"|out of 20
+|- style="border-top:3px solid black" class="sortbottom"
+!rowspan=3|Key:
+| colspan="4" style="background:gold"|Champions
+|- class="sortbottom"
+| colspan=4 class="sortbottom"|2nd, 3rd or 4th place
+|- class="sortbottom"
+| colspan="4" style="background:#badaff"|5th or below
+|}
+
+A major criticism of the Premier League has been the emergence of the so-called "Big Four" clubs (Arsenal, Chelsea, Liverpool and Manchester United).<ref>{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/article3908394.ece |title=Breaking up the Premier League's Big Four |date=11 May 2008 |last=Northcroft |first=Jonathan |newspaper=The Sunday Times |accessdate=26 May 2011}}</ref><ref name=Bestofrest>{{cite news |url=http://soccernet.espn.go.com/columns/story?id=405515&root=england&&cc=5739 |title=The best of the rest |date=29 January 2007 |work=Soccernet |publisher=ESPN |accessdate=27 November 2007}}</ref> With the exception of Blackburn Rovers in [[1994–95 FA Premier League|1994–95]] and Manchester City in [[2011–12 Premier League|2011–12]], only three clubs have won the Premier League title – Manchester United (12 titles), Arsenal and Chelsea (three titles each). In addition, Manchester United have not finished outside the top three since the formation of the Premier League. With the top 4 places ensuring qualification for the [[UEFA Champions League]] in the summer of 2002 and ever since, and with [[Chelsea F.C.|Chelsea]]'s new-found wealth after its purchase by [[Roman Abramovic]] in the summer of 2003, the concept of a "Big Four" came into being, as they dominated the top four spots, and thus places in the [[UEFA Champions League]], winning all but one of the top four places between 2003-04 and 2008-09, the only exception being [[Liverpool F.C.|Liverpool]]'s 5th place behind [[Everton F.C.|Everton]] in 2004-05, though they still got into the Champions League for 2005-06 by winning it in 2004-05. (Qualification was one club for the first four seasons, increased to two clubs in 1997, three in 1999 and four since 2002). The benefits of qualification, especially increased revenue, are believed to have widened the gap between the "Big Four" clubs and the rest of the Premier League.<ref name=Bestofrest/> [[Arsenal F.C.|Arsenal]] are second with 17 top four finishes, followed by [[Liverpool F.C.|Liverpool]] with 12 and [[Chelsea F.C.|Chelsea]] with 11. The team who have appeared in the top four on the most occasions, and are not part of this "Big Four", is [[Newcastle United F.C.|Newcastle United]].
+
+In May 2008, then Newcastle United manager [[Kevin Keegan]] said the "Big Four"'s dominance threatened the division, stating: "This league is in danger of becoming one of the most boring but great leagues in the world."<ref>{{cite news |title=Power of top four concerns Keegan |url=http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/7384247.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=6 May 2008 |accessdate=6 May 2008 }}</ref> Following Keegan's comments, Premier League chief executive [[Richard Scudamore]] defended the league, saying, "There are a lot of different tussles that go on in the Premier League depending on whether you're at the top, in the middle or at the bottom that make it interesting."<ref>{{cite news |title=Scudamore defends 'boring' League |url=http://news.bbc.co.uk/sport1/hi/football/7388360.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=7 May 2008 |accessdate=9 May 2008 }}</ref> The dominance of Chelsea and Manchester United has led some to believe that the "Big Four" has contracted to a "Big Two"; prior to 2012, no club other than these two had won the Premier League since [[2004–05 FA Premier League|2005]] and, {{as of|2012|05|lc=on}}, 21 of the last 28 major domestic trophies have gone to either [[Stamford Bridge (stadium)|Stamford Bridge]] or [[Old Trafford]].<ref name=BBCbig4>{{cite news |title=Has the Premier League Big Four become a Big Two? |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8888167.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=13 August 2010 |accessdate=13 August 2010 }}</ref>
+
+The years following 2009 marked a shift in the structure of the "Big Four" with two new clubs, [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and [[Manchester City F.C.|Manchester City]], vying for top four places to secure Champions League football. In the [[2009–10 Premier League|2009–10 season]], Tottenham pipped Manchester City to finish fourth and become the first team to "break" the top four since Everton in 2005, with both Manchester City and [[Aston Villa F.C.|Aston Villa]] also finishing above Liverpool, one of the "Big Four" teams. In [[2010–11 Premier League|2010–11]], Manchester City finished third – the first time a team has broken into the top three since Newcastle did so in the 2002–03 season. This has continued into the [[2011–12 Premier League|2011–12 season]], with Manchester City winning the title for the first time since [[1967–68 in English football|1968]], the first team outside the "Big Four" to do so since [[1994–95 in English football|1994–95]]. In addition, Chelsea finished outside the top four for the first time since [[2001–02 FA Premier League|2001–02]], as did Liverpool for the third season in a row. Criticism of the gap between an elite group of "super clubs" and the majority of the Premier League has continued, nevertheless, due to their increasing ability to spend more than the other Premier League clubs.<ref>{{cite news |title=Alex McLeish says Aston Villa struggle to compete with top clubs |url=http://news.bbc.co.uk/sport1/hi/football/14844717.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=8 September 2011 |accessdate=8 September 2011 }}</ref>
+
+=== Widening gap with lower leagues ===
+{{See also|Premier League–Football League gulf}}
+One of the main criticisms levelled at the Premier League is the increasing gulf between the Premier League and the Football League. Since its split with the [[The Football League|Football League]], many established clubs in the Premier League have managed to distance themselves from their counterparts in lower leagues. Owing in large part to the disparity in revenue from television rights between the leagues,<ref name="guardian">{{cite news |url=http://football.guardian.co.uk/comment/story/0,,1771399,00.html |title=Rich clubs forced to give up a sliver of the TV pie |newspaper=The Guardian |accessdate=8 August 2006 |first=David |last=Conn |date=10 May 2006}}</ref> many newly promoted teams have found it difficult to avoid relegation in their first season in the Premier League. In every season except [[2001–02 FA Premier League|2001–02]] ([[Blackburn Rovers F.C.|Blackburn Rovers]], [[Bolton Wanderers F.C.|Bolton Wanderers]] and [[Fulham F.C.|Fulham]]) and 2011–12 ([[Queens Park Rangers]], [[Swansea City A.F.C.|Swansea City]] and [[Norwich City]]), at least one Premier League newcomer has been relegated back to the Football League. In [[1997–98 FA Premier League|1997–98]] all three promoted clubs were relegated at the end of the season.<ref>{{cite news |title=1997/98 – Season Review |url=http://soccernet.espn.go.com/columns/story?id=333233&root=extratime&cc=5739 |last=Brewin |first=John |date=4 July 2005 |accessdate=29 November 2007 |work=Soccernet |publisher=ESPN}}</ref>
+
+The Premier League distributes a small portion of its television revenue to clubs that are relegated from the league in the form of "parachute payments". Starting with the [[2006–07 FA Premier League|2006–07]] season, these payments are in the amount of £6.5&nbsp;million over the club's first two seasons in lower leagues, although this rose to £11.2&nbsp;million per year for clubs relegated in 2007–2008.<ref name="guardian"/> Designed to help teams adjust to the loss of television revenues (the average Premier League team receives £45&nbsp;million while the average Football League Championship club receives £1&nbsp;million),<ref name="guardian"/> critics maintain that the payments actually widen the gap between teams that have reached the Premier League and those that have not,<ref>{{cite news |url=http://football.guardian.co.uk/comment/story/0,,1837801,00.html |title=Why clubs may risk millions for riches at the end of the rainbow |date=5 August 2006 |newspaper=The Guardian |accessdate=13 August 2006 |first=Stuart |last=James}}</ref> leading to the common occurrence of teams "[[Premier League–Football League gulf|bouncing back]]" soon after their relegation. For some clubs, including [[Burnley F.C.|Burnley]], [[Leeds United A.F.C.|Leeds United]], [[Charlton Athletic F.C.|Charlton Athletic]], [[Coventry City F.C. |Coventry City]], [[Derby County F.C.|Derby County]], [[Nottingham Forest F.C.|Nottingham Forest]], [[Oldham Athletic A.F.C.|Oldham Athletic]], [[Sheffield Wednesday F.C.|Sheffield Wednesday]], [[Bradford City A.F.C.|Bradford City]], [[Leicester City F.C.|Leicester City]], [[Queens Park Rangers F.C.|Queens Park Rangers]], [[Southampton F.C.|Southampton]], [[Wimbledon F.C.|Wimbledon]], and [[Portsmouth F.C.|Portsmouth]] who have failed to win immediate promotion back to the Premier League, financial problems, including in some cases [[Administration (British football)|administration]] or even liquidation have followed. Further relegations down the footballing ladder have ensued for several clubs unable to cope with the gap.<ref>{{cite news |url=http://www.thisislondon.co.uk/standard-sport/article-23664566-details/Premier+League+casualties+-+clubs+that+have+struggled+since+relegation/article.do |title=Premier League casualties – clubs that have struggled since relegation |newspaper=Evening Standard |publisher=Daily Mail & General Trust |first1=Ben |last1=Bailey |first2=Patrick |last2=Whyte |date=19 March 2009 |accessdate=7 April 2009 |archiveurl=http://web.archive.org/web/20090322034918/http://www.thisislondon.co.uk/standard-sport/article-23664566-details/Premier+League+casualties+-+clubs+that+have+struggled+since+relegation/article.do <!-- Added by H3llBot --> |archivedate=22 March 2009}}</ref><ref>{{cite news |url=http://www.telegraph.co.uk/sport/football/2299511/Down-again-Leicesters-relegation-horror.html |title=Down again: Leicester's relegation horror |newspaper=The Daily Telegraph |date=5 May 2008 |accessdate=7 April 2009}}</ref>
+
+== Clubs ==
+{{Main|List of Premier League clubs}}
+{{See also|List of English football champions|All-time FA Premier League table}}
+A total of 45 clubs have played in the Premier League from its inception in 1992 up to and including the 2011–12 season. Seven clubs have been members of the Premier League for every season since its inception. This group is composed of Arsenal, Aston Villa, Chelsea, Everton, Liverpool, Manchester United, and Tottenham Hotspur.<ref>{{cite news|url=http://www.dailymail.co.uk/pages/live/articles/sport/football.html?in_article_id=493532&in_page_id=1779 |title=It's official – Tottenham have the worst defence in Premier League history |newspaper=Daily Mail |date=14 November 2007 |accessdate=1 December 2007}}</ref>
+
+The following 20 clubs will compete in the Premier League during the [[2012–13 Premier League|2012–13]] season.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Club
+!Position<br />in [[2011–12 in English football|2011–12]]
+!First season in<br />top division
+!Number of seasons<br />in top division
+!Number of seasons<br />in the Premier League
+!First season of<br />current spell in<br />top division
+!Top division<br />titles
+!Last top division title
+|-
+| align="left"|[[Arsenal F.C.|Arsenal]]<sup>a, b</sup> || <span style="display:none">003</span>3rd || 1904–05 || 96 || 21 || 1919–20 || 13 || 2003–04
+|-
+| align="left"|[[Aston Villa F.C.|Aston Villa]]<sup>a, b, c</sup> || <span style="display:none">016</span>16th || 1888–89 || 102 || 21 || 1988–89 || 7 || 1980–81
+|-
+| align="left"|[[Chelsea F.C.|Chelsea]]<sup>a, b</sup> || <span style="display:none">006</span>6th || 1907–08 || 78 || 21 || 1989–90 || 4 || 2009–10
+|-
+| align="left"|[[Everton F.C.|Everton]]<sup>a, b, c</sup> || <span style="display:none">007</span>7th || 1888–89 || 110 || 21 || 1954–55 || 9 || 1986–87
+|-
+| align="left"|[[Fulham F.C.|Fulham]]<sup>b</sup> || <span style="display:none">009</span>9th || 1949–50 || 24 || 12 || [[2001–02 FA Premier League|2001–02]] || 0 || n/a
+|-
+| align="left"|[[Liverpool F.C.|Liverpool]]<sup>a, b</sup> || <span style="display:none">008</span>8th || 1894–95 || 98 || 21 || 1962–63 || 18 || 1989–90
+|-
+| align="left"|[[Manchester City F.C.|Manchester City]]<sup>a</sup> || <span style="display:none">001</span>1st || 1899–1900 || 84 || 16 || [[2002–03 FA Premier League|2002–03]] || 3 || 2011–12
+|-
+| align="left"|[[Manchester United F.C.|Manchester United]]<sup>a, b</sup> || <span style="display:none">002</span>2nd || 1892–93 || 88 || 21 || 1975–76 || 19 || 2010–11
+|-
+| align="left"|[[Newcastle United F.C.|Newcastle United]] || <span style="display:none">005</span>5th || 1898–99 || 82 || 19 || 2010–11 || 4 || 1926–27
+|-
+| align="left"|[[Norwich City F.C.|Norwich City]]<sup>a</sup> || <span style="display:none">012</span>12th || 1972–73 || 23 || 6 || [[2011–12 Premier League|2011–12]] || 0 || n/a
+|-
+| align="left"|[[Queens Park Rangers F.C.|Queens Park Rangers]]<sup>a</sup> || <span style="display:none">017</span>17th || 1968–69 || 22 || 6 || [[2011–12 Premier League|2011–12]] || 0 || n/a
+|-
+| align="left"|[[Reading F.C.|Reading]] || <span style="display:none">018</span>1st in the [[Football League Championship|Championship]] || 2006–07 || 3 || 3 || [[2012–13 Premier League|2012–13]] || 0 || n/a
+|-
+| align="left"|[[Southampton F.C.|Southampton]]<sup>a</sup> || <span style="display:none">019</span>2nd in the [[Football League Championship|Championship]] || 1966–67 || 36 || 14 || [[2012–13 Premier League|2012–13]] || 0 || n/a
+|-
+| align="left"|[[Stoke City F.C.|Stoke City]]<sup>b, c</sup> || <span style="display:none">014</span>14th || 1888–89 || 57 || 5 || [[2008–09 Premier League|2008–09]] || 0 || n/a
+|-
+| align="left"|[[Sunderland A.F.C.|Sunderland]] || <span style="display:none">013</span>13th || 1890–91 || 82 || 12 || [[2007–08 Premier League|2007–08]] || 6 || 1935–36
+|-
+| align="left"|[[Swansea City A.F.C.|Swansea City]]<sup>b</sup> || <span style="display:none">011</span>11th || 1981–82 || 4 || 2 || [[2011–12 Premier League|2011–12]] || 0 || n/a
+|-
+| align="left"|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]<sup>a, b</sup> || <span style="display:none">004</span>4th || 1909–10 || 78 || 21 || 1978–79 || 2 || 1960–61
+|-
+| align="left"|[[West Bromwich Albion F.C.|West Bromwich Albion]]<sup>c</sup> || <span style="display:none">010</span>10th || 1888–89 || 76 || 7 || 2010–11 || 1 || 1919–20
+|-
+| align="left"|[[West Ham United F.C.|West Ham United]] || <span style="display:none">020</span>3rd in the [[Football League Championship|Championship]] || 1923–24 || 55 || 17 || [[2012–13 Premier League|2012–13]] || 0 || n/a
+|-
+| align="left"|[[Wigan Athletic F.C.|Wigan Athletic]]<sup>b</sup> || <span style="display:none">015</span>15th || |2005–06 || 8 || 8 || [[2005–06 FA Premier League|2005–06]] || 0 || n/a
+|}
+{{-}}
+
+* [[Blackburn Rovers F.C.|Blackburn Rovers]], [[Bolton Wanderers F.C.|Bolton Wanderers]] and [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] were relegated to the [[2012–13 Football League Championship|Championship]] for the 2012–13 season, while [[Reading F.C.|Reading]], [[Southampton F.C.|Southampton]] and [[West Ham United F.C.|West Ham United]], as winners, runners-up and play-off final winners respectively, were promoted from the [[2011–12 Football League Championship|2011–12 Championship season]].
+
+<sup>a</sup>: Founding member of the Premier League<br />
+<sup>b</sup>: Never been relegated from Premier League<br />
+<sup>c</sup>: One of the original 12 Football League teams
+
+== Stadiums ==
+{{main|List of Premier League stadiums}}
+Premier League football has been played in 50 stadia since the formation of the Premier League in 1992. The [[Hillsborough disaster]] in 1989 and the subsequent [[Taylor Report]] saw a recommendation that standing terraces should be abolished; as a result all stadia in the Premier League are [[all-seater]].<ref>{{Cite news |url=http://www.independent.co.uk/sport/football-fayeds-race-against-time-1087976.html |work=The Independent |accessdate=14 September 2010 |title=Football: Fayed's race against time |first=Norman |last=Fox |date=18 April 1999}}</ref><ref>{{cite news |first=Matt |last=Slater |title=Call grows for return of terraces |url=http://news.bbc.co.uk/sport1/hi/football/6444083.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=14 March 2007 |accessdate=28 May 2009 }}</ref> Since the formation of the Premier League, football grounds in England have seen constant improvements to capacity and facilities, with some clubs moving to new-build stadia.<ref name="Matchmood">{{cite news |first=Chris |last=Whyatt |title=Match-going mood killers? |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/7168641.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=3 January 2008 |accessdate=15 September 2010 }}</ref> Nine stadia that have seen Premier League football have now been demolished. The stadia for the 2010–11 season show a large disparity in capacity: [[Old Trafford]], the home of Manchester United has a capacity of 75,957<ref>{{cite journal |last=Morgan |first=Steve |editor1-first=Ian |editor1-last=McLeish |year=2010 |month=March |title=Design for life |journal=Inside United |issue=212 |pages=44–48 |publisher=Haymarket Network |issn=1749-6497 }}</ref> with [[Bloomfield Road]], the home of [[Blackpool F.C.|Blackpool]], having a capacity of 16,220.<ref>{{Cite journal |title=SCHEDULE OF ACCOMMODATION (General Condition 5.1.1) |journal=General Safety Certificate 2010/11 |page=21 |publisher=Blackpool Council |location=Blackpool }}</ref> The combined total capacity of the Premier League in the 2010–11 season is 770,477 with an average capacity of 38,523.<ref name="PLHandbook">{{cite web|url=http://www.premierleague.com/staticFiles/4f/53/0,,12306~152399,00.pdf |title=Premier League Handbook: Season 2010/11 |publisher=Premier League |year=2010 |page=454 |accessdate=7 September 2010 |format=PDF}}</ref>
+
+Stadium attendances are a significant source of regular income for Premier League clubs.<ref>{{cite journal |url=http://eprints.lancs.ac.uk/30514/1/003092.pdf|title=Market size and attendance in English Premier League football |publisher=Lancaster University Management School |first1=Babatunde |last1=Buraimo |first2=Rob |last2=Simmons |work=Lancaster University Management School Working Paper |year=2006|volume=2006/003 |accessdate=15 September 2010 |format=PDF}}</ref> For the 2009–10 season, average attendances across the league clubs were 34,215 for Premier League matches with a total aggregate attendance figure of 13,001,616.<ref name="PLHandbook"/> This represents an increase of 13,089 from the average attendance of 21,126 recorded in the league's first season (1992–93).<ref>{{cite web |url=http://stats.football.co.uk/1992/ |title=Football Stats Results for 1992–1993 Premiership |work=football.co.uk|publisher=DigitalSportsGroup |accessdate=10 August 2006}} {{Dead link|date=April 2012|bot=H3llBot}}</ref> However, during the 1992–93 season the capacities of most stadia were reduced as clubs replaced terraces with seats in order to meet the [[Taylor Report]]'s 1994–95 deadline for [[all-seater stadium|all-seater stadia]].<ref>{{cite web |url=http://www.le.ac.uk/fo/resources/factsheets/fs2.html |title=Fact Sheet 2: Football Stadia After Taylor |publisher=University of Leicester |accessdate=10 August 2006 |archiveurl=http://web.archive.org/web/20060626011640/http://www.le.ac.uk/fo/resources/factsheets/fs2.html |archivedate=26 June 2006 |deadurl=yes }}</ref><ref>{{cite web |url=http://soccernet.espn.go.com/columns/story?id=337736&root=extratime&cc=5901 |title=Shifting stands |work=Soccernet |publisher=ESPN |date=27 July 2005 |accessdate=10 August 2006 }}</ref> The Premier League's record average attendance of 36,144 was set during the 2007–08 season.<ref>{{cite web |url=http://www.mondaq.com/article.asp?articleid=61472 |title=United Kingdom: Deloitte Annual Review Of Football Finance Highlights |work= Deloitte Sports Business Group |publisher=Mondaq |date=4 June 2008 |accessdate=7 September 2010}}</ref>
+
+== Managers ==
+{{See also|List of Premier League managers}}
+[[Manager (association football)|Managers]] in the Premier League are involved in the day to day running of the team, including the training, team selection, and player acquisition. Their influence varies from club-to-club and is related to the ownership of the club and the relationship of the manager with fans.<ref>{{cite journal |title=Managers, directors and trust in professional football |first1=Seamus |last1=Kelly |first2=John |last2=Harris |journal=Sport in Society: Cultures, Commerce, Media, Politics |volume=13 |issue=3 |year=2010 |pages=489–502 |doi=10.1080/17430431003588150}}</ref> Managers are required to have a [[UEFA Pro Licence]] which is the final coaching qualification available, and follows the completion of the [[UEFA]] 'B' and 'A' Licences.<ref name="licences">{{cite news|last=White |first=Duncan |url=http://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2005/12/05/sfnkmo05.xml |title=The Knowledge |newspaper=The Daily Telegraph |date=5 December 2005|accessdate=13 October 2010}}</ref> The UEFA Pro Licence is required by every person who wishes to manage a club in the Premier League on a permanent basis (i. e. more than 12 weeks – the amount of time an unqualified [[caretaker manager]] is allowed to take control).<ref>{{cite news|url=http://www.timesonline.co.uk/tol/sport/football/premier_league/chelsea/article2508204.ece|title=Avram Grant's job under threat from lack of Uefa licence|newspaper=The Times|first1=Matt|last1=Hughes|first2=Martin|last2=Samuel|date=22 September 2007|accessdate=8 November 2010}}</ref> Caretaker appointments are managers that fill the gap between a managerial departure and a new appointment. Several caretaker managers have gone on to secure a permanent managerial post after performing well as a caretaker; examples include [[Paul Hart]] at [[Portsmouth F.C.|Portsmouth]] and [[David Pleat]] at [[Tottenham Hotspur F.C.|Tottenham Hotspur]].
+
+Only one manager, [[Alex Ferguson]], has remained in his position since the formation of the Premier League in 1992.<ref>{{cite web |url=http://www.leaguemanagers.com/managers/longest-current.html |title=Longest serving managers |publisher=League Managers Association |accessdate=14 September 2010}}</ref> [[Arsène Wenger]] has been in charge of [[Arsenal F.C.|Arsenal]] in the Premier League since 1996, while [[David Moyes]] has been [[Everton F.C.|Everton]]'s manager since 2002. No English manager has won the Premier League; the six managers to have won the title comprise two [[Scotland|Scots]] [[Alex Ferguson|Sir Alex Ferguson]] (Manchester United, twelve wins) and [[Kenny Dalglish]] (Blackburn Rovers, one win), a Frenchman ([[Arsène Wenger]], Arsenal, three wins), a Portuguese ([[José Mourinho]], Chelsea, two wins) and two Italians ([[Carlo Ancelotti]], Chelsea and [[Roberto Mancini]], Manchester City, one win each).<ref>{{cite web |url=http://www.leaguemanagers.com/managers/winners.html |title=Who won what |publisher=League Managers Association |accessdate=14 September 2010}}</ref>
+The current managers in the Premier League are:
+
+[[File:Alex Ferguson.jpg|thumb|right|upright|Manchester United manager [[Alex Ferguson|Sir Alex Ferguson]] is the only manager who has remained in his job since the formation of the Premier League.|alt=The torso and head of a grey-haired white man. He is wearing spectacles and a black coat.]]
+
+{| class="wikitable sortable"
+!
+!Name
+!Club
+!Appointed
+|-
+| {{sort|Scotland|{{Flagicon|SCO}}}} || {{sortname|Sir Alex|Ferguson|Alex Ferguson|Ferguson, Alex}} || [[Manchester United F.C.|Manchester United]] || {{dts|format=dmy|1986|11|06}}
+|-
+| {{sort|France|{{Flagicon|FRA}}}} || {{sortname|Arsène|Wenger| |Wenger, Arsene}} || [[Arsenal F.C.|Arsenal]] || {{dts|format=dmy|1996|10|01}}
+|-
+| {{sort|Scotland|{{Flagicon|SCO}}}} || {{sortname|David|Moyes}} || [[Everton F.C.|Everton]] || {{dts|format=dmy|2002|03|15}}
+|-
+| {{sort|Wales|{{Flagicon|WAL}}}} || {{sortname|Tony|Pulis}} || [[Stoke City F.C.|Stoke City]] || {{dts|format=dmy|2006|06|15}}
+|-
+| {{sort|Spain|{{Flagicon|ESP}}}} || {{sortname|Roberto|Martínez| |Martinez, Roberto}} || [[Wigan Athletic F.C.|Wigan Athletic]] || {{dts|format=dmy|2009|06|15}}
+|-
+| {{sort|Italy|{{Flagicon|ITA}}}} || {{sortname|Roberto|Mancini}} || [[Manchester City F.C.|Manchester City]] || {{dts|format=dmy|2009|12|19}}
+|-
+| {{sort|England|{{Flagicon|ENG}}}} || {{sortname|Brian|McDermott|Brian McDermott (footballer)}} || [[Reading F.C.|Reading]] || {{dts|format=dmy|2009|12|20}}
+|-
+| {{sort|England|{{Flagicon|ENG}}}} || {{sortname|Nigel|Adkins}} || [[Southampton F.C.|Southampton]] || {{dts|format=dmy|2010|09|12}}
+|-
+| {{sort|England|{{Flagicon|ENG}}}} || {{sortname|Alan|Pardew}} || [[Newcastle United F.C.|Newcastle United]] || {{dts|format=dmy|2010|12|09}}
+|-
+| {{sort|England|{{Flagicon|ENG}}}} || {{sortname|Sam|Allardyce}} || [[West Ham United F.C.|West Ham United]] || {{dts|format=dmy|2011|06|01}}
+|-
+| {{sort|Netherlands|{{Flagicon|NED}}}} || {{sortname|Martin|Jol}} || [[Fulham F.C.|Fulham]] || {{dts|format=dmy|2011|06|07}}
+|-
+| {{sort|Ireland|{{Flagicon|IRL}}}} || {{sortname|Martin|O'Neill| |Oneill, Martin}} || [[Sunderland A.F.C.|Sunderland]] || {{dts|format=dmy|2011|12|3}}
+|-
+| {{sort|Wales|{{Flagicon|WAL}}}} || {{sortname|Mark|Hughes}} || [[Queens Park Rangers F.C.|Queens Park Rangers]] || {{dts|format=dmy|2012|01|10}}
+|-
+| {{sort|Italy|{{Flagicon|ITA}}}} || {{sortname|Roberto|Di Matteo}} || [[Chelsea F.C.|Chelsea]] || {{dts|format=dmy|2012|03|04}}
+|-
+| {{sort|Northern Ireland|{{Flagicon|NIR}}}} || {{sortname|Brendan|Rodgers}} || [[Liverpool F.C.|Liverpool]] || {{dts|format=dmy|2012|06|01}}
+|-
+| {{sort|Scotland|{{Flagicon|SCO}}}} || {{sortname|Paul|Lambert}} || [[Aston Villa F.C.|Aston Villa]] || {{dts|format=dmy|2012|06|02}}
+|-
+| {{sort|Ireland|{{Flagicon|IRL}}}} || {{sortname|Chris|Hughton}} || [[Norwich F.C.|Norwich City]] || {{dts|format=dmy|2012|06|07}}
+|-
+| {{sort|Scotland|{{Flagicon|SCO}}}} || {{sortname|Steve|Clarke}} || [[West Bromwich Albion F.C.|West Bromwich Albion]] || {{dts|format=dmy|2012|06|08}}
+|-
+| {{sort|Demnark|{{Flagicon|DEN}}}} || {{sortname|Michael|Laudrup}} || [[Swansea City A.F.C.|Swansea City]] || {{dts|format=dmy|2012|06|15}}
+|-
+| {{sort|Portugal|{{Flagicon|POR}}}} || {{sortname|André|Villas-Boas| |Villas-Boas, Andre}} || [[Tottenham Hotspur F.C.|Tottenham Hotspur]] || {{dts|format=dmy|2012|07|03}}
+|}
+
+== Players ==
+{{See also|List of football players with a Premier League winner's medal}}
+
+=== Appearances ===
+[[Ryan Giggs]] holds the record number of Premier League appearances and is the only player to have played and scored in all 20 completed seasons. He also has 12 Premier League champion's medals, more than any other player.<ref>[http://www.premierleague.com/en-gb/players/profile.career-history.html/ryan-giggs Player Profile – Ryan Giggs – Career History]</ref>
+
+=== Foreign players and transfer regulations ===
+{{See also|List of foreign Premier League players}}
+{| class="wikitable" style="text-align:center; margin-left:1em; float:right"
+|-
+!Rank!!Player!!Appearances
+|-
+| 1
+| align="left"|{{Flagicon|WAL}} '''''[[Ryan Giggs]]'''''
+| 600
+|-
+| 2
+| align="left"|{{Flagicon|ENG}} ''[[David James (footballer)|David James]]''
+| 572
+|-
+| 3
+| align="left"|{{Flagicon|WAL}} [[Gary Speed]]
+| 535
+|-
+| 4
+| align="left"|{{Flagicon|ENG}} '''''[[Frank Lampard]]'''''
+| 526
+|-
+| 5
+| align="left"|{{Flagicon|ENG}} ''[[Emile Heskey]]''
+| 510
+|-
+| 6
+| align="left"|{{Flagicon|ENG}} [[Sol Campbell]]
+| 504
+|-
+| 7
+| align="left"|{{Flagicon|ENG}} '''''[[Phil Neville]]'''''
+| 486
+|-
+| 8
+| align="left"|{{Flagicon|ENG}} '''''[[Jamie Carragher]]'''''
+| 481
+|-
+| 9
+| align="left"|{{Flagicon|ENG}} '''''[[Paul Scholes]]'''''
+| 480
+|-
+| 10
+| align="left"|{{Flagicon|AUS}} '''''[[Mark Schwarzer]]'''''
+| 469
+|-
+| colspan="3"|<small>''Italics'' denotes players still playing professional football.<br />'''Bold''' denotes players still playing in the Premier League.<ref name="blstats">{{cite web |url=http://www.premierleague.com/page/Statistics|title=Barclays Premier League Statistics |accessdate=8 April 2012 |publisher=Premier League}}</ref></small>
+|}
+
+At the inception of the Premier League in [[1992–93 FA Premier League|1992–93]], just eleven players named in the starting line-ups for the first round of matches hailed from outside of the United Kingdom or [[Republic of Ireland]].<ref>{{cite news |url=http://football.guardian.co.uk/print/0,3858,4487212-3057,00.html |last=Atkinson |first=Ron |title=England need to stem the foreign tide |newspaper=The Guardian |date=23 August 2002 |accessdate=10 August 2006}}</ref> By [[2000–01 FA Premier League|2000–01]], the number of foreign players participating in the Premier League was 36&nbsp;per&nbsp;cent of the total. In the [[2004–05 FA Premier League|2004–05]] season the figure had increased to 45&nbsp;per&nbsp;cent. On 26 December 1999, Chelsea became the first Premier League side to field an entirely foreign starting line-up,<ref>{{cite news |url=http://football.guardian.co.uk/news/theknowledge/0,9204,474626,00.html |title=Phil Neal: King of Europe? |newspaper=The Guardian |accessdate=10 August 2006 |first=Sean |last=Ingle |date=12 June 2001}}</ref> and on 14 February 2005 Arsenal were the first to name a completely foreign 16-man squad for a match.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/4266443.stm |title=Wenger backs non-English line-up |work=BBC Sport |publisher=British Broadcasting Corporation |date=14 February 2005 |accessdate=10 August 2006}}</ref> By 2009 the average Premier League team had an average of 13 foreign players in their side<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8182090.stm |title=Where the Premier League's players come from |date=17 August 2009 |work=BBC Sport |publisher=British Broadcasting Corporation |accessdate=3 October 2010 |first=Ollie |last=Williams}}</ref> with under 40% of the players in the Premier League being English.<ref name="Astiazaran foreign">{{cite news |url=http://www.guardian.co.uk/football/2010/jul/08/jose-luis-astiazaran-la-liga-england |title=World Cup 2010: England are 'paying price of foreign Premier League' |date=8 July 2010 |first=Jamie |last=Jackson |newspaper=The Guardian |accessdate=3 October 2010}}</ref> The effect of foreign players on the [[England national football team]] has been the subject of a long-standing debate with some such as [[José Luis Astiazarán]], president of Spain's [[La Liga]], suggesting that the high number of young foreign players is the reason behind the national side's lack of success at international football tournaments.<ref name="Astiazaran foreign"/> [[Vicente del Bosque]], the manager of the Spanish national team, disagrees stating that he "didn't think it's damaging for English football to have people from abroad."<ref>{{cite news |url=http://www.goal.com/en-india/news/477/euro-2012/2010/09/22/2131418/spain-coach-vicente-del-bosque-insists-foreign-premier |title=Spain Coach Vicente Del Bosque Insists Foreign Premier League Players Are Not Damaging The English National Team |first=Eliot |last=Rothwell |date=22 September 2010 |publisher=Goal.com |accessdate=3 October 2010}}</ref>
+
+In response to concerns that clubs were increasingly passing over young British players in favour of signing less-expensive foreign players, in 1999, the [[Home Office]] tightened its rules for granting work permits to players from countries outside of the [[European Union]].<ref>{{cite web |url=http://www.gnn.gov.uk/Content/Detail.asp?ReleaseID=32096&NewsAreaID=2 |title=New Work Permit Criteria for Football Players Announced |work=Department for Education and Employment |publisher=HM Government |date=2 July 1999 |accessdate=1 July 2007 |archiveurl=http://web.archive.org/web/20070930154815/http://www.gnn.gov.uk/Content/Detail.asp?ReleaseID=32096&NewsAreaID=2 |archivedate=30 September 2007 |deadurl=yes}}</ref> Currently a non-EU player applying for the permit must have played for his country in at least 75&nbsp;per&nbsp;cent of its competitive 'A' team matches for which he was available for selection during the previous two years, and his country must have averaged at least 70th place in the official FIFA world rankings over the previous two years. If a player does not meet those criteria, the club wishing to sign him may appeal if they believe that he is a special talent and "able to contribute significantly to the development of the game at the top level in the UK."<ref name=HOworkpermits>{{cite web |url=http://www.workingintheuk.gov.uk/working_in_the_uk/en/homepage/work_permits0/applying_for_a_work/sports_and_entertainers/football_players.html |title=Work permit arrangements for football players |work=Home Office |publisher=HM Government |accessdate=1 July 2007 |archiveurl=http://web.archive.org/web/20060926091514/http://www.workingintheuk.gov.uk/working_in_the_uk/en/homepage/work_permits0/applying_for_a_work/sports_and_entertainers/football_players.html |archivedate=26 September 2006 |deadurl=yes}}</ref> One area where the Premier League's player registration rules are more restrictive than those of some other football leagues, such as those of Belgium and Portugal, is that academy level non-EU players have little access to English football by law.<ref name=HOworkpermits/>
+
+
+Players can only be transferred during [[transfer window]]s that are set by the Football Association. The two current transfer windows run from the last day of the season to 31 August and from 31 December to 31 January. Player registrations cannot be exchanged outside these windows except under specific licence from the FA, usually on an emergency basis.<ref>{{cite web|url=http://www.premierleague.com/staticFiles/7a/20/0,,12306~139386,00.pdf |title=Premier League rules |publisher=Premier League |year=2010 |page=150 |accessdate=7 September 2010 |format=PDF}}</ref> As of the [[2010–11 Premier League|2010–11 season]], the Premier League introduced new rules mandating that each club must register a maximum 25-man squad of players aged over 21, with the squad list only allowed to be changed in transfer windows or in exceptional circumstances.<ref name=PLHomeGrownPlayerRules16Jul2010>{{cite web |url=http://www.premierleague.com/page/Headlines/0,,12306~2094341,00.html |title=Home Grown Player rules |publisher=Premier League |date=16 July 2010 |accessdate=5 August 2010}}</ref><ref name=BBC27July2010NewRules>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8858634.stm |title=New Premier League squad rules explained |work=BBC Sport |publisher=British Broadcasting Corporation |date=27 July 2010 |accessdate=5 August 2010}}</ref> This was to enable the 'home grown' rule to be enacted, whereby the League would also from 2010 require at least 8 of the named 25 man squad to be made up of 'home-grown players', defined as a player who: {{quote|irrespective of his nationality or age, has been registered with any club affiliated to [[The Football Association]] or the [[Football Association of Wales|Welsh Football Association]] for a period, continuous or not, of three entire seasons or 36 months prior to his 21st birthday (or the end of the season during which he turns 21)<ref name=PLHomeGrownPlayerRules16Jul2010/>}}
+
+=== Wages and transfer records ===
+There is no team or individual salary cap in the Premier League. As a result of the increasingly lucrative television deals, player wages rose sharply following the formation of the Premier League. In the first Premier League season the average player wage was £75,000 per year,<ref>{{cite news |url=http://football.guardian.co.uk/comment/story/0,9753,1009392,00.html |title=Forty factors fuelling football inflation |newspaper=The Guardian |date=31 July 2003 |accessdate=8 August 2006}}</ref> but subsequently rose by an average 20&nbsp;per&nbsp;cent per year for a decade,<ref>{{cite news |url=http://soccernet.espn.go.com/news/story?id=369799&cc=5739 |title=Wages fall, but Premier League still spend big |work=Soccernet |publisher=ESPN |date=1 June 2006 |accessdate=8 August 2006}}</ref> £409,000 in 2000–01, £676,000 in [[2003–04 FA Premier League|2003–04]] season<ref>{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/article531111.ece |title=The billion-pound revolution |newspaper=The Times |date=8 June 2005 |accessdate=8 August 2006 |first=Ashling |last=O'Connor}}</ref> rising to £1.1&nbsp;million for the 2008–09 season.<ref>{{cite news |url=http://www.dailymail.co.uk/sport/football/article-1284760/England-0-Germany-1-Bundesliga-overtakes-Premier-League-profits-slump.html |title=Premier League falls behind German Bundesliga as Europe most profitable football league |last=Williamson |first=Laura |date=8 June 2010 |newspaper=Daily Mail |accessdate=16 September 2010 }}</ref>
+
+The [[Progression of British football transfer fee record|record transfer fee]] for a Premier League has been broken several times over the lifetime of the competition. Prior to the start of the first Premier League season [[Alan Shearer]] became the first British player to command a transfer fee of more than £3&nbsp;million.<ref name="OSMtransfers">{{cite news |url=http://observer.guardian.co.uk/osm/story/0,,1720979,00.html |title=From £250,000 to £29.1m |newspaper=The Observer |date=5 March 2006 |accessdate=2 December 2007 }}</ref> The record rose steadily in the Premier League's first few seasons, until Alan Shearer made a world record breaking £15&nbsp;million move to Newcastle United in 1996.<ref name="OSMtransfers"/> This stood as a British record for four years until it was eclipsed by the £18&nbsp;million Leeds paid West Ham for [[Rio Ferdinand]].<ref name="OSMtransfers"/> Manchester United subsequently broke the record three times by signing [[Ruud van Nistelrooy]], [[Juan Sebastián Verón]] and Rio Ferdinand.<ref>{{cite news |url=http://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2002/07/21/uferd.xml |title=Leeds sell Rio for £30 million |newspaper=The Daily Telegraph |date=21 July 2002 |accessdate=2 December 2007}}</ref> Chelsea broke the record in May 2006, when they signed [[Andriy Shevchenko]], from [[A.C. Milan|Milan]]. The exact figure of the transfer fee was not disclosed, but was reported as being around £30&nbsp;million.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/5035604.stm |title=Chelsea complete Shevchenko deal |work=BBC Sport |publisher=British Broadcasting Corporation |date=31 May 2006 |accessdate=2 December 2007}}</ref> This was surpassed by Manchester City's transfer of [[Robinho]] from [[Real Madrid C.F.|Real Madrid]] on 1 September 2008 for £32.5&nbsp;million.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/7593026.stm |title=Man City beat Chelsea to Robinho |date=1 September 2008 |accessdate=2 September 2008 |work=BBC Sport |publisher=British Broadcasting Corporation }}</ref> This fee was then surpassed twice on deadline day of the January 2011 window, first by [[Andy Carroll]]'s £35&nbsp;million move from [[Newcastle United F.C.|Newcastle United]] to [[Liverpool F.C.|Liverpool]].<ref>{{cite news |title=Liverpool sign Carroll from Newcastle for record £35m |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9382215.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=31 January 2011 |accessdate=31 January 2011 }}</ref> This was then beaten when [[Fernando Torres]] moved from Liverpool to [[Chelsea F.C.|Chelsea]] for £50&nbsp;million.<ref>{{cite news |url=http://www.skysports.com/story/0,19528,11668_6715466,00.html |title=Blues wrap up Torres deal |date=31 January 2011 |accessdate=31 January 2011 |publisher=Sky |work=Sky Sports}}</ref> The Torres deal remains the British transfer record paid for a player. The record transfer in the sport's history had a Premier League club on the selling end, with Manchester United accepting an £80&nbsp;million bid from Real Madrid for [[Cristiano Ronaldo]] in 2009.<ref>{{cite news |title=Man Utd accept £80m Ronaldo bid |url=http://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/8094720.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=12 June 2009 |accessdate=12 June 2009 }}</ref>
+
+=== Top scorers ===
+{{See also|Top Premier League goal scorers by season|Premier League Golden Boot|List of Premier League hat-tricks}}
+{| class="wikitable" style="text-align:center; margin-left:1em; float:right"
+|-
+!Rank!!Player!!Goals
+|-
+| 1
+| align="left"|{{Flagicon|ENG}} [[Alan Shearer]]
+| 260
+|-
+| 2
+| align="left"|{{Flagicon|ENG}} [[Andrew Cole]]
+| 187
+|-
+| 3
+| align="left"|{{Flagicon|FRA}} ''[[Thierry Henry]]''
+| 175
+|-
+| 4
+| align="left"|{{Flagicon|ENG}} ''[[Robbie Fowler]]''
+| 162
+|-
+| 5
+| align="left"|{{Flagicon|ENG}} '''''[[Frank Lampard]]'''''
+| 153
+|-
+| rowspan="2"|6
+| align="left"|{{Flagicon|ENG}} [[Les Ferdinand]]
+| 149
+|-
+| align="left"|{{Flagicon|ENG}} '''''[[Michael Owen]]'''''
+| 149
+|-
+| 8
+| align="left"|{{Flagicon|ENG}} '''''[[Wayne Rooney]]'''''
+| 148
+|-
+| 9
+| align="left"|{{Flagicon|ENG}} [[Teddy Sheringham]]
+| 147
+|-
+| 10
+| align="left"|{{Flagicon|NED}} [[Jimmy Floyd Hasselbaink]]
+| 129
+|-
+| colspan="3"|<small>(''Italics'' denotes players still playing professional football,<br />'''Bold''' denotes players still playing in the Premier League).<ref name="blstats" /></small>
+|}
+
+Players in the Premier League compete for the Premier League Golden Boot, awarded to the top scorer at the end of each season, as well as for Golden Boot awards for the first person to score 10, 20 or 30 goals in a season. They can also compete for the informal competitions of [[Goal of the Month (England)|Goal of the Month]] and [[Goal of the Season]]. Former Blackburn Rovers and [[Newcastle United F.C.|Newcastle United]] [[striker]] [[Alan Shearer]] holds the record for most Premier League goals with 260. Shearer finished among the top ten goal scorers in 10 out of his 14 seasons in the Premier League and won the top scorer title three times. During the [[1995–96 in English football|1995–96 season]] he became the first player to score 100 Premier League goals. Since then, [[List of Premier League players with 100 or more goals|21 other players]] have reached the 100-goal mark.<ref>{{cite web |url=http://www.premierleague.com/page/Statistics/0,,12306,00.html |title=Statistics > All seasons > Top scorers |publisher=Premier League |accessdate=11 September 2010}}</ref>
+
+Since the first Premier League season in 1992–93, 14 different players from 10 different clubs have won or shared the top scorers title.<ref>{{cite web |url=http://www.premierleague.com/page/Headlines/0,,12306~1886761,00.html |title=Torres wins Barclays Golden Boot landmark |date=26 November 2009 |publisher=Premier League |accessdate=11 September 2010 }}</ref> [[Thierry Henry]] won his third consecutive and fourth overall scoring title by scoring 27 goals in the 2005–06 season. This surpassed Shearer's mark of three titles which he won consecutively from 1994–95 through 1996–97. Other multiple winners include [[Michael Owen]], [[Jimmy Floyd Hasselbaink]] and [[Didier Drogba]] who have won two titles each. [[Andrew Cole]] and Alan Shearer hold the record for most goals in a season (34) – for Newcastle and Blackburn respectively. Cole's record came in the 1993–94 season, while Shearer's came in 1994–95, both of which were 42-game seasons.<ref>{{cite news|url=http://www.football.co.uk/football_features/story_304.shtml|title=Premier League records|work=football.co.uk|publisher=DigitalSportsGroup|date=24 March 2008|accessdate=13 September 2010}}</ref> Shearer's mark of 31 goals from a 38-game season in 1995–96 was equalled in the 2007–08 season by [[Cristiano Ronaldo]].<ref>{{cite news |url=http://www.sportinglife.com/fanzine/story_get.dor?STORY_NAME=soccer/08/05/11/SOCCER_Premier_League_Comment.html |title=Fergie deserves his victory dance |date=11 May 2008 |accessdate=11 May 2008 |work=Sporting Life |publisher=365 Media Group}}</ref> Five goals is the record individual scoring total for a player in a single Premier League game held by four players; Andy Cole, Alan Shearer, Jermain Defoe and Dimitar Berbatov.<ref name=BBC22Nov09TottenhamWigan>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8365091.stm |title=Tottenham 9–1 Wigan |work=BBC Sport |publisher=British Broadcasting Corporation |date=22 November 2009 |accessdate=23 November 2009 |archiveurl=http://www.webcitation.org/5lVZ4CbjA |archivedate=23 November 2009}}</ref> Only [[Ryan Giggs]] of Manchester United has scored in all 20 completed seasons.<ref>{{cite web |url=http://www.sportbusiness.com/marketplace/facts/ryan-giggs-goal-makes-him-only-person-to-score-in-all-pl-seasons |title=Ryan Giggs goal makes him only person to score in all PL seasons trivia |work=SportBusiness |publisher=SBG Companies Ltd. |accessdate=21 November 2009}}</ref>
+
+Manchester United became the first team to have scored 1,000&nbsp;goals in the league after Cristiano Ronaldo scored in a 4–1 defeat by [[Middlesbrough F.C.|Middlesbrough]] in the 2005–06 season.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/4366686.stm |title=Middlesbrough 4–1 Man Utd |date=29 October 2005 |work=BBC Sport |publisher=British Broadcasting Corporation |accessdate=11 September 2010}}</ref> Arsenal, Chelsea, Liverpool, Tottenham Hotspur and Newcastle United are the only other teams to have reached the 1,000-goal mark, with Newcastle being the latest team to do so after [[Demba Ba]]'s first goal against [[Everton F.C.|Everton]] on 17 September 2012.<ref>{{cite news |url=http://www.chroniclelive.co.uk/newcastle-united/nufc-match-reports-results/2012/09/18/everton-2-newcastle-united-2-lee-ryder-s-match-analysis-72703-31853283/ |title=Everton 2 Newcastle United 2 – Lee Ryder's match analysis |date=18 September 2012 |accessdate=30 September 2012 |work=ChronicleLive.co.uk |publisher=Evening Chronicle |first=Lee |last=Ryder}}</ref>
+
+The highest-scoring match to date in the Premier League occurred on 29 September 2007 when [[Portsmouth F.C. 7–4 Reading F.C.|Portsmouth beat Reading 7–4]].<ref>{{cite news |first=Stuart |last=Roach |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/7008200.stm |title=Portsmouth 7–4 Reading |work=BBC Sport |publisher=British Broadcasting Corporation |date=29 September 2007 |accessdate=11 September 2010}}</ref>
+
+== Player and manager awards ==
+In addition to the winner's trophy and the individual [[List of football players with a Premier League winner's medal|winner's medals]] awarded to players, the Premier League also awards the monthly [[Premier League Manager of the Month|Manager of the Month]] and [[Premier League Player of the Month|Player of the Month]] awards,<ref>{{cite news |title=Season review 2009/10 |url=http://www.premierleague.com/page/Headlines/0,,12306~2049997,00.html |publisher=Premier League |date=13 May 2010 |accessdate=15 September 2010 }}</ref> as well as annual awards for [[Premier League Manager of the Season|Manager of the Season]],<ref>{{cite news|url=http://www.timesonline.co.uk/tol/sport/football/premier_league/tottenham/article7119984.ece|title=Tottenham Hotspur's Sir Harry Redknapp is Premier League manager of season|first=Richard|last=Neale|newspaper=The Times|date=7 May 2010|accessdate=15 September 2010}}</ref> [[Premier League Player of the Season|Player of the Season]],<ref name=poty2010>{{cite news|url=http://www.independent.co.uk/sport/football/news-and-comment/rooney-named-barclays-player-of-the-season-1970390.html|title=Rooney named Barclays Player of the Season|work=The Independent|date=10 May 2010|accessdate=7 August 2011}}</ref> [[Premier League Golden Boot|Golden Boot]] and the [[Premier League Golden Glove|Golden Glove]] awards.<ref>{{cite news|url=http://www.premierleague.com/page/Headlines/0,,12306~2051839,00.html|title=Chelsea scoop hat-trick of Barclays awards|publisher=Premier League|date=13 May 2010|accessdate=15 September 2010}}</ref>
+
+== 10 Seasons Awards ==
+{{Main|Premier League 10 Seasons Awards}}
+[[File:Alanshearerwiki.jpg|thumb|200px|Alan Shearer training in 2005]]
+In 2003, the Premier League celebrated its first decade by holding the 10 Seasons Awards:<ref name=PremierLeague10SeasonsAwardsWinners17Apr03>{{cite web |url=http://tenseasons.premierleague.com/index.jsp |title=10 Seasons Awards Winners |publisher=Premier League |accessdate=7 September 2010 |archiveurl=http://web.archive.org/web/20030417165131/http://tenseasons.premierleague.com/index.jsp |archivedate=17 April 2003}}</ref>
+
+* [[Premier League 10 Seasons Awards#Teams of the Decade|Teams of the Decade]]:
+** '''Domestic''': [[David Seaman]], [[Gary Neville]], [[Tony Adams (footballer)|Tony Adams]], [[Steve Bruce]], [[Stuart Pearce]], [[David Beckham]], [[Paul Ince]], [[Paul Scholes]], [[Ryan Giggs]], [[Alan Shearer]], [[Michael Owen]]
+** '''Overseas''': [[Peter Schmeichel]], [[Dan Petrescu]], [[Jaap Stam]], [[Marcel Desailly]], [[Denis Irwin]], [[Fredrik Ljungberg]], [[Patrick Vieira]], [[Roy Keane]], [[Robert Pirès]], [[Thierry Henry]], [[Eric Cantona]]
+** '''Overall''': [[Peter Schmeichel]], [[Gary Neville]], [[Tony Adams (footballer)|Tony Adams]], [[Marcel Desailly]], [[Denis Irwin]], [[David Beckham]], [[Patrick Vieira]], [[Paul Scholes]], [[Ryan Giggs]], [[Alan Shearer]], [[Eric Cantona]]
+
+{{Col-begin}}
+
+{{Col-break}}
+
+* [[Premier League 10 Seasons Awards#Domestic and Overall Player of the Decade, Outstanding Contribution to the League|Overall Player of the Decade]] – [[Alan Shearer]]
+* [[Premier League 10 Seasons Awards#Domestic and Overall Player of the Decade, Outstanding Contribution to the League|Domestic Player of the Decade]] – [[Alan Shearer]]
+* [[Premier League 10 Seasons Awards#Overseas Player of the Decade|Overseas Player of the Decade]] – [[Eric Cantona]]
+* [[Premier League 10 Seasons Awards#Goal of the Decade|Goal of the Decade]] – [[David Beckham]], 17 August 1996, Wimbledon vs Manchester United
+* [[Premier League 10 Seasons Awards#Save of the Decade|Save of the Decade]] – [[Peter Schmeichel]], 21 December 1997, Newcastle United vs Manchester United
+* [[Premier League 10 Seasons Awards#Match of the Decade|Match of the Decade]] – [[Liverpool F.C. 4–3 Newcastle United F.C. (1996)|Liverpool 4–3 Newcastle United]], 3 April 1996
+* [[Premier League 10 Seasons Awards#Photograph of the Decade|Photograph of the Decade]] – Phil Noble ([[Press Association|PA]]), 11 September 1999, Michael Owen of Liverpool miss against Manchester United
+* [[Premier League 10 Seasons Awards#Commentator of the Decade|Commentator of the Decade]] – [[Martin Tyler]] of [[Sky Sports]]
+* [[Premier League 10 Seasons Awards#Quote of the Decade|Quote of the Decade]] – "I would love it if we beat them. Love it!", [[Kevin Keegan]], 29 April 1996
+
+{{Col-break}}
+
+* [[Premier League 10 Seasons Awards#Manager of the Decade|Manager of the Decade]] – [[Alex Ferguson|Sir Alex Ferguson]]
+* [[Premier League 10 Seasons Awards#Domestic and Overall Player of the Decade, Outstanding Contribution to the League|Outstanding Contribution]] – [[Alan Shearer]]
+* [[Premier League 10 Seasons Awards#Contribution to the Community|Contribution to the Community]] – [[Lucas Radebe]]
+* [[Premier League 10 Seasons Awards#Other statistical recognitions|Most Appearances]] – [[Gary Speed]] (352)
+* [[Premier League 10 Seasons Awards#Other statistical recognitions|Goalkeeper with most clean sheets]] – [[David Seaman]] (130)
+* [[Premier League 10 Seasons Awards#Other statistical recognitions|Most Coaching Appearances]] – [[Alex Ferguson|Sir Alex Ferguson]] (392)
+* [[Premier League 10 Seasons Awards#Other statistical recognitions|10,000th Goal]] – [[Les Ferdinand]], 15 December 2001, Tottenham Hotspur vs Fulham
+* [[Premier League 10 Seasons Awards#Other statistical recognitions|Top Goalscorer]] – [[Alan Shearer]] (204)
+{{Col-end}}
+
+== 20 Seasons Awards ==
+{{Main|Premier League 20 Seasons Awards}}
+In 2012, the Premier League celebrated its second decade by holding the 20 Seasons Awards:<ref>{{Cite news |title=20 Seasons Awards: The Winners |url=http://www.premierleague.com/en-gb/news/features/20-seasons-awards-winners.html |work=premierleague.com |publisher=Premier League |date=15 May 2012 |accessdate=15 May 2012 }}</ref>
+
+* [[Premier League 20 Seasons Awards#Fantasy Teams of the 20 Seasons|Fantasy Team of the 20 Seasons]]
+** '''Panel Choice:''' [[Peter Schmeichel]], [[Gary Neville]], [[Tony Adams (footballer)|Tony Adams]], [[Rio Ferdinand]], [[Ashley Cole]], [[Cristiano Ronaldo]], [[Roy Keane]], [[Paul Scholes]], [[Ryan Giggs]], [[Thierry Henry]], [[Alan Shearer]]
+** '''Public Vote:''' Peter Schmeichel, Gary Neville, Tony Adams, [[Nemanja Vidić]], Ashley Cole, Cristiano Ronaldo, [[Steven Gerrard]], Paul Scholes, Ryan Giggs, Thierry Henry, Alan Shearer
+
+{{Col-begin}}
+{{Col-break}}
+* [[Premier League 20 Seasons Awards#Best Manager|Best Manager]]: [[Alex Ferguson|Sir Alex Ferguson]]
+* [[Premier League 20 Seasons Awards#Best Player|Best Player]]: Ryan Giggs
+* [[Premier League 20 Seasons Awards#Best Team|Best Team]]: [[2003–04 Arsenal F.C. season|2003–04 Arsenal]]
+* [[Premier League 20 Seasons Awards#Best Season|Best Season]]: [[2011–12 Premier League|2011–12 season]]
+* [[Premier League 20 Seasons Awards#Most Memorable Quote|Most Memorable Quote]]: "I would love it if we beat them. Love it!" – [[Kevin Keegan]], 29 April 1996
+* [[Premier League 20 Seasons Awards#Best Save|Best Save]]: [[Craig Gordon]], 18 December 2010, [[Sunderland A.F.C.|Sunderland]] vs [[Bolton Wanderers F.C.|Bolton Wanderers]]
+* [[Premier League 20 Seasons Awards#Best Goal|Best Goal]]: [[Wayne Rooney]], 12 February 2011, Manchester United vs [[Manchester City F.C.|Manchester City]]
+{{Col-break}}
+* [[Premier League 20 Seasons Awards#Best Match|Best Match]]: [[Manchester United F.C. 4–3 Manchester City F.C. (2009)|Manchester United 4–3 Manchester City]], 20 September 2009
+* [[Premier League 20 Seasons Awards#Best Goal Celebration|Best Goal Celebration]]: [[Eric Cantona]], 21 December 1996, Manchester United vs Sunderland
+* [[Premier League 20 Seasons Awards#Other statistical recognitions|Most Appearances]]: [[Ryan Giggs]] (598)
+* [[Premier League 20 Seasons Awards#Other statistical recognitions|Top Goalscorer]]: [[Alan Shearer]] (260)
+* [[Premier League 20 Seasons Awards#Other statistical recognitions|Most Clean Sheets]]: [[David James (footballer)|David James]] (173)
+* [[Premier League 20 Seasons Awards#Other statistical recognitions|500 Club]]: [[Ryan Giggs]], [[David James (footballer)|David James]], [[Gary Speed]], [[Frank Lampard]], [[Emile Heskey]], and [[Sol Campbell]].
+{{Col-end}}
+
+== See also ==
+{{Portal|English football}}
+* [[List of English Football League managers]]
+* [[Premier League records|Football records in England]]
+{{clear}}
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+{{Spoken Wikipedia|Premier League.ogg|4 March 2007}}
+{{Commons category|FA Premier League}}
+* {{Official website|http://www.premierleague.com/}}
+
+{{Premier League}}
+{{Football in England table cells}}
+{{Football in the United Kingdom}}
+{{UEFA leagues}}
+
+[[Category:Premier League]]
+[[Category:Football leagues in England|1]]
+[[Category:National association football premier leagues|England]]
+[[Category:1992 establishments in England]]
+[[Category:Sports leagues established in 1992]]
+[[Category:Professional sports leagues]]
+
+{{Use dmy dates|date=October 2012}}
+
+{{Featured article}}
+
+
+{{Link FA|ko}}
+{{Link FA|mk}}
+
+[[af:Premier League]]
+[[ang:Premier League]]
+[[ar:بريميرليغ]]
+[[an:Premier League]]
+[[ast:Premier League]]
+[[az:İngiltərə Premyer Liqası]]
+[[bn:প্রিমিয়ার লীগ]]
+[[be:Англійская Прэм'ер-ліга]]
+[[be-x-old:Прэм’ер-Ліга]]
+[[bg:Английска висша лига]]
+[[bs:Premijer liga Engleske]]
+[[ca:FA Premier League]]
+[[cs:Barclays Premier League]]
+[[cy:Uwchgynghrair Lloegr]]
+[[da:Premier League]]
+[[de:Premier League]]
+[[et:Premier League]]
+[[el:Πρέμιερ Λιγκ]]
+[[es:Premier League]]
+[[eo:F.A. Supra Ligo]]
+[[eu:Premier League]]
+[[fa:لیگ برتر انگلستان]]
+[[fr:Championnat d'Angleterre de football]]
+[[ga:Premier League]]
+[[gl:Premier League]]
+[[ko:프리미어리그]]
+[[hy:Պրեմիեր Լիգա (Անգլիա)]]
+[[hi:प्रीमियर लीग]]
+[[hr:FA Premier liga]]
+[[id:Liga Utama Inggris]]
+[[it:Premier League]]
+[[he:פרמייר ליג]]
+[[jv:Liga Utama Inggris]]
+[[kn:ಪ್ರೀಮಿಯರ್‌ ಲೀಗ್‌‌]]
+[[ka:პრემიერ ლიგა]]
+[[kk:Ағылшын Премьер-лигасы]]
+[[lv:Anglijas futbola Premjerlīga]]
+[[lb:Premier League]]
+[[lt:Premier League]]
+[[hu:Angol labdarúgó-bajnokság (első osztály)]]
+[[mk:ФА Премиер лига]]
+[[ml:പ്രീമിയർ ലീഗ്]]
+[[mt:Premier League]]
+[[mr:प्रीमियर लीग]]
+[[arz:پريميير ليج]]
+[[ms:Liga Perdana Inggeris]]
+[[mn:Английн Премьер лиг]]
+[[my:ပရီးမီးယားလိဂ်]]
+[[nl:Premier League]]
+[[ja:プレミアリーグ]]
+[[no:Premier League]]
+[[nn:Premier League]]
+[[pl:Premier League]]
+[[pt:Premier League]]
+[[ro:Premier League]]
+[[ru:Английская Премьер-лига]]
+[[sco:Premier League]]
+[[sq:English Premier League]]
+[[simple:English Premier League]]
+[[sk:FA Premier League]]
+[[sl:Premier League]]
+[[ckb:پرێمیەرلیگ]]
+[[sr:Премијер лига]]
+[[fi:Englannin Valioliiga]]
+[[sv:Premier League]]
+[[ta:இங்கிலீஷ் பிரீமியர் லீக்]]
+[[te:ప్రీమియర్ లీగ్]]
+[[th:พรีเมียร์ลีก]]
+[[tr:Premier League]]
+[[uk:Англійська футбольна Прем'єр-ліга]]
+[[vi:Giải bóng đá Ngoại hạng Anh]]
+[[wo:Premier League]]
+[[zh-yue:英格蘭超級足球聯賽]]
+[[zh:英格兰足球超级联赛]]
