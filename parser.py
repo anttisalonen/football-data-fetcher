@@ -9,6 +9,7 @@ import teamparser
 from settings import Globals
 
 table_re = re.compile(r' *\{\| *class *= *"?wikitable"?.*')
+br_re = re.compile(r'<br */?>')
 
 def getTopLeagues():
     templates = ['UEFA_leagues', 'CONMEBOL_leagues', 'CONCACAF_leagues', 
@@ -57,7 +58,7 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
         # TODO: handle infobox football like in Fußball-Regionalliga_Nord
         if len(relegationleagues) == 0 and lineWithoutSpaces.startswith("|relegation="):
             k, v = wikiutils.getKeyValue(line)
-            candidates = [wikiutils.unlinkify(x.strip()) for x in v.split('<br />')]
+            candidates = [wikiutils.unlinkify(x.strip()) for x in br_re.split(v)]
             for cn, cl in candidates:
                 if cl:
                     relegationleagues[cl] = cl
