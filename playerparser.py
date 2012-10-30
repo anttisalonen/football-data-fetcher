@@ -64,6 +64,9 @@ def fetchPlayer(line):
         if not number:
             number = 0
 
+        if not nationality:
+            nationality = 'NA'
+
         if nationality and pos and name:
             return soccer.Player(name, number, pos, nationality)
 
