@@ -1,0 +1,989 @@
+{{Infobox football club
+| clubname = Parma
+| current  = 2012–13 Parma F.C. season
+| image    = [[File:Parma FC logo.svg|130px|frameless|Parma's crest|alt=The text "Parma F.C." sit atop a pennant featuring two halves: a black cross on a white background on the left and yellow and blue vertical stripes on the right.]]
+| fullname = Parma Football Club [[Joint-stock company|S.p.A.]]
+| nickname = ''I Crociati''<ref name="Nicknames"/> (The Crusaders)<br />''I Gialloblù''<ref name="Nicknames"/> (The Yellow and Blues)<br />''I Ducali''<ref name="Nicknames"/> (The Duchy Men)<br />''Gli Emiliani''<ref name="Nicknames">{{cite web|url=http://www.fcparma.com.pl/informacje.php|work=FCParma.com.pl|language=Polish|accessdate=6 January 2012|title=Informacje|trans_title=Information}}</ref> (The Emilians)
+| founded  = 27 July 1913, as ''Verdi Foot Ball Club''
+| ground   = [[Stadio Ennio Tardini]],<br />[[Parma]], [[Italy]]
+| capacity = 27,906
+| chairman = [[Tommaso Ghirardi]]<ref name="Parma Organigramma"/>
+| chrtitle = President
+| mgrtitle = Head coach
+| manager  = [[Roberto Donadoni]]<ref name="Parma Organigramma"/>
+| captain  = [[Stefano Morrone]]
+| league   = [[Serie A]]
+| season   = [[2011–12 Serie A|2011–12]]
+| position = Serie A, 8th
+| pattern_la1=_parma1213h
+| pattern_b1 =_parma1213h
+| pattern_ra1=_parma1213h
+| pattern_sh1=_parma1213h
+| pattern_so1=_parma1213h
+| pattern_la2=_parma1213a
+| pattern_b2 =_parma1213a
+| pattern_ra2=_parma1213a
+| pattern_sh2=_parma1213a
+| pattern_so2=_parma1213a
+| leftarm2   =000000
+| body2      =000000
+| rightarm2  =000000
+| shorts2    =000000
+| socks2     =000000
+| pattern_la3=_parma1213t
+| pattern_b3 =_parma1213t
+| pattern_ra3=_parma1213t
+| pattern_sh3=_parma1213t
+| pattern_so3=_parma1213t
+| leftarm3   =FFFFFF
+| body3      =FFFFFF
+| rightarm3  =FFFFFF
+| shorts3    =0001be
+| socks3     =0001be
+| website  = http://fcparma.com/
+}}
+
+'''Parma Football Club''' (formerly '''Parma Associazione Calcio'''), commonly referred to as just '''Parma''', is an [[Italy|Italian]] professional [[association football|football]] club based in [[Parma]], [[Emilia–Romagna]] that will compete in [[Serie A]] in the [[2012–13 Serie A|2012–13 season]], having finished in eighth position [[Serie A 2011–12|last season]]. Founded as '''Verdi Foot Ball Club''' in July 1913, the club changed its name in December of the same year. Parma has played its home matches in the 27,906-seat [[Stadio Ennio Tardini]], often referred to as simply ''Il Tardini'', since 1923.
+
+Although Parma has never won a [[Serie A|domestic league title]] and never competed for major trophies until the 1990s, it has won three [[Coppa Italia|Italian Cups]], one [[Supercoppa Italiana]], two [[UEFA Europa League|UEFA Cup]]s, one [[UEFA Super Cup|European Super Cup]] and one [[UEFA Cup Winners' Cup]]. Bankrolled by [[Calisto Tanzi]], the club won these eight trophies between 1992 and 2002, a period in which it achieved its best ever league finish – as runners-up in the [[1996–97 Serie A|1996–97 season]] – and threatened the dominance of the league's established powers: [[Juventus F.C.|Juventus]], [[A.C. Milan|Milan]] and [[F.C. Internazionale Milano|Internazionale]], the only Italian sides to have had more [[List of UEFA club competition winners#By club|success in European competition]] than Parma.<ref>{{Cite web|url=http://bleacherreport.com/articles/157851-how-the-mighty-have-fallen-the-fall-of-ten-untouchable-football-clubs#page/4|work=BleacherReport.com|publisher=Bleacher Report|title=How the Mighty Have Fallen: The Decline of 10 Untouchable Football Clubs|accessdate=1 August 2010|date=17 April 2009|first=K.C.|last=Mynk}}</ref><ref>Dunford (2011), p. 793</ref>
+
+More recently, Parma's financial troubles have limited the club's ambitions.<ref>{{cite web|url=http://football-italia.org/node/7023|first=Susy|last=Campanale|date=3 July 2011|accessdate=24 July 2011|title=Parma play Juve role|work=Football-Italia.net|publisher=Football Italia}}{{Dead link|date=January 2012}}</ref> These were brought about in late 2003 by the [[Parmalat]] [[Parmalat#Financial_fraud_(2002–2005)|scandal]] which caused the [[parent company]] to collapse and resulted in the club operating in [[Administration (insolvency)|controlled administration]] until January 2007. The club has traditionally played attractive football and developed players through the [[Parma F.C. Academy|club's academy]].<ref>{{cite news|url=http://football-italia.net/node/14591|work=Football-Italia.net|publisher=Football Italia|title=Return of the Don|date=13 January 2012|accessdate=16 January 2012}}</ref> Despite the recent downturn in success, the club is an associated member and one of eight Italian clubs that are part of the [[European Club Association]], a representative collection of Europe's most elite clubs, formed after the dissolution of the [[G-14]].
+
+==History==
+{{Main|History of Parma F.C.}}
+
+===Early years (1913–1968)===
+{{Location map+ |Italy |width=200 |float=right |caption=Location of Parma in Italy |places=
+{{Location map~ |Italy |lat=44.80554  |long=10.32825 |label=[[Parma]] }}
+}}
+The club was founded in July 1913 as Verdi Foot Ball Club in honour of the [[Century|centenary]] of famous opera composer [[Giuseppe Verdi]], who was born in the province of [[Province of Parma|Parma]]. It adopted yellow and blue as its colours.<ref name="Dizionario del calcio italiano">Sappino (2000), p. 986</ref><ref name="FI history">{{Cite web|url=http://www.football-italia.net/clubs/Parma/history|title=Parma Club History|accessdate=12 January 2012|work=Football-Italia.net|publisher=[[Football Italia]]}}</ref> In December of the same year, the club changed its name to Parma Foot Ball Club and began wearing white shirts emblazoned with a black cross.<ref name="Goal history">{{cite web|url=http://www.goal.com/it/teams/italy/4/parma/info|title=Parma|publisher=Goal.com|work=Goal.com|accessdate=5 January 2011}}</ref> Parma began playing league football during the [[1919–20 in Italian football|1919–20 season]] after the end of [[World War I]] and began construction of a stadium, the [[Stadio Ennio Tardini]], two years later.<ref name="official site tardini">{{Cite web|url=http://fcparma.com/societa/stadio/?lang=en/|work=FCParma.com|publisher=Parma F.C.|title=Stadio|accessdate=29 July 2010|trans_title=The Tardini}}</ref> Parma became a founder member of [[Serie B]] after finishing as runners-up in the [[Prima Divisione]] in the [[1928–29 Prima Divisione|1928–29 season]]. The club would remain in Serie B for three years before being relegated and changing its name to Associazione Sportiva Parma in 1931.<ref name="FI history"/> In the [[1935–36 Serie C#Girone B|1935–36 season]], Parma became a founding member of [[Lega Pro|Serie C]], where the club stayed until winning promotion back to Serie B in [[1942–43 Serie C#Girone G|1943]]. [[Football in Italy|Italian football]] was then brought to a halt as the [[Second World War]] intensified, although the team did make an appearance in the [[1944 Campionato Alta Italia#Group D|Campianto Alta Italia]] in 1944.
+
+Following the restart of organised football, Parma spent three years in Serie B, then split into two regional divisions, before again being relegated in [[1948–49 Serie B#Girone B|1948–49]] to Serie C. The side would spend another five seasons in Serie C before an eleven-year spell in Serie B that included the achievement of ninth position in [[1954–55 Serie B|1954–55]], a club record at that time.<ref name="Gazzetta di Parma history"/> This was an era in which the club's players generally held down other jobs or were still in education and where the town's amateur [[rugby union]] and [[volleyball]] sides, [[Rugby Parma F.C. 1931]] and [[Pallavolo Parma|Ferrovieri Parma]], proved more popular among the more privileged.<ref name="Dunford poem">Dunford (2011), pp. 739–740</ref> Parma made its debut in European competition during the 1960–61 season, defeating [[Switzerland|Swiss]] side [[AC Bellinzona]] in the [[Coppa delle Alpi]], but relegation to Serie C followed in [[1964–65 Serie B|1964–65 season]]. Parma spent just one season in Serie C before a second successive relegation, this time to [[Serie D]], in 1966.
+
+===Re-birth and improvement (1968–1989)===
+The club was in turmoil and was ordered into liquidation by the Court of Parma in 1968, changing its name to Parma Football Club that year. In 1969, another local team, Associazione Calcio Parmense, won promotion to [[Serie D]]. On 1 January 1970, A.C. Parmense adopted the sporting licence of the liquidated club which had been formed in 1913. This meant that it had the right to use the ''crociato'' shirts, the badge and the city's name.<ref name="Dizionario del calcio italiano"/><ref name="FI history"/><ref name="Gazzetta di Parma history">{{cite web|url=http://www.gazzettadiparma.it/primapagina/dettaglio/6/25265/Da_Giuseppe_Verdi_a_Wembley.html|title=Da Giuseppe Verdi a Wembley...|work=Gazzetta di Parma |publisher=Editrice Gazzetta di Parma|location=Parma|trans_title=From Giuseppe Verdi to Wembley|language=Italian}}</ref> This brought about a change of luck in both financial and sporting terms, as the side was crowned Serie D champions and spent three years in [[Serie C]] before promotion to [[Serie B]]; however, it was a short stay. The team was relegated back to Serie C in their second season in the division. A return to Serie B did not materialise until the end of the 1970s and the club again lasted only one season in the second division of Italian football.
+
+Under the management of [[Cesare Maldini]], Parma once again returned to Serie B after winning their division in 1984 with victory on the final day over [[U.S. Sanremese Calcio|Sanremo]]; [[Juventus F.C.|Juventus]]-bound [[Stefano Pioli]] scored the only goal of the game. The Ducali again only spent a year in Serie B, finishing third from bottom and succumbing to relegation as a consequence. [[Arrigo Sacchi]] did, however, manage to return the club to Serie B in 1986 after a single season in the third tier. The side enjoyed good success that season in missing out on promotion to Italy's top tier by just three points and eliminating [[A.C. Milan]] from the [[Coppa Italia]], a result that convinced owner [[Silvio Berlusconi]] to hire Sacchi as the new manager of the ''Rossoneri''. Sacchi's replacement, [[Zdeněk Zeman]], was fired after just seven matches and replaced by Giampieri Vitali, who secured two consecutive mid-table finishes.
+
+===Success and insolvency (1989–2004)===
+[[File:Coccarda Coppa Italia.svg|left|thumb|upright|The [[Coppa Italia]] winners' patch]]
+[[Nevio Scala]] was appointed as head coach in 1989.<ref name="Gazzetta di Parma history"/> Scala's Parma secured a historic promotion in [[Serie B 1989-90|1990]] to [[Serie A]] with a 2–0 [[Derby del Grana]] win over [[A.C. Reggiana 1919]].<ref name="Parma '90s blog">{{Cite web|url=http://ghostgoal.co.uk/2010/05/19/parma-90s-phenomenon/|work=GhostGoal.co.uk|title=Parma: '90s Phenomenon|accessdate=31 July 2010|date=19 May 2010}}</ref> and investment from [[parent company]] [[Parmalat]] helped to improve the team's fortunes and the club made its debut in [[UEFA]] competition in 1991.<ref name="Dizionario del calcio italiano"/><ref name="Parma '90s blog"/><ref name="FT Jan 2005">{{cite news|url=http://www.ft.com/cms/s/0/4dd589d0-6376-11d9-bec2-00000e2511c8.html#axzz1T81blXdG|title= Bondi invites bids for Parma|date=11 January 2005|accessdate=25 July 2011|first=Tony|last=Barber|work=[[Financial Times]]}}</ref><ref>Morrow (2003), p. 202</ref> Scala led the club to its first four major honour. The first of these was the [[Coppa Italia]] in [[1991–92 Coppa Italia|1991–92]], beating [[Juventus F.C.|Juventus]] 2–1 over two legs. The following year came the first international triumph in a 3–1 victory in the [[1993 European Cup Winners' Cup Final|Cup Winners' Cup]] over [[Belgium|Belgian]] side [[Royal Antwerp|Antwerp]] at [[Wembley Stadium (1923)|Wembley]].<ref name="Parma '90s blog"/><ref>{{cite web| url=http://www.football-italia.net/topten/eurounderdogs.html | accessdate=12 December 2010 | last=Wilson | first=Steve | title=Top 10...Euro underdogs | work=Football-Italia.net|publisher=Football Italia}}</ref> Later that year, the side was successful in the [[UEFA Super Cup]], overcoming [[A.C. Milan|Milan]] 2–1 on aggregate, but lost the [[UEFA Cup Winners' Cup]] final [[1994 European Cup Winners' Cup Final|1–0]] against [[Arsenal F.C.|Arsenal]].<ref name="Parma '90s blog"/> Scala's final success with Parma was in another two-legged final against Juventus: [[Dino Baggio]] scored twice to give Parma a [[1995 UEFA Cup Final|2–1 aggregate win]], but Juventus exacted revenge in the [[1994–95 Coppa Italia|Coppa Italia]] final. Replaced by [[Carlo Ancelotti]], Scala departed in 1996 and was a popular coach for the trophies he won and because the team played attractive football in the tradition of the club.<ref name="Dunford poem"/>
+
+[[File:Claudio Ranieri.jpg|thumb|upright|[[Claudio Ranieri]] (''2007 photograph'') managed Parma during the latter half of the [[Serie A 2006–07|2006–07]] season.]]
+Ancelotti overhauled the team and guided it to a record second place in [[1996-97 Serie A|1997]].<ref name="Parma '90s blog"/><ref>{{cite news | url=http://soccernet.espn.go.com/news/story?id=733646&sec=europe&cc=5739 | date=30 January 2010 | accessdate=15 December 2010 | title=Crespo "speechless" after making Parma return | work=Soccernet.ESPN.Go.com|publisher= [[ESPN (UK)]]}}</ref><ref>{{Cite news| date=24 May 2005 | url=http://www.timesonline.co.uk/article/0,,762-1624346,00.html | title=Tactical switch | work=[[The Times]] | publisher=Times Newspapers | accessdate=20 July 2010 | location=London | first=Gabriele | last=Marcotti}}</ref> Parma consequently made their debut in the [[UEFA Champions League|Champions League]] the following year. [[Alberto Malesani]] was installed as coach in 1998 and the club completed a rare cup double in his first season, winning the [[1998–99 Coppa Italia|Coppa Italia final]] against [[ACF Fiorentina|Fiorentina]] on the [[away goals rule]] and the UEFA Cup against [[Olympique de Marseille|Marseille]] at the [[Luzhniki Stadium]] in Moscow with a 3–0 victory before [[Supercoppa Italiana]] victory over league champions Milan followed in August 1999. In 2000, Hernán Crespo was sold to [[S.S. Lazio|Lazio]] for a [[World football transfer record|world record transfer fee]] and Malesani departed. Under replacement [[Renzo Ulivieri]], the club lost the [[2000–01 Coppa Italia|Coppa Italia]] final to [[ACF Fiorentina|Fiorentina]]. Under [[Pietro Carmignani]] in 2002, Parma [[2002 Coppa Italia Final|won a third Coppa Italia]] trophy against Juventus (but would slip to defeat in the [[2002 Supercoppa Italiana]]) and finished outside the top 6 for the first time since promotion in 1990. This success earned them a tag as one of the "Seven Sisters".<ref name="Seventh sister">{{Cite news| url=http://www.guardian.co.uk/football/blog/2009/nov/23/parma-seventh-sister-serie-a | title=Seventh sister back on the scene as Parma perk up sibling rivalry | work=[[The Guardian]] | publisher=Guardian News and Media | accessdate=9 December 2010 | location=London | first=Paolo | last=Bandini | date=23 November 2009}}</ref><ref name="sister meltdown">{{cite news| url=http://www.financialexpress.com/news/parma-is-latest-in-italys-seven-sisters-of-soccer-to-crumble/40612/| title=Parma Is Latest In Italy’s ‘Seven Sisters’ Of Soccer To Crumble| work=[[The Financial Express]] |accessdate=9 December 2010 |date=10 January 2004}}</ref> In April 2004, the club was declared insolvent following the financial meltdown of Parmalat.<ref name="sister meltdown"/><ref>{{Cite news|url=http://news.bbc.co.uk/1/hi/business/3369079.stm|accessdate=23 November 2010|title=Parmalat: Timeline to turmoil|date=28 September 2005|work=[[BBC News]]|publisher=[[BBC|British Broadcasting Corporation]]}}</ref><ref>{{Cite news|url=http://news.bbc.co.uk/1/hi/business/3373165.stm|accessdate=23 November 2010|title=Parmalat scandal threatens football club|date=6 January 2004|work=[[BBC News]]|publisher=British Broadcasting Corporation|first=Bill|last=Wilson}}</ref><ref>{{Cite news|url=http://news.bbc.co.uk/1/hi/business/3358771.stm|accessdate=23 November 2010|title=Tanzi's path from boardroom to jail|date=31 December 2003|work=[[BBC News]]|publisher=British Broadcasting Corporation|first=Ben|last=Richardson}}</ref>
+
+===Second re-birth (2004–present)===
+The club re-formed as Parma Football Club in June 2004 and the [[Serie A 2004–05|2004–05 season]] saw Parma plummet to their lowest finish in [[Serie A]] – despite a second consecutive 23-goal haul from Gilardino, who was then sold for €24m – as managers came and went.<ref name="Seventh sister"/> Parma ended [[Serie A 2005–06|the following season]], their first without [[UEFA|European]] competition since 1991, in tenth, but returned in 2006 after the [[2006 Italian football scandal|''Calciopoli'' scandal]]. On 24 January 2007, Tommaso Ghirardi bought the club out of [[Administration (law)|administration]] and became the owner and president of Parma F.C.<ref>{{Cite news|url=http://www.gazzetta.it/Calcio/Squadre/Parma/Primo_Piano/2007/01_Gennaio/24/ufficiale.shtml|title=Ufficiale: Il Parma è di Ghirardi|trans_title=Official: Parma is Ghirardi's|work=[[La Gazzetta dello Sport]]|publisher=[[RCS MediaGroup]]|location=Milan|accessdate=29 July 2010|language=Italian}}</ref> Manager [[Claudio Ranieri]] helped the team avoid relegation to Serie B on the final day of the [[2006–07 Serie A|2006–07 season]] following his February appointment;<ref>{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/europe/6356587.stm|title=Ranieri appointed coach of Parma|accessdate=1 August 2010|date=13 February 2007|work=[[BBC Sport]]|publisher=British Broadcasting Corporation}}</ref><ref>{{Cite news|url=http://www.gazzetta.it/Calcio/SerieA/Squadre/Parma/Primo_Piano/2007/05_Maggio/27/CRONACA.shtml|last=Stanco|first=Sergio|title=La salvezza abita a Parma|trans_title=Salvation lives in Parma|work=La Gazzetta dello Sport|publisher=RCS MediaGroup|location=Milan|accessdate=29 July 2010|language=Italian}}</ref> however, under a succession of managers, Parma's battle with relegation [[Serie A 2007–08|the following year]] was not successful, consigning the club to [[Serie B]] after eighteen years in the top flight.<ref name="FI history"/><ref>{{cite web|url=http://football-italia.net/blogs/jh10.html |first=James |last=Horncastle| accessdate=9 December 2010| date=13 March 2008 |title= Cross to Bear |work=Football-Italia.net|publisher=Football Italia}}</ref> 
+
+[[Francesco Guidolin]] won promotion back to Serie A at the first attempt with a second-place finish and led the side to eighth on its return to Serie A in [[2009–10 Serie A|2009–10]], narrowly missing out on qualification for the [[Europa League]] before leaving for [[Udinese Calcio|Udinese]]. In May 2010, Guidolin swapped jobs with [[Pasquale Marino]], who was sacked by Ghirardi in April 2011 when Parma was caught in another relegation dogfight.<ref>{{Cite news|url=http://www.skysports.com/story/0,19528,11876_6170763,00.html|date=24 May 2010|title=Udinese appoint Guidolin | last=Carminati |first=Nadia|accessdate=1 August 2010|publisher=[[Sky Sports]]|work=SkySports.com}}</ref><ref>{{Cite news|url=http://www.skysports.com/story/0,19528,11876_6185245,00.html |date=2 June 2010|title=Parma appoint Marino|accessdate=1 August 2010 | last=Carminati |first=Nadia|publisher=[[Sky Sports]]|work=SkySports.com}}</ref><ref>{{Cite news|url=http://www.skysports.com/story/0,19528,11854_6851166,00.html |date=3 April 2011|title=Parma wield axe on Marino|accessdate=4 April 2011 | last=Carminati |first=Nadia|publisher=[[Sky Sports]]|work=SkySports.com}}</ref> Under Marino's replacement, [[Franco Colomba]], Parma escaped the threat of relegation with two games to spare.<ref>{{Cite news|url=http://www.sportsbook24.net/?action=read&idnotizia=26466 |title=Salvezza raggiunta: ci sarà il Parma nella Serie A 2011/12 |work=Sportsbook24.net| publisher=Sportsbook24 |accessdate=13 May 2011|trans_title=Safety achieved: Parma will be in the 2011/12 Serie A |language=Italian}}</ref> In January 2012, Colomba was replaced by [[Roberto Donadoni]] following a winless run that culminated in a 5-0 loss to [[F.C. Internazionale Milano|Inter]] and the new coach led the team to eighth position in a Serie A club record 7-match winning run.<ref>{{cite news|url=http://www.corriere.it/sport/12_gennaio_09/esonero-colomba-parma_870d6530-3b0d-11e1-8a43-34573d1838c1.shtml|title=Fatale il 5-0 con l'Inter, esonerato Colomba|trans_title=5-0 with Inter fatal: Colomba fired|date=9 January  2012|accessdate=11 January  2012|work=[[Corriere della Sera]]|publisher=RCS MediaGroup|location=Milan|language=Italian}}</ref><ref>{{cite news | url=http://www.gazzetta.it/Calcio/Squadre/Parma/13-05-2012/parma-recorddi-vaio-saluta-a-911215771126.shtml | title=Parma, settima da record | trans_title= Parma, record seventh | date=13 May 2012 | work=[[La Gazzetta dello Sport]] | publisher=RCS MediaGroup | first=Francesco |last= Salsano | language=Italian}}</ref>
+
+==Colours and badge==
+[[File:Parma-AC.png|thumb|upright|The old Parma A.C. logo, used until the name change to Parma F.C. in 2004|alt=The text "Parma A.C." sit atop a pennant featuring two halves: a black cross on a white background on the left and yellow and blue vertical stripes on the right.]]
+{{Main|Parma F.C. strip}}
+
+The team is characterised by having used two different colour schemes in recent memory and at its inception. Originally, the club wore yellow and blue chequered shirts in honour of the city's traditional colours, which date back to 1545 when the [[Duchy of Parma]] was established,<ref name="Parma kits">{{Cite web|url=http://www.heraldica.org/topics/national/italy2.htm#parma|title=Heraldry in Pre-Unification Italy|work=Heraldica.org|first=François R. |last=Velde|accessdate=30 July 2010}}</ref> but white shirts with a black [[cross]] on the chest were introduced after the [[First World War]], drawing inspiration from [[Juventus]]' colours, following a name change.<ref name="Goal history"/> White continued to be worn as the main colour of the home kits for much of the remainder of the century, although often complemented with yellow, blue or both, rather than black. The club did, however, experiment in the 1950s with blue shirts and blue and yellow striped shirts. The cross shirts were restored and worn until bankruptcy in 1968, when white shirts with off-centre blue and yellow vertical bands were worn, but the cross returned from 1970 until 1983 when a yellow and blue-sleeved white shirt was introduced and used for 8 years.
+
+After decades in the lower divisions, Parma was promoted to Serie A in 1990, where the side immediately became a major force in the battle for major trophies, on many notable occasions in direct opposition to Juventus, who would become fierce rivals of Parma's. This rivalry and the influence of [[Parmalat]] led to the demotion of the white shirts to the away kit, so the side wore yellow and blue hooped shirts at home for six seasons between 1998 and 2004, and navy blue shirts often worn as third choice in this period. This was a time of great success for the club, thus the shirts have become synonymous with Parma, often still called the ''Gialloblu'' (Yellow and Blues) today, despite a recent reversion to the traditional white shirts emblazoned with a cross caused by parent company [[Parmalat]]'s collapse and the clubs subsequent re-foundation as Parma Football Club. Yellow and blue are normally Parma's away kit colours, used in various combinations since 2004, such as vertical stripes, hoops, crosses or as solid colour designs.<ref>{{Cite web| url=http://www.storiadelparmacalcio.com/collezione-parma/collezione-maglie-parma.htm | title=Le Maglie del Parma | trans_title=The Kits of Parma | work = storiadelparmacalcio.com}}</ref>
+
+Parma's logo changed in 2005 to reflect the name change from Parma A.C. to Parma F.C., but the logo otherwise remains the same, encompassing the city colours of yellow and blue and the club's traditional black cross set on a white background, and has not changed much in years, although it was dramatically overhauled to feature a prancing bull for one season in 2000–01 before it was criticised and discontinued in favour of the old badge.
+
+==Grounds==
+{{Main|Stadio Ennio Tardini|Centro Sportivo di Collecchio}}
+[[File:Ennio Tardini.JPG|left|thumb|[[Stadio Ennio Tardini]], Parma's home stadium|alt=A view of a football pitch and the stands surrounding it from the view of one corner.]]
+Parma initially had no permanent home and used the ''Piazza d'Armi'', where two wooden posts constituted the frame of each goal. In December 1914, the club began to use land between the [[Via Emilia]], the Eridania refinery and the Ferraguti factory, but it was sold, so the club returned to the ''Piazza d'Armi'' before transferring to the ''Tre Pioppi'', the first fenced-off pitch in the city.<ref>{{cite web|url=http://www.apcpetitot.it/associazione/storia_tardini.html|work=APCPetitot.it|publisher=Associazione Parma Club Petitot|title=La storia dello stadio "Ennio Tardini" di Parma (1923)|trans_title=The history of Parma's Stadio Ennio Tardini (1923)}}</ref> Parma moved into their current stadium, the [[Stadio Ennio Tardini]], in 1923, although the stadium has since been overhauled and altered drastically from the vision of [[Ennio Tardini]], under whose auspices the stadium was to be built, but who died before completion of the venue.<ref name="Early history and stadium info">{{Cite web|url=http://www.football-italia.net/clubs/Parma/stadium|title=Stadio Ennio Tardini|accessdate=12 January 2012|work=Football-Italia.net|publisher=Football Italia}}</ref> Much of the renovation took place after the club's first promotion to [[Serie A]] at the start of the 1990s.<ref name="official site tardini"/> The stadium's usable capacity stands at 27,906, but only 23,045 are authorised to enter at once following the 2009 death of [[Vicenza Calcio|Vicenza]] fan Eugene Bortolon in the Curva Sud.
+
+Expansion or renovation plans are often discussed at the highest level of the club's hierarchy and the [[Parma|Comune di Parma]], but no project has received unanimous support. This is partly because the football club rent the stadium and often have interests which conflict with those of the municipal authority. The tenancy expires in 2031. One project which both club and council had agreed on was the potential redevelopment for [[Italy]]'s potential hosting of [[UEFA Euro 2016|Euro 2016]]. The [[UEFA Euro 2016 bids#Italy|bid]] was eventually unsuccessful, but included plans for an improved 31,397 all-seater stadium.<ref>{{cite web |url=http://www.settorecrociatoparma.it/Notizie0910..htm/notizie_0910_403.htm | work=SettoreCrociatoParma.it | date=16 February 2010 | accessdate=13 December 2010 | trans_title=Here are the features of the renovation plans | title=Ecco le caratteristiche del progetto di ristrutturazione}}</ref> An alternative to the development of the Tardini is the construction of a new stadium. Recent reports suggest the stadium is unfit for use in [[UEFA]] competitions due to the inadequacy of its seating.<ref>{{cite web|url=http://www.stadiotardini.com/2011/05/licenza-uefa-quanto-scottano-quei.html|title=Licenza UEFA / Quanto scottano quei seggiolini!| date=21 May 2011|language=Italian |work=StadioTardini.com}}</ref> Either way, the state of stadium ownership in Italy, where only [[Juventus F.C.|Juventus]] own their stadium, is widely viewed as unsatisfactory.<ref>{{Cite news|url=http://www.football-italia.net/node/15382|title=Calcio in the ice age|date= 4 February 2012|accessdate=8 February 2012|first=Susy|last=Campanale|work=Football-Italia.net|publisher=Football Italia}}</ref><ref>{{Cite news|url=http://forzaitalianfootball.com/2011/11/four-things-serie-a-needs-to-do-to-become-the-most-popular-league-in-the-world/|work=ForzaItalianFootball.com|publisher=Forza Italian Football|title=Four things Serie A needs to do to become the most popular league in the world|date= 16 November 2011|accessdate=8 February 2012}}</ref><ref>{{Cite news|url=http://www.soccerex.com/industry-news/ac-milan-chief-adds-to-italys-stadium-debate/|title=AC Milan chief adds to Italy’s stadium debate|accessdate=8 February 2012|work=Soccerex.com|publisher=Soccerex}}</ref>
+
+The first team trains and plays most of its home friendly matches at the [[Centro Sportivo di Collecchio]] in [[Collecchio]], which is located 15.4 kilometres to the south-west of the stadium. Three of Parma's [[Parma F.C. Academy|youth teams]] – the under-20s, the under-17s and the under-16s – play their home matches in the same complex.<ref>{{cite web|url=http://fcparma.com/index.php/societa/centro-sportivo/|title=CS Collecchio|trans_title=Collecchio Sports Centre|accessdate=26 December 2010|work=FCParma.com|publisher=Parma F.C.}}</ref> The under-15s and below train at Campi Stuard.<ref name="Youth teams">{{cite news | url=http://www.fcparma.com/settore-giovanile/archivio-settore-giovanile/7036-calendario-ripresa-attivita-del-settore-giovanile.html | work= FCParma.com | publisher=Parma F.C. | title=Calendario ripresa attivitá del Settore Giovanile | language = Italian | trans_title=Youth Sector Pre-Season Activity Timetable| date=30 June 2010 | accessdate=3 August 2010}}{{Dead link|date=September 2011}}</ref>
+
+==Support==
+The supporters of Parma are seen as placid fans, something for which they are derided.<ref>Giulianotti (1999), p. 88</ref> Traditionally, they have been seen as fans who enjoy the spectacle of football and are less partisan, although they have been more characterised by impatience of late.<ref name="Dunford poem"/> In [[Northeast Italy]], the team is the fifth best supported, behind [[F.C. Internazionale Milano|Internazionale]], [[Juventus F.C.|Juventus]], [[A.C. Milan]] and [[Bologna F.C. 1909|Bologna]], the first three of which are not based in that region.<ref>{{cite web|url=http://www.demos.it/2010/pdf/143320100924calcio.pdf |format=PDF|date=24 September 2010| work=Demos.it |publisher=Demos & Pi |accessdate=23 February 2012|title=Italia, il paese nel pallone|language=Italian|trans_title=Italy, the country in football}}</ref> They are represented by three main groups: ''il Centro di Coordinamento dei Parma Club'' (which represents most of the fanbase), ''l'Associazione Petitot'' and the club's [[ultras]], ''Boys Parma'', which was established on 3 August 1977 by young fans wanting to split from the Centro di Coordinamento and to encourage meetings with opposition fans.<ref>{{cite web|url=http://www.boysparma1977.it/index.php?option=com_content&view=article&id=198:breve-riassunto&catid=49:annoperanno&Itemid=75|title=Breve Riassunto|trans_title=Brief Summary|language=Italian|accessdate=19 December 2010|work=BoysParma1977.it|publisher=Boys Parma 1977}}</ref> The Boys Parma occupy the northern end of the home stadium, ''La Curva Nord'', directly opposite to where the away fans sit in the south stand.<ref name="Early history and stadium info"/> In 2008, the Curva Nord was renamed in honour of Boys Parma 1977 member Matteo Bagnaresi, who died when he was run over on the way to the Tardini by a coach which was carrying the opposition [[Juventus]] fans.<ref>{{cite web|url=http://www.guardian.co.uk/football/2008/mar/31/europeanfootball.sport1|work=[[The Guardian]] | publisher=Guardian News and Media|location=London|first=Paolo|last=Bandini|date=31 March 2008|title=Sadness and censure as violence blights the Scudetto again}}</ref>  In a not uncommon practice, the [[Retired numbers in association football#Dedication to fans|number 12 shirt has been reserved]] for the Parma fans, meaning no player is registered to play with that number on his kit for the club. The implication is that the supporters, particularly those of the famous Curva Nord, are the [[12th man (football)|twelfth man]]. The last player to be registered with the number was Gabriele Giroli for the 2002–03 season. Parma's club anthem is ''Il grido di battaglia'', which means ''The Battle Cry''.<ref>{{cite web| work=TheOffside.com|url=http://parma.theoffside.com/italy/random-parma-video-8-parmas-anthem.html|title=Random Parma Video 8- Parma’s Anthem|date=22 January 2008}}</ref> For 2011–12, Parma had 7,559 [[season ticket]] holders.<ref>{{cite news|url=http://fcparma.com/index.php/campagna-abbonamenti-aggiornamento/|title= Campagna abbonamenti; aggiornamento |trans_title=Season ticket sales over|accessdate=25 August 2011|date=25 August 2011|work=FCParma.com|publisher=Parma F.C.}}</ref>
+
+===Rivalries===
+{{Main|Derby del Grana|Derby d'Emilia}}
+Parma maintains rivalries with regional and national clubs; some of these are keenly fought [[Local derby|local derbies]]. Historically, ''[[Derby del Grana]]'' (or, less commonly, ''Derby dell'Enza''){{#tag:ref|''Derby del Grana'' translates to [[Grana (cheese)|Grana]] Derby. Grana is a type of hard, mature [[cheese]], of which [[Parmigiano-Reggiano]], or Parmesan cheese, is an example. The cheese is named after the producing areas near [[Province of Parma|Parma]], [[Province of Reggio Emilia|Reggio Emilia]], [[Province of Modena|Modena]] and [[Province of Bologna|Bologna]], all in [[Emilia-Romagna]]), and [[Province of Mantova|Mantova]] (in [[Lombardia]]), [[Italy]]. Under Italian law, only cheese produced in these provinces may be labelled "Parmigiano-Reggiano" and European law classifies the name as a [[protected designation of origin]]. ''Parmigiano'' is the [[Italian language|Italian]] adjective for Parma. ''Reggiano'' is the Italian adjective for [[Reggio Emilia]], [[A.C. Reggiana 1919|Reggiana]]'s home city. ''Derby dell'Enza'' translates to ''Enza Derby''. The [[Enza|River Enza]] is an affluence of Italy's longest river, the [[Po (river)|Po]], and forms the boundary of the [[Provinces of Italy|provinces]] of [[Province of Parma|Parma]] and [[Province of Reggio Emilia|Reggio Emilia]].|group=nb}} opponents [[A.C. Reggiana 1919|Reggiana]] and ''[[Derby d'Emilia]]''{{#tag:ref|''Derby d'Emilia'' would be translated to ''Emilia Derby''. [[Emilia (region of Italy)|Emilia]] is a region that approximately corresponds to the western and north-eastern portions of today’s [[Emilia-Romagna]]. The region takes its name from the [[Via Aemilia]], a Roman road in 187 BCE.|group=nb}} opponents [[Bologna FC|Bologna]] have been the club's bitterest rivals.<ref>{{cite news|url=http://www.football-italia.net/node/1466|work=Football-Italia.net |publisher=Football Italia|title=Malesani recalls Tardini triumphs|date=19 December 2010|accessdate=19 December 2010}}</ref><ref name="derbies">{{cite web|url=http://www.footballderbies.com/index.php?country=2|title=Italy|work=FootballDerbies.com|accessdate=13 February 2012}}</ref> The ill-feeling with Reggiana comes from a traditional city rivalry between [[Parma]] and [[Reggio Emilia]]; Bologna and Parma are [[Emilia-Romagna]]'s two most decorated clubs, winning the region's only domestic titles: 7 [[Serie A]] titles and 5 [[Coppa Italia|Coppe Italia]]. Two other local derbies are the ''Derby dei Ducati'',{{#tag:ref|''Derby dei Ducati'' means ''Derby of the Duchies'', the [[duchy|duchies]] in question being those of [[Duchy of Modena and Reggio|Modena and Reggio]] and [[Duchy of Parma|Parma]]. These territories were competing and neighbouring duchies during the [[Renaissance]].|group=nb}} which is contested with neighbours [[Modena F.C.|Modena]], and the ''Derby del Ducato'',{{#tag:ref|''Derby del Ducato'' is the Italian equivalent of ''Derby of the Duchy''. The Duchy of Parma was created in 1545 and became the unified Duchies of Parma and Piacenza in 1556.|group=nb}} which is played against [[Piacenza Calcio|Piacenza]].<ref name="derbies"/> Despite their relative obscurity, [[Lombardy|Lombardian]] side [[U.S. Cremonese|Cremonese]] and [[Tuscany|Tuscan]] outfit [[Carrarese Calcio|Carrarese]], to Parma's north and south, respectively, are both seen as rivals too. Of these local derbies, only the ''Derby d'Emilia'' is played regularly because only Bologna play in [[Serie A]] alongside Parma.
+
+[[Juventus F.C.|Juventus]] is considered a great rival of Parma largely due to their recent duels, which include Parma's [[1995 UEFA Cup Final|1995 UEFA Cup victory]], its [[1991–92 Coppa Italia|first]] and [[2002 Coppa Italia Final|third Coppa Italia]] triumphs, [[Supercoppa Italiana]] defeats in [[1995 Supercoppa Italiana|1995]] and [[1995 Supercoppa Italiana|2002]], and its [[1994–95 Coppa Italia|1995]] domestic cup final defeat to ''The Old Lady''.<ref>{{cite web| url=http://parma.theoffside.com/italy/parma-juve-like-a-derby.html | work=TheOffside.com | title=Parma-Juve, Like a Derby | accessdate=14 December 2010| date=8 November 2007}}</ref><ref>{{cite web | url=http://juventus.theoffside.com/team-news/the-rivalry-is-back-parma-juventus.html | work=TheOffside.com | title=The Rivalry is Back: Parma-Juventus | accessdate=19 August 2011| date=5 January 2010}}</ref><ref>{{cite news|url=http://edicola.linformazione.com/archivio/2011/20111125/37_RE2511.pdf |format=PDF|date=25 November 2011|language=Italian|title=Riproporre il derby dell’Enza Parma-Reggiana per beneficenza|trans_title=Revival of the Derby dell'Enza Parma-Reggiana for charity|work=L'Informazione}}</ref> These six matches comprise nearly half of the fourteen major finals Parma has participated in. Ironically, Parma's colours have their origins in those Juventus wears, and the switch from white and black to a yellow and blue home kit in the late 1990s took place in order to distance and distinguish Parma from Juventus. Parma maintain keenly fought rivalries with [[Vicenza Calcio|Vicenza]] and [[Genoa C.F.C.|Genoa]].
+
+In Italy, it is common for clubs to be twinned in an arrangement called ''gemellaggi''. This is a practice uncommon elsewhere.<ref>{{cite web | url=http://www.football-italia.net/node/10880 | publisher=Football Italia | title=Serious about Serie A | accessdate=29 August 2011 | first=Scott | last=Fleming | date=26 August 2011 | work=Football-Italia.net}}</ref> Parma enjoy amicable relations with [[Empoli F.C.|Empoli]] in an arrangement that dates back to a game played in foggy conditions in [[Serie B 1984–85|1984]] that ended in the Parma fans congratulating those of Empoli on their win when the full-time whistle was blown without the ''Azzurri'' fans' knowledge.<ref>{{cite web | url=http://www.football-italia.net/topten/twins.html | work=Football-Italia.net | publisher=Football Italia | title=Top 10: Twinned clubs | accessdate=12 December 2010}}{{Dead link|date=January 2012}}</ref><ref>{{cite web|url=http://www.boysparma1977.it/index.php?option=com_content&view=section&id=12&Itemid=78|accessdate=19 December 2010|title=Empoli|work=BoysParma1977.it|publisher=Boys Parma 1977}}</ref> Perhaps a more current bond is felt towards the fans of [[Sampdoria]].<ref>{{cite web|url=http://www.boysparma1977.it/index.php?option=com_content&view=section&id=13&Itemid=79|accessdate=19 December 2010|title=Sampdoria|work=BoysParma1977.it|publisher=Boys Parma 1977}}</ref><ref>{{cite web|url=http://www.gazzettadiparma.it/primapagina/dettaglio/6/149407/Boys_%C3%A8_qui_la_festa_per_il_gemellaggio_Parma-Sampdoria.index.html|title=Boys, è qui la festa per il gemellaggio Parma-Sampdoria|work=Gazzetta di Parma |publisher=Editrice Gazzetta di Parma|location=Parma|trans_title=Boys host the party for the Parma-Sampdoria twinning|language=Italian|date=6 September 2012}}</ref>
+
+==Ownership and finances==
+{{Infobox company
+| name             = Parma F.C. [[Joint-stock company|S.p.A.]]
+| revenue          = {{increase}} €83.109M (2010–11)<ref name="2010/11 finances"/>
+| operating_income = {{decrease}} <span style="color:red">(€1.273M)</span> (2010–11)<ref name="2010/11 finances"/>
+| net_income       = {{increase}} €0.658M (2010–11)<ref name="2010/11 finances"/>
+| assets           = {{increase}} €141.994M (2010–11)<ref name="2010/11 finances"/>
+| equity           = {{increase}} €28.946M (2010–11)<ref name="2010/11 finances"/>
+| subsid           =
+| parent           = Eventi Sportivi S.p.A.<ref>{{cite news|url=http://fcparma.com/index.php/chiarimento-situazione-economica-patrimoniale-parma-fc-s-p-a/ |title= Chiarimento situazione economica patrimoniale Parma fc S.p.a |trans_title= Clarification  of the economic state of Parma FC SpA  |language=Italian |date=26 August 2011 |accessdate=26 August 2011|work=FCParma.com|publisher=Parma F.C.}}</ref>
+| num_employees    = {{increase}} 97<ref name="2010/11 finances"/>
+}}
+Since January 2007, the club has been majority-owned by [[Tommaso Ghirardi]], owner of mechanics firm La Leonessa S.p.A.. [[Enrico Bondi]] had previously been put in charge of selling the club after parent company [[Parmalat]]'s financial crisis and sold it to Ghirardi for less than €3M. The club is a [[limited liability]] [[company]] that is wholly owned by [[parent company]] Eventi Sportivi [[Joint-stock company|S.p.A.]]. Ghirardi owns roughly 70% of Eventi Sportivi; Alberto Rossi and Alberto Volpi each bought 5% of Eventi Sportivi on 21 July 2011 for a combined €7.5M to reduce Ghirardi's ownership to that approximate figure.<ref>{{cite news|url=http://fcparma.com/parma-fc-nuovi-soci-nuovo-cda/ |title= PARMA FC, NUOVI SOCI E NUOVO CDA |trans_title= Parma FC, new partners and new director  |language=Italian |date=21 July 2011 |accessdate=24 July 2011|work=FCParma.com|publisher=Parma F.C.}}</ref> Other shareholders are Vice-President Diego Penocchio (who has a 5% personal shareholding and 5% through Ormis S.p.A., another mechanics company), [[Banca Monte Parma]] (less than 5%) and [[Marco Ferrari]] (5%). Ghirardi appoints five further directors, including [[Pietro Leonardi]], to maintain a boardroom majority (six to five).<ref>{{cite news|url=http://www.stadiotardini.com/2011/07/ghirardi-ora-e-meno-solo-nella-sua.html|title=Ghirardi ora è meno solo nella sua squadra di undici consiglieri|trans_title=Ghirardi is now less alone in his team of eleven advisors|date=21 July 2011|language=Italian|work=StadioTardini.com}}</ref> In the first five years of Ghirardi's presidency (from January 2007 to January 2012), it was estimated his investment had reached €30M, alongside a further €13M in the club's parent company.<ref>{{cite news|url=http://fcparma.com/index.php/leonardi-il-parma-volta-pagina/ |title= Leonardi: Il Parma volta pagina |trans_title= Leonardi: Parma turns a page |work=FCParma.com|publisher=Parma F.C. |language=Italian |date=9 January 2012 |accessdate=9 January 2012}}</ref> The club is one of the members of the [[European Club Association]], which was formed after the dissolution of the [[G-14]], a smaller international group of Europe's most elite clubs of which Parma was not a part.<ref>{{Cite web|url=http://www.ECAEurope.com/Default.aspx?id=1082680&MembershipView=List&MembershipType=1081824|publisher=[[European Club Association]]|work=ecaeurope.com|accessdate=1 August 2010|title=ECA Members}}</ref><ref>{{Cite web|url=http://www.ecaeurope.com/Default.aspx?id=1085058|publisher=European Club Association|work=ECAEurope.com|accessdate=1 August 2010|title=About ECA}}</ref>
+
+On 27 February 2012, the club published its [[financial statement]] for [[2010–11 Parma F.C. season|2010–11]], the year ending 30 June 2011. It reported an improvement in [[gross revenue]] to €83.1M (from €78.4M in [[2009–10 Parma F.C. season|2009–10]]), of which player sales amounted to €37.2M (€34.7M in 2009–10). Costs stood at €84.4M, up from €72.6M. Post-tax profits rose to €700k from losses of €2.4M. The losses in 2008–09, the season spent in [[Serie B]], were €9.9m and profits of €3m were recorded in 2005–06.<ref>{{cite web| url=http://italy.theoffside.com/serie-a/juventus/dire-financial-straits-for-serie-a-in-other-news-the-sky-is-blue.html | work=TheOffside.com | title=Dire Financial Straits for Serie A; In Other News, the Sky is Blue | accessdate=19 August 2011| date=25 June 2007}}</ref> [[Liability (financial accounting)|Liabilities]] grew from €108.7M to €110.3M, although bank [[debt]]s decreased from €12.5M to €8.3M, and [[net assets]] had grown from €12.8M to €28.9M.<ref name="2010/11 finances">{{cite web|url=http://www.registroimprese.it/|title=Bilanco ordinario d'esercizio (data chiusura esercizio 30/06/2011) – Parma F.C. S.p.A.|language=Italian|trans_title=Financial statement (date ending 30 June 2011) – Parma F.C. S.p.A. |work=registroimprese.it |publisher=Registro delle imprese }}{{subscription required}}</ref> In 2009–10 non-transfer revenue was around €37M, figures that were largely unexceptional and give the club the 14th highest revenue in [[Serie A]].<ref name="2009/10 budget">{{cite news|url=http://www.ju29ro.com/contro-informazione/3377-bilancio-parma-200910-dalla-b-alla-a-piu-ricavi-e-minori-perdite.html|title=Bilancio Parma 2009/10: dalla B alla A, più ricavi e minori perdite|language=Italian|trans_title=Parma Statement 2009/10|publisher=Juventinovero |work=Ju29ro.com }}</ref><ref>{{cite web|url=http://swissramble.blogspot.com/2011/04/napolis-success-story.html|title=Napoli's Success Story|work=SwissRamble.Blogspot.com|publisher=Swiss Ramble|date=21 April 2011|accessdate=21 April 2011|first=Kieron|last=O'Connor}}</ref> This revenue (€43M in 2010–11), which also excludes gate receipts and television income given to visiting clubs and revenue from player loans, will ideally be evenly divided between commercial, broadcasting and matchday activity. At Parma, this is not the case, where the sectors make up 23%, 68% and 9%, respectively. Director [[Pietro Leonardi]] noted the profit made in January 2011 on player sales was enough to finally undo the economic damage that the 2008 relegation to [[Serie B]] caused.<ref>{{cite news|url=http://www.stadiotardini.com/2011/01/debito-saldato-anche-quello-economico.html|title=Debito saldato. Anche quello economicoe|work=StadioTardini.com|date=23 April 2010|accessdate=5 January 2011}}</ref>
+
+To improve the financial standing of the club, Parma hopes to eventually buy the [[Stadio Ennio Tardini]] from the relevant municipal authority.<ref>{{cite news|url=http://www.stadiotardini.com/2010/04/e-dopo-la-tessera-lo-stadio-di.html|title=E dopo la Tessera, lo stadio di proprietà....|work=StadioTardini.com|date=23 April 2010|accessdate =5 January 2011}}</ref> In September 2012, ''[[La Gazzetta dello Sport]]'' reported the club had the fourteenth highest annual salary bill in Italian football, paying €21.2M to 25 players,<ref>{{cite news|url=https://pbs.twimg.com/media/A2e5VE2CEAAmMRe.png|accessdate=11 September 2012|date=11 September 2012|title=Gli ingaggi lordi delle squadre di Serie A in milioni di euro|trans_title=The payrolls of Serie A club in millions of euros|work=La Gazzetta dello Sport|publisher=RCS MediaGroup|location=Milan}}</ref><ref>{{cite news|url=http://s49.radikal.ru/i125/1209/8b/2deb7bf8de1f.jpg|accessdate=11 September 2012|date=11 September 2012|title=Parma: 21 milioni|trans_title=Parma: 21 million|work=La Gazzetta dello Sport|publisher=RCS MediaGroup|location=Milan}}</ref> although these reported figures are generally underestimates, as they only include the basic salaries of the first-team squad; the club reported the figure to be €38.1M for the previous season (89% of non-transfer revenue; [[UEFA]] recommends this to be below 70%).<ref>{{cite web|url=http://swissramble.blogspot.com/2012/01/juventus-black-night-white-light.html?|title= Juventus - Black Night, White Light|work=SwissRamble.Blogspot.com|publisher=Swiss Ramble|date=5 January 2012|accessdate=6 January 2012|first=Kieron|last=O'Connor|work=The Swiss Ramble}}</ref> From the 2010–11 season, [[Serie A]] clubs have collective television rights rather than individually negotiated rights for the first time since 1998–99, mimicking the world's most commercially successful league: the [[Premier League]]. The domestic rights to broadcast live matches for 2011–13 were sold for €1.748bn to [[Sky Italia]] and [[RAI]], among others, and MP & Silva bought the worldwide rights for €181.5M for 2010–12.<ref>{{cite news|url=http://fourfourtwo.com/news/italy/54068/default.aspx|date=13 May 2010|accessdate=5 January 2011|work=[[FourFourTwo]]|title=Italian clubs cross fingers over TV ruling
+}}</ref><ref>{{cite news|url=http://fourfourtwo.com/news/italy/41675/default.aspx|date=6 November 2009|accessdate=27 December 2010|work=FourFourTwo|title=Serie A TV rights sell for 181.5 million}}</ref> These figures resulted in higher broadcasting revenues for Parma, with larger clubs suffering from the centralisation of the selling of rights, although clubs do not receive an equal share and Parma's support, recent and historical results, and the city's size, count against them in the assessment of exact shares.
+
+===Sponsorship===
+[[File:Coat of arms of the House of Farnese.svg|thumb|upright|The [[coat of arms]] of the [[House of Farnese]] – creators of the [[Duchy of Parma]] – whose colours are the inspiration for many of the club's kits|alt=On a yellow shield shape sit six blue fleurs-de-lis in a triangular formation whose tip points downwards.]]Parma has had its kits manufactured by and sponsored by a variety of companies since 1981, including parent company Parmalat for a period of eight years.<ref name="Parma kits"/> Its kits are presently manufactured by the global [[Erreà]] sportswear brand, which pays the club €757k and whose origins are in [[Torrile]], approximately 13 kilometres north of Parma. The club's principal sponsor is [[Germany|German]] household retail group [[Vorwerk (company)|Vorwerk]], which signed a 2-year deal in 2012 to replace clothing retailer [[Navigare]]'s €1.7M per annum deal.<ref name="2010/11 finances"/> Navigare appears on the side's shirts as the secondary kit sponsor, while [[bookmaker]] [[Betclic]], [[telecommunications]] giant [[Telecom Italia Mobile]] and [[Japan]]ese electronics company [[Kyocera]] also maintain relationships with the club. The club has a variety of other less prominent partnerships.<ref>{{Cite web| url=http://fcparma.com/index.php/marketing/sponsor/ | accessdate=21 September 2010 | title=Sponsor | trans_title=Sponsorship | work=FCParma.com|publisher=Parma F.C.}}</ref><ref>{{Cite web| url=http://fcparma.com/il-parma-entra-nella-squadra-di-betclic/ | accessdate=28 August 2012 | title=Il Parma entra nella squadra di Betclic | trans_title=Parma joins the Betclic team | work=FCParma.com|publisher=Parma F.C.}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!Period
+!Kit manufacturer
+!Shirt sponsor
+|-
+!1981–87
+|rowspan=2|[[Umbro]]
+|Prosciutto Parma
+|-
+!1987–95
+|rowspan=4|[[Parmalat]]
+|-
+!1995–98
+|[[Puma AG|Puma]]
+|-
+!1998–99
+|[[Lotto Sport Italia|Lotto]]
+|-
+!1999–00
+|rowspan=6|[[Champion (sportswear)|Champion]]
+|-
+!2000–01
+|[[Parmalat]], Mr Day
+|-
+!2001–02
+|[[Joy (dishwashing liquid)|Joy]], [[Parmalat]], [[Santal]]
+|-
+!2002–03
+|[[Parmalat]], [[Santal]]
+|-
+!2003–04
+|[[Parmalat]], [[Santal]], Cariparma
+|-
+!2004–05
+|[[Champion (sportswear)|Champion]]
+|-
+!2005–06
+|[[Champion (sportswear)|Champion]], [[Erreà]]
+|Fidenza Village, ABO Project, Tecnocasa, Silver Cross
+|-
+!2006–07
+|rowspan=7|[[Erreà]]
+|Gimoka, Play Radio
+|-
+!2007–08
+|Kome, Il Granchio, Gondolino, Coreggio
+|-
+!2008–09
+|[[Banca Monte Parma]], Metella
+|-
+!2009–12
+|Navigare, [[Banca Monte Parma]]
+|-
+!2012–13
+|[[Vorwerk (company)|Vorwerk]] Folletto, Navigare
+|-
+|}
+
+==Players==
+===First-team squad===
+{{updated|22 September 2012}}<ref>{{Cite web|url=http://fcparma.com/index.php/category/rosa/|title=Rosa|trans_title=Current squad|work=FCParma.com|publisher=Parma F.C. |accessdate=17 June 2011|language=Italian}}</ref><ref>{{Cite web|url=http://fcparma.com/assegnati-i-nuovi-numeri-di-maglia/|title=Assegnati i nuovi numeri di maglia|trans_title=New shirt numbers assigned|work=FCParma.com |publisher=Parma F.C. |date=25 July 2012|language=Italian}}</ref>
+{{Fs start}}
+{{Fs player|no=1|name=[[Nicola Pavarini]]|pos=GK|nat=Italy}}
+{{Fs player|no=3|name=[[Emilio MacEachen]]|pos=DF|nat=Uruguay}}
+{{Fs player|no=4|name=[[Stefano Morrone]]|pos=MF|nat=Italy|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=5|name=[[Cristian Zaccardo]]|pos=DF|nat=Italy}}
+{{Fs player|no=6|name=[[Alessandro Lucarelli]]|pos=DF|nat=Italy}}
+{{Fs player|no=7|name=[[Jonathan Biabiany]]|pos=FW|nat=France}}
+{{Fs player|no=8|name=[[Daniele Galloppa]]|pos=MF|nat=Italy}}
+{{Fs player|no=9|name=[[Ishak Belfodil]]|pos=FW|nat=Algeria}}
+{{Fs player|no=10|name=[[Jaime Valdés]]|pos=MF|nat=Chile}}
+{{Fs player|no=11|name=[[Amauri]]|pos=FW|nat=Italy}}
+{{Fs player|no=13|name=[[Fabiano Santacroce]]|pos=DF|nat=Italy}}
+{{Fs player|no=16|name=[[Marco Parolo]]|pos=MF|nat=Italy|other=on loan from [[A.C. Cesena|Cesena]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50399 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, colpo Parolo! | trans_title= OFFICIAL: Parma, Parolo coup!| date=7 July 2012}}</ref>
+{{Fs player|no=17|name=[[Raffaele Palladino]]|pos=FW|nat=Italy}}
+{{Fs player|no=18|name=[[Massimo Gobbi]]|pos=DF|nat=Italy}}
+{{Fs player|no=19|name=[[Gianluca Musacci]]|pos=MF|nat=Italy}}
+{{Fs player|no=20|name=[[Afriyie Acquah]]|pos=MF|nat=Ghana|other=on loan from [[U.S. Città di Palermo|Palermo]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50918 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, per il centrocampo ecco Acquah! | trans_title= OFFICIAL: Parma, here's Acquah for the midfield!| date=16 July 2012}}</ref>
+{{Fs mid}}
+{{Fs player|no=21|name=[[Nicola Sansone]]|pos=FW|nat=Italy}}
+{{Fs player|no=22|name=Floriano Vanzo|pos=FW|nat=Belgium}}
+{{Fs player|no=23|name=[[Manuel Arteaga]]|pos=FW|nat=Venezuela|other=on loan from [[Zulia FC|Zulia]]}}<ref name="deadline day august">{{cite news| url=http://fcparma.com/le-ultime-operazioni-di-mercato/ | publisher=FCParma.com|work=Parma F.C.| title=Le ultime operazioni di mercato | trans_title= Last transfer market moves | date=31 August 2012}}</ref>
+{{Fs player|no=28|name=[[Yohan Benalouane]]|pos=DF|nat=France|other=on loan from [[A.C. Cesena|Cesena]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=53188 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, preso Benalouane | trans_title= OFFICIAL: Parma, Benalouane taken| date=20 August 2012}}</ref>
+{{Fs player|no=29|name=[[Gabriel Paletta]]|pos=DF|nat=Argentina}}
+{{Fs player|no=32|name=[[Marco Marchionni]]|pos=MF|nat=Italy}}
+{{Fs player|no=39|name=[[Ignacio Fideleff]]|pos=DF|nat=Argentina|other=on loan from [[S.S.C. Napoli|Napoli]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50798 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, arriva Fideleff! | trans_title= OFFICIAL: Parma, Fideleff arrives! | date=14 July 2012}}</ref>
+{{Fs player|no=77|name=[[Sotiris Ninis]]|pos=MF|nat=Greece}}
+{{Fs player|no=83|name=[[Antonio Mirante]]|pos=GK|nat=Italy}}
+{{Fs player|no=87|name=[[Aleandro Rosi]]|pos=DF|nat=Italy}}
+{{Fs player|no=88|name=[[Dorlan Pabón]]|pos=FW|nat=Colombia}}
+{{Fs player|no=91|name=[[Pavol Bajza]]|pos=GK|nat=Slovakia}}
+{{Fs player|no=—|name=[[Alessandro Berselli]]|pos=DF|nat=Italy}}
+{{Fs player|no=—|name=[[Solomon Enow]]|pos=DF|nat=Cameroon}}
+{{Fs player|no=—|name=[[Fernando Marqués]]|pos=MF|nat=Spain}}
+{{Fs end}}
+
+====Out on loan====
+{{Fs start}}
+{{Fs player|no=23|name=[[Francesco Modesto]]|pos=MF|nat=Italy|other=at [[Pescara Calcio|Pescara]]}}<ref name="deadline day august">{{cite news| url=http://fcparma.com/le-ultime-operazioni-di-mercato/ | publisher=FCParma.com|work=Parma F.C.| title=Le ultime operazioni di mercato | trans_title= Last transfer market moves | date=31 August 2012}}</ref>
+{{Fs player|no=34|name=[[Bright Addae]]|pos=DF|nat=Ghana|other=at [[F.C. Crotone|Crotone]]}}<ref name="Crotone 27 July">{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=51589 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: il Crotone annuncia Addae e Traorè | trans_title= OFFICIAL: Crotone announce Addae and Traoré| date=27 July 2012}}</ref>
+{{Fs player|no=56|name=[[Luca Tedeschi]]|pos=DF|nat=Italy|other=at [[U.S. Cremonese|Cremonese]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=52603 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Tedeschi passa alla Cremonese | trans_title= OFFICIAL: Tedeschi moves to Cremonese| date=10 August 2012}}</ref>
+{{Fs player|no=99|name=[[Graziano Pellè]]|pos=FW|nat=Italy|other=at [[Feyenoord]]}}<ref name="deadline day august"/>
+{{Fs player|no=—|name=[[Ivan Cacchioli]]|pos=GK|nat=Italy|other=at [[A.C. Pavia|Pavia]]}}
+{{Fs player|no=—|name=[[Alberto Gallinetta]]|pos=GK|nat=Italy|other=at [[FeralpiSalò]]}}<ref name="Feralpi">{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50371 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, quattro giovani in prestito alla Feralpi Salò | trans_title= OFFICIAL: Parma, four youngster on loan to Feralpi Salò| date=7 July 2012}}</ref>
+{{Fs player|no=—|name=[[Alessandro Iacobucci]]|pos=GK|nat=Italy|other=at [[Spezia Calcio|Spezia]]}}
+{{Fs player|no=—|name=[[Matteo Pisseri]]|pos=GK|nat=Italy|other=at [[U.S. Catanzaro 1929|Catanzaro]]}}
+{{Fs player|no=—|name=[[Davide Adorni]]|pos=DF|nat=Italy|other=at [[A.C. Renate|Renate]]}}
+{{Fs player|no=—|name=[[Angelo Bencivenga]]|pos=DF|nat=Italy|other=at [[F.C. Pro Vercelli 1892|Pro Vercelli]]}}<ref name="co-ownership day">{{cite news|url=http://fcparma.com/comproprieta-tutto-il-quadro-completo/ |title= Comproprietà: tutto il quadro completo | trans_title= Co-ownership: the complete picture | language=Italian| publisher=ParmaFC.com| work=Parma F.C.|date=22 June 2012}}</ref>
+{{Fs player|no=—|name=[[Gonçalo Brandão]]|pos=DF|nat=Portugal|other=at [[A.C. Cesena|Cesena]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50925 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, riscattato Brandao | trans_title= OFFICIAL: Parma, Brandao option taken up| date=16 July 2012}}</ref>
+{{Fs player|no=—|name=[[Thomas Fabbri]]|pos=DF|nat=Italy|other=with Santarcangiolese}}<ref name="deadline day august"/>
+{{Fs player|no=—|name=[[Rolf Feltscher]]|pos=DF|nat=Venezuela|other=at [[Padova Calcio|Padova]]}}<ref name="Padova 28 June"/>
+{{Fs player|no=—|name=[[Gianmarco Ferrari]]|pos=DF|nat=Italy|other=at [[A.C. Renate|Renate]]}}<ref>{{cite news| url=http://www.tuttogiovanili.it/?action=read&idnotizia=945 | publisher=TuttoGiovanili.it|work=Tutto Giovanili| title=Mercato giovanile: trasferimenti | trans_title= Youth market: transfers | date=7 July 2012}}</ref>
+{{Fs player|no=—|name=[[Abel Gigli]]|pos=DF|nat=Italy|other=at [[S.S. Chieti Calcio|Chieti]]}}<ref name="Chieti 20 July">{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50324 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, quattro cessioni al Chieti | trans_title= OFFICIAL: Parma, four let go to Chieti | date=20 July 2012}}</ref>
+{{Fs player|no=—|name=[[Fabio Lebran]]|pos=DF|nat=Italy|other=at [[Perugia Calcio|Perugia]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50571 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Lebran in prestito al Perugia | trans_title= OFFICIAL: Parma, Lebran on loan to Perugia| date=10 July 2012}}</ref>
+{{Fs player|no=—|name=[[Giuseppe Pacini]]|pos=DF|nat=Italy|other=at [[S.S. Fondi Calcio|Fondi]]}}
+{{Fs player|no=—|name=[[Francesco Pambianchi]]|pos=DF|nat=Italy|other=with [[A.S. Gubbio 1910|Gubbio]]}}<ref name="Gubbio 31 August">{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=53902 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, ceduti Bazzoffia e Pambianchi al Gubbio | trans_title= OFFICIAL: Parma, Bazzoffia and Pambianchi to Cluj | date=31 August 2012}}</ref>
+{{Fs player|no=—|name=[[Lorenzo Pasqualini]]|pos=DF|nat=Italy|other=at [[Ascoli Calcio 1898|Ascoli]]}}<ref name="Ascoli 29 June">{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=49809 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, dal Cesena ecco Rossini e Del Pivo | trans_title= OFFICIAL: Parma, from Cesena here's Rossi and Del Pivo| date=28 June 2012}}</ref>
+{{Fs player|no=—|name=[[Jonas Portin]]|pos=DF|nat=Finland|other=at [[Padova Calcio|Padova]]}}<ref name="Padova 28 June">{{cite news|url=http://www.sportsbook24.net/?action=read&idnotizia=49788 |title= UFFICIALE: Parma, Feltscher e Galli al Padova, Portin in comproprietà ai ducali |trans_title= OFFICIAL: Parma, Feltscher and Galli to Padova, Portin in co-ownership to Ducali |language=Italian|publisher=Sportsbook24.net|work=Sportsbook24|date=28 June 2012}}</ref>
+{{Fs player|no=—|name=[[Andrea Rispoli]]|pos=DF|nat=Italy|other=at [[Padova Calcio|Padova]]}}<ref name="3 July Padova">{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50134 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: tris di colpi sull'asse Padova-Parma | trans_title= OFFICIAL: trio of deals between Padova and Parma| date=3 July 2012}}</ref>
+{{Fs player|no=—|name=[[Andrea Rossi (footballer)|Andrea Rossi]]|pos=DF|nat=Italy|other=at [[A.C. Cesena|Cesena]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=51159 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Rossi via dopo 13 giorni: va al Cesena | trans_title= OFFICIAL: Parma, Rossi gone after 13 days: off to Cesena | date=19 July 2012}}</ref>
+{{Fs player|no=—|name=[[Mário Rui]]|pos=DF|nat=Portugal|other=at [[Spezia Calcio|Spezia]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=49831 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Mario Rui in prestito allo Spezia | trans_title= OFFICIAL: Parma, Mario Rui on loan to Spezia| date=29 June 2012}}</ref>
+{{Fs mid}}
+{{Fs player|no=—|name=[[Paolo Beatrizzotti]]|pos=MF|nat=Italy|other=at [[Santarcangelo Calcio|Santarcangelo]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=51208 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Beatrizzotti in prestito al Santarcangelo | trans_title= OFFICIAL: Parma, Beatrizzotti on loan to Santarcangelo | date=20 July 2012}}</ref>
+{{Fs player|no=—|name=[[Riccardo Casini]]|pos=MF|nat=Italy|other=at [[A.C. Prato|Prato]]}}
+{{Fs player|no=—|name=[[Alessandro De Vitis]]|pos=MF|nat=Italy|other=at [[Padova Calcio|Padova]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50376 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, De Vitis al Padova | trans_title= OFFICIAL: Parma, De Vitis to Padova| date=7 July 2012}}</ref>
+{{Fs player|no=—|name=[[Nicola Del Pivo]]|pos=MF|nat=Italy|other=at [[Calcio Como|Como]]}}<ref>{{cite news| url=http://www.tuttomercatoweb.com/cesena/?action=read&idnet=dHV0dG9jZXNlbmEuaXQtNzY3Mw | publisher=TuttoMercatoWeb.com|work=Tutto Mercato Web| title=Del Pivo in prestito al Como | trans_title= Del Pivo on loan to Como | date=12 July 2012}}</ref>
+{{Fs player|no=—|name=[[David Löfquist]]|pos=MF|nat=Sweden|other=at [[Malmö FF|Malmö]]}}<ref>{{cite news| url=http://www.mff.se/Aktuellt/Nyheter/2012-08-31_loken_klar.aspx | publisher=MFF.se|work=[[Malmö FF]] | title=Löfquist klar för MFF | trans_title= Löfquist clear for MFF | date=31 August 2012}}</ref>
+{{Fs player|no=—|name=[[Francesco Lunardini]]|pos=MF|nat=Italy|other=at [[San Marino Calcio|San Marino]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=53274| publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Lunardini si accasa al San Marino | trans_title= OFFICIAL: Parma, Lunardini moves to San Marino | date=22 August 2012}}</ref>
+{{Fs player|no=—|name=[[Alessio Manzoni]]|pos=MF|nat=Italy|other=at [[A.S. Gubbio 1910|Gubbio]]}}
+{{Fs player|no=—|name=[[Nwankwo Obiora]]|pos=MF|nat=Nigeria|other=at [[Padova Calcio|Padova]]}}<ref name="3 July Padova"/>
+{{Fs player|no=—|name=[[Danilo Luís Hélio Pereira|Danilo Pereira]]|pos=MF|nat=Portugal|other=at [[Roda JC Kerkrade|Roda]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=49937 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Danilo Pereira in prestito al Roda | trans_title= OFFICIAL: Parma, Danilo Pereira on loan to Roda| date=30 June 2012}}</ref>
+{{Fs player|no=—|name=[[Giuseppe Perrino]]|pos=MF|nat=Italy|other=at [[A.C. Bellaria Igea Marina|Bellaria Igea]]}}<ref>{{cite news| url=http://www.tuttomercatoweb.com/legapro/?action=read&idnet=dHV0dG9sZWdhcHJvLmNvbS01MjMzMg | publisher=TuttoMercatoWeb.com|work=Tutto Mercato Web| title=Bellaria, preso Perrino dal Parma | trans_title= Bellaria, Perrino taken from Parma | date=23 August 2012}}</ref>
+{{Fs player|no=—|name=[[Stefan Ristovski]]|pos=MF|nat=Macedonia|other=at [[A.S. Bari|Bari]]}}
+{{Fs player|no=—|name=Andrea Sabatelli|pos=MF|nat=Italy|other=on loan from [[S.S. Fondi Calcio|Fondi]]}}<ref>{{cite news| url=http://www.calciomercato.com/news/grosseto-ufficiale-guidone-e-tajani-al-fondi-627058 | publisher=CalcioMercato.com|work=Calcio Mercato| title=Grosseto, ufficiale: Guidone e Tajani al Fondi | trans_title= Grosseto, official: Guidone and Tajani to Fondi | date=10 September 2012}}</ref>
+{{Fs player|no=—|name=[[Salvatore Sandomenico]]|pos=MF|nat=Italy|other=at [[U.S. Arzanese|Arzanese]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=51697 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, preso Sandomenico | trans_title= OFFICIAL: Parma, Sandomenico taken | date=28 July 2012}}</ref>
+{{Fs player|no=—|name=[[Mattia Sprocati]]|pos=MF|nat=Italy|other=at [[A.C. Reggiana 1919|Reggiana]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50144 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, riscattato il giovane Sprocati | trans_title= OFFICIAL: Parma, option on young Sprocati taken| date=3 July 2012}}</ref>
+{{Fs player|no=—|name=[[José Eduardo de Araújo|Zé Eduardo]]|pos=MF|nat=Brazil|other=at [[Calcio Padova|Padova]]}}<ref name="3 July Padova"/>
+{{Fs player|no=—|name=[[Daniele Bazzoffia]]|pos=FW|nat=Italy}}<ref name="Gubbio 31 August"/>
+{{Fs player|no=—|name=[[Daniel Ciofani]]|pos=FW|nat=Italy|other=at [[A.S. Gubbio 1910|Gubbio]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=52086 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Ciofani firma col Perugia | trans_title= OFFICIAL: Ciofani signs with Perugia | date=3 August 2012}}</ref>
+{{Fs player|no=—|name=[[Milan Đurić]]|pos=FW|nat=Bosnia|other=at [[U.S. Cremonese|Cremonese]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=51069 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Djuric in prestito alla Cremonese | trans_title= OFFICIAL: Parma, Djuric on loan to Cremonese| date=18 July 2012}}</ref>
+{{Fs player|no=—|name=[[Alessandro Elia]]|pos=FW|nat=Italy|other=at [[U.S. Arzanese|Arzanese]]}}<ref>{{cite news| url=http://www.tuttomercatoweb.com/?action=read&id=372005 | publisher=TuttoMercatoWeb.com|work=Tutto Mercato Web| title=UFFICIALE - Arzanese, arriva il giovane Elia dal Parma | trans_title= OFFICIAL - Arzanese, youngster Elia arrives from Parma | date=26 July 2012}}</ref>
+{{Fs player|no=—|name=[[Amara Konaté]]|pos=FW|nat=CIV|other=at [[Polisportiva Nuovo Campobasso Calcio|Campobasso]]}}<ref>{{cite news| url=http://www.tuttolegapro.com/?action=read&idnotizia=51824 | publisher=TuttoLegaPro.com|work=Tutto Lega Pro| title=Campobasso, in arrivo l'ivoriano Konate | trans_title= Campobasso, Ivorian Konate in arrival | date=14 August 2012}}</ref>
+{{Fs player|no=—|name=[[Simone Malatesta]]|pos=FW|nat=Italy|other=at [[Carrarese Calcio|Carrarese]]}}<ref name="deadline day august"/>
+{{Fs player|no=—|name=[[Stefano Okaka]]|pos=FW|nat=Italy|other=at [[Spezia Calcio|Spezia]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=53190 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, arriva Okaka e va allo Spezia | trans_title= OFFICIAL: Parma, Okaka arrives and goes to Spezia | date=20 August 2012}}</ref>
+{{Fs player|no=—|name=[[Gabriele Paonessa]]|pos=FW|nat=Italy|other=at [[A.C. Perugia Calcio|Perugia]]}}<ref>{{cite news| url=http://www.tuttomercatoweb.com/?action=read&id=375999 | publisher=TuttoMercatoWeb.com|work=Tutto Mercato Web| title=Perugia, dal Parma arriva Paonessa | trans_title= Perugia, Paonessa arrives from Parma | date=11 August 2012}}</ref>
+{{Fs end}}
+
+====Co-owned at other clubs====
+{{Fs start}}
+{{Fs player|no=—|name=[[Diego Manzoni]]|pos=GK|nat=Italy|other=with [[Genoa C.F.C.|Genoa]]}}<ref name="co-ownership day"/>
+{{Fs player|no=—|name=[[Andrea Rossini]]|pos=GK|nat=Italy|other=with [[A.C. Cesena|Cesena]]}}
+{{Fs player|no=—|name=[[Stefano Russo]]|pos=GK|nat=Italy|other=with [[Brescia Calcio|Brescia]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50508 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Russo ceduto al Brescia | trans_title= OFFICIAL: Parma, Russo sold to Brescia| date=9 July 2012}}</ref>
+{{Fs player|no=—|name=[[Riccardo Brosco]]|pos=DF|nat=Italy|other=with [[Delfino Pescara 1936|Pescara]]}}<ref name="co-ownership day"/>
+{{Fs player|no=—|name=[[Paolo Hernán Dellafiore]]|pos=DF|nat=Italy|other=with [[A.C. Siena|Siena]]}}<ref name="Siena 6 July">{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50325 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: al Siena Dellafiore, al Parma Brandao | trans_title= OFFICIAL: Dellafiore to Siena, Brandao to Parma| date=6 July 2012}}</ref>
+{{Fs player|no=—|name=[[Abdou Doumbia]]|pos=DF|nat=France|other=with [[A.C. Siena|Siena]]}}<ref name="Siena 3 July">{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=50105 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, doppio scambio col Siena | trans_title= OFFICIAL: Parma, double swap with Siena| date=3 July 2012}}</ref>
+{{Fs player|no=—|name=[[Alberto Galuppo]]|pos=DF|nat=Italy|other=with [[A.C. Siena|Siena]]}}<ref name="Siena 3 July"/>
+{{Fs player|no=—|name=[[Emanuele Padella]]|pos=DF|nat=Italy|other=with [[U.S. Grosseto F.C.|Grosseto]]}}<ref name="co-ownership day"/>
+{{Fs player|no=—|name=[[Luigi Palumbo]]|pos=DF|nat=Italy|other=with [[A.C. Cesena|Cesena]]}}<ref name="co-ownership day"/>
+{{Fs player|no=—|name=[[Nicola Russo]]|pos=DF|nat=Italy|other=with [[A.S.G. Nocerina|Nocerina]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=52549 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, ceduta la metà di Russo alla Nocerina | trans_title= OFFICIAL: Parma, half of Russo ceded to Nocerina | date=9 August 2012}}</ref>
+{{Fs player|no=—|name=[[Marco Rossi (footballer born 1987)|Marco Rossi]]|pos=DF|nat=Italy|other=with [[A.C. Cesena|Cesena]]}}<ref name="co-ownership day"/>
+{{Fs player|no=—|name=[[Raffaele Schiavi]]|pos=DF|nat=Italy|other=with [[Brescia Calcio|Brescia]]}}
+{{Fs mid}}
+{{Fs player|no=—|name=[[Zsolt Tamási]]|pos=DF|nat=Hungary|other=with [[Ascoli Calcio 1898|Ascoli]]}}<ref name="co-ownership day"/>
+{{Fs player|no=—|name=[[Alessio Tombesi]]|pos=DF|nat=Italy|other=with [[Atletico Roma]]}}
+{{Fs player|no=—|name=[[Mohamed Traoré (footballer born 1991)|Mohamed Traoré]]|pos=DF|nat=Guinea|other=at [[F.C. Crotone|Crotone]]}}<ref name="Crotone 27 July"/>
+{{Fs player|no=—|name=[[Pietro Baccolo]]|pos=MF|nat=Italy|other=at [[A.S. Gubbio 1910|Gubbio]]}}
+{{Fs player|no=—|name=[[Davide Colomba]]|pos=MF|nat=Italy|other=with [[Ascoli Calcio 1898|Ascoli]]}}<ref name="Ascoli 29 June"/>
+{{Fs player|no=—|name=[[Manuel Coppola]]|pos=MF|nat=Italy|other=with [[A.C. Siena|Siena]]}}
+{{Fs player|no=—|name=[[Niccolò Galli (footballer born 1988)|Niccolò Galli]]|pos=MF|nat=Italy|other=with [[Padova Calcio|Padova]]}}<ref name="Padova 28 June"/>
+{{Fs player|no=—|name=[[Matteo Mandorlini]]|pos=MF|nat=Italy|other=with [[Brescia Calcio|Brescia]]}}<ref name="co-ownership day"/>
+{{Fs player|no=—|name=[[Riccardo Capogna]]|pos=FW|nat=Italy|other=with [[S.S. Chieti Calcio|Chieti]]}}<ref>{{cite news| url=http://www.tuttolegapro.com/?action=read&idnotizia=49884 | publisher=TuttoLegaPro.com|work=Tutto Lega Pro| title=UFFICIALE: sei nuovi volti per il Chieti | trans_title= OFFICIAL: Seven new charges for Chieti| date=19 July 2012}}</ref>
+{{Fs player|no=—|name=[[Grégoire Defrel]]|pos=FW|nat=France|other=with [[A.C. Cesena|Cesena]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=49807 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Cesena, acquistato Defrel | trans_title= OFFICIAL: Cesena, Defrel bought| date=28 June 2012}}</ref>
+{{Fs player|no=—|name=[[Francesco Finocchio]]|pos=FW|nat=Italy|other=with [[Bologna F.C. 1909|Bologna]]}}<ref>{{cite news| url=http://www.sportsbook24.net/?action=read&idnotizia=49807 | publisher=Sportsbook24.net|work=Sportsbook24| title=UFFICIALE: Parma, Finocchio passa al Bologna | trans_title= OFFICIAL: Parma, Finocchio moves to Bologna| date=3 July 2012}}</ref>
+{{Fs player|no=—|name=[[Gianluca Lapadula]]|pos=FW|nat=Italy|other=with [[A.C. Cesena|Cesena]]}}<ref>{{cite news|url=http://www.sportsbook24.net/?action=read&idnotizia=48872|title= UFFICIALE: Parma, Lapadula al Cesena in comproprietà |trans_title= OFFICIAL: Parma, Lapadula to Cesena in co-ownership |language=Italian|publisher=sportsbook24.net|work=Sportsbook24|date=15 June 2012|accessdate=15 June 2012}}</ref>
+{{Fs end}}
+
+===Retired numbers===
+{{See also|Retired numbers in football (soccer)|l1=Retired numbers in football}}
+<big>'''12'''</big>&nbsp;– Since the [[2002–03 Parma A.C. season|2002–03]] season, [[Curva (stadia)|Curva Nord]] of the [[Stadio Ennio Tardini]], as a sign of recognition towards the fans who sit in the Curva Nord, considered the 12th man in the pitch.
+
+===Academy===
+''For information on Parma's youth teams, see [[Parma F.C. Academy]].''
+
+===Former players===
+''For details of former players, see [[List of Parma F.C. players]] and [[:Category:Parma F.C. players]].''
+
+===Club captains===
+''For a list of club captains, see [[List of Parma F.C. players#Club captains]].''
+
+===Player records===
+''For player records, including player awards, see [[Parma F.C. statistics and records#Players|Parma F.C. statistics and records]].
+
+==Club officials==
+;Board room<ref>{{Cite web|url=http://www.legaseriea.it/it/serie-a-tim/squadre/organigramma/-/squadre/Parma/organigramma/1722|work=LegaSerieA.it|publisher=[[Lega Serie A]]|title=Organigramma Parma|trans_title=Organisation Parma|accessdate=29 July 2010|language=Italian}}</ref>
+* President: [[Tommaso Ghirardi]]<ref name="Parma Organigramma">{{cite web|url=http://fcparma.com/index.php/societa/organigramma/|accessdate=26 December 2010|title=Organigramma|trans_title=Organisation Chart|work=FCParma.com|publisher=Parma F.C.}}</ref>
+* Managing director: [[Pietro Leonardi]]<ref name="Parma Organigramma"/>
+* Technical director: [[Antonello Preiti]]<ref name="Parma Organigramma"/>
+* Club secretary: [[Alessio Paini]]<ref name="Parma Organigramma"/>
+* Team manager: [[Alessandro Melli]]<ref name="Parma Organigramma"/>
+
+;Coaching staff
+* Head coach: [[Roberto Donadoni]]<ref name="Parma Organigramma"/>
+* Assistant coach: [[Luca Gotti]]<ref name="Parma Organigramma"/>
+* Fitness coaches: [[Giovanni Andreini]], [[Niccolò Prandelli]]<ref name="Parma Organigramma"/>
+* Goalkeeping coach: [[Luca Bucci]]<ref name="Parma Organigramma"/>
+* Technical coach: [[Mario Bortolazzi]]<ref name="Parma Organigramma"/>
+* [[Parma F.C. Academy#Primavera|Youth team]] head coach: [[Fausto Pizzi]]<ref>{{cite web|url=http://fcparma.com/index.php/giovanili/organigramma/|title=Organigramma|trans_title=Organisation Chart|accessdate=26 December 2010|work=FCParma.com|publisher=Parma F.C.}}</ref>
+
+===Presidential history===
+Parma has had numerous presidents over the course of its history; here is a complete list of them:<ref name="Presidents and managers">{{Cite web|url=http://www.storiadelparmacalcio.com/storia-parma-calcio/i-presidenti-e-gli-allenatori-del-parma.htm|title=I presidenti e gli allenatori del Parma Football Club|trans_title=The presidents and coaches of Parma Football Club|language=Italian|accessdate=30 July 2010 | work = StoriaDelParmaCalcio.com}}</ref>
+<div style="font-size:100%">
+{|
+|width="10"|&nbsp;
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="1"|Name
+!rowspan="1"|Years
+|-
+|align=left|Violi, Porcelli and Spaggiari
+|align=left|1913–14
+|-
+|align=left|Carlo Melli and Alberto Poletti
+|align=left|1914–15
+|-
+|align=left|Ing. Tedeschi
+|align=left|1919–20
+|-
+|align=left|Conte L. Lusignani
+|align=left|1920–21
+|-
+|align=left|[[Ennio Tardini]]
+|align=left|1921–23
+|-
+|align=left|Gabbi
+|align=left|1923–24
+|-
+|align=left|Giuseppe Muggia and Amoretti
+|align=left|1924–25
+|-
+|align=left|Aldo Ortali
+|align=left|1925–26
+|-
+|align=left|Giovanni Canali
+|align=left|1926–28
+|-
+|align=left|Emilio Grossi
+|align=left|1928–29
+|-
+|align=left|Giuseppe Amoretti
+|align=left|1929–30
+|-
+|align=left|Cesare Minelli
+|align=left|1930–35
+|-
+|align=left|Emilio Grossi
+|align=left|1935–36
+|-
+|align=left|Filippo Bonati
+|align=left|1936–37
+|-
+|align=left|Nino Medioli
+|align=left|1937–38
+|-
+|align=left|Medardo Ghini
+|align=left|1938–40
+|-
+|align=left|Giuseppe Scotti
+|align=left|1940–43
+|-
+|align=left|Giorgio Zanichelli
+|align=left|1945–46
+|-
+|align=left|Raimondo Bortesi
+|align=left|1946–47
+|-
+|align=left|Amerigo Ghirardi
+|align=left|1947–48
+|-
+|}
+|width="30"|&nbsp;
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="1"|Name
+!rowspan="1"|Years
+|-
+|align=left|Bruno Avanzini
+|align=left|1948–51
+|-
+|align=left|Bonifazio Lupi di Soragna
+|align=left|1951–53
+|-
+|align=left|Umberto Agnetti, Del Frate, Campanini and Viani
+|align=left|1953–54
+|-
+|align=left|Fabrizio Cartolari
+|align=left|1954–58
+|-
+|align=left|Giuseppe Agnetti
+|align=left|1958–65
+|-
+|align=left|Walter Molinari
+|align=left|1965–66
+|-
+|align=left|Gino Camorali
+|align=left|1966–67
+|-
+|align=left|Vittorio Blarzino
+|align=left|1967–68
+|-
+|align=left|Zanichelli and Pizzighoni
+|align=left|1968–69
+|-
+|align=left|Ermes Foglia
+|align=left|1969–73
+|-
+|align=left|Arnaldo Musini
+|align=left|1973–76
+|-
+|align=left|Ernesto Ceresini
+|align=left|1976–90
+|-
+|align=left|Fulvio Ceresini
+|align=left|1990
+|-
+|align=left|Giorgio Pedraneschi
+|align=left|1990–96
+|-
+|align=left|Stefano Tanzi
+|align=left|1996–04
+|-
+|align=left|[[Enrico Bondi]]
+|align=left|2004
+|-
+|align=left|Guido Angiolini
+|align=left|2004–06
+|-
+|align=left|[[Enrico Bondi]]
+|align=left|2006–07
+|-
+|align=left|[[Tommaso Ghirardi]]
+|align=left|2007–present
+|}
+|}
+</div>
+
+===Managerial history===
+{{Main|List of Parma F.C. managers}}
+Below is a list of Parma managers since the end of the First World War until the present day.<ref name="Presidents and managers" />
+
+<div style="font-size:100%">
+{|
+|width="10"|&nbsp;
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="1"|Name
+!rowspan="1"|Nationality
+!rowspan="1"|Years
+|-
+|align=left|Violi, Porcelli and Spaggiari
+|{{Flag icon|ITA|1861}}
+|align=left|1919–20
+|-
+|align=left|Percy Humphrey
+|{{Flag icon|ENG}}
+|align=left|1920–21
+|-
+|align=left|Riebe
+|{{Flag icon|AUT}}
+|align=left|1921–23
+|-
+|align=left|[[Guido Ara]]
+|{{Flag icon|ITA|1861}}
+|align=left|1923–24
+|-
+|align=left|Gabbi and Forlivesi
+|{{Flag icon|ITA|1861}}
+|align=left|1924–25
+|-
+|align=left|Carlo Achatzi
+|{{Flag icon|ITA|1861}}
+|align=left|1925–26
+|-
+|align=left|Ghini and Stuardt
+|{{Flag icon|ITA|1861}} {{Flag icon|AUT}}
+|align=left|1926–27
+|-
+|align=left|Emili Grossi
+|{{Flag icon|ITA|1861}}
+|align=left|1927–28
+|-
+|align=left|Raoul Violi
+|{{Flag icon|ITA|1861}}
+|align=left|1928–29
+|-
+|align=left|Emili Grossi
+|{{Flag icon|ITA|1861}}
+|align=left|1929–30
+|-
+|align=left|Armand Halmos
+|{{Flag icon|HUN|1920}}
+|align=left|1930–31
+|-
+|align=left|Emili Grossi
+|{{Flag icon|ITA|1861}}
+|align=left|1931–32
+|-
+|align=left|Crotti
+|{{Flag icon|ITA|1861}}
+|align=left|1932–33
+|-
+|align=left|Tito Mistrali
+|{{Flag icon|ITA|1861}}
+|align=left|1933–36
+|-
+|align=left|Alfredo Mattioli
+|{{Flag icon|ITA|1861}}
+|align=left|1936–37
+|-
+|align=left|Elvio Banchero
+|{{Flag icon|ITA|1861}}
+|align=left|1937–38
+|-
+|align=left|Pál Szalaj
+|{{Flag icon|HUN|1920}}
+|align=left|1938–39
+|-
+|align=left|József Wereb
+|{{Flag icon|HUN|1920}}
+|align=left|1939–40
+|-
+|align=left|Alfredo Mattioli
+|{{Flag icon|ITA|1861}}
+|align=left|1940–42
+|-
+|align=left|Italo Defendi
+|{{Flag icon|ITA|1861}}
+|align=left|1942–43
+|-
+|align=left|Giuseppe Ferrari
+|{{Flag icon|ITA|1861}}
+|align=left|1945–46
+|-
+|align=left|[[Renato Cattaneo (footballer born 1903)|Renato Cattaneo]], Lombatti,</br> Frione and Mistrali
+|{{Flag icon|ITA}}
+|align=left|1946–47
+|-
+|align=left|Dentelli, Giovanni Mazzoni,</br> Dietrich and Tagliani
+|{{Flag icon|ITA}}
+|align=left|1947–48
+|-
+|align=left|[[Renato Cattaneo (footballer born 1903)|Renato Cattaneo]], Giuberti,</br> Mistrali, Giuseppe Ferrari,</br> Lombatti and [[Carlo Rigotti]]
+|{{Flag icon|ITA}}
+|align=left|1948–49
+|-
+|align=left|[[Carlo Rigotti]]
+|{{Flag icon|ITA}}
+|align=left|1949–50
+|-
+|align=left|Giovanni Mazzoni, Boni</br> and Mattioli
+|{{Flag icon|ITA}}
+|align=left|1950–51
+|-
+|}
+|width="30"|&nbsp;
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="1"|Name
+!rowspan="1"|Nationality
+!rowspan="1"|Years
+|-
+|align=left|Paolo Tabanelli
+|{{Flag icon|ITA}}
+|align=left|1951–53
+|-
+|align=left|Carlos Alberto Quario
+|{{Flag icon|ITA}}
+|align=left|1953–54
+|-
+|align=left|Ivo Fiorentini
+|{{Flag icon|ITA}}
+|align=left|1954–56
+|-
+|align=left|Oliveri and Giuberti
+|{{Flag icon|ITA}}
+|align=left|1956–57
+|-
+|align=left|[[Čestmír Vycpálek]]
+|{{Flag icon|CZE}}
+|align=left|1956–58
+|-
+|align=left|Guido Mazetti
+|{{Flag icon|ITA}}
+|align=left|1958–60
+|-
+|align=left|Mario Genta
+|{{Flag icon|ITA}}
+|align=left|1960–62
+|-
+|align=left|Canforini
+|{{Flag icon|ITA}}
+|align=left|1962–63
+|-
+|align=left|Diotallevi and [[Arnaldo Sentimenti]]
+|{{Flag icon|ITA}}
+|align=left|1963–64
+|-
+|align=left|Oliveri and Giuberti
+|{{Flag icon|ITA}}
+|align=left|1956–57
+|-
+|align=left|[[Bruno Arcari (footballer)|Bruno Arcari]]
+|{{Flag icon|ITA}}
+|align=left|1964–65
+|-
+|align=left|Ivan Corghi
+|{{Flag icon|ITA}}
+|align=left|1965–66
+|-
+|align=left|Dante Boni
+|{{Flag icon|ITA}}
+|align=left|1965–67
+|-
+|align=left|Giancarlo Vitali
+|{{Flag icon|ITA}}
+|align=left|1967–68
+|-
+|align=left|Dante Boni
+|{{Flag icon|ITA}}
+|align=left|1968–69
+|-
+|align=left|Giancarlo Vitali
+|{{Flag icon|ITA}}
+|align=left|1969–70
+|-
+|align=left|[[Stefano Angeleri]]
+|{{Flag icon|ITA}}
+|align=left|1970–72
+|-
+|align=left|Antonio Soncini
+|{{Flag icon|ITA}}
+|align=left|1972
+|-
+|align=left|Giorgio Sereni
+|{{Flag icon|ITA}}
+|align=left|1973–74
+|-
+|align=left|Renato Gei
+|{{Flag icon|ITA}}
+|align=left|1974–75
+|-
+|align=left|Giovanni Meregalli
+|{{Flag icon|ITA}}
+|align=left|1975–76
+|-
+|align=left|Tito Corsi
+|{{Flag icon|ITA}}
+|align=left|1976–77
+|-
+|align=left|[[Bruno Mora]]
+|{{Flag icon|ITA}}
+|align=left|1977
+|-
+|align=left|Gianni Corelli and Visconti
+|{{Flag icon|ITA}}
+|align=left|1977–78
+|-
+|align=left|Graziano Landoni
+|{{Flag icon|ITA}}
+|align=left|1978
+|-
+|align=left|[[Cesare Maldini]]
+|{{Flag icon|ITA}}
+|align=left|1978–80
+|-
+|align=left|Domenico Rosati
+|{{Flag icon|ITA}}
+|align=left|1980–81
+|-
+|align=left|Giorgio Sereni
+|{{Flag icon|ITA}}
+|align=left|1981
+|-
+|align=left|Giancarlo Danova
+|{{Flag icon|ITA}}
+|align=left|1981–83
+|-
+|}
+|width="30"|&nbsp;
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="1"|Name
+!rowspan="1"|Nationality
+!rowspan="1"|Years
+|-
+|align=left|[[Bruno Mora]]
+|{{Flag icon|ITA}}
+|align=left|1983
+|-
+|align=left|[[Marino Perani]]
+|{{Flag icon|ITA}}
+|align=left|1983–85
+|-
+|align=left|Flaborea
+|{{Flag icon|ITA}}
+|align=left|1985
+|-
+|align=left|[[Pietro Carmignani]]
+|{{Flag icon|ITA}}
+|align=left|1985
+|-
+|align=left|[[Arrigo Sacchi]]
+|{{Flag icon|ITA}}
+|align=left|1985–87
+|-
+|align=left| [[Zdeněk Zeman]]
+|{{Flag icon|CZE}}
+|align=left|1987
+|-
+|align=left|Giampieri Vitali
+|{{Flag icon|ITA}}
+|align=left|1987–89
+|-
+|align=left|[[Nevio Scala]]
+|{{Flag icon|ITA}}
+|align=left|1989–96
+|-
+|align=left|[[Carlo Ancelotti]]
+|{{Flag icon|ITA}}
+|align=left|1996–98
+|-
+|align=left|[[Alberto Malesani]]
+|{{Flag icon|ITA}}
+|align=left|1998–01
+|-
+|align=left|Arrigo Sacchi
+|{{Flag icon|ITA}}
+|align=left|2001
+|-
+|align=left|[[Renzo Ulivieri]]
+|{{Flag icon|ITA}}
+|align=left|2001
+|-
+|align=left|[[Daniel Passarella]]
+|{{Flag icon|ARG}}
+|align=left|2001
+|-
+|align=left|Pietro Carmignani
+|{{Flag icon|ITA}}
+|align=left|2001–02
+|-
+|align=left|[[Cesare Prandelli]]
+|{{Flag icon|ITA}}
+|align=left|2002–04
+|-
+|align=left|[[Silvio Baldini]]
+|{{Flag icon|ITA}}
+|align=left|2004–05
+|-
+|align=left|Pietro Carmignani
+|{{Flag icon|ITA}}
+|align=left|2005
+|-
+|align=left|[[Mario Beretta]]
+|{{Flag icon|ITA}}
+|align=left|2005–06
+|-
+|align=left|[[Stefano Pioli]]
+|{{Flag icon|ITA}}
+|align=left|2006–07
+|-
+|align=left|[[Claudio Ranieri]]
+|{{Flag icon|ITA}}
+|align=left|2007
+|-
+|align=left|[[Domenico Di Carlo]]
+|{{Flag icon|ITA}}
+|align=left|2007–08
+|-
+|align=left|[[Héctor Cúper]]
+|{{Flag icon|ARG}}
+|align=left|2008
+|-
+|align=left|[[Andrea Manzo]]
+|{{Flag icon|ITA}}
+|align=left|2008
+|-
+|align=left|[[Luigi Cagni]]
+|{{Flag icon|ITA}}
+|align=left|2008
+|-
+|align=left|[[Francesco Guidolin]]
+|{{Flag icon|ITA}}
+|align=left|2008–10
+|-
+|align=left|[[Pasquale Marino]]
+|{{Flag icon|ITA}}
+|align=left|2010–11
+|-
+|align=left|[[Franco Colomba]]
+|{{Flag icon|ITA}}
+|align=left|2011–12
+|-
+|align=left|[[Roberto Donadoni]]
+|{{Flag icon|ITA}}
+|align=left|2012–
+|}
+|}
+</div>
+
+==Honours==
+Parma has won eight major titles in their history, all coming in a period of ten years between 1992 and 2002.<ref>{{cite web|work=FCParma.com|publisher=Parma F.C.|url=http://fcparma.com/index.php/societa/cenni_storici/?lang=en|title=History|accessdate=12 January 2012}}</ref> These honours make it [[Football_records_in_Italy#Most_successful_clubs_overall_.281898_-_present.29|the tenth most successful team in Italian football history in terms of the number of major trophies won, the fourth most successful team in European competition]], after [[A.C. Milan|Milan]], [[Juventus F.C.|Juventus]] and [[F.C. Internazionale Milano|Inter]], and, along with Milan, the only club in Italy to have won more international than domestic honours.
+
+===National===
+[[File:Hernan.png|thumb|upright|[[Hernán Crespo]] (''pictured in 2011'') represented the club in two spells, winning three trophies and becoming the club's all-time record goalscorer.|alt=A man dressed in denim jacket and white t-shirt stands outside a football training pitch.]]
+*'''[[Coppa Italia]]''':
+**'''Winners (3)''': [[1991–92 Coppa Italia|1991–92]], [[1998–99 Coppa Italia|1998–99]], [[2001–02 Coppa Italia|2001–02]]
+**'''Runners-up (2)''': [[1994–95 Coppa Italia|1994–95]], [[2000–01 Coppa Italia|2000–01]]
+
+*'''[[Supercoppa Italiana]]''':
+**'''Winners (1)''': [[1999 Supercoppa Italiana|1999]]
+**'''Runners-up (1)''': [[1992 Supercoppa Italiana|1992]], [[1995 Supercoppa Italiana|1995]], [[2002 Supercoppa Italiana|2002]]
+
+*'''[[Serie A]]''':
+**'''Runners-up (1)''': [[1996–97 Serie A|1996–97]]
+
+*'''[[Serie B]]''':
+**'''Runners-up (1)''': [[2008–09 Serie B|2008–09]]
+
+===European===
+*'''[[UEFA Europa League|UEFA Cup]]''':
+**'''Winners (2)''': [[1994–95 UEFA Cup|1994–95]], [[1998–99 UEFA Cup|1998–99]]
+
+*'''[[UEFA Super Cup|European Super Cup]]''':
+**'''Winners (1)''': [[1993 European Super Cup|1993]]
+
+*'''[[UEFA Cup Winners' Cup|European Cup Winners' Cup]]''':
+**'''Winners (1)''': [[1992–93 European Cup Winners' Cup|1992–93]]
+**'''Runners-up (1)''': [[1993–94 European Cup Winners' Cup|1993–94]]
+
+===Minor===
+*'''[[Prima Divisione]]''':
+**'''Runners-up (1)''': 1928–29{{#tag:ref|At the time, this was one of 3 parallel regional second tier divisions.|group=nb}}
+
+*'''Seconda Divisione''':
+**'''Winners (1)''': 1924–25{{#tag:ref|At the time, this was one of 2 parallel regional second tier divisions.|group=nb}}
+
+*'''[[Promozione]]''':
+**'''Runners-up (1)''': 1919–20{{#tag:ref|At the time, this was one of 13 parallel regional second tier divisions.|group=nb}}
+
+*'''[[Lega Pro|Serie C]]''':
+**'''Winners (4)''': [[1953–54 Serie C|1953–54]], 1972–73,{{#tag:ref|At the time, this was one of 3 parallel regional third tier divisions.|group=nb}} [[1983–84 Serie C1#Serie C1.2FA 2|1983–84]],{{#tag:ref|At the time, this was one of 2 parallel regional third tier divisions.|name=2parallel3rdtier|group=nb}} 1985–86<ref name=2parallel3rdtier group=nb/>
+**'''Runners-up (2)''': [[1942–43 Serie C#Girone G|1942–43]],{{#tag:ref|At the time, this was one of 12 parallel regional third tier divisions.|group=nb}} 1978–79<ref name=2parallel3rdtier group=nb/>
+
+*'''[[Serie D]]''':
+**'''Winners (1)''': 1969–70{{#tag:ref|At the time, this was one of 9 parallel regional fourth tier divisions.|group=nb}}
+
+*'''[[Coppa delle Alpi]]''':
+**'''Winners (1)''': 1960–61{{#tag:ref|Parma competed as a representative of Italy.|group=nb}}
+
+==Notes==
+{{Reflist|group=nb|colwidth=25em}}
+
+==Footnotes==
+{{Reflist|colwidth=25em}}
+
+==Bibliography==
+{{Wikipedia books|Parma F.C.}}
+*{{cite book |last1=Bellè |first1=Gianfranco |last2=Gandolfi |first2=Giorgio |title=90 anni del Parma calcio 1913–2003 |year=2003 |publisher=Azzali Editore |location=Parma |language=Italian|trans_title=90 Years  of Parma Football 1913–2003 |isbn= }}
+*{{cite book |last1=Dunford |first1=Martin  |title=The Rough Guide to Italy |url=http://books.google.co.uk/books?id=M9nLj409H0kC& |accessdate=23 February 2012 |edition=10th |date=1 March 2011 |origyear= |publisher=Rough Guides |location= |isbn=978-1-84836-717-3}}
+*{{cite book |last1=Giulianotti |first1=Richard |title=Football: a sociology of the global game |url=http://books.google.co.uk/books?id=dO1vJEAv1KQC& |accessdate=23 February 2012 |edition= |date=16 August 1999 |origyear= |publisher=Polity Press |location= |isbn=978-0-333-94612-1}}
+*{{cite book |editor1-last=Melegari |editor1-first=Fabrizio |title=Calciatori del Parma (I Crociati nelle figurine Panini) |year=2007 |publisher=[[Panini Group]] |location=Modena |language=Italian|trans_title=Parma Players (The Crusaders in Panini Trading Cards) |isbn= }}
+*{{cite book |last1=Morrow |first1=Stephen |title=The people's game?: football, finance, and society |url=http://books.google.it/books?id=ae3CVjGoRiYC& |accessdate=23 February 2012 |edition= |date=30 September 2003 |origyear= |publisher=Palgrave Macmillan |location= |isbn=978-0-333-94612-1}}
+*{{cite book |last1=Sappino |first1=Marco |title=Dizionario del calcio italiano |url=http://books.google.it/books?id=J5OpwwKggrsC&pg |language=Italian |trans_title=Dictionary of Italian football |accessdate=23 February 2012 |edition= |year=2000 |origyear= |publisher=Baldini & Castoldi |location= |isbn=978-88-8089-862-7 |volume=2}}
+
+==External links==
+{{Commons category|Parma Football Club}}
+*[http://fcparma.com/ Official website] {{en icon}} {{it icon}}
+*[http://www.legaseriea.it/it/serie-a-tim/squadre/organigramma/-/squadre/Parma/organigramma/1722 Parma] at [[Serie A]] {{it icon}}
+*[http://www.football-italia.net/clubs/Parma/ Parma] at [[Football Italia]] {{en icon}}
+*[http://soccernet.espn.go.com/team/_/id/115/parma?cc=5739 Parma] at [[ESPN Soccernet]] {{en icon}}
+
+{{Parma F.C.}}
+{{Navboxes|titlestyle=background:#fff;color:#000;border:1px solid black;|list1=
+{{Serie A}}
+{{UEFA Cup Winners' Cup winners}}
+{{UEFA Europa League winners}}
+{{UEFA Super Cup winners}}
+{{Italian Cup winners}}
+{{Italian Super Cup winners}}
+{{Football in Italy}}
+}}
+{{Use dmy dates|date=October 2012}}
+
+{{DEFAULTSORT:Parma}}
+[[Category:Parma F.C.| ]]
+[[Category:Football clubs in Italy]]
+[[Category:Football clubs in Emilia-Romagna]]
+[[Category:Association football clubs established in 1913]]
+[[Category:Italian football (soccer) First Division clubs]]
+[[Category:Serie A clubs]]
+[[Category:Coppa Italia winners]]
+[[Category:1913 establishments in Italy]]
+
+[[ar:نادي بارما]]
+[[az:Parma (futbol klubu, Parma)]]
+[[be-x-old:Парма (футбольны клюб)]]
+[[bg:ФК Парма]]
+[[bs:Parma Football Club]]
+[[ca:Parma Football Club]]
+[[cs:Parma FC]]
+[[da:Parma FC]]
+[[de:FC Parma]]
+[[et:Parma FC]]
+[[el:Πάρμα Π.Σ.]]
+[[es:Parma Football Club]]
+[[eo:Parma FC]]
+[[fa:باشگاه فوتبال پارما]]
+[[fr:Parme Football Club]]
+[[ga:Parma Football Club]]
+[[gl:Parma FC]]
+[[ko:파르마 FC]]
+[[hr:Parma FC]]
+[[id:Parma F.C.]]
+[[it:Parma Football Club]]
+[[he:פארמה (כדורגל)]]
+[[ka:პარმა (საფეხბურთო კლუბი)]]
+[[la:FC Parma]]
+[[lv:Parma FC]]
+[[lt:Parma FC]]
+[[hu:Parma FC]]
+[[mk:ФК Парма]]
+[[mr:पार्मा एफ.सी.]]
+[[nl:Parma FC]]
+[[ja:パルマFC]]
+[[no:Parma FC]]
+[[oc:Parma Football Club]]
+[[pl:Parma F.C.]]
+[[pt:Parma Football Club]]
+[[ro:Parma FC]]
+[[ru:Парма (футбольный клуб)]]
+[[sq:Parma F.C]]
+[[scn:Parma Football Club]]
+[[simple:Parma F.C.]]
+[[sk:Parma FC]]
+[[sr:FK Parma]]
+[[fi:Parma FC]]
+[[sv:Parma FC]]
+[[th:สโมสรฟุตบอลปาร์มา]]
+[[tr:Parma FC]]
+[[uk:Парма (футбольний клуб)]]
+[[diq:Parma FC]]
+[[zh:帕尔玛足球俱乐部]]

@@ -1,0 +1,709 @@
+<table class="infobox " cellspacing="3" style="border-spacing: 3px; width:22em; "><caption class="" style="">[[Scottish Football League Second Division|Irn Bru Scottish Second Division]]</caption><tr class=""><th scope="row" style="text-align:left; ">Season</th>
+    <td class="" style="">
+[[2012&ndash;13 in Scottish football|2012&ndash;13]]</td></tr><tr><td colspan="2" class="" style="text-align:center; "><div style="float: left;">← [[2011&ndash;12 Scottish Second Division|2011&ndash;12]] </div><div style="float: right;">''2013&ndash;14'' →</div></td></tr>
+</table>
+
+The '''2012–13 Scottish Football League Second Division''' (also known as the 2011–12 Irn Bru Scottish Football League Second Division for sponsorship reasons) is the 18th season in the current format of 10 teams in the third-tier of Scottish football. [[Cowdenbeath F.C.|Cowdenbeath]] are the current champions.
+
+==Teams==
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px; ">
+<div style="position: relative; border: 1px solid lightgray">[[file:Scotland location map.svg|300px|2012–13 Scottish Second Division is located in Scotland]]<div style="position: absolute; z-index: 2; top: 79.2%; left: 57%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Albion Rovers F.C.|Albion Rovers]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-0.15em; left: -3em; text-align: center;"><span style="padding: 1px; "><small>[[Albion Rovers F.C.|Albion Rovers]]</small></span></div></div>
+ <div style="position: absolute; z-index: 2; top: 75.1%; left: 59.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Alloa Athletic F.C.|Alloa&nbsp;Athletic]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Alloa Athletic F.C.|Alloa&nbsp;Athletic]]</small></span></div></div>
+ <div style="position: absolute; z-index: 2; top: 68.4%; left: 73.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Arbroath F.C.|Arbroath]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Arbroath F.C.|Arbroath]]</small></span></div></div>
+ <div style="position: absolute; z-index: 2; top: 85.1%; left: 49.8%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Ayr United F.C.|Ayr&nbsp;United]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Ayr United F.C.|Ayr&nbsp;United]]</small></span></div></div>
+ <div style="position: absolute; z-index: 2; top: 65.6%; left: 73.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Brechin City F.C.|Brechin City]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Brechin City F.C.|Brechin City]]</small></span></div></div>
+ <div style="position: absolute; z-index: 2; top: 74%; left: 69.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[East Fife F.C.|East Fife]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[East Fife F.C.|East Fife]]</small></span></div></div>
+ <div style="position: absolute; z-index: 2; top: 66.9%; left: 70.4%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Forfar Athletic F.C.|Forfar Athletic]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Forfar Athletic F.C.|Forfar Athletic]]</small></span></div></div>
+ <div style="position: absolute; z-index: 2; top: 91.3%; left: 62.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Queen of the South F.C.|Queen of the South]]|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Queen of the South F.C.|Queen of the South]]</span></div></div>
+ <div style="position: absolute; z-index: 2; top: 76.5%; left: 59.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Stenhousemuir F.C.|Stenhousemuir]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Stenhousemuir F.C.|Stenhousemuir]]</small></span></div></div>
+ <div style="position: absolute; z-index: 2; top: 93.8%; left: 45.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px; line-height:0;" title="">[[File:Red pog.svg|6x6px|<small>[[Stranraer F.C.|Stranraer]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Stranraer F.C.|Stranraer]]</small></span></div></div></div>
+<div class="thumbcaption">Location of teams in '''Scottish Second Division 2011&ndash;12'''
+</div>
+</div>
+</div>
+
+Two sides were promoted from the [[2011–12 Scottish Second Division|2011–12]] competition.  [[Cowdenbeath F.C.|Cowdenbeath]] as champions, and [[Dumbarton F.C.|Dumbarton]] as winners of the promotion play-offs. They were replaced by [[Queen of the South F.C.|Queen of the South]], who finished bottom of the [[2011–12 Scottish First Division|First Division]], and [[Ayr United F.C.|Ayr United]], who were relegated through the first division play-offs. [[Stirling Albion F.C.|Stirling Albion]] were relegated from this division after finishing bottom, and they were replaced by [[2011–12 Scottish Third Division|Third Division]] winners [[Alloa Athletic F.C.|Alloa Athletic]].  
+
+[[Albion Rovers F.C.|Albion Rovers]] finished in 9th place, but were able to stay up as a result of winning the promotion play-offs. [[Stranraer F.C.|Stranraer]], who had lost to Albion Rovers in the play-off final, were promoted to the Second Division after the decision was made for Rangers fc to start in the Third Division.<ref name = "newco"/> Stranraer replaced [[Airdrie United]], who will take up the space in the First Division.<ref name = "newco">{{cite news|url=http://www.bbc.co.uk/sport/0/football/18862114|title=Rangers: Airdrie United and Stranraer are promoted|work=BBC Sport|publisher=BBC|date=16 July 2012|accessdate=16 July 2012}}</ref>
+
+===Stadia and Locations===
+{| class="wikitable sortable"
+|-
+! Team
+! Location
+! Home ground
+! Capacity
+|-
+| [[Albion Rovers F.C.|Albion Rovers]]
+| [[Coatbridge]]
+| [[Cliftonhill]]
+| 2,496
+|- 
+|[[Alloa Athletic F.C.|Alloa Athletic]]
+|[[Alloa]]
+|[[Recreation Park, Alloa|Recreation Park]]
+|3,412
+|- 
+| [[Arbroath F.C.|Arbroath]]
+| [[Arbroath]]
+| [[Gayfield Park]]
+| 4,153
+|-
+|[[Ayr United F.C.|Ayr United]]
+|[[Ayr]]
+|[[Somerset Park]]
+|10,243
+|-
+|[[Brechin City F.C.|Brechin City]]
+|[[Brechin]]
+|[[Glebe Park, Brechin|Glebe Park]]
+|1,519
+|-
+|[[East Fife F.C.|East Fife]]
+|[[Methil]]
+|[[Bayview Stadium]]
+|2,000
+|-
+|[[Forfar Athletic F.C.|Forfar Athletic]]
+|[[Forfar]]
+|[[Station Park, Forfar|Station Park]]
+|4,602
+|-
+|[[Queen of the South F.C.|Queen of the South]]
+|[[Dumfries]]
+|[[Palmerston Park]]
+|6,412
+|-
+|[[Stenhousemuir F.C.|Stenhousemuir]]
+|[[Stenhousemuir]]
+|[[Ochilview Park]]
+|3,776
+|-
+|[[Stranraer F.C.|Stranraer]]
+|[[Stranraer]]
+|[[Stair Park]]
+|5,600
+|}
+
+==League Table==
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- style="background-color:#D0F0C0"
+|1
+|align=left|[[Queen of the South F.C.|Queen of the South]]
+|8
+|7
+|1
+|0
+|19
+|2||+17
+|'''22'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Promotion to the<span class="Unicode"> </span>[[2013&ndash;14 Scottish First Division]]
+|- style="background-color:#E8FFD8"
+|2
+|align=left|[[Forfar Athletic F.C.|Forfar Athletic]]
+|8
+|5
+|1
+|2
+|19
+|10||+9
+|'''16'''
+|rowspan=3 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Qualification to the<span class="Unicode"> </span>[[2012–13 Scottish First Division#First Division Play-offs|Scottish First Division Play-offs]]
+|- style="background-color:#E8FFD8"
+|3
+|align=left|[[Arbroath F.C.|Arbroath]]
+|8
+|4
+|3
+|1
+|16
+|15||+1
+|'''15'''
+|- style="background-color:#E8FFD8"
+|4
+|align=left|[[Alloa Athletic F.C.|Alloa Athletic]]
+|8
+|4
+|1
+|3
+|15
+|10||+5
+|'''13'''
+|- 
+|5
+|align=left|[[Stenhousemuir F.C.|Stenhousemuir]]
+|8
+|3
+|4
+|1
+|16
+|13||+3
+|'''13'''
+|- 
+|6
+|align=left|[[Ayr United F.C.|Ayr United]]
+|8
+|3
+|1
+|4
+|13
+|17||&minus;4
+|'''10'''
+|- 
+|7
+|align=left|[[Albion Rovers F.C.|Albion Rovers]]
+|8
+|2
+|1
+|5
+|11
+|17||&minus;6
+|'''7'''
+|- 
+|8
+|align=left|[[Brechin City F.C.|Brechin City]]
+|8
+|2
+|0
+|6
+|6
+|15||&minus;9
+|'''6'''
+|- style="background-color:#FFE6E6"
+|9
+|align=left|[[East Fife F.C.|East Fife]]
+|8
+|1
+|2
+|5
+|11
+|15||&minus;4
+|'''5'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Qualification to the<span class="Unicode"> </span>[[2012–13 Scottish Second Division#Second Division Play-offs|Scottish Second Division Play-offs]]
+|- style="background-color:#FFCCCC"
+|10
+|align=left|[[Stranraer F.C.|Stranraer]]
+|8
+|1
+|2
+|5
+|7
+|19||&minus;12
+|'''5'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Relegation to the<span class="Unicode"> </span>2013–14 [[Scottish Third Division]]
+|}
+<small>
+Source: [http://www.scottishfootballleague.com/football/second/table/ Scottish Football League]<br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+==Results==
+Teams play each other four times in this league. In the first half of the season each team plays every other team twice (home and away) and then do the same in the second half of the season, for a total of 36 games
+
+=== First half of season ===
+
+{| class="wikitable" style="font-size: 100%; text-align: center;"
+|-
+|Home \ Away<sup class="reference" id="ref_Home \ Away^">[[#endnote_Home \ Away^|[1]]]</sup>
+|width=30|[[Albion Rovers F.C.|ALB]]
+|width=30|[[Alloa Athletic F.C.|ALO]]
+|width=30|[[Arbroath F.C.|ARB]]||width=30|[[Ayr United F.C.|AYR]]||width=30|[[Brechin City F.C.|BRE]]||width=30|[[East Fife F.C.|EFI]]||width=30|[[Forfar Athletic F.C.|FOR]]||width=30|[[Queen of the South F.C.|QOS]]||width=30|[[Stenhousemuir F.C.|STE]]||width=30|[[Stranraer F.C.|STR]]
+
+|-
+|align=right|[[Albion Rovers F.C.|Albion Rovers]]
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">4&ndash;4</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+
+|-
+|align=right|[[Alloa Athletic F.C.|Alloa Athletic]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">5&ndash;1</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+
+|-
+|align=right|[[Arbroath F.C.|Arbroath]]
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;2</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+
+|-
+|align=right|[[Ayr United F.C.|Ayr United]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;4</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+
+|-
+|align=right|[[Brechin City F.C.|Brechin City]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">7&ndash;2</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+
+|-
+|align=right|[[East Fife F.C.|East Fife]]
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+
+|-
+|align=right|[[Forfar Athletic F.C.|Forfar Athletic]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;2</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;0</span>
+
+|-
+|align=right|[[Queen of the South F.C.|Queen of the South]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">6&ndash;0</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+
+|-
+|align=right|[[Stenhousemuir F.C.|Stenhousemuir]]
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;4</span>
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+
+|-
+|align=right|[[Stranraer F.C.|Stranraer]]
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;6</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;1</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+
+|}<small>Updated to games played on 28 October 2012<br />Source: [[Category:All articles with unsourced statements]][[Category:Articles with unsourced statements from October 2012]]<sup class="Template-Fact" style="white-space:nowrap;">&#91;<i>[[Wikipedia:Citation needed|<span title="This claim needs references to reliable sources<nowiki/> from October 2012">citation needed</span>]]</i>&#93;</sup><br /><sup>1&nbsp;<span class="citation wikicite" id="endnote_Home_.5C_Away.5E">[[#ref_Home \ Away^|'''<sup>^</sup>''']]</span> </sup>The home team is listed in the left-hand column.<br />'''Colours''': Blue = home team win; Yellow = draw; Red = away team win.<br /></small>
+
+=== Second half of season ===
+
+{| class="wikitable" style="font-size: 100%; text-align: center;"
+|-
+|Home \ Away<sup class="reference" id="ref_Home \ Away^">[[#endnote_Home \ Away^|[1]]]</sup>
+|width=30|[[Albion Rovers F.C.|ALB]]
+|width=30|[[Alloa Athletic F.C.|ALO]]
+|width=30|[[Arbroath F.C.|ARB]]||width=30|[[Ayr United F.C.|AYR]]||width=30|[[Brechin City F.C.|BRE]]||width=30|[[East Fife F.C.|EFI]]||width=30|[[Forfar Athletic F.C.|FOR]]||width=30|[[Queen of the South F.C.|QOS]]||width=30|[[Stenhousemuir F.C.|STE]]||width=30|[[Stranraer F.C.|STR]]
+
+|-
+|align=right|[[Albion Rovers F.C.|Albion Rovers]]
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Alloa Athletic F.C.|Alloa Athletic]]
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Arbroath F.C.|Arbroath]]
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Ayr United F.C.|Ayr United]]
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Brechin City F.C.|Brechin City]]
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[East Fife F.C.|East Fife]]
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Forfar Athletic F.C.|Forfar Athletic]]
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+
+|-
+|align=right|[[Queen of the South F.C.|Queen of the South]]
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+
+|-
+|align=right|[[Stenhousemuir F.C.|Stenhousemuir]]
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+
+|-
+|align=right|[[Stranraer F.C.|Stranraer]]
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+|}<small>Updated to games played on start of season<br />Source: [[Category:All articles with unsourced statements]][[Category:Articles with unsourced statements from October 2012]]<sup class="Template-Fact" style="white-space:nowrap;">&#91;<i>[[Wikipedia:Citation needed|<span title="This claim needs references to reliable sources<nowiki/> from October 2012">citation needed</span>]]</i>&#93;</sup><br /><sup>1&nbsp;<span class="citation wikicite" id="endnote_Home_.5C_Away.5E">[[#ref_Home \ Away^|'''<sup>^</sup>''']]</span> </sup>The home team is listed in the left-hand column.<br />'''Colours''': Blue = home team win; Yellow = draw; Red = away team win.<br /></small>
+
+==References==
+<div class="reflist " style=" list-style-type: decimal;">
+<references group=""></references></div>
+
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:Scottish Second Division|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:Scottish Second Division|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:Scottish_Second_Division&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[Scottish Football League Second Division|Scottish Second Division]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Scottish Second Division|2012–13]] teams</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[Albion Rovers F.C.|Albion Rovers]]
+* [[Alloa Athletic F.C.|Alloa Athletic]]
+* [[Arbroath F.C.|Arbroath]]
+* [[Ayr United F.C.|Ayr United]]
+* [[Brechin City F.C.|Brechin City]]
+* [[East Fife F.C.|East Fife]]
+* [[Forfar Athletic F.C.|Forfar Athletic]]
+* [[Queen of the South F.C.|Queen of the South]]
+* [[Stenhousemuir F.C.|Stenhousemuir]]
+* [[Stranraer F.C.|Stranraer]]
+
+*</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Seasons</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[1893–94 Scottish Second Division|1893–94]]
+* [[1894–95 Scottish Second Division|1894–95]]
+* [[1895–96 Scottish Second Division|1895–96]]
+* [[1896–97 Scottish Second Division|1896–97]]
+* [[1897–98 Scottish Second Division|1897–98]]
+* [[1898–99 Scottish Second Division|1898–99]]
+* [[1899–1900 Scottish Second Division|1899–00]]
+* [[1900–01 Scottish Second Division|1900–01]]
+* [[1901–02 Scottish Second Division|1901–02]]
+* [[1902–03 Scottish Second Division|1902–03]]
+* [[1903–04 Scottish Second Division|1903–04]]
+* [[1904–05 Scottish Second Division|1904–05]]
+* [[1905–06 Scottish Second Division|1905–06]]
+* [[1906–07 Scottish Second Division|1906–07]]
+* [[1907–08 Scottish Second Division|1907–08]]
+* [[1908–09 Scottish Second Division|1908–09]]
+* [[1909–10 Scottish Second Division|1909–10]]
+* [[1910–11 Scottish Second Division|1910–11]]
+* [[1911–12 Scottish Second Division|1911–12]]
+* [[1912–13 Scottish Second Division|1912–13]]
+* [[1913–14 Scottish Second Division|1913–14]]
+* [[1914–15 Scottish Second Division|1914–15]]
+* 1915–16
+* 1916–17
+* 1917–18
+* 1918–19
+* 1919–20
+* 1920–21
+* [[1921–22 Scottish Second Division|1921–22]]
+* [[1922–23 Scottish Second Division|1922–23]]
+* [[1923–24 Scottish Second Division|1923–24]]
+* [[1924–25 Scottish Second Division|1924–25]]
+* [[1925–26 Scottish Second Division|1925–26]]
+* [[1926–27 Scottish Second Division|1926–27]]
+* [[1927–28 Scottish Second Division|1927–28]]
+* [[1928–29 Scottish Second Division|1928–29]]
+* [[1929–30 Scottish Second Division|1929–30]]
+* [[1930–31 Scottish Second Division|1930–31]]
+* [[1931–32 Scottish Second Division|1931–32]]
+* [[1932–33 Scottish Second Division|1932–33]]
+* [[1933–34 Scottish Second Division|1933–34]]
+* [[1934–35 Scottish Second Division|1934–35]]
+* [[1935–36 Scottish Second Division|1935–36]]
+* [[1936–37 Scottish Second Division|1936–37]]
+* [[1937–38 Scottish Second Division|1937–38]]
+* [[1938–39 Scottish Second Division|1938–39]]
+* 1939–40
+* 1940–41
+* 1941–42
+* 1942–43
+* 1943–44
+* 1944–45
+* 1945–46
+* [[1946–47 Scottish Second Division|1946–47]]
+* [[1947–48 Scottish Second Division|1947–48]]
+* [[1948–49 Scottish Second Division|1948–49]]
+* [[1949–50 Scottish Second Division|1949–50]]
+* [[1950–51 Scottish Second Division|1950–51]]
+* [[1951–52 Scottish Second Division|1951–52]]
+* [[1952–53 Scottish Second Division|1952–53]]
+* [[1953–54 Scottish Second Division|1953–54]]
+* [[1954–55 Scottish Second Division|1954–55]]
+* [[1955–56 Scottish Second Division|1955–56]]
+* [[1956–57 Scottish Second Division|1956–57]]
+* [[1957–58 Scottish Second Division|1957–58]]
+* [[1958–59 Scottish Second Division|1958–59]]
+* [[1959–60 Scottish Second Division|1959–60]]
+* [[1960–61 Scottish Second Division|1960–61]]
+* [[1961–62 Scottish Second Division|1961–62]]
+* [[1962–63 Scottish Second Division|1962–63]]
+* [[1963–64 Scottish Second Division|1963–64]]
+* [[1964–65 Scottish Second Division|1964–65]]
+* [[1965–66 Scottish Second Division|1965–66]]
+* [[1966–67 Scottish Second Division|1966–67]]
+* [[1967–68 Scottish Second Division|1967–68]]
+* [[1968–69 Scottish Second Division|1968–69]]
+* [[1969–70 Scottish Second Division|1969–70]]
+* [[1970–71 Scottish Second Division|1970–71]]
+* [[1971–72 Scottish Second Division|1971–72]]
+* [[1972–73 Scottish Second Division|1972–73]]
+* [[1973–74 Scottish Second Division|1973–74]]
+* [[1974–75 Scottish Second Division|1974–75]]
+* [[1975–76 Scottish Second Division|1975–76]]
+* [[1976–77 Scottish Second Division|1976–77]]
+* [[1977–78 Scottish Second Division|1977–78]]
+* [[1978–79 Scottish Second Division|1978–79]]
+* [[1979–80 Scottish Second Division|1979–80]]
+* [[1980–81 Scottish Second Division|1980–81]]
+* [[1981–82 Scottish Second Division|1981–82]]
+* [[1982–83 Scottish Second Division|1982–83]]
+* [[1983–84 Scottish Second Division|1983–84]]
+* [[1984–85 Scottish Second Division|1984–85]]
+* [[1985–86 Scottish Second Division|1985–86]]
+* [[1986–87 Scottish Second Division|1986–87]]
+* [[1987–88 Scottish Second Division|1987–88]]
+* [[1988–89 Scottish Second Division|1988–89]]
+* [[1989–90 Scottish Second Division|1989–90]]
+* [[1990–91 Scottish Second Division|1990–91]]
+* [[1991–92 Scottish Second Division|1991–92]]
+* [[1992–93 Scottish Second Division|1992–93]]
+* [[1993–94 Scottish Second Division|1993–94]]
+* [[1994–95 Scottish Second Division|1994–95]]
+* [[1995–96 Scottish Second Division|1995–96]]
+* [[1996–97 Scottish Second Division|1996–97]]
+* [[1997–98 Scottish Second Division|1997–98]]
+* [[1998–99 Scottish Second Division|1998–99]]
+* [[1999–2000 Scottish Second Division|1999–00]]
+* [[2000–01 Scottish Second Division|2000–01]]
+* [[2001–02 Scottish Second Division|2001–02]]
+* [[2002–03 Scottish Second Division|2002–03]]
+* [[2003–04 Scottish Second Division|2003–04]]
+* [[2004–05 Scottish Second Division|2004–05]]
+* [[2005–06 Scottish Second Division|2005–06]]
+* [[2006–07 Scottish Second Division|2006–07]]
+* [[2007–08 Scottish Second Division|2007–08]]
+* [[2008–09 Scottish Second Division|2008–09]]
+* [[2009–10 Scottish Second Division|2009–10]]
+* [[2010–11 Scottish Second Division|2010–11]]
+* [[2011–12 Scottish Second Division|2011–12]]
+* [[2012–13 Scottish Second Division|''2012–13'']]</div></td></tr></table></td></tr></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:2012&ndash;13 in Scottish football|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:2012–13 in Scottish football|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:2012%E2%80%9313_in_Scottish_football&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[2012&ndash;13 in Scottish football]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+<div style="float: left;"> « <span style="font-size:90%;">[[2011&ndash;12 in Scottish football|2011&ndash;12]]</span> </div> <div style="float: right;"><span style="font-size:90%;">[[2013&ndash;14 in Scottish football|2013&ndash;14]]</span> » </div></div></td></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic leagues</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2012&ndash;13 Scottish Premier League|Premier League]]
+* [[2012&ndash;13 Scottish Football League|Football League]]
+** [[2012&ndash;13 Scottish First Division|First Division]]
+** [[2012&ndash;13 Scottish Second Division|Second Division]]
+** [[2012&ndash;13 Scottish Third Division|Third Division]]
+* [[2012&ndash;13 Highland Football League|Highland League]]
+* [[2012&ndash;13 West of Scotland Super League Premier Division|SJFA West Premier]]
+* [[2012&ndash;13 East Superleague|SJFA East Superleague]]
+* [[2012&ndash;13 North Superleague|SJFA North Superleague]]
+* [[2012–13 Scottish Premier Under-20 League|Scottish Premier Under-20 League]]
+* [[2012 Scottish Women's Premier League|Women's Premier League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic cups</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012&ndash;13 Scottish Cup|Scottish Cup]] <small>([[2013 Scottish Cup Final|Final]])</small>
+* [[2012–13 Scottish League Cup|League Cup]] <small>([[2013 Scottish League Cup Final|Final]])</small>
+* [[2012&ndash;13 Scottish Challenge Cup|Challenge Cup]] <small>([[2013 Scottish Challenge Cup Final|Final]])</small>
+* [[2012&ndash;13 Scottish Junior Cup|Junior Cup]]
+* [[2012&ndash;13 Scottish Youth Cup|Youth Cup]]
+* [[2012 Scottish Women's Cup|Women's Cup]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">European competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2012&ndash;13 UEFA Champions League|Champions League]]
+* [[2012&ndash;13 UEFA Europa League|Europa League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Related to [[Scotland national football team|national team]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012&ndash;13 in Scottish football#National teams|Results]]
+* [[2014 FIFA World Cup qualification – UEFA Group A]])</div></td></tr><tr style="height:2px"><td></td></tr><tr><td colspan=2 style="width:100%;padding:0px;;;background-color: #e6e6ff; font-weight: bold" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+Club seasons</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Premier League</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012&ndash;13 Aberdeen F.C. season|Aberdeen]]
+* [[2012&ndash;13 Celtic F.C. season|Celtic]]
+* [[2012&ndash;13 Dundee F.C. season|Dundee]]
+* [[2012&ndash;13 Dundee United F.C. season|Dundee United]]
+* [[2012&ndash;13 Heart of Midlothian F.C. season|Heart of Midlothian]]
+* [[2012&ndash;13 Hibernian F.C. season|Hibernian]]
+* [[2012&ndash;13 Inverness Caledonian Thistle F.C. season|Inverness Caledonian Thistle]]
+* [[2012&ndash;13 Kilmarnock F.C. season|Kilmarnock]]
+* [[2012&ndash;13 Motherwell F.C. season|Motherwell]]
+* [[2012&ndash;13 Ross County F.C. season|Ross County]]
+* [[2012&ndash;13 St. Johnstone F.C. season|St. Johnstone]]
+* [[2012&ndash;13 St. Mirren F.C. season|St. Mirren]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">First Division</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012&ndash;13 Airdrie United F.C. season|Airdrie United]]
+* [[2012&ndash;13 Cowdenbeath F.C. season|Cowdenbeath]]
+* [[2012&ndash;13 Dumbarton F.C. season|Dumbarton]]
+* [[2012&ndash;13 Dunfermline Athletic F.C. season|Dunfermline Athletic]]
+* [[2012&ndash;13 Falkirk F.C. season|Falkirk]]
+* [[2012&ndash;13 Greenock Morton F.C. season|Greenock Morton]]
+* [[2012&ndash;13 Hamilton Academical F.C. season|Hamilton Academical]]
+* [[2012&ndash;13 Livingston F.C. season|Livingston]]
+* [[2012&ndash;13 Partick Thistle F.C. season|Partick Thistle]]
+* [[2012&ndash;13 Raith Rovers F.C. season|Raith Rovers]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Second Division</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2012&ndash;13 Albion Rovers F.C. season|Albion Rovers]]
+* [[2012&ndash;13 Alloa Athletic F.C. season|Alloa Athletic]]
+* [[2012&ndash;13 Arbroath F.C. season|Arbroath]]
+* [[2012&ndash;13 Ayr United F.C. season|Ayr United]]
+* [[2012&ndash;13 Brechin City F.C. season|Brechin City]]
+* [[2012&ndash;13 East Fife F.C. season|East Fife]]
+* [[2012&ndash;13 Forfar Athletic F.C. season|Forfar Athletic]]
+* [[2012&ndash;13 Queen of the South F.C. season|Queen of the South]]
+* [[2012&ndash;13 Stenhousemuir F.C. season|Stenhousemuir]]
+* [[2012&ndash;13 Stranraer F.C. season|Stranraer]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Third Division</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012&ndash;13 Annan Athletic F.C. season|Annan Athletic]]
+* [[2012&ndash;13 Berwick Rangers F.C. season|Berwick Rangers]]
+* [[2012&ndash;13 Clyde F.C. season|Clyde]]
+* [[2012&ndash;13 East Stirlingshire F.C. season|East Stirlingshire]]
+* [[2012&ndash;13 Elgin City F.C. season|Elgin City]]
+* [[2012&ndash;13 Montrose F.C. season|Montrose]]
+* [[2012&ndash;13 Peterhead F.C. season|Peterhead]] 
+* [[2012&ndash;13 Queen's Park F.C. season|Queen's Park]]
+* [[2012&ndash;13 Rangers F.C. season|Rangers]]
+* [[2012&ndash;13 Stirling Albion F.C. season|Stirling Albion]]</div></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+[[List of Scottish football transfers summer 2012]] <br> [[List of Scottish football transfers winter 2012–13]]</div></td></tr></table></td></tr></table>
+
+[[Category:Scottish Second Division seasons]]
+[[Category:2012–13 Scottish Football League|2]]
+[[Category:2012–13 in Scottish association football leagues|3]]
+
+[[fr:Championnat d'Écosse de football D3 2012-2013]]

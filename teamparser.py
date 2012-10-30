@@ -37,7 +37,16 @@ def fetchTeamData(team):
     if not rvtext:
         print 'No revision text.'
         return None
+    else:
+        td = parseTeam(team, rvtext, True)
+        if not td:
+            print 'failed - no players found.'
+            return None
+        else:
+            print 'done (kit %s, position %d, %d players)' % (td.kits[0].bodycolor, td.pos, len(td.players))
+            return td
 
+def parseTeam(team, rvtext, mayGetTemplates):
     players = []
     teamposition = None
     kit = [soccer.Kit(), soccer.Kit()]
@@ -56,7 +65,7 @@ def fetchTeamData(team):
             else:
                 heading = wikiutils.getHeading(line)
                 if heading:
-                    if 'current squad' in heading.lower() or ('first' in heading.lower() and 'squad' in heading.lower()):
+                    if mayGetTemplates and 'current squad' in heading.lower() or ('first' in heading.lower() and 'squad' in heading.lower()):
                         lookForSquadTemplate = True
                     else:
                         lookForSquadTemplate = False
@@ -114,13 +123,10 @@ def fetchTeamData(team):
                     # TODO: body type, second color
 
     if len(players) < 15:
-        print 'failed - %d players found.' % len(players)
         return None
 
     if not teamposition:
         teamposition = 0
-
-    print 'done (kit %s, position %d, %d players)' % (kit[0].bodycolor, teamposition, len(players))
 
     return soccer.Team(team, kit, teamposition, players)
 

@@ -1,0 +1,190 @@
+{{ infobox football league
+| current         = [[2012–13 Scottish Second Division]]
+| image           = Irn Bru Scottish Football League Logo.png
+| founded         = 1893
+| country         = {{SCO}}
+| levels          = 3
+| promotion       = [[Scottish Football League First Division|Scottish First Division]]
+| relegation      = [[Scottish Football League Third Division|Scottish Third Division]]
+| teams           = 10
+| domest_cup      = [[Scottish Cup]]<br />[[Scottish League Cup|League Cup]]<br />[[Scottish League Challenge Cup|Challenge Cup]]
+| champions       = [[Cowdenbeath F.C.|Cowdenbeath]]
+| season          = [[2011–12 Scottish Second Division|2011–12]]
+}}
+
+The '''Scottish Football League Second Division''' is the second highest division of the [[Scottish Football League]] and the third highest overall in the [[Scottish football league system]].
+
+The division contains ten teams and each year the top team is promoted to the [[Scottish Football League First Division|First Division]], while the clubs in 2nd through 4th places enter an end of season [[play-off]] with the 9th placed side in the First Division. The bottom club is automatically relegated and the 9th placed club goes into an end of season play-off with the second, third and fourth placed clubs from the [[Scottish Football League Third Division|Third Division]].
+
+The teams play each other four times with three points for a victory and one point each for a drawn game.
+
+==History==
+Before 1975 the Second Division (sometimes also called Division B) was the second highest level in the Scottish system. The division was founded in 1893 but its champions were not automatically promoted, as promotion depended on a system of ballots (election) by all League clubs. The first champions, [[Hibernian F.C.|Hibernian]], were bypassed in favour of third-place finishers [[Clyde F.C.|Clyde]]. Sometimes poor-performing First Division teams would not be voted out (relegated) at all; the most notorious was [[Queen's Park F.C.|Queen's Park]], in whose favour the rules may have been most likely devised. Automatic promotion was finally introduced when the Second Division was restarted in 1922 after a hiatus provoked by [[World War I]], and ironically, its first victims were [[Queen's Park F.C.|Queen's Park]].
+
+In 1975, to minimise the number of clubs per division, the old First and Second divisions were recombined into the new Premier, First, and new Second divisions. Accordingly, the last second-tier Second Division champions, [[Falkirk F.C.|Falkirk]], were not promoted to the top flight but made up the new second tier along with bottom clubs from the old First Division and other top clubs from the old Second.
+
+==Current status==
+Today's Second Division contains ten teams, as does the First Division and the Third Division. Most players are part-time professionals.<ref>{{Cite web|url=http://www.newsoftheworld.co.uk/scottish/scottish_sport/359376/Billy-Stark-and-Campbell-Money-on-the-effects-of-Setanta-cash-on-SPL.html|title=Who's for the Chop?  Doomsday looms if TV tap is turned off|work=[[News of the World]]|accessdate=31 July 2010|date=13 June 2009}}</ref>  The teams play each other four times with three points for a victory and one point each for a drawn game. In the event of two teams finishing with the same number of points, the respective teams' position is decided on [[goal difference]]. If goal difference is equal too, the team who has scored the most goals is placed higher.  No other league in Scotland or the UK is as `dynamic' - with one automatic promotion and relegation place to contend for plus 3 promotion playoff places and one relegation playoff place, it means that 6 of the 10 teams are always drawn into contention.  In theory, 4 of the 10 teams can change each season.
+
+===Introduction of Play-Offs===
+Prior to season 2005&ndash;06, the top two teams were promoted to [[Scottish Football League First Division|Division One]] and the bottom two were relegated to [[Scottish Football League Third Division|Division Three]]. From 2005&ndash;06, there is automatic promotion only for the top team and automatic relegation for the bottom placed team. The teams which are placed 2nd, 3rd and 4th enter into a play-off with the team which is 9th in the First Division, and the team which is placed 9th enters into a similar play-off with the teams which are placed 2nd, 3rd and 4th in the [[Scottish Football League Third Division|Third Division]].
+
+==Sponsorship==
+On 20 July 2007, it was announced that [[Scottish Football League]] would be sponsored by [[Scotland|Scottish]] soft drink company [[Irn-Bru]] for the next three seasons.<ref>[http://news.bbc.co.uk/sport1/hi/football/scot_div_1/6908169.stm "SFL ends search for new sponsor"] article from BBC Sport</ref>  [[Irn-Bru]] extended sponsorship of the SFL for another three seasons from 2010/2011 onwards.<ref> [http://news.bbc.co.uk/sport1/hi/football/scot_div_1/8523226.stm "SFL secures sponsorship extension with Irn-Bru"] article from BBC Sport</ref>
+
+==Teams for 2012&ndash;13 Second Division==
+Listed below are the teams competing in the season 2012&ndash;13 Second Division
+
+{{location map+ |Scotland mainland |float=right |width=450 |caption=Locations of the Second Division teams 2012-13 teams |places=
+{{location map~ |Scotland mainland |lat=55.860278 |long=-4.011389 |label=[[Albion Rovers F.C.|Albion Rovers]]|position=left}}
+{{location map~ |Scotland mainland |lat=56.116644 |long=-3.778642 |label=[[Alloa Athletic F.C.|Alloa]]|position=left}}
+{{location map~ |Scotland mainland |lat=56.552269 |long=-2.591519 |label=[[Arbroath F.C.|Arbroath]]|position=bottom}}
+{{location map~ |Scotland mainland |lat=56.735492 |long=-2.656564 |label=[[Brechin City F.C.|Brechin City]]|position=right}}
+{{location map~ |Scotland mainland |lat=56.188728 |long=-2.999019 |label=[[East Fife F.C.|East Fife]]|position=left}}
+{{location map~ |Scotland mainland |lat=56.652239 |long=-2.884997 |label=[[Forfar Athletic F.C.|Forfar Athletic]]|position=left}}
+{{location map~ |Scotland mainland |lat=56.028244 |long=-3.814658 |label=[[Stenhousemuir F.C.|Stenhousemuir]]|position=right}}
+{{location map~ |Scotland mainland |lat=54.902147 |long=-5.012481 |label=[[Stranraer F.C.|Stranraer]]|position=right}}
+{{location map~ |Scotland mainland |lat=55.069767 |long=-3.624944 |label=[[Queen of the South]]|position=left}}
+{{location map~ |Scotland mainland |lat=55.469575 |long=-4.62 |label=[[Ayr United FC|Ayr United]]|position=right}}
+
+}}
+
+*[[Albion Rovers F.C.|Albion Rovers]]
+*[[Alloa Athletic F.C.|Alloa Athletic]]
+*[[Arbroath F.C.|Arbroath]]
+*[[Ayr United F.C.|Ayr United]]
+*[[Brechin City F.C.|Brechin City]]
+*[[East Fife F.C.|East Fife]]
+*[[Forfar Athletic F.C.|Forfar Athletic]]
+*[[Queen of the South F.C.|Queen of the South]]
+*[[Stenhousemuir F.C.|Stenhousemuir]]
+*[[Stranraer F.C.|Stranraer]]
+
+==Stadia==
+{| class="wikitable sortable"
+|-
+! Team
+! Stadium
+! Capacity
+|-
+
+|-
+|[[Albion Rovers F.C.|Albion Rovers]] || [[Cliftonhill|Cliftonhill Stadium]] || align="center" | 1,238
+|-
+|[[Alloa Athletic F.C.|Alloa Athletic]] || [[Recreation Park, Alloa|Recreation Park]] || align=center | 3,412
+|-
+|[[Arbroath F.C.|Arbroath]] || [[Gayfield Park]] || align="center" | 6,000
+|-
+|[[Ayr United F.C.|Ayr United]] || [[Somerset Park]] || align="center" | 10,243
+|-
+|[[Brechin City F.C.|Brechin City]] || [[Glebe Park, Brechin|Glebe Park]] || align="center" | 3,960
+|-
+|[[East Fife F.C.|East Fife]] || [[Bayview Stadium]] || align="center" | 2,000
+|-
+|[[Forfar Athletic F.C.|Forfar Athletic]] || [[Station Park, Forfar|Station Park]] || align="center" | 4,602
+|-
+|[[Queen of the South F.C.|Queen of the South]] || [[Palmerston Park]] || align="center" | 6,412
+|-
+|[[Stenhousemuir F.C.|Stenhousemuir]] ||  [[Ochilview Park]]{{Ref label|Horse|a|}} || align="center" | 5,027
+|-
+|[[Stranraer F.C.|Stranraer]] ||  [[Stair Park]] || align="center" | 5,600
+|}
+
+a.{{Note|Horse}}{{fc|Stenhousemuir}} currently share Ochilview Park with {{fc|East Stirlingshire}}
+
+==Winners of the Second Division==
+{{Main|List of winners of the Scottish Second Division and predecessors}}
+
+{| class="wikitable" style="text-align:center;"
+|-
+! width=105|Season
+! width=180|Winner
+! width=180|Runner-up
+|-
+| [[Scottish Second Division 1998-99|1998&ndash;99]]
+| [[Livingston F.C.|Livingston]]
+| [[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]]
+|-
+| [[Scottish Second Division 1999&ndash;2000|1999&ndash;00]]
+| [[Clyde F.C.|Clyde]]
+| [[Alloa Athletic F.C.|Alloa Athletic]]
+|-
+| [[Scottish Second Division 2000-01|2000&ndash;01]]
+| [[Partick Thistle F.C.|Partick Thistle]]
+| [[Arbroath F.C.|Arbroath]]
+|-
+| [[Scottish Second Division 2001-02|2001&ndash;02]]
+| [[Queen of the South F.C.|Queen of the South]]
+| [[Alloa Athletic F.C.|Alloa Athletic]]
+|-
+| [[Scottish Second Division 2002-03|2002&ndash;03]]
+| [[Raith Rovers F.C.|Raith Rovers]]
+| [[Brechin City F.C.|Brechin City]]
+|-
+| [[Scottish Second Division 2003-04|2003&ndash;04]]
+| [[Airdrie United F.C.|Airdrie United]]
+| [[Hamilton Academical F.C.|Hamilton Academical]]
+|-
+| [[Scottish Second Division 2004-05|2004&ndash;05]]
+| [[Brechin City F.C.|Brechin City]]
+| [[Stranraer F.C.|Stranraer]]
+|-
+| [[Scottish Second Division 2005-06|2005&ndash;06]]
+| [[Gretna F.C.|Gretna]]
+| [[Greenock Morton F.C.|Greenock Morton]]
+|-
+| [[Scottish Second Division 2006-07|2006&ndash;07]]
+| [[Greenock Morton F.C.|Greenock Morton]]
+| [[Stirling Albion F.C.|Stirling Albion]]
+|-
+| [[Scottish Second Division 2007–08|2007&ndash;08]]
+| [[Ross County F.C.|Ross County]]
+| [[Airdrie United F.C.|Airdrie United]]
+|-
+| [[Scottish Second Division 2008&ndash;09|2008&ndash;09]]
+| [[Raith Rovers F.C.|Raith Rovers]]
+| [[Ayr United F.C.|Ayr United]]
+|-
+| [[Scottish Second Division 2009&ndash;10|2009&ndash;10]]
+| [[Stirling Albion F.C.|Stirling Albion]]
+| [[Alloa Athletic F.C.|Alloa Athletic]]
+|-
+| [[2010–11 Scottish Second Division|2010&ndash;11]]
+| [[Livingston F.C.|Livingston]]
+| [[Ayr United F.C.|Ayr United]]
+|- 
+| [[2011–12 Scottish Second Division|2011-12]]
+| [[Cowdenbeath F.C.|Cowdenbeath]]
+| [[Arbroath F.C.|Arbroath]]
+|}
+
+==See also==
+*[[List of managers in the Scottish football league system by date of appointment]]
+
+==Notes==
+{{reflist|2}}
+
+==External links==
+* [http://www.scottishfootballleague.com/ Official Site]
+* [http://footballclubs.dyndns.org/?co=scotland&league=3 Scottish Football League Second Division clubs' locations]
+
+{{Scottish Second Division}}
+{{Football in Scotland}}
+{{UEFA third leagues}}
+
+[[Category:Scottish Football League Second Division| ]]
+[[Category:Scottish Football League|2]]
+[[Category:Football leagues in Scotland|3]]
+
+[[de:Scottish Football League Second Division]]
+[[es:Segunda División de Escocia]]
+[[fr:Championnat d'Écosse de football D3]]
+[[it:Scottish Second Division]]
+[[lt:Škotijos futbolo lygos antrasis divizionas]]
+[[nl:Scottish Football League Second Division]]
+[[pl:Scottish Football League Second Division]]
+[[ru:Второй дивизион шотландской Футбольной лиги]]
+[[sco:Scots Fitbaa League Seicont Diveesion]]
+[[simple:Scottish Football League Second Division]]
+[[fi:Skotlannin 2. divisioona]]
+[[zh:蘇格蘭足球乙級聯賽]]

@@ -1,0 +1,763 @@
+{{About|the English football club|the Chilean football club|Everton de Viña del Mar}}
+{{Use dmy dates|date=April 2012}}
+{{Use British English|date=April 2012}}
+{{Infobox football club
+| clubname = Everton
+| fullname =Everton Football Club
+| image    =[[Image:Everton FC Crest-colour.svg|160px|Everton's crest]]
+| current  =2012–13 Everton F.C. season
+| nickname = The Toffees, The Blues,<br>The School of Science,<br>The People's Club
+| motto    = Nil Satis Nisi Optimum = Nothing but the best
+| founded  = 1878 as ''St Domingo's F.C.''<ref>{{cite web|url=http://evertonfc.com/history/everton-the-begining.html?page=0 |title=Everton F.C. website |publisher=Everton F.C. |accessdate=7 March 2010}}</ref>
+| ground   =[[Goodison Park]],<br />[[Liverpool]]
+| capacity =40,157<ref>{{cite web|url=http://www.premierleague.com/staticFiles/4f/53/0,,12306~152399,00.pdf |title=Official Site of the Premier League |publisher=premierleague.com |accessdate=17 February 2012}}</ref>
+| chairman =[[Bill Kenwright]]
+| ceo      =[[Robert Elstone]]
+| manager  =[[David Moyes]]
+| league   =[[Premier League]]
+| season   =[[2011–12 Premier League|2011–12]]
+| position =Premier League, 7th
+ 
+|pattern_la1=_everton1213h
+|pattern_b1=
+|pattern_ra1=_everton1213h
+|pattern_sh1=_blue stripes
+ 
+|leftarm1=0000FF 
+|body1=0000FF
+|rightarm1=0000FF
+|shorts1=FFFFFF 
+|socks1=0000FF
+ 
+|pattern_la2= 
+|pattern_b2=
+|pattern_ra2= 
+ 
+|leftarm2=000000 
+|body2=000000 
+|rightarm2=000000 
+|shorts2=000000 
+|socks2=000000 
+	
+|pattern_la3=_ 
+|pattern_b3=
+|pattern_ra3=
+|pattern_sh3=_white stripes
+	
+|leftarm3=FFFFFF 
+|body3=FFFFFF
+|rightarm3=FFFFFF 
+|shorts3=0000FF
+|socks3=FFFFFF 
+
+| website = http://www.evertonfc.com/
+}}
+
+'''Everton Football Club''' is an English [[Premier League]] [[association football|football]] club based in [[Liverpool]]. The club has competed in the top division for a [[Football records in England|record]] 109 seasons and have won the [[List of English football champions|League Championship]] nine times.<ref>{{cite web|url=http://www.rsssf.com/tablese/engchamp.html|title=England – List of Champions|first=James M.|last=Ross|publisher=Rec.Sport.Soccer Statistics Foundation |date=14 May 2010|accessdate=23 August 2010}}</ref> 
+
+Formed in 1878, Everton were founding members of [[The Football League]] in 1888 and won their first league championship [[1890–91 Everton F.C. season|two seasons later]]. Following four league titles and two [[FA Cup]] wins, Everton experienced a lull in the immediate post World War Two period until a revival in the 1960s which saw the club win two league championships and an FA Cup. The mid-1980s represented their most recent period of success, with two League Championship successes, an FA Cup, and the [[1985 European Cup Winners' Cup Final|1985 European Cup Winners' Cup]]. The club's most recent major trophy was the [[1995 FA Cup Final|1995 FA Cup]].
+The club's supporters are known as [[Everton F.C. supporters|Evertonians]]. 
+
+Everton have a rivalry with neighbours [[Liverpool F.C.]] and the two sides contest the [[Merseyside Derby]]. The club have been based at [[Goodison Park]] since 1892. 
+
+The club's home colours are royal blue and white. Everton player [[Dixie Dean]] scored a record 60 league goals in the [[1927–28 in English football|1927–28 season]].
+
+==History==
+{{Details|History of Everton F.C.}}
+[[File:Everton FC league results 1889-2008.PNG|thumb|300px|Chart showing the progress of Everton F.C. through the [[English football league system]] from the inaugural season in [[The Football League 1888–89|1888–89]] to [[Premier League 2007–08|2007–08]] when Everton finished fifth in the [[Premier League]]]]
+Everton was founded as St Domingo's in 1878<ref>{{cite web|url=http://www.talkfootball.co.uk/guides/football_clubs_history_everton_fc.html|title=History of Everton F.C.|accessdate=19 November 2008|publisher=Talk Football}}</ref> so that people from the parish of St Domingo's Methodist Church in [[Everton, Liverpool|Everton]] could play sport year round&nbsp;—[[cricket]] was played in summer. The club was renamed Everton a year later after the local area, as people outside the parish wished to participate.<ref>{{cite web |title=Club profile: Everton |publisher=Premier League |url=http://www.premierleague.com/page/everton|accessdate=23 August 2010}}</ref>
+
+The club was a founding member of [[The Football League]] in 1888–1889, winning their first [[Football League First Division|League Championship]] title in the [[1890–91 Football League|1890–91 season]]. Everton won the [[FA Cup]] for the first time in [[1906 FA Cup Final|1906]] and the League title again in [[1914–15 Football League|1914–15]]. The outbreak of the First [[World War I|World War]] in 1914 interrupted the football programme while Everton were champions, something that would again occur in 1939.<ref name="Football and the First World War">{{cite web|url=http://www.spartacus.schoolnet.co.uk/FWWfootball.htm|title=Football and the First World War|accessdate=5 November 2011|publisher=Spartacus Educational}}</ref><ref>{{cite web|url=http://www.spartacus.schoolnet.co.uk/2WWfootball.htm|title=Football and the Second World War|accessdate=5 November 2011|publisher=Spartacus Educational}}</ref>
+
+It was not until 1927 that Everton's first sustained period of success began. In 1925 the club signed [[Dixie Dean]] from Tranmere Rovers who, in [[1927–28 Football League|1927–28]], set the record for league goals in a single season with 60 goals in 39 league games, a record that still stands to this day. Dean helped Everton to achieve their third league title.<ref>{{cite web |url=http://www.evertonfc.com/history/everton-the-begining.html |title=The Everton Story – 1878 to 1930 |publisher=Everton F.C. |accessdate=16 November 2007}}</ref>
+
+Everton were relegated to the [[Football League Second Division|Second Division]] two years later during internal turmoil at the club. However, the club was promoted at the first attempt scoring a record number of goals in the second division. On return to the top flight in [[1931–32 Football League|1931–32]], Everton wasted no time in reaffirming their status and won a fourth League title at the first opportunity. Everton also won their second FA Cup in [[1933 FA Cup Final|1933]] with a 3–0 win against [[Manchester City F.C.|Manchester City]] in the final. The era ended in [[1938–39 Football League|1938–39]] with a fifth League title.<ref name="Football and the First World War"/><ref>{{cite web|url=http://www.statto.com/football/teams/everton/1938-1939|title=Everton 1938–1939 : Home|accessdate=5 November 2011|publisher=statto.com}}</ref>
+
+The outbreak of the Second World War again saw the suspension of League football, and when official competition resumed in 1946 the Everton team had been split and paled in comparison to the pre-war team. Everton were relegated for the second time in [[1950–51 Football League|1950–51]] and did not return until [[1953–54 Football League|1953–54]], finishing as runners-up in their third season in the Second Division. The club have been a top flight presence ever since.<ref>{{cite web |url=http://www.evertonfc.com/history/the-dixie-years.html |archiveurl=http://web.archive.org/web/20070214044221/http://www.evertonfc.com/history/the-dixie-years.html |archivedate=14 February 2007 |title=The Everton Story – 1931 to 1960 |publisher=Everton F.C.|accessdate=16 November 2007}}</ref>
+
+[[File:Everton seasons 1955-2011.png|thumb|Finishing positions in the top flight since 1955.]]
+
+Everton's second successful era started when [[Harry Catterick]] was made manager in 1961. In [[1962–63 Football League|1962–63]], his second season in charge, Everton won the League title and in [[1966 FA Cup Final|1966]] the FA Cup followed with a 3–2 win over [[Sheffield Wednesday F.C.|Sheffield Wednesday]]. Everton again reached the final in [[1968 FA Cup Final|1968]], but this time were unable to overcome [[West Bromwich Albion F.C.|West Bromwich Albion]] at Wembley. Two seasons later in [[1969–70 Football League|1969–70]], Everton won the League championship, nine points clear of nearest rivals [[Leeds United A.F.C.|Leeds United]]. During this period, Everton were the first English club to achieve five consecutive years in European competitions—seasons 1961–62 to 1966–67.
+
+However, the success did not last; the team finished fourteenth, fifteenth, seventeenth and seventh in the following seasons. Harry Catterick retired but his successors failed to win any [[silverware (sport)|silverware]] for the remainder of the 1970s. Though the club mounted title challenges finishing fourth in [[1974–75 Football League|1974–75]] under manager Billy Bingham, and under manager Gordon Lee, third in [[1977–78 Football League|1977–78]] and fourth the following season. Manager [[Gordon Lee (footballer)|Gordon Lee]] was sacked in 1981.<ref>{{cite web |url=http://www.evertonfc.com/history/the-school-of-science.html |title=The Everton Story – 1961 to 1980 |publisher=Everton F.C. |accessdate=16 November 2007}}</ref>
+
+<table style="float: right; width: 160px; border: #99B3FF solid 1px">
+<tr><td><div style="position: relative;">
+[[Image:Soccer.Field Transparant.png|200px]]
+{{Image label|x=0.27|y=0.06|scale=350|text= {{flagicon|Wales}} <br/></font>}}
+{{Image label|x=0.24|y=0.09|scale=350|text=[[Neville Southall|<span style="font-size:0.8em; color:Navy;">'''Southall'''<br/></span>]]}}
+{{Image label|x=0.07|y=0.25|scale=350|text= {{flagicon|England}} <br/></font>}}
+{{Image label|x=0.05|y=0.28|scale=350|text=[[Gary Stevens|<span style="font-size:0.8em; color:Navy;">'''Stevens'''<br/></span>]]}}
+{{Image label|x=0.18|y=0.16|scale=350|text= {{flagicon|England}} <br/></font>}}
+{{Image label|x=0.14|y=0.19|scale=350|text=[[Derek Mountfield|<span style="font-size:0.8em; color:Navy;">'''Mountfield'''<br/></span>]]}}
+{{Image label|x=0.36|y=0.16|scale=350|text= {{flagicon|Wales}} <br/></font>}}
+{{Image label|x=0.34|y=0.19|scale=350|text=[[Kevin Ratcliffe|<span style="font-size:0.8em; color:Navy;">'''Ratcliffe'''<br/></span>]]}}
+{{Image label|x=0.46|y=0.25|scale=350|text= {{flagicon|Wales}} <br/></font>}}
+{{Image label|x=0.34|y=0.28|scale=350|text=[[Pat Van Den Hauwe|<span style="font-size:0.8em; color:Navy;">'''Van Den Hauwe'''<br/></span>]]}}
+{{Image label|x=0.07|y=0.48|scale=350|text=  {{flagicon|England}} <br/></font>}}
+{{Image label|x=0.05|y=0.51|scale=350|text=[[Trevor Steven|<span style="font-size:0.8em; color:Navy;">'''Steven'''<br/></span>]]}}
+{{Image label|x=0.18|y=0.39|scale=350|text=  {{flagicon|England}} <br/></font>}}
+{{Image label|x=0.14|y=0.42|scale=350|text=[[Paul Bracewell|<span style="font-size:0.8em; color:Navy;">'''Bracewell'''<br/></span>]]}}
+{{Image label|x=0.37|y=0.39|scale=350|text=  {{flagicon|England}} <br/></font>}}
+{{Image label|x=0.37|y=0.42|scale=350|text=[[Peter Reid|<span style="font-size:0.8em; color:Navy;">'''Reid'''<br/></span>]]}}
+{{Image label|x=0.46|y=0.48|scale=350|text=  {{flagicon|Ireland}} <br/></font>}}
+{{Image label|x=0.44|y=0.51|scale=350|text=[[Kevin Sheedy (Irish footballer)|<span style="font-size:0.8em; color:Navy;">'''Sheedy'''<br/></span>]]}}
+{{Image label|x=0.18|y=0.59|scale=350|text=  {{flagicon|Scotland}} <br/></font>}}
+{{Image label|x=0.18|y=0.62|scale=350|text=[[Andy Gray (footballer born 1955)|<span style="font-size:0.8em; color:Navy;">'''Gray'''<br/></span>]]}}
+{{Image label|x=0.35|y=0.59|scale=350|text=  {{flagicon|Scotland}} <br/></font>}}
+{{Image label|x=0.34|y=0.62|scale=350|text=[[Graeme Sharp|<span style="font-size:0.8em; color:Navy;">'''Sharp'''<br/></span>]]}}
+</div></td></tr>
+<tr><td><small> 1985 [[UEFA Cup Winners' Cup|European Cup Winners' Cup]] Final starting lineup.</small></td></tr>
+</table>
+
+[[Howard Kendall]] took over as manager and guided Everton to their most successful era. Domestically, Everton won the FA Cup in [[1984 FA Cup Final|1984]] and two league titles in [[1984–85 Football League|1984–85]] and [[1986–87 Football League|1986–87]] and the club's first and so far only European trophy securing the [[UEFA Cup Winners' Cup|European Cup Winners' Cup]] in the [[1985 European Cup Winners' Cup Final|1985]] final<ref name=modernhistory/>
+
+The European success came after first beating {{afc|University College Dublin}}, [[Inter Bratislava]] and [[Fortuna Sittard]], Everton defeated German giants [[Bayern Munich]] 3–1 in the semi-finals, despite trailing at half time (in a match voted the greatest in Goodison Park history) and recorded the same scoreline over Austrian club [[Rapid Vienna]] in the final.<ref>{{cite web |title=Goodison's greatest night |publisher=Everton F.C. |url=http://www.evertonfc.com/history/goodison-s-greatest-night.html |accessdate=24 August 2006}}</ref>
+
+Having won both the league and Cup Winners Cup in 1985, Everton came very close to winning a [[treble (association football)|treble]], but lost to [[Manchester United F.C.|Manchester United]] in the FA Cup [[1985 FA Cup Final|final]].<ref name=modernhistory/>
+The following season, [[1985–86 Football League|1985–86]], Everton were runners up to neighbours Liverpool in both the league and the [[1986 FA Cup Final|FA Cup]], but did recapture the league title in [[1986–87 Football League|1986–87]].
+
+After the [[Heysel Stadium disaster]] and the subsequent ban of all English clubs from continental football, Everton lost the chance to compete for more European trophies. A large proportion of the title-winning side was broken up following the ban. Kendall himself moved to [[Athletic Bilbao]] after the 1987 title triumph and was succeeded by assistant [[Colin Harvey (footballer)|Colin Harvey]]. Harvey took Everton to the [[1989 FA Cup Final|1989]] final, but lost 3–2 after Extra time to Liverpool.
+
+Everton were founder members of the [[Premier League]] in 1992, but struggled to find the right manager. Howard Kendall had returned in 1990 but could not repeat his previous success, while his successor, [[Mike Walker (football manager)|Mike Walker]], was statistically the least successful Everton manager to date. When former Everton player [[Joe Royle]] took over in 1994 the club's form started to improve; his first game in charge was a 2–0 victory over derby rivals Liverpool. Royle dragged Everton clear of relegation, leading the club to the FA Cup for the fifth time in its history, defeating Manchester United 1–0 in the [[1995 FA Cup Final|final]].
+
+[[File:David Moyes (201551591).jpg|left|thumb|[[David Moyes]], the current Everton manager]]
+The cup triumph was also Everton's passport to the Cup Winners' Cup—their first European campaign in the post-Heysel era. Progress under Joe Royle continued in [[1995–96 FA Premier League|1995–96]] as they climbed to sixth place in the Premiership.<ref name=modernhistory>{{cite web|url=http://www.evertonfc.com/history/kendall-s-heroes.html|title=The Everton Story – 1981 to 2006
+|publisher=Everton F.C.|accessdate=16 November 2007}}</ref> A fifteenth place finish the following season saw Royle resign towards the end of the campaign, to be temporarily replaced by club captain, [[Dave Watson]]. Howard Kendall was appointed Everton manager for the third time in 1997, but the appointment proved unsuccessful as Everton finished seventeenth in the Premiership; only avoiding relegation due to their superior [[goal difference]] over [[Bolton Wanderers F.C.|Bolton Wanderers]]. Former [[Rangers F.C.|Rangers]] manager [[Walter Smith]] then took over from Kendall in the summer of 1998 but only managed three successive finishes in the bottom half of the table.<ref name=modernhistory/>
+
+The Everton board finally ran out of patience with Smith and he was sacked in March 2002 after an FA Cup exit at {{fc|Middlesbrough}}, with Everton in real danger of relegation.<ref>{{cite news |title=Everton sack boss Walter Smith |publisher=[[CBBC Newsround]] |url=http://news.bbc.co.uk/cbbcnews/hi/sport/newsid_1870000/1870925.stm |date=13 March 2002 |accessdate=21 July 2007}}</ref> The current manager, [[David Moyes]], was his replacement and delivered Everton to a safe finish in fifteenth place.<ref>{{cite news |title=Can Moyes revive Everton? |publisher=BBC Sport   |url=http://news.bbc.co.uk/sport1/hi/sports_talk/1868992.stm |date=14 March 2002 |accessdate=21 July 2007}}</ref><ref>{{cite web |title=Final 2001/2002 English Premier Table |publisher=[[Soccerbase]] |url=http://www.soccerbase.com/league2.sd?competitionid=7&seasonid=131&teamid=942 |accessdate=21 July 2007}}</ref> In [[2002–03 FA Premier League|2002–03]] Everton finished seventh, their highest finish since 1996. A fourth place finish in [[2004–05 FA Premier League|2004–05]], qualified Everton for the Champions League qualifying round. The team failed to make it through to the Champions League group stage and were then eliminated from the UEFA Cup. Everton qualified for the [[2007-08 UEFA Cup|2007–08]]<ref>{{cite web |url=http://www.soccerbase.com/league2.sd?teamid=942&seasonid=136 |title=Final 2006–07 English Premier Table |publisher=[[Soccerbase]] |accessdate=16 November 2007}}</ref> and [[2008-09 UEFA Cup|2008–09 UEFA Cup]] competitions and they were runners-up in the [[2009 FA Cup Final]].
+
+Moyes has broken the club record for highest transfer fee paid on four occasions, signing [[James Beattie (footballer)|James Beattie]] for £6&nbsp;million in January 2005,<ref name = "aj and beattie"/> [[Andy Johnson (English footballer)|Andy Johnson]] for £8.6&nbsp;million in summer 2006,<ref name = "aj and beattie">{{cite news |title=Everton complete Johnson capture |publisher=BBC Sport   |url=http://news.bbc.co.uk/sport1/hi/football/5026130.stm |date=30 May 2006 |accessdate=23 August 2010}}</ref> [[Yakubu Aiyegbeni|Yakubu]] for £11.25&nbsp;million in summer 2007,<ref>{{cite news |title= Everton agree record fee to sign Yakubu |work=The Independent  |location=UK |url=http://www.independent.co.uk/sport/football/premier-league/everton-agree-record-fee-to-sign-yakubu-462593.html |last=Hunter |first=Andy |date=23 August 2007 |accessdate=23 August 2010 }}</ref> and [[Marouane Fellaini]] for £15&nbsp;million in September 2008.<ref>{{cite news|title=Everton smash record for Fellaini |url=http://news.bbc.co.uk/sport1/hi/football/teams/e/everton/7593190.stm |publisher=BBC Sport   |date=2 September 2008 |accessdate=23 August 2010}}</ref> It was under David Moyes's management that [[Wayne Rooney]] broke into the first team, before being sold to Manchester United for a club record fee of £27&nbsp;million.<ref>{{cite news |title=Rooney deal explained|publisher=BBC Sport  |url=http://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/3616874.stm |accessdate=22 August 2006 |date=1 September 2004}}</ref>
+{{Clear}}
+
+==Colours==
+{{Football kit box
+| align     =right
+| pattern_la =
+| pattern_b =_redrightsash
+| pattern_ra =
+| leftarm   =000000
+| body      =000000
+| rightarm  =000000
+| shorts    =000000
+| socks     =000000
+|title     =Everton's second home colours
+}}
+{{Football kit box
+| align     =right
+| pattern_la=_white_stripes
+| pattern_b =_whitestripes
+| pattern_ra=_white_stripes
+| leftarm   =0000ff
+| body      =0500ff
+| rightarm  =0000ff
+| shorts    =ffffff
+| socks     =000000
+|title     =Everton's first home colours
+}}
+
+During the first decades of their history, Everton had several different kit colours. The team originally played in white and then blue and white stripes, but as new players arriving at the club wore their old team's shirts during matches, confusion soon ensued. It was decided that the shirts would be dyed black, both to save on expenses and to instill a more professional look. The result, however, appeared morbid so a scarlet sash was added.<ref name=kit>{{cite web |url=http://www.toffeeweb.com/history/concise/1888-1915.asp |title=Everton history&nbsp;— II: Before World War I (1888–1915) |accessdate=16 November 2007|publisher=Toffeeweb}}</ref>
+
+When the club moved to Goodison Park in 1892, the colours were salmon pink and dark blue striped shirts with dark blue shorts then switching to ruby shirts with blue trim and dark blue shorts. The famous royal blue [[jersey (clothing)|jerseys]] with white shorts were first used in the [[1901–02 in English football|1901–02]] season.<ref name=kit/>  The club played in sky blue in 1906, however the fans protested and the colour reverted to royal blue. Occasionally Everton have played in lighter shades than royal blue (such as [[1930–31 in English football|1930–31]] and [[1997–98 in English football|1997–98]]).<ref>{{cite web|url=http://www.historicalkits.co.uk/Everton/Everton.htm|title=Everton|accessdate=5 November 2011|publisher=Historical Football Kits}}</ref> In 1901, Everton became the first team ever to officially play in blue and white, and in the 1933 FA Cup Final, became the first club to employ kit numbers (1–11) on the back of the player' shirts.
+
+Everton's traditional away colours were white shirts with black shorts, but from 1968 amber shirts and royal blue shorts became common. Various editions appeared throughout the 70s and 80s. Recently however black, white, grey and yellow away shirts have been used. The away shirt for the current season, commencing August 2011, has been reverted back to an amber shirt with navy blue shorts.<ref>{{cite web|url=http://www.evertonfc.com/news/archive/2011/05/17/amber-kit-set-to-go-on-sale|title=New Away Kit on Sale|accessdate=5 November 2011|publisher=Everton F.C.}}</ref>
+{{clear right}}
+{| class="wikitable" style="text-align:center;margin-left:1em;float:right"
+|-
+!Period
+!Kit manufacturer
+!Shirt sponsor
+|-
+|1974–79
+|rowspan=2|[[Umbro]]
+||<small>''none''</small>
+|-
+|1979–83
+|rowspan=2|Hafnia
+|-
+|1983–85
+|rowspan=2|[[Le Coq Sportif]]
+|-
+|1985–86
+|rowspan=2|[[NEC]]
+|-
+|1986–95
+|rowspan=3|[[Umbro]]
+|-
+|1995–97
+||[[Danka(copier supplier)|Danka]]
+|-
+|1997–00
+|rowspan=2|[[One 2 One]]
+|-
+|2000–02
+|rowspan=2|[[Puma AG|Puma]]
+|-
+|2002–04
+||[[Kejian]]
+|-
+|2004–09
+||[[Umbro]]
+|rowspan=3|[[Chang beer|Chang]]
+|-
+|2009–2012
+||[[Le Coq Sportif]]
+|-
+|2012–
+||[[Nike, Inc.|Nike]]<ref>{{cite news|first=Greg |last=O'Keeffe |url=http://www.liverpoolecho.co.uk/everton-fc/everton-fc-news/2012/03/08/everton-fc-agree-three-year-kit-deal-with-us-sportswear-giant-nike-100252-30488318/ |title=Everton FC agree three-year kit deal with US sportswear giant Nike |newspaper=Liverpool Echo |date=8 March 2012 |accessdate=8 June 2012}}</ref>
+|}
+
+The home kit today remains royal blue shirts, white shorts and blue socks although when playing teams away who also wear white shorts Everton typically wear all blue. Everton's goalkeepers will wear a green shirt with green shorts and socks at home and all black away.
+
+===Shirt sponsors and manufacturers===
+Everton's current shirt sponsors are [[Chang Beer]]. Previous sponsors include Hafnia, [[NEC]], [[Danka (copier supplier)|Danka]], [[one2one]] and [[Kejian]]. For the 2008–09 season Everton sold junior replica jerseys without the current name or logo of its main sponsor [[Chang beer]], following a recommendation from the [[Portman Group]] that alcoholic brand names be removed from kits sold to children.<ref>{{cite news|url=http://www.timesonline.co.uk/tol/sport/football/premier_league/everton/article4076141.ece|title=Everton sober up for sake of their young fans|first=James|last=Ducker|publisher=Times Newspapers Ltd |work=[[The Times |Times Online]]|date=6 June 2008|accessdate=29 August 2008 | location=London}}</ref> Everton's current kit manufacturers are Nike, who replaced Le Coq Sportif from the 2012–13 season. Everton recently signed a new kit deal with Nike, who will begin to produce kits for the 2012/13 season.<ref>{{cite news |url=http://www.liverpoolecho.co.uk/liverpool-news/local-news/2009/05/01/everton-fc-confirm-record-commercial-deal-with-kitbag-limited-100252-23520705/ |title=Everton F.C. confirm record commercial deal with Kitbag Limited |first=Dominic |last=King |publisher=[[Trinity Mirror|Trinity Mirror North West & North Wales Limited]] |work=[[Liverpool Echo]] |date=1 May 2009 |accessdate=2 May 2009}}</ref>
+
+The club currently has two 'megastores', one located near to Goodison Park on Walton Lane named 'Everton One' and a store in the [[Liverpool One]] shopping complex, named 'Everton Two', giving the second store the address 'Everton Two, Liverpool One'.<ref>{{cite web|url=http://www.evertonfc.com/news/archive/everton-two-liverpool-one.html|title=Everton Two, Liverpool One|accessdate=5 November 2011|publisher=Everton F.C.}}</ref>
+
+==Crest==
+[[File:Everton FC Crest.svg|thumb|150px|right|Monochrome Everton crest – featured on away and third kits]]At the end of the [[1937–38 in English football|1937–38]] season, Everton secretary [[Theo Kelly]], who later became the club's first manager, wanted to design a club necktie. It was agreed that the colour be blue and Kelly was given the task of designing a crest to be featured on the necktie. Kelly worked on it for four months, until deciding on a reproduction of [[Prince Rupert's Tower]], which stands in the heart of the [[Everton, Liverpool|Everton district]].<ref name=crest/>
+
+The Tower has been inextricably linked with the Everton area since its construction in 1787. It was originally used as a [[village lock-up|bridewell]] to incarcerate mainly drunks and minor criminals, and it still stands today on Everton Brow in Netherfield Road. The tower was accompanied by two laurel wreaths on either side and, according to the [[College of Arms]] in London, Kelly chose to include the [[laurel wreath|laurels]] as they were the sign of winners. The crest was accompanied by the club motto, ''"[[Nil Satis Nisi Optimum]]"'', meaning "Nothing but the best is good enough".
+
+[[Image:Everton crests.jpg|thumb|360px|left|The evolution of the Everton crest featured on kits, from left to right: <br/> 1922–30 {{·}} 1966, 1972–76 {{·}} 1976–78 {{·}} 1978–82 {{·}}<br/> 1982–83 {{·}} 1983–91 {{·}} 1991–2000 {{·}} 2000–present]]
+The ties were first worn by Kelly and the Everton chairman, Mr. E. Green, on the first day of the [[1938–39 in English football|1938–39]] season.<ref name=crest>{{cite web |title=History of Everton crest from official site |publisher=Everton F.C. |url=http://www.evertonfc.com/history/history-of-the-club-crest.html|accessdate=21 August 2006}}</ref>
+
+The club rarely incorporated a badge of any description on its shirts. An interwoven "EFC" design was adopted between 1922 and 1930 before the club reverted to plain royal blue shirts, until 1972 when bold "EFC" lettering was added. The crest designed by Kelly was first used on the team's shirts in 1978 and has remained there ever since, undergoing gradual change to become the version used today.
+{{Clear}}
+
+==Nickname==
+Everton's most widely recognised nickname is "The Toffees" or "The Toffeemen", which came about after Everton had moved to Goodison. There are several explanations for how this name came to be adopted, the most well known being that there was a business in [[Everton, Liverpool|Everton village]], between Everton Brow and Brow Side, named Mother Noblett's, a [[toffee]] shop, which advertised and sold sweets, including the Everton Mint. It was also located opposite the [[Prince Rupert's Tower|lock up]] which Everton's club crest is based on.
+
+The Toffee Lady tradition in which a girl walks around the perimeter of the pitch before the start of a game tossing free Everton Mints into the crowd symbolises the connection. Another possible reason is that there was a house named ''Ye Anciente Everton Toffee House'' in nearby Village Street, Everton, run by Ma Bushell. The toffee house was located near the Queen's Head hotel in which early club meetings took place.<ref>{{cite web |title=Reasons behind the "toffees" nickname |publisher=Toffeeweb |url=http://www.toffeeweb.com/club/folklore/origins.asp#Toffees|accessdate=21 August 2006| archiveurl = http://web.archive.org/web/20060809052249/http://www.toffeeweb.com/club/folklore/origins.asp| archivedate = 9 August 2006}}</ref>
+
+Everton have had many other nicknames over the years. When the black kit was worn Everton were nicknamed "The Black Watch", after the [[Black Watch|famous army regiment]].<ref>{{cite web |title=Early Everton history – "The Black Watch" |publisher=Everton F.C. |url=http://www.evertonfc.com/history/everton-the-begining.html|accessdate=21 August 2006}}</ref> Since going blue in 1901, Everton have been given the simple nickname "The Blues". Everton's attractive style of play led to [[Steve Bloomer]] calling the team "scientific" in 1928, which is thought to have inspired the nickname "The School of Science".<ref>{{cite web |title=The School of Science |publisher=Toffeeweb |url=http://www.toffeeweb.com/club/folklore/origins.asp#School |archiveurl=http://web.archive.org/web/20060809052249/http://www.toffeeweb.com/club/folklore/origins.asp |archivedate=9 August 2006|accessdate=21 August 2006}}</ref> While the battling 1995 FA Cup winning side were known as "The Dogs of War". When David Moyes arrived as manager he proclaimed Everton as "The People's Club", which has been adopted as a semi-official club nickname.<ref>{{cite web |title=Everton are a better buy than Liverpool, says David Moyes |work=Daily Mirror  |location=UK |url=http://www.mirrorfootball.co.uk/news/Everton-are-a-better-buy-than-Liverpool-says-David-Moyes-article418289.html |date=8 May 2010 |accessdate=24 August 2010|first=Simon|last=Mullock}}</ref>
+
+==Stadium==
+{{details|Goodison Park}}
+[[Image:Goodisonview1.JPG|thumb|Goodison Park]]
+
+[[Image:John Houlding.jpg|thumb|alt=Former Everton Chairman John Houlding|[[John Houlding]], former Everton Chairman and Anfield landowner]]
+
+[[Image:George-mahon.jpg|thumb|left|alt=A black-and-white portrait photograph of a bearded man in a dark three-piece suit.| [[George Mahon (accountant)|George Mahon]] arranged for Everton to move to Goodison Park.]]
+
+Everton originally played in the southeast corner of [[Stanley Park, Liverpool|Stanley Park]], which is the site for the new [[Liverpool F.C.]] stadium, with the first official match taking place in 1879. In 1882, a man named J. Cruitt donated land at Priory Road which became the club's home before they moved to [[Anfield]],<!-- When? --> which was Everton's home until 1892.<ref>{{cite web |title= I: THE EARLY DAYS (1878–88)|publisher=Toffeeweb|url=http://www.toffeeweb.com/history/concise/1878-1888.asp|accessdate=17 November 2007}}</ref> At this time, a dispute of how the club was to be owned and run emerged with Anfield's owner and Everton's chairman, John Houlding. A dispute between Houlding and the club's committee over how the club should be run, led to Houlding attempting to gain full control of the club by registering the company, "Everton F.C. and Athletic Grounds Ltd".{{Citation needed|date=April 2009}} In response, Everton left Anfield for a new ground, [[Goodison Park]], where the club have played ever since. Houlding attempted to take over Everton's name, colours, fixtures and league position, but was denied by [[The Football Association]].{{Citation needed|date=April 2009}} Instead, Houlding formed a new club, [[Liverpool F.C.]].
+
+Ever since those events, a fierce rivalry has existed between Everton and Liverpool, albeit one that is generally perceived as more respectful than many other [[Local derby|derbies]] in English football. This was illustrated by a chain of red and blue scarves that were linked between the gates of both grounds across Stanley Park as a tribute to the Liverpool fans killed in the [[Hillsborough disaster]].<ref>{{cite web |title=Merseyside Derby |publisher=footballderbies.com|url=http://www.footballderbies.com/fans/index.php?id=6|accessdate=22 August 2006}}</ref>
+
+Goodison Park, the first major football stadium to be built in England, was opened in 1892.<ref>{{cite web|url=http://www.toffeeweb.com/club/goodison/gp-history.asp|title=History of Goodison Park|publisher=Toffeeweb|accessdate=16 July 2009}}</ref> Goodison Park has staged more top-flight football games than any other ground in the United Kingdom and was the only English club ground to host a semi-final at the [[1966 FIFA World Cup]]. It was also the first English ground to have undersoil heating, the first to have two tiers on all sides.
+
+The church grounds of St Luke the Evangelist are adjacent to the corner of the Main Stand and the Gwladys Street Stand.<ref>{{cite web |title=Everton firsts |publisher=Everton F.C.|url=http://www.evertonfc.com/history/everton-firsts.html|accessdate=22 August 2006}}</ref>
+
+On matchdays players walk out to the theme tune to ''[[Z-Cars]]'', named ''[[Theme from Z-Cars|Johnny Todd]]'',<ref>{{cite web |url= http://www.toffeeweb.com/club/folklore/origins.asp#Z-Cars |title= Everton's Origins: Z-Cars Theme |publisher= ToffeeWeb |accessdate=22 April 2012}}</ref> a traditional Liverpool children's song collected in 1890 by [[Frank Kidson]] which tells the story of a sailor betrayed by his lover while away at sea.<ref>{{cite web |title=Johnny Todd |publisher=feniks.com|url=http://www.feniks.com/skb/music/lull7.html|accessdate=21 August 2006}}</ref>
+
+Everton's reserves play at [[Halton Stadium]] in [[Widnes]].<ref>{{cite web |url=http://www.toffeeweb.com/season/10-11/reserves.asp#F&R |title=EVERTON RESERVES, 2010–11 |accessdate=2 September 2010 |publisher=Toffeeweb}}</ref>
+
+===Training facility===
+{{details|Finch Farm}}
+The School of Science is the nickname given to the Finch Farm training complex by some supporters, referring to a long-standing nickname for Everton. The training ground houses both the Everton first team and the youth academy. The first team squad officially moved to the complex on 9 October 2007, some time behind the target date of pre-season. .
+
+===Proposed new stadium===
+{{main|The Kirkby Project}}
+There have been indications since 1996 that Everton will move to a new stadium. The original plan was for a new 60,000-seat stadium to be built, but in 2000 a proposal was submitted to build a 55,000 seat stadium as part of the [[King's Dock, Port of Liverpool|King's Dock]] regeneration. This was unsuccessful as Everton failed to generate the £30&nbsp;million needed for a half stake in the stadium project, with the city council rejecting the proposal in 2003.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/e/everton/2940481.stm |title=Kings Dock proposal collapse |publisher=BBC Sport  |accessdate=22 August 2006 |date=11 April 2003}}</ref> Late in 2004, driven by Liverpool Council and the Northwest Development Corporation, the club entered talks with [[Liverpool F.C.]] about sharing a proposed stadium on [[Stanley Park, Liverpool|Stanley Park]]. Negotiations broke down as Everton failed to raise 50% of the costs.<ref>{{cite web |title=Everton and Liverpool say no to ground share |publisher=icliverpool |url=http://icliverpool.icnetwork.co.uk/0400evertonfc/0150kingsdock/tm_objectid=15062893%26method=full%26siteid=50061%26headline=both%2dclubs%2dsay%2da%2dfinal%2dno%2dto%2djoint%2dstadium-name_page.html|accessdate=22 August 2006}}</ref> On 11 January 2005, Liverpool announced that ground-sharing was not a possibility, proceeding to plan their own [[Stanley Park Stadium]].<ref>{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/4164319.stm
+|title=Merseysiders rule out groundshare |date=1 November 2005 |accessdate=17 November 2007 |publisher=BBC Sport }}</ref>
+
+On 16 June 2006, it was announced that Everton had entered into talks with [[Metropolitan Borough of Knowsley|Knowsley Council]] and Tesco over the possibility of building a new 55,000 seat stadium, expandable to over 60,000, in [[Kirkby]].<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/england/merseyside/5083198.stm |title=Everton in talks on stadium move |publisher=BBC  |accessdate=21 August 2006 |date=15 June 2006}}</ref> The club took the unusual move of giving its supporters a say in the club's future by holding a ballot on the proposal, finding a split of 59% to 41% in favour.<ref name = "ground trouble">{{cite news |title=Grounds for discontent at Everton as move hits trouble |work=The Guardian  |location=UK |url=http://www.guardian.co.uk/football/2009/jan/21/everton-goodison-kirkby-inquiry |accessdate=23 August 2010 |date=21 January 2009 |last=Conn |first=David }}</ref> Opponents to the plan included other local councils concerned by the effect of a large [[Tesco]] store being built as part of the development, and a group of fans demanding that Everton should remain within the city boundaries of Liverpool.<ref name = "ground trouble"/>
+
+Following a public inquiry into the project,<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/england/merseyside/7546148.stm |title=New Everton stadium faces inquiry |publisher=BBC Sport  |date=6 August 2008 |accessdate=4 January 2010}}</ref> central government rejected the proposal.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/e/everton/8379839.stm |title=Government reject Everton's Kirkby stadium plans  |date=26 November 2009 |accessdate=23 August 2010 |publisher=BBC Sport  }}</ref> Local and regional politicians are attempting to put together an amended rescue plan. Liverpool City Council have called a meeting with Everton F.C. with a view to assess some suitable sites they have short listed within the city boundary.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/teams/e/everton/8379839.stm|title=Government reject Everton's Kirkby stadium plans|accessdate=2 December 2009|publisher=BBC Sport |date=26 November 2009}}</ref><ref>{{cite news|url=http://www.skysports.com/story/0,19528,11661_5720222,00.html|title=Government dash Toffees plans|accessdate=25 November 2009|publisher=Sky Sports|date=25 November 2009}}</ref>
+
+Liverpool City Council Regeneration and Transport Select Committee meeting on 10.02.2011, proposes to open the eastern section of the Liverpool Outer Loop line using "Liverpool Football Club and Everton Football Club as priorities, as economic enablers of the project".<ref>[http://councillors.liverpool.gov.uk/mgConvert2PDF.aspx?ID=10728&T=11 Liverpool City Council Regeneration and Transport Select Committee meeting on 10.02.2011]</ref>  This proposal would place both football clubs on a rapid-transit [[Merseyrail]] line circling the city easing transport access.
+
+==Supporters and rivalries==
+{{details|Everton F.C. supporters}}
+Everton have a large fanbase, with the eighth highest average attendance in the Premier League in the [[2008–09 in English football|2008–09]] season.<ref>{{cite web |title=English Premier League – Attendance – 2009/2010|publisher=ESPN |url=http://soccernet.espn.go.com/stats/attendance?league=eng.1&year=2009&cc=5739|accessdate=23 August 2010}}</ref> The majority of Everton's matchday support comes from the [[North West of England]], primarily [[Merseyside]], [[Cheshire]], [[West Lancashire]] and parts of Western [[Greater Manchester]] along with many fans who travel from [[North Wales]] and [[Ireland]]. Within the city of Liverpool support for Everton and city rivals Liverpool is not determined by geographical basis with supporters mixed across the city. However Everton's support heartland is traditionally based in the North West of the city and in the southern parts of [[Metropolitan Borough of Sefton|Sefton]]. Everton also have many supporters' clubs worldwide,<ref>{{cite web |title=List of Everton Supporters Clubs |publisher=Bluekipper |url=http://www.bluekipper.com/supporters_clubs/index.html |archiveurl=http://web.archive.org/web/20060820051903/http://www.bluekipper.com/supporters_clubs/index.html |archivedate=20 August 2006|accessdate=21 August 2006}}</ref> in places such as North America,<ref>{{cite web |title=Everton Supporters Club (North America) |publisher=North American Everton Supporters' Club Website|url=http://www.efcscna.com/|archiveurl=http://web.archive.org/web/20060813054204/http://www.efcscna.com/|archivedate=13 August 2006|accessdate=21 August 2006}}</ref> Singapore,<ref>{{cite web |title=Everton Supporters Club (Singapore) |publisher=Singapore Everton Supporters' Club Website |url=http://www.evertonfc.org.sg/|accessdate=21 August 2006}}</ref> Norway, Indonesia, Lebanon, Malaysia,<ref>{{cite web |title=Everton Supporters Club of Malaysia  |publisher=Everton Supporters Club of Malaysia  |url=http://malaysiantoffees.blogspot.com}}</ref> Thailand, and Australia.<ref>{{cite web |title=Everton Official Site |publisher=Everton F.C. |url=http://thai.evertonfc.com/|accessdate=21 August 2006|language=Thai}}</ref><ref>{{cite web|url=http://www.evertonfc.com.au/php/home|title=Everton Supporters Club Australia|publisher=Everton Supporters Club Australia|accessdate=7 November 2010}}</ref> The official supporters club is ''Evertonia'',<ref>{{cite web |title=Evertonia&nbsp;— Official Everton Supporters Club |publisher=Everton F.C.|url=http://www.evertonfc.com/evertonia/|accessdate=21 August 2006}}</ref> and there are also several [[fanzine]]s including ''When Skies are Grey'' and ''Speke from the Harbour'', which are sold around Goodison Park on match days.
+
+Everton regularly take large numbers away from home both domestically and in European fixtures. The club implements a loyalty points scheme offering the first opportunity to purchase away tickets to season ticket holders who have attended the most away matches. Everton often sell out the full allocation in away grounds and tickets sell particularly well for [[North West England]] away matches. In October 2009, Everton took 7,000 travelling fans to Benfica,<ref>{{cite news |title=Benfica 5 – 0 Everton |publisher=BBC Sport  |url=http://news.bbc.co.uk/sport1/hi/football/europe/8318447.stm|accessdate=2 July 2010 | date=22 October 2009 |first=Oliver |last=Brett}}</ref> their largest ever away crowd in Europe since the [[1985 European Cup Winners' Cup Final]].
+
+Everton's biggest rivalry is with neighbours [[Liverpool F.C.|Liverpool]], against whom they contest the [[Merseyside derby]]. The Merseyside derby is usually a sellout fixture, and has been known as the "friendly derby" because both sets of fans can often been seen side by side red and blue inside the stadium both at Anfield and Goodison Park. The match is largely regarded as England's biggest domestic derby match.
+
+Recently on the field, matches tend to be extremely stormy affairs; the derby has had more red cards than any other fixture in Premiership history.<ref>{{cite news | first=Colin | last=Malam  |title= Gerrard off as Reds take derby honours |date=26 March 2006 |work=Daily Telegraph |location=UK |url =http://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2006/03/26/sfgliv26.xml |accessdate=24 August 2010 }}</ref> The rivalry stems from an internal dispute between Everton officials and the owners of [[Anfield]], which was then Everton's home ground, resulting in Everton moving to Goodison Park, and the subsequent formation of Liverpool F.C., in 1892.
+
+==Players==
+===Current squad===
+{{updated|22 September 2012.}}<ref>{{cite web |title=Squad profiles |publisher=Everton F.C. |url=http://www.evertonfc.com/match/everton-squad.html |accessdate=22 September 2010}}</ref>
+
+{{fs start}}
+{{fs player|no=1|nat=SVK|pos=GK|name=[[Ján Mucha]]}}
+{{fs player|no=2|nat=ENG|pos=DF|name=[[Tony Hibbert]]}}
+{{fs player|no=3|nat=ENG|pos=DF|name=[[Leighton Baines]]}}
+{{fs player|no=4|nat=IRL|pos=MF|name=[[Darron Gibson]]}}
+{{fs player|no=5|nat=NED|pos=DF|name=[[John Heitinga]]}}
+{{fs player|no=6|nat=ENG|pos=DF|name=[[Phil Jagielka]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{fs player|no=7|nat=CRO|pos=FW|name=[[Nikica Jelavić]]}}
+{{fs player|no=8|nat=CRC|pos=MF|name=[[Bryan Oviedo]]}}
+{{fs player|no=11|nat=BEL|pos=FW|name=[[Kevin Mirallas]]}}
+{{fs player|no=14|nat=SCO|pos=MF|name=[[Steven Naismith]]}}
+{{fs player|no=15|nat=FRA|pos=DF|name=[[Sylvain Distin]]}}
+{{fs player|no=16|nat=GER|pos=MF|name=[[Thomas Hitzlsperger]]}}
+{{fs player|no=18|nat=ENG|pos=DF|name=[[Phil Neville]]|other=[[Captain (association football)|captain]]}}
+{{fs mid}}
+{{fs player|no=19|nat=SEN|pos=MF|name=[[Magaye Gueye]]}}
+{{fs player|no=21|nat=ENG|pos=MF|name=[[Leon Osman]]}}
+{{fs player|no=22|nat=RSA|pos=MF|name=[[Steven Pienaar]]}}
+{{fs player|no=23|nat=IRL|pos=DF|name=[[Séamus Coleman]]}}
+{{fs player|no=24|nat=USA|pos=GK|name=[[Tim Howard]]}}
+{{fs player|no=25|nat=BEL|pos=MF|name=[[Marouane Fellaini]]}}
+{{fs player|no=27|nat=GRE|pos=FW|name=[[Apostolos Vellios]]}}
+{{fs player|no=28|nat=NGA|pos=FW|name=[[Victor Anichebe]]}}
+{{fs player|no=30|nat=POR|pos=MF|name=[[Francisco Júnior]]}}
+{{fs player|no=31|nat=SCO|pos=MF|name=[[Matthew Kennedy (footballer)|Matthew Kennedy]]}}
+{{fs player|no=34|nat=IRE|pos=DF|name=[[Shane Duffy]]}}
+{{fs player|no=42|nat=ENG|pos=DF|name=[[Luke Garbutt]]}}
+{{fs player|no=43|nat=ENG|pos=FW|name=[[Conor McAleny]]}}
+{{fs end}}
+
+===Out on loan===
+{{fs start}}
+{{fs player|no=20|nat=ENG|pos=MF|name=[[Ross Barkley]]|other=at [[Sheffield Wednesday F.C.|Sheffield Wednesday]]}}
+{{fs blank column}}
+{{fs end}}
+
+===Reserves and Academy team===
+* ''For the reserve and academy team squads, see [[Everton F.C. Reserves and Academy]]''
+
+==Coaching staff==
+{| style="text-align: center; "
+|-
+!Position
+!Name
+!Position
+!Name
+|-
+|align="left"|Manager
+|align="left"|{{flagicon|SCO}} [[David Moyes]]
+|align="left"|Assistant manager
+|align="left"|{{flagicon|ENG}} [[Steve Round]]
+|-
+|align="left"|First team coach
+|align="left"|{{flagicon|SCO}} [[Jimmy Lumsden]]
+|align="left"|Goalkeeping coach
+|align="left"|{{flagicon|ENG}} [[Chris Woods]]
+|-
+|align="left"|First/Reserve team coach
+|align="left"|{{flagicon|WAL}} [[Andy Holden]]
+|align="left"|Reserve team Coach
+|align="left"|{{flagicon|ENG}} [[Alan Stubbs]]
+|-
+|align="left"|Academy Manager
+|align="left"|{{flagicon|SCO}} [[Alan Irvine (footballer born 1958)|Alan Irvine]]
+|align="left"|Coach
+|align="left"|{{flagicon|SCO}} [[David Weir (Scottish footballer)|David Weir]]
+|-
+|align="left"|Club doctor
+|align="left"|{{flagicon|ENG}} Ian Irving
+|align="left"|Head fitness coach
+|align="left"|{{flagicon|ENG}} Dave Billows
+|-
+|align="left"|Chief Psychologist
+|align="left"|{{flagicon|ENG}} Bryan A Worrall
+|align="left"|Relaxation Therapist
+|align="left"|{{flagicon|ENG}} Steven Astley
+|-
+|align="left"|Fitness coach
+|align="left"|{{flagicon|USA}} Steve Tashjian
+|align="left"|Masseur
+|align="left"|{{flagicon|ENG}} Jimmy Comer
+|-
+|align="left"|Kit manager
+|align="left"|{{flagicon|ENG}} Jimmy Martin
+|align="left"|Player liaison manager
+|align="left"|{{flagicon|ENG}} Bill Ellaby
+|}
+
+==Ownership and finance==
+Everton F.C. is a [[limited company]] with the board of directors holding a majority the shares.<ref>{{cite web|url=http://www.evertonfc.com/assets/_files/documents/feb_11/efc__1297183974_Annual_Report_and_Accounts_201.pdf|title=Annual Report and Accounts 2010|publisher=Everton Football Club Company Limited|accessdate=9 February 2011 |format=PDF}}</ref> The club owes £44.8&nbsp;million to banks, excluding loan interest and early repayment penalties, with total liabilities of £95&nbsp;million. Their most recent turnover was £79&nbsp;million;<ref name="efc accounts 2010">EFC Accounts 2009–10</ref> the second highest in the club's history.<ref name="efc accounts">EFC Accounts 2008–09</ref> The club's overdraft with [[Barclays Bank]] is secured against the Premier League's "Basic Award Fund",<ref>{{cite web|url=http://www.premierleague.com/staticFiles/c3/3b/0,,12306~146371,00.pdf|title=Premier League Handbook|publisher=Premier League.com|accessdate=16 January 2010}}</ref> a guaranteed sum given to clubs for competing in the Premier League.<ref>{{cite web|url=http://www.eufootball.biz/finance/7429-everton_secure_overdraft_tv_money_09.html|title=Everton secure overdraft with TV money|date=17 August 2009|publisher=EUFootball.biz|accessdate=15 January 2010}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> Everton agreed a long-term loan of £30&nbsp;million with [[Bear Stearns]] and [[Prudential plc]] in 2002 over the duration of 25 years; a consolidation of debts at the time as well as a source of capital for new player acquisitions.<ref>{{cite news|title=Everton Football Club Secures 30M Pounds Sterling Financing Deal with Bear Stearns.|date=22 March 2002 |publisher=Business Wire}}</ref> [[Goodison Park]] is secured as collateral.
+
+{| class="wikitable" style="text-align: center; "
+|-
+!Position
+!Name
+!Amount of Shares owned <br/>(percentage of total)
+!Notes
+|-
+|align="left"|Chairman
+|align="left"|[[Bill Kenwright|Bill Kenwright CBE]]
+|align="left"|8,754 (25%)
+|align="left"|Elected to board October 1989.
+|-
+|align="left"|Deputy Chairman
+|align="left"|[[Jon Woods]]
+|align="left"|6,622 (19%)
+|align="left"|Elected to board March 2000.
+|-
+|align="left"|Director
+|align="left"|[[Robert Earl (businessman)|Robert Earl]]
+|align="left"|8,146 (23%)
+|align="left"|Elected to board July 2007.
+|-
+|align="left"|Life President & Director
+|align="left"|[[Philip Carter|Sir Philip Carter CBE]]
+|align="left"|714 (2%)
+|align="left"|Chairman August 1978–1991, November 1998&nbsp;– June 2004. Re-elected to board August 2008
+|-
+! style="text-align:left;" colspan="2"|Total amount of club owned by board members
+!align="left"|24,236 (69%)
+|align="left"|
+|-
+|align="left"|Chief Executive Officer
+|align="left"|[[Robert Elstone]]
+|align="left"|-
+|align="left"|Appointed in January 2009 following his role of Acting C.E.O.
+|}
+
+Figures up to date as of 2009–2010 accounts.
+
+In 2004, Everton sold young England striker [[Wayne Rooney]] to balance the books.<ref>{{cite news|url=http://www.independent.co.uk/sport/football/premier-league/kenwright-on-the-brink-as-rival-turns-up-heat-554387.html |title=Kenwright on the brink as rival turns up heat&nbsp;— Premier League, Football |work=The Independent  |location=UK |date=25 July 2004 |accessdate=7 March 2010  | first=Jason | last=Burt}}</ref> Three years earlier [[Francis Jeffers]] and [[Michael Ball (footballer)|Michael Ball]] had to be sold after the club spent expected income on player acquisitions that never arrived.<ref>{{cite web|title=EFC Accounts 2000 2001|url=http://www.scribd.com/doc/24521077|publisher=Everton Football Club limited|page=8|format=PDF|month=May|year=2001}}</ref>
+
+==Notable former players==
+{{details|List of Everton F.C. players}}
+
+;Everton Giants
+The following players are considered "Giants" for their great contributions to Everton. A panel appointed by the club established the inaugural list in 2000 and a new inductee is announced every season.<ref>{{cite web |title=Everton Giants|publisher=Everton F.C. |url=http://www.evertonfc.com/history/giants.html|accessdate=27 May 2011}}</ref>
+
+[[Image:Dixie Dean Monument.jpg|thumb|right|300px|alt=Sculpture of Everton and England forward Dixie Dean|Dixie Dean Statue, outside the Park End]]
+
+''As of 27 May 2011.''
+{| class="wikitable" style="text-align: center;"
+|-
+!Inducted!!style="width:10em"|Name!!Nationality!!Position!!Everton <br/>playing career!!Everton <br/> managerial career!!Appearances!!Goals
+|-
+|2011||align="left"|[[Duncan Ferguson]]<ref>{{cite web|url=http://www.evertonfc.com/history/45474/everton-giant |title=Everton Giant / 10/11 End Of Season Awards / Annual Awards Winners / History / evertonfc.com – The Official Website of Everton Football Club |publisher=Evertonfc.com |accessdate=17 February 2012}}</ref>||{{flagicon|Scotland}}||[[Forward (association football)|FW]]||1994–98, 2000–06 ||||240||62
+|-
+|2010||align="left"|[[Trevor Steven]]||{{flagicon|England}}||[[Midfielder|MF]]||1983–89 ||||210||48
+|-
+|2009||align="left"|[[Harry Catterick]]||{{flagicon|England}}||[[Forward (association football)|FW]]||1946–51 ||1961–1973||59||19
+|-
+|2008||align="left"|[[Gordon West]]||{{flagicon|England}}||[[Goalkeeper|GK]]||1962–72||||402||0
+|-
+|2007||align="left"|[[Colin Harvey]]||{{flagicon|England}}||[[Midfielder|MF]]||1963–74||1987–1990 ||384||24
+|-
+|2006||align="left"|[[Peter Reid]]||{{flagicon|England}}||[[Midfielder|MF]]||1982–89||||234||13
+|-
+|2005||align="left"|[[Graeme Sharp]]||{{flagicon|Scotland}}||[[Forward (association football)|FW]]||1979–91||||447||159
+|-
+|2004||align="left"|[[Joe Royle]]||{{flagicon|England}}||[[Forward (association football)|FW]]||1966–74||1994–97||275||119
+|-
+|2003||align="left"|[[Kevin Ratcliffe]]||{{flagicon|Wales}}||[[Centre-back|CB]]||1980–91||||461||2
+|-
+|2002||align="left"|[[Ray Wilson (English footballer)|Ray Wilson]]||{{flagicon|England}}||[[Left back|LB]]||1964–68||||151||0
+|-
+|2001||align="left"|[[Alan Ball (footballer)|Alan Ball]]||{{flagicon|England}}||[[Midfielder|MF]]||1966–71||||251||79
+|-
+|2000||align="left"|[[Howard Kendall]]<ref group=nb>Kendall's status reflects his accomplishments as a manager in addition to his place in the 'Holy Trinity' midfield of the 1960s.</ref>||{{flagicon|England}}||MF||1966–74, 1981||1981–87, 1990–93, 1997–98||274||30
+|-
+|2000||align="left"|[[Dave Watson]]||{{flagicon|England}}||CB||1986–99||1997||522||38
+|-
+|2000||align="left"|[[Neville Southall]]||{{flagicon|Wales}}||GK||1981–97||||751||0
+|-
+|2000||align="left"|[[Bob Latchford]]||{{flagicon|England}}||FW||1973–80||||286||138
+|-
+|2000||align="left"|[[Alex Young (footballer born 1937)|Alex Young]]||{{flagicon|Scotland}}||FW||1960–67||||272||89
+|-
+|2000||align="left"|[[Dave Hickson]]||{{flagicon|England}}||FW||1951–59||||243||111
+|-
+|2000||align="left"|[[T. G. Jones]]||{{flagicon|Wales}}||CB||1936–49||||178||5
+|-
+|2000||align="left"|[[Ted Sagar]]||{{flagicon|England}}||GK||1929–52||||500||0
+|-
+|2000||align="left"|[[Dixie Dean]]||{{flagicon|England}}||FW||1924–37||||433||383
+|-
+|2000||align="left"|[[Sam Chedgzoy]]||{{flagicon|England}}||MF||1910–25||||300||36
+|-
+|2000||align="left"|[[Jack Sharp]]||{{flagicon|England}}||MF||1899–09||||342||80
+|}
+
+;Greatest ever team
+{| class="infobox" style="font-size: smaller;"
+|-
+|<div style="position: relative;">
+[[Image:Soccer.Field Transparant.png|175px]]
+{{Image label|x=0.20|y=0.05|scale=350|text=[[Neville Southall|<span style="color:Blue;">'''SOUTHALL'''</span>]]}}
+{{Image label|x=0.04|y=0.22|scale=350|text=[[Gary Stevens|<span style="color:Blue;">'''STEVENS'''</span>]]}}
+{{Image label|x=0.12|y=0.15|scale=350|text=[[Brian Labone|<span style="color:Blue;">'''LABONE'''</span>]]}}
+{{Image label|x=0.28|y=0.15|scale=350|text=[[Kevin Ratcliffe|<span style="color:Blue;">'''RATCLIFFE'''</span>]]}}
+{{Image label|x=0.37|y=0.22|scale=350|text=[[Ray Wilson (English footballer)|<span style="color:Blue;">'''WILSON'''</span>]]}}
+{{Image label|x=0.04|y=0.42|scale=350|text=[[Trevor Steven|<span style="color:Blue;">'''STEVEN'''</span>]]}}
+{{Image label|x=0.15|y=0.35|scale=350|text=[[Alan Ball (footballer)|<span style="color:Blue;">'''BALL'''</span>]]}}
+{{Image label|x=0.30|y=0.35|scale=350|text=[[Peter Reid|<span style="color:Blue;">'''REID'''</span>]]}}
+{{Image label|x=0.37|y=0.42|scale=350|text=[[Kevin Sheedy (Irish footballer)|<span style="color:Blue;">'''SHEEDY'''</span>]]}}
+{{Image label|x=0.15|y=0.54|scale=350|text=[[Dixie Dean|<span style="color:Blue;">'''DEAN'''</span>]]}}
+{{Image label|x=0.30|y=0.54|scale=350|text=[[Graeme Sharp|<span style="color:Blue;">'''SHARP'''</span>]]}}
+</div>
+|-
+|Greatest ever Everton team
+|}
+At the start of the 2003–04 season, as part of the club's official celebration of their 125th anniversary, supporters cast votes to determine the greatest ever Everton team.<ref>{{cite web |title=Greatest Ever Everton team|publisher=Everton F.C. |url=http://www.evertonfc.com/history/greatest-ever-everton-team.html|accessdate=22 August 2006}}</ref>
+
+*{{flagicon|Wales}} [[Neville Southall]] (1981–97)
+*{{flagicon|England}} [[Gary Stevens]] (1982–89)
+*{{flagicon|England}} [[Brian Labone]] (1958–71)
+*{{flagicon|Wales}} [[Kevin Ratcliffe]] (1980–91)
+*{{flagicon|England}} [[Ray Wilson (English footballer)|Ray Wilson]] (1964–69)
+*{{flagicon|England}} [[Trevor Steven]] (1983–90)
+*{{flagicon|England}} [[Alan Ball (footballer)|Alan Ball]] (1966–71)
+*{{flagicon|England}} [[Peter Reid]] (1982–89)
+*{{flagicon|Ireland}} [[Kevin Sheedy (Irish footballer)|Kevin Sheedy]] (1982–92)
+*{{flagicon|England}} [[Dixie Dean]] (1925–37)
+*{{flagicon|Scotland}} [[Graeme Sharp]] (1980–91)
+
+;English Football Hall of Fame members
+A number of Everton players have been inducted into the [[English Football Hall of Fame]]:<ref>{{cite web
+|url=http://www.nationalfootballmuseum.com/halloffame.htm|title=Hall of Fame&nbsp;— National Football Museum|publisher=[[National Football Museum]]|accessdate=16 November 2007|archiveurl=http://web.archive.org/web/20071114114919/http://www.nationalfootballmuseum.com/halloffame.htm <!--Added by H3llBot-->|archivedate=14 November 2007}}</ref>
+{{col-begin-small}}
+{{col-4}}
+* {{flagicon|England}} [[Dixie Dean]] ''(2002 inductee)''
+* {{flagicon|England}} [[Paul Gascoigne]] ''(2002 inductee)''
+* {{flagicon|England}} [[Alan Ball (footballer)|Alan Ball]] ''(2003 inductee)''
+{{col-4}}
+* {{flagicon|England}} [[Tommy Lawton]] ''(2003 inductee)''
+* {{flagicon|England}} [[Gary Lineker]] ''(2003 inductee)''
+* {{flagicon|England}} [[Howard Kendall]] ''(2005 inductee)''
+{{col-4}}
+* {{flagicon|England}} [[Peter Beardsley]] ''(2007 inductee)''{{#tag:ref|Beardsley became the first person to be inducted twice when his work at grass roots football was rewarded in 2008 as a "Football Foundation Community Champion".<ref>{{cite web |url=http://www.nationalfootballmuseum.com/pages/fame/Inductees/peterbeardsleycommchamp.htm |title=Peter Beardsley |publisher=National Football Museum|accessdate=4 August 2010}}{{dead link|date=February 2012}}</ref>|name=beardsleynote|group=nb}}
+* {{flagicon|Wales}} [[Mark Hughes]] ''(2007 inductee)''
+* {{flagicon|Wales}} [[Neville Southall]] ''(2008 inductee)''<ref group="nb" name="Southall note">Southall was inducted along with Liverpool F.C.'s [[Steven Gerrard]] at a special European night to celebrate [[Liverpool|the city's]] successful [[European Capital of Culture]] bid.</ref>
+{{col-4}}
+* {{flagicon|England}} [[Ray Wilson (English footballer)|Ray Wilson]] ''(2008 inductee)''
+* {{flagicon|England}} [[Joe Mercer]] ''(2009 inductee)''
+* {{flagicon|England}} [[Harry Catterick]] ''(2010 inductee)''
+{{col-end}}
+
+;Football League 100 Legends
+The [[Football League 100 Legends]] is a list of "100 legendary [[association football|football]] players" produced by [[The Football League]] in 1998, to celebrate the 100th season of League football.<ref name="FL100">{{cite news|url=http://news.bbc.co.uk/1/hi/sport/football/144986.stm |title=Sport: Football Legends list in full |publisher=BBC Sport  |date=5 August 1998 |accessdate=31 August 2007}}</ref>
+{{col-begin-small}}
+{{col-4}}
+*
+* {{flagicon|England}} [[Alan Ball (footballer)|Alan Ball]]
+* {{flagicon|England}} [[Dixie Dean]]
+{{col-4}}
+* {{flagicon|England}} [[Paul Gascoigne]]
+* {{flagicon|England}} [[Tommy Lawton]]
+{{col-4}}
+* {{flagicon|England}} [[Gary Lineker]]
+* {{flagicon|England}} [[Joe Mercer]]
+{{col-4}}
+* {{flagicon|Wales}} [[Neville Southall]]
+* {{flagicon|Scotland}} [[Alex Young (footballer born 1937)|Alex Young]]
+{{col-end}}
+
+==Notable managers==
+{{details|List of Everton F.C. managers}}
+
+The following managers have at least one honour with Everton:
+
+{|class="wikitable" style="text-align: center;"
+|-
+!Manager!!Tenure
+|-
+|[[Dick Molyneux]]||1889–01
+|-
+|[[Will Cuff]]|| 1901–18
+|-
+|[[Thomas H. McIntosh|Tom McIntosh]]||1919–35
+|-
+|[[Theo Kelly]]||1936–48
+|-
+|[[Harry Catterick]]||1961–73
+|-
+|[[Howard Kendall]]||1981–87<br />1990–93<br />1997–98
+|-
+|[[Colin Harvey]]||1987–90
+|-
+|[[Joe Royle]]||1994–97
+|}
+
+==Honours==
+===Domestic===
+'''[[List of English football champions|First Division]]'''
+*'''Champions: (9)'''&nbsp;– [[1890–91 Football League|1890–91]], [[1914–15 Football League|1914–15]], [[1927–28 Football League|1927–28]], [[1931–32 Football League|1931–32]], [[1938–39 Football League|1938–39]], [[1962–63 Football League|1962–63]], [[1969–70 Football League|1969–70]], [[1984–85 Football League|1984–85]], [[1986–87 Football League|1986–87]]
+*'''Runners-up: (7)'''&nbsp;– [[The Football League 1889–90|1889–90]], [[The Football League 1894–95|1894–95]], [[1901–02 Football League|1901–02]], [[1904–05 Football League|1904–05]], [[1908–09 Football League|1908–09]], [[1911–12 Football League|1911–12]], [[1985–86 Football League|1985–86]]
+
+'''[[List of winners of English Football League Championship and predecessors|Second Division]]'''
+*'''Champions: (1)'''&nbsp;– [[1930–31 Football League|1930–31]]
+*'''Runners-up: (1)'''&nbsp;– [[1953–54 Football League|1953–54]]
+
+'''[[FA Cup]]'''
+*'''Winners: (5)'''&nbsp;– [[1906 FA Cup Final|1906]], [[1933 FA Cup Final|1933]], [[1966 FA Cup Final|1966]], [[1984 FA Cup Final|1984]], [[1995 FA Cup Final|1995]]
+*'''Runners-up: (8)'''&nbsp;– [[1893 FA Cup Final|1893]], [[1897 FA Cup Final|1897]], [[1907 FA Cup Final|1907]], [[1968 FA Cup Final|1968]], [[1985 FA Cup Final|1985]], [[1986 FA Cup Final|1986]], [[1989 FA Cup Final|1989]], [[2009 FA Cup Final|2009]]
+
+'''[[Football League Cup]]'''
+*'''Runners-up: (2)'''&nbsp;– [[1977 Football League Cup Final|1977]], [[1984 Football League Cup Final|1984]]
+
+'''[[FA Community Shield|FA Charity Shield]]'''
+*'''Winners: (9)'''&nbsp;– [[1928 FA Charity Shield|1928]], [[1932 FA Charity Shield|1932]], [[1963 FA Charity Shield|1963]], [[1970 FA Charity Shield|1970]], [[1984 FA Charity Shield|1984]], [[1985 FA Charity Shield|1985]], [[1986 FA Charity Shield|1986]] ''(shared)'', [[1987 FA Charity Shield|1987]], [[1995 FA Charity Shield|1995]]
+*'''Runners-up: (2)'''&nbsp;– [[1933 FA Charity Shield|1933]], [[1966 FA Charity Shield|1966]]
+
+'''[[Full Members Cup]]'''
+*''' Runners-up: (2)'''&nbsp;– 1989, 1991
+
+'''[[Super Cup (English football)|Super Cup]]'''
+*''' Runner-up: (1)'''&nbsp;– 1985–86
+
+''' [[FA Youth Cup]]'''
+*'''Winners: (3)'''&nbsp;– 1965, 1984, 1998
+*'''Runners-up: (4)'''&nbsp;– 1961, 1977, 1983, 2002
+
+'''[[Central League (football)|Central League]]'''
+*'''Winners: (4)'''&nbsp;– 1913–1914, 1937–38, 1953–54, 1967–68
+
+'''[[Lancashire Senior Cup]]'''
+*'''Winners: (6)'''&nbsp;– 1894, 1897, 1910, 1935, 1940, 1964
+
+''' [[Liverpool Senior Cup]]'''
+*'''Winners: (45)'''&nbsp;– 1884, 1886, 1887, 1890, 1891, 1892, 1894, 1895, 1896, 1898, 1899, 1900, 1904, 1906, 1908, 1910 (shared), 1911, 1912 (shared), 1914, 1919, 1921, 1922, 1923, 1924, 1926, 1928, 1934 (shared), 1936 (shared), 1938, 1940, 1945, 1953, 1954, 1956, 1957, 1958 (shared), 1959, 1960, 1961, 1982 (shared), 1983, 1996, 2003, 2005, 2007
+
+===European===
+'''[[UEFA Cup Winners' Cup|European Cup Winners' Cup]]'''
+*'''Winners: (1)'''&nbsp;– 1985
+
+'''[[World Soccer Magazine#World Team of the Year|World Soccer Magazine World Team of the Year]]'''
+*'''Winners'''&nbsp;– 1985
+
+==Records and statistics==
+{{details|Everton F.C. records}}
+
+[[Neville Southall]] holds the record for the most Everton appearances, having played 751 first-team matches between 1981 and 1997, and previously held the record for the most league clean sheets during a season (15). During the [[2008–09 Premier League|2008–09 season]], this record was beaten by American goalkeeper [[Tim Howard]] (17).<ref>{{cite news |url=http://www.independent.co.uk/sport/football/premier-league/howard-ends-long-search-for-real-no-1-1682619.html |title=Howard ends long search for real No 1 |first=Jon |last=Culley |publisher=Independent News and Media Limited |work=The Independent  |date=11 May 2009 |accessdate=13 May 2009 | location=London}}</ref> The late centre half and former captain [[Brian Labone]] comes second, having played 534 times. The longest serving player is Goalkeeper [[Ted Sagar]] who played for 23 years between 1929 and 1953, both sides of the Second World War, making a total of 495 appearances. The club's top goalscorer, with 383 goals in all competitions, is [[Dixie Dean]]; the second-highest goalscorer is [[Graeme Sharp]] with 159. Dean still holds the [[English football records|English national record]] of most goals in a season, with 60.<ref name=records>{{cite web|url=http://www.soccerbase.com/team_records.sd?teamid=942|title=Everton F.C. records|accessdate=16 November 2007|publisher=Soccerbase}}</ref>
+
+The record attendance for an Everton home match is 78,299 against Liverpool on 18 September 1948. Amazingly, there was only 1 injury at this game-Tom Fleetwood was hit on the head by a coin thrown from the crowd whilst he marched around the perimeter with St Edward's Orphanage Band, playing the cornet. Goodison Park, like all major English football grounds since the recommendations of the [[Taylor Report]] were implemented, is now an all-seater and only holds just over 40,000, meaning it is unlikely that this attendance record will ever be broken at Goodison.<ref name=records/> Everton's record transfer paid was to Standard Liege for Belgian midfielder Marouane Fellaini for a sum of £15m. Everton bought the player on the deadline day of the 2008 summer transfer window.
+
+==Relationships with other clubs==
+Everton have a link with Republic of Ireland football academy Ballyoulster United based in [[Celbridge]],<ref>{{cite web |url=http://www.evertonfc.com/news/archive/-everton-in-ireland-launched.html
+|title="Everton in Ireland" launched|accessdate=16 November 2007|publisher=Everton F.C.
+|date=24 January 2007}}</ref> Canada's [[Ontario Soccer Association]],<ref>{{cite web
+|url=http://www.evertonfc.com/club/ontario-soccer-association.html|title=Ontario Soccer Association|publisher=Everton F.C.|accessdate=16 November 2007}}</ref> and the [[Football Association of Thailand]] where they have a competition named the Chang-Everton cup which local schoolboys compete for.<ref>{{cite web|url=http://www.evertonfc.com/assets/downloads/agm/evertonfc-finalreport04.pdf|archiveurl=http://web.archive.org/web/20071127093418/http://www.evertonfc.com/assets/downloads/agm/evertonfc-finalreport04.pdf|archivedate=27 November 2007|format=PDF|title=Everton's Annual Report 2004|accessdate=16 November 2007|publisher=Everton F.C.}}</ref><!-- There is ongoing discussion about an African based academy namely [[Everton Lagos]]. NEED A CITATION--> The club also have a football academy in [[Limassol]], Cyprus<ref>{{cite web|url=http://www.megasportcyprus.com/Home/tabid/2800/language/en-GB/Default.aspx|title=MegaSport|publisher=MegaSport|accessdate=21 January 2010}}</ref> and a partnership agreement with American club [[Pittsburgh Riverhounds]].<ref name=Zeise>{{cite news | last=Zeise | first=Paul | authorlink=Paul Zeise |date=13 July 2007 |url=http://www.post-gazette.com/pg/07194/801366-139.stm |title=Riverhounds kick up ante |work=[[Pittsburgh Post-Gazette]] |accessdate=9 July 2008}}</ref><ref name=McLeod>{{cite web | last=McLeod | first=Scott |date=10 August 2007 |url=http://www.evertonfc.com/news/archive/blues-partner-river-hounds.html |title=Blues Partner Riverhounds |work=EvertonFC.com |accessdate=9 July 2008}}</ref> Since 2006, Everton have played an annual friendly with {{fc|Preston North End}}, a team current Everton manager David Moyes previously managed.
+
+The club also owned and operated a professional basketball team, by the name of [[Everton Tigers]], who compete in the elite [[British Basketball League]]. The team was launched in the summer of 2007 as part of the clubs' Community programme, and play their home games at the [[Greenbank Sports Academy]]. The team was an amalgam of the Toxteth Tigers community youth programme which started in 1968. The team quickly became one of the most successful in the league winning the BBL Cup in 2009 and the play offs in 2010. However Everton withdrew funding before the 2010/11 season and the team was re launched as the Mersey Tigers.<ref>{{cite news|  title=Everton Tigers to join BBL ranks  |url=http://news.bbc.co.uk/sport1/hi/other_sports/basketball/6222960.stm |date=20 June 2007 |accessdate=27 June 2007 |publisher=BBC Sport }}</ref>
+
+Everton also have links with Chilean team [[Corporación Deportiva Everton de Viña del Mar|Everton de Viña del Mar]] who were named after the English club.<ref>{{cite news |url=http://www.liverpoolecho.co.uk/everton-fc/everton-fc-news/2009/03/25/everton-shareholders-celebrate-chile-s-everton-100252-23228497/ |title=Everton Shareholders celebrate Chile's Everton |authorlink=David Prentice |first=David |last=Prentice |publisher=Trinity Mirror North West & North Wales Limited |work=Liverpool Echo |date=25 March 2009 |accessdate=6 April 2009}}</ref><ref>{{cite web |url=http://www.evertonfc.com/club/everton-in-chile-the-ruleteros.html |title=Everton in Chile&nbsp;— The Ruleteros |publisher=Everton F.C. |accessdate=6 April 2009}}</ref> On 4 August 2010, the two Evertons played each other in a friendly named the [[Copa Hermandad]] at Goodison Park to mark the centenary of the Chilean team,<ref>{{cite news|  title=A hundred years after inspiring their name, Everton face Everton again  |url =http://www.guardian.co.uk/football/blog/2010/aug/03/everton-chile-football |date=3 August 2010 |accessdate=3 August 2010|publisher=The Guardian Football | location=London | first=Mark | last=Tallentire}}</ref> an occasion organised by The Ruleteros Society, a society founded to promote connections between the two clubs.<ref>{{cite web|url=http://www.theruleteros.com/|title=The Ruleteros Society|date=3 August 2010|publisher=The Ruleteros Society|accessdate=3 August 2010}}</ref> Other Evertons exist in Rosario in [[Colonia Department]], Uruguay,<ref>{{cite web |url=http://www.rsssf.com/tablesu/uru-colonia-dpt02.html#departamental|title=Uruguay 2002 – Campeonatos Departamentales de Colonia|publisher=rsssf|date=6 January 2003|accessdate=7 April 2009}}</ref> [[La Plata]], and [[Río Cuarto, Córdoba|Río Cuarto]] in Argentina,<ref>{{cite web |url=http://www.agencianova.com/nota.asp?n=2005_4_8&id=21865&id_tiponota=7 |title=Historia de una institución decana del fútbol amateur platense |publisher=Agencia Nova |language=Spanish |accessdate=7 April 2009}}</ref><ref>{{cite web |url=http://www.rsssf.com/tablesa/arg5-int09.html|title=Argentina Fifth Level (Torneo Argentino "C" – Interior) 2008/09|publisher=rsssf|date=3 April 2009|accessdate=7 April 2009}}</ref> [[Elk Grove, California]] in the United States,<ref>{{cite web|url=http://www.elkgroveunited.org/|title=Elk Grove United|accessdate=21 January 2010}}</ref> and in [[County Cork|Cork]], Ireland.<ref>{{cite web |url=http://www.evertonafc.com |title=Everton AFC – Togher, Cork |location=Cork, Ireland |publisher=Everton AFC |accessdate=3 August 2010}}</ref>
+
+==In popular culture==
+Like all of the major clubs in England, Everton are referenced in many films, books, television programmes, songs and plays such as ''[[Boys from the Blackstuff]]'', [[The Rutles]]' "[[All You Need Is Cash]]", [[Harry Enfield]]'s "The Scousers" and a 1979 television advertisement for [[ITV]]'s [[Oracle]] teletext service.{{citation needed|date=December 2011}}
+
+The 1997 television film ''[[The Fix (TV film)|The Fix]]'' dramatised the true story of a match fixing scandal in which the club's recent newly signed wing half [[Tony Kay]], played by [[Jason Isaacs]], is implicated in having helped to throw a match between his previous club [[Sheffield Wednesday Football Club|Sheffield Wednesday]] and [[Ipswich Town Football Club|Ipswich Town]]. The majority of the story is set during Everton's 1962/3 League Championship winning season with then manager [[Harry Catterick]] played by [[Colin Welland]].<ref>[http://www.imdb.com/title/tt0126303/ ''The Fix (TV 1997)'']</ref>
+
+First shown in 1969, the television movie ''The Golden Vision'', directed by [[Ken Loach]], combined improvised drama with documentary footage to tell of a group of Everton fans for whom the main purpose of life, following the team, is interrupted by such inconveniences as work and weddings. The film's title character, celebrated forward [[Alex Young (footballer born 1937)|Alex Young]], was one of several who appeared as themselves.<ref name="Golden Vision">{{cite web | url=http://www.guardian.co.uk/sport/blog/2009/mar/02/screen-break-kelner-football-golden-vision | title=Loach and Boorman prove that footballers were once real people |work=The Guardian  | date=2 March 2009 | accessdate=30 August 2011 | last=Kelner |first=Martin}}</ref>
+
+The club have entered the UK pop charts on four occasions under different titles during the 1980s and 90s when many clubs released a song to mark their reaching the [[FA Cup Final]]. "The Boys in Blue", released in 1984, peaked at number 82.<ref>{{cite web|url=http://www.chartstats.com/artistinfo.php?id=4115 |title=Everton Football Club |publisher=Chart Stats |date=26 May 1984 |accessdate=17 February 2012}}</ref> The following year the club scored their biggest hit when "Here We Go" peaked at 14.<ref>{{cite web|url=http://www.chartstats.com/artistinfo.php?id=4338 |title=Everton 1985 |publisher=Chart Stats |accessdate=17 February 2012}}</ref> In 1986 the club released "Everybody's Cheering The Blues" which reached number 83.<ref>{{cite web|url=http://www.chartstats.com/release.php?release=13179 |title=Everton Football Team 1986 – Everybody's Cheering The Blues |publisher=Chart Stats |date=17 May 1986 |accessdate=17 February 2012}}</ref> "All Together Now", a reworking of a song by Merseyside band [[The Farm (band)|The Farm]], was released for the [[1995 FA Cup Final]].<ref>{{cite web|url=http://www.chartstats.com/artistinfo.php?id=7411 |title=Everton FC |publisher=Chart Stats |date=20 May 1995 |accessdate=17 February 2012}}</ref> When the club next reached the [[2009 FA Cup Final]], the tradition had passed into history and no song was released.
+
+==Notes==
+{{Reflist|group=nb|2}}
+Both Everton FC and Liverpool FC are depicted in the animated film 'Yellow Submarine'. During this film by The Beatles,one set of footballer's is shown in a looping sequence, the kit flicking from blue to red, the colours worn by the Merseyside clubs.
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+*{{cite book
+| last1==Ball |first1=D. |last2=Buckland |first2=G.
+|title=Everton&nbsp;— The Ultimate Book of Stats & Facts.
+| isbn=1-872568-79-3
+|publisher=The Bluecoat Press
+| year=2001}}
+*{{cite book
+| last=Corbett |first=James
+|title=Everton: School of Science
+| isbn=0-330-42006-2
+|publisher=Pan
+| year=2004}}
+*{{cite book
+| last=Tallentire |first=Becky
+|title=The Little Book of Everton
+| isbn=1-84442-652-1
+|publisher=Carlton Books Ltd
+| year=2004}}
+
+==External links==
+{{Spoken Wikipedia|Everton_FC.ogg|2007-05-16}}
+
+{{BBC football info|e/everton}}
+*[http://www.skysports.com/football/teams/everton Everton News – Sky Sports]
+*[http://www.premierleague.com/page/everton Everton F.C. – Premierleague.com]
+*[http://www.evertonfc.com/club/everton-former-players-foundation.html Everton Former Players' Foundation]
+{{Everton F.C.}}
+{{Everton F.C. seasons}}
+{{Premier League}}
+{{Original Football League clubs}}
+
+[[Category:Association football clubs established in 1878]]
+[[Category:Football clubs in England]]
+[[Category:Everton F.C.| ]]
+[[Category:FA Cup winners]]
+[[Category:Former Football League clubs]]
+[[Category:Football League founder members]]
+[[Category:Premier League clubs]]
+[[Category:1878 establishments in England]]
+
+{{Link GA|de}}
+{{Link GA|fr}}
+
+[[af:Everton FC]]
+[[ar:نادي إيفرتون]]
+[[an:Everton Football Club]]
+[[az:Everton (futbol klubu, Liverpul)]]
+[[bn:এভারটন ফুটবল ক্লাব]]
+[[be-x-old:Эвэртан Лівэрпул]]
+[[bg:ФК Евъртън]]
+[[bs:Everton F.C.]]
+[[ca:Everton Football Club]]
+[[cv:Эвертон]]
+[[cs:Everton FC]]
+[[co:Everton FC]]
+[[cy:Everton F.C.]]
+[[da:Everton F.C.]]
+[[de:FC Everton]]
+[[et:Everton FC]]
+[[el:Έβερτον]]
+[[es:Everton Football Club]]
+[[eo:Everton FC]]
+[[eu:Everton Football Club]]
+[[fa:باشگاه فوتبال اورتون]]
+[[fo:Everton FC]]
+[[fr:Everton Football Club]]
+[[ga:Everton Football Club]]
+[[gv:Everton F.C.]]
+[[gl:Everton F.C.]]
+[[ko:에버턴 FC]]
+[[hy:Էվերթոն ՖԱ]]
+[[hr:Everton F.C.]]
+[[id:Everton F.C.]]
+[[is:Everton]]
+[[it:Everton Football Club]]
+[[he:אברטון]]
+[[ka:ევერტონი (საფეხბურთო კლუბი)]]
+[[lv:Everton F.C.]]
+[[lb:Everton FC]]
+[[lt:Everton FC]]
+[[hu:Everton FC]]
+[[mk:ФК Евертон]]
+[[mr:एव्हर्टन एफ.सी.]]
+[[ms:Everton F.C.]]
+[[mn:Эвертон (хөлбөмбөгийн баг)]]
+[[my:အဲဗာတန်]]
+[[nl:Everton FC]]
+[[ja:エヴァートンFC]]
+[[no:Everton FC]]
+[[nn:Everton FC]]
+[[pms:Everton F.C.]]
+[[pl:Everton F.C.]]
+[[pt:Everton Football Club]]
+[[ro:Everton FC]]
+[[ru:Эвертон (футбольный клуб)]]
+[[sco:Everton F.C.]]
+[[simple:Everton F.C.]]
+[[sk:Everton FC]]
+[[sl:Everton F.C.]]
+[[ckb:ئێڤەرتۆن]]
+[[sr:ФК Евертон]]
+[[fi:Everton FC]]
+[[sv:Everton FC]]
+[[th:สโมสรฟุตบอลเอฟเวอร์ตัน]]
+[[tr:Everton FC]]
+[[uk:Евертон (футбольний клуб)]]
+[[vi:Everton (câu lạc bộ bóng đá)]]
+[[zh-yue:愛華頓]]
+[[zh:埃弗顿足球俱乐部]]

@@ -1,0 +1,66 @@
+{{Fs2
+| name =  Boca Unidos squad
+| teamname = Boca Unidos
+| bgcolor = red
+| textcolor = yellow
+| bordercolor = yellow
+| format = {{{format|navbox}}}
+| date = August 07, 2012
+| references = [http://www.bdfa.com.ar/plantel-Boca-Unidos-1581.html BDFA]
+| list =
+{{Fs2 start | format={{{format|navbox}}}<!--start of 1st column for table-->
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=GK|first=José Luis|last=Cornaló
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=GK|first=Cristian|last=Mazzón
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=GK|first=Gastón|last=Sessa
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=PAR|pos=DF|first=Óscar|last=Ayala
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=DF|first=Leonardo|last=Baroni
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=DF|first=Iván|last=Cabrera
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=DF|first=Alexis|last=Danelón
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=DF|first=César Alberto|last=González|shortname=C. González
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=DF|first=Gerardo|last=Gómez|shortname=G. Gómez
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=DF|first=Diego|last=Sánchez Paredes
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=URU|pos=DF|first=Jonathan|last=Souza|link=Jonathan Souza Motta
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Rodrigo|last=Archubi
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=PAR|pos=MF|first=José|last=Babak
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=URU|pos=MF|first=Darío|last=Ferreira
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Cristian|last=Devallis
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Luis|last=Lagrutta
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Patricio|last=Pérez|shortname= P. Pérez
+}}{{Fs2 mid |format={{{format|navbox}}}<!--start of 2nd column for table-->
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Nahuel|last=Fioretto
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Elvio|last=Friedrich
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Víctor|last=Galarza
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Matías|last=Moises 
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=URU|pos=MF|first=Martín|last=Mustachi
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Marcos|last=Quiroga
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Pablo|last=Retamar
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=MF|first=Gonzalo|last=Ríos
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=FW|first=Matías|last=Espíndola
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=FW|first=Jonathan|last=Benítez
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=FW|first=Nelson|last=Cabral
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=FW|first=Hugo|last=Prieto
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=FW|first=Guillermo|last=Tambussi
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=FW|first=Alejandro Daniel|last=Toledo
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=ARG|pos=FW|first=Aldo|last=Visconti
+}}{{Fs2 player|format={{{format|navbox}}}|no=—|nat=CHI|pos=FW|first=José Luis|last=Villanueva
+}}{{Fs2 end | format={{{format|navbox}}}<!--end of columns for table-->
+}}{{Fs2 manager | format={{{format|navbox}}}|title=|first=Darío|last=Ortíz
+}} }}<noinclude>
+
+----
+:''This template contains a list of current players in the [[Boca Unidos]] football squad. It can be displayed as a [[Wikipedia:Navigation templates|navigation box]] for [[Wikipedia:Transclusion|transclusion]] at the bottom of player articles (the default mode) or as a table for transclusion in the team article.''
+
+:''To include the template as a navigation box (shown above):''
+::<code><nowiki>{{Boca Unidos squad}}</nowiki></code>
+
+:''To include the template as a table (shown below):''
+::<code><nowiki>{{Boca Unidos squad|format=table}}</nowiki></code>
+
+:'''If the table below does not change to show your saved edits, the problem can be resolved by performing a [[Wikipedia:Null_edit#Null_edit|Null edit]].'''
+
+----
+
+
+{{Boca Unidos squad|format=table}}
+
+[[Category:Argentina football squad navigational boxes|Boca Unidos]]

@@ -1,0 +1,209 @@
+{{ infobox football league
+| current    = [[2012–13 Scottish Third Division|2012–13]]
+| image      = Irn Bru Scottish Football League Logo.png
+| founded    = 1923
+| country    = {{SCO}} (One team in {{ENG}})
+| promotion  = [[Scottish Football League Second Division|Scottish Second Division]]
+| relegation = ''No relegation''
+| teams      = 10
+| levels     = 4
+| domest_cup = [[Scottish Cup]]<br/>[[Scottish League Cup|League Cup]]<br/>[[Scottish League Challenge Cup|Challenge Cup]]
+| champions  = {{fc|Alloa Athletic}}
+| season     = [[2011&ndash;12 Scottish Third Division|2011&ndash;12]]
+}}
+
+The '''Scottish Football League Third Division''' is the lowest division of the [[Scottish Football League]] and the fourth overall in the [[Scottish football league system]].
+
+The Third Division consists of ten teams with the champion being automatically promoted to the [[Scottish Football League Second Division|Second Division]] at the end of each season. The clubs that finish 2nd, 3rd and 4th enter a [[play-off]] with the 9th placed team of the Second Division.
+ 
+There is no relegation from the Third Division.
+
+The teams play each other four times with three points for a victory, one point for a draw and zero points for a loss.
+
+== History ==
+The Scottish Football League has introduced a third division on three occasions.
+
+=== Original Third Division ===
+An original Third Division was inaugurated in time for the [[1923&ndash;24 in Scottish football|1923&ndash;24 season]]. The Division was an actual third tier of the Scottish League, made up largely of provincial sides. The initial championship was won by {{fc|Arthurlie}}, who were promoted along with {{fc|East Stirlingshire}}. Although {{fc|Leith Athletic}} were admitted the following season many clubs in the division struggled financially  with {{fc|Dumbarton Harp}} resigning during [[1924&ndash;25 in Scottish football|1924&ndash;25]]. [[1925&ndash;26 in Scottish football|The following season]] was to be the last for this incarnation, with the competition left uncompleted as struggling teams failed to fulfil their fixtures. Of the members all but {{fc|Forfar Athletic}}, who were co-opted into the higher division, were reassigned to non-league football.<ref>[http://www.rsssf.com/tabless/scot3hist.html#24 Scotland - Final Tables Third Level 1924&ndash;2004]</ref>
+
+=== 'C' Division ===
+The third tier in the Scottish Football League returned for the [[1946&ndash;47 in Scottish football|1946&ndash;47 season]] when the 'C' Division was founded. In contrast to the earlier version the 'C' Division was a curious amalgamation of minor clubs and reserve teams: in its first season it was made up of the first teams of {{fc|Stirling Albion}} (promoted as champions), Leith Athletic (also promoted), East Stirlingshire, Forfar Athletic, {{fc|Montrose}}, {{fc|Brechin City}} and {{fc|Edinburgh City}}. The Division continued in this form for three seasons with a fairly fluid membership, although at the end of each season a non-reserve team was crowned champions and duly promoted. 
+
+The competition was restructured for the [[1949&ndash;50 in Scottish football|1949&ndash;50 season]] when the number of reserve sides was significantly expanded and the Division divided into two sections, the South-East (soon renamed the North-East) and South-West. Promotion became rarer as the reserve sides of the bigger clubs such as {{fc|Rangers}} and {{fc|Aberdeen}} came to dominate; Brechin City's victory in the North-East section in the [[1953&ndash;54 in Scottish football|1953&ndash;54 season]] was the sole promotion achieved in the new format before its final season. The competition completed its final season in [[1954&ndash;55 in Scottish football|1954&ndash;55]] when Aberdeen II won the North-East section and Partick Thistle II the South-West. Three non-reserve sides, Montrose, East Stirlingshire and {{fc|Berwick Rangers}}, remained in the North-East section with two, {{fc|Dumbarton}} and {{fc|Stranraer}}, in the South-West. All five were admitted to full membership of the Scottish Football League.<ref>[http://www.rsssf.com/tabless/scot3hist.html#47 Scotland - Final Tables Third Level 1924&ndash;2004]</ref>
+
+=== Current incarnation ===
+From 1994 to 1998 the new Third Division was the fourth level in the [[Scottish Football League]], but became the third when the member teams of the Scottish Premier Division broke away to form the [[Scottish Premier League]].
+
+Sky Sports and ESPN currently have the television rights for the league broadcasting 15 Rangers matches over the course of the season.
+
+== Introduction of play-offs and relegation ==
+The division contains ten teams and, until recently, each season the top two teams were promoted to the [[Scottish Football League Second Division|Second Division]]. As of the [[2005&ndash;06 in Scottish football|2005&ndash;06 season]], the 2nd, 3rd and 4th placed teams go into a play off with the 9th place team from the Second Division. There is no direct relegation from the Scottish Third Division but since the 2005&ndash;06 season if a club finishes bottom for three successive seasons then they will have their full membership of the SFL suspended. The club will then play the next two seasons as a non-voting associate member after which the full members shall vote on the fate of the suspended club.
+
+== Sponsorship ==
+On 20 July 2007, it was announced that the [[Scottish Football League]] would be sponsored by the makers of Scottish soft drink [[Irn-Bru]] for the next three seasons.<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/scot_div_1/6908169.stm|title=SFL ends search for new sponsor|date=2007-07-20|publisher=BBC Sport|accessdate=2008-09-23}}</ref> [[Irn-Bru]] extended their sponsorship of the SFL for another three seasons from 2010/2011 onwards.<ref> [http://news.bbc.co.uk/sport1/hi/football/scot_div_1/8523226.stm "SFL secures sponsorship extension with Irn-Bru"] article from BBC Sport</ref>
+
+== Teams for 2012&ndash;13 Third Division ==
+Listed below are the teams competing in the season 2012&ndash;13 Third Division.
+
+{{location map+ |Scotland mainland |float=right |width=250 |caption=Locations of the Third Division 2012-13 teams |places=
+{{location map~ |Scotland mainland |lat=54.993767 |long=-3.261739  |label=[[Annan Athletic F.C.|Annan]]|position=left}}
+{{location map~ |Scotland mainland |lat=55.76 |long=-2.015833 |label=[[Berwick Rangers F.C.|Berwick]]|position=left}}
+{{location map~ |Scotland mainland |lat=55.944775 |long=-4.037086 |label=[[Clyde F.C.|Clyde]]|position=left}}
+{{location map~ |Scotland mainland |lat=56.028244 |long=-3.814658 |label=[[East Stirlingshire F.C.|East Stirling]]|position=right}}
+{{location map~ |Scotland mainland |lat=57.651847 |long=-3.320925 |label=[[Elgin City F.C.|Elgin]]|position=left}}
+{{location map~ |Scotland mainland |lat=56.713936 |long=-2.459083 |label=[[Montrose F.C.|Montrose]]|position=left}}
+{{location map~ |Scotland mainland |lat=57.511694 |long=-1.795847 |label=[[Peterhead F.C.|Peterhead]]|position=left}}
+{{location map~ |Scotland mainland |lat=55.825833 |long=-4.251944 |label=[[Queen's Park F.C.|Queen's Park]]|position=bottom}}
+{{location map~ |Scotland mainland |lat=56.118822 |long=-3.911764 |label=[[Stirling Albion F.C.|Stirling]]|position=left}}
+{{location map~ |Scotland mainland |lat=55.853206 |long=-4.309256 |label=[[Rangers F.C|Rangers]]|position=left}}
+}}
+*[[Annan Athletic F.C.|Annan Athletic]]
+*[[Berwick Rangers F.C.|Berwick Rangers]]
+*[[Clyde F.C.|Clyde]]
+*[[East Stirlingshire F.C.|East Stirlingshire]]
+*[[Elgin City F.C.|Elgin City]]
+*[[Montrose F.C.|Montrose]]
+*[[Peterhead F.C.|Peterhead]]
+*[[Queen's Park F.C.|Queen's Park]]
+*[[Rangers F.C.|Rangers]]
+*[[Stirling Albion F.C.|Stirling Albion]]
+
+On 13 July 2012, the SFL accepted [[Rangers F.C.|Rangers]] into Division Three for season 2012-13 after the previous club holding the non-transferable licence to play in the SPL entered liquidation.<ref>{{cite web | url=http://www.scottishfootballleague.com/news/article/press-statement-49/ | title=PRESS STATEMENT | publisher=[[Scottish Football League]] | date=13 July 2012 | accessdate=13 July 2012}}</ref> The decision was ratified by the [[Scottish Football Association|SFA]] on 27 July 2012, when conditional membership was issued to the new owners of Rangers.<ref>{{cite web | url=http://www.scottishfa.co.uk/scottish_fa_news.cfm?page=2986&newsID=10252&newsCategoryID=1 | title=Agreement of transfer of membership | publisher=[[Scottish_Football_Association]] | work=Scottish FA | date=27 July 2012 | accessdate=29 July 2012}}</ref>
+
+== Stadia ==
+{| class="wikitable sortable" border="1" cellpadding="2" style="width: 30%; "
+|- style="background: #efefef;"
+! Team
+! Stadium
+! Capacity
+|-
+|{{fc|Annan Athletic}} || [[Galabank]] || align=center | 3,500
+|-
+|{{fc|Berwick Rangers}} || [[Shielfield Park]] || align=center | 4,131
+|-
+|{{fc|Clyde}} || [[Broadwood Stadium]] || align=center | 8,029
+|-
+|{{fc|East Stirlingshire}} || [[Ochilview Park]]{{Ref label|Horse|a|}} || align=center | 5,267
+|-
+|{{fc|Elgin City}} || [[Borough Briggs]] || align=center | 3,927
+|-
+|{{fc|Montrose}} || [[Links Park]] || align=center | 3,292
+|-
+|{{fc|Peterhead}} || [[Balmoor Stadium|Balmoor]] || align=center | 4,000
+|-
+|{{fc|Queen's Park}} || [[Hampden Park]] || align=center | 52,500
+|-
+|[[Rangers_F.C.|Rangers]] || [[Ibrox Stadium|Ibrox]] || align=center | 51,082
+|-
+|{{fc|Stirling Albion}} || [[Forthbank Stadium]] || align="center" | 3,808
+|-
+|}
+
+a.{{Note|Horse}}{{fc|East Stirlingshire}} currently groundshare with {{fc|Stenhousemuir}}
+
+== Winners of the Third Division ==
+{| class="toccolours" border="1" cellpadding="2" style="border-collapse: collapse; text-align: center; width: 50%; "
+|- style="background: #efefef;"
+!Season
+!Winner
+!Runner-up
+|-
+|[[1994–95_Scottish_Third_Division|1994&ndash;95]]
+|'''{{fc|Forfar Athletic}}'''
+|{{fc|Montrose}}
+|-
+|[[1995–96_Scottish_Third_Division|1995&ndash;96]]
+|'''{{fc|Livingston}}'''
+|{{fc|Brechin City}}
+|-
+|[[1996–97_Scottish_Third_Division|1996&ndash;97]]
+|'''{{fc|Inverness Caledonian Thistle}}'''
+|{{fc|Forfar Athletic}}
+|-
+|[[1997%E2%80%9398_Scottish_Third_Division|1997&ndash;98]]
+|'''{{fc|Alloa Athletic}}'''
+|{{fc|Arbroath}}
+|-
+|[[1998&ndash;99 Scottish Third Division|1998&ndash;99]]
+|'''{{fc|Ross County}}'''
+|{{fc|Stenhousemuir}}
+|-
+|[[1999&ndash;2000 Scottish Third Division|1999&ndash;2000]]
+|'''{{fc|Queen's Park}}'''
+|{{fc|Berwick Rangers}}
+|-
+|[[2000&ndash;01 Scottish Third Division|2000&ndash;01]]
+|'''{{fc|Hamilton Academical}}'''
+|{{fc|Cowdenbeath}}
+|-
+|[[2001&ndash;02 Scottish Third Division|2001&ndash;02]]
+|'''{{fc|Brechin City}}'''
+|{{fc|Dumbarton}}
+|-
+|[[2002&ndash;03 Scottish Third Division|2002&ndash;03]]
+|'''{{fc|Greenock Morton}}'''
+|{{fc|East Fife}}
+|-
+|[[2003&ndash;04 Scottish Third Division|2003&ndash;04]]
+|'''{{fc|Stranraer}}'''
+|{{fc|Stirling Albion}}
+|-
+|[[2004&ndash;05 Scottish Third Division|2004&ndash;05]]
+|'''{{fc|Gretna}}'''
+|{{fc|Peterhead}}
+|-
+|[[2005&ndash;06 Scottish Third Division|2005&ndash;06]]
+|'''{{fc|Cowdenbeath}}'''
+|{{fc|Berwick Rangers}}{{Ref label|Horse|b|}}
+|-
+|[[2006&ndash;07 Scottish Third Division|2006&ndash;07]]
+|'''{{fc|Berwick Rangers}}'''
+|{{fc|Arbroath}}{{Ref label|Horse|b|}}
+|-
+|[[2007&ndash;08 Scottish Third Division|2007&ndash;08]]
+|'''{{fc|East Fife}}'''
+|{{fc|Stranraer}}{{Ref label|Horse|b|}}
+|-
+|[[2008&ndash;09 Scottish Third Division|2008&ndash;09]]
+|'''{{fc|Dumbarton}}'''
+|{{fc|Cowdenbeath}}
+|-
+|[[2009&ndash;10 Scottish Third Division|2009&ndash;10]]
+|'''{{fc|Livingston}}''' (2)
+|{{fc|Forfar Athletic}}
+|-
+|[[2010&ndash;11 Scottish Third Division|2010&ndash;11]]
+|'''{{fc|Arbroath}}'''
+|{{fc|Albion Rovers}}
+|-
+|[[2011&ndash;12 Scottish Third Division|2011&ndash;12]]
+|'''{{fc|Alloa Athletic}}''' (2)
+|{{fc|Queen's Park}}
+|}
+
+b.{{Note|Horse}}Team failed to gain promotion via play-offs
+
+== References ==
+{{reflist|2}}
+== External links ==
+* [http://www.scottishfootballleague.com/ Official Site]
+* [http://footballclubs.dyndns.org/?co=scotland&league=4 Scottish Football League Third Division clubs' locations]
+{{Scottish Third Division}}
+{{Football in Scotland}}
+{{UEFA fourth leagues}}
+
+[[Category:Scottish Football League Third Division| ]] 
+[[Category:Scottish Football League|3]]
+[[Category:Football leagues in Scotland|4]]
+
+[[de:Scottish Football League Third Division]]
+[[es:Tercera División de Escocia]]
+[[fr:Championnat d'Écosse de football D4]]
+[[it:Scottish Third Division]]
+[[lt:Škotijos futbolo lygos trečiasis divizionas]]
+[[nl:Scottish Football League Third Division]]
+[[pl:Scottish Football League Third Division]]
+[[ru:Третий дивизион шотландской Футбольной лиги]]
+[[sco:Scots Fitbaa League Thrid Diveesion]]
+[[simple:Scottish Football League Third Division]]
+[[fi:Skotlannin 3. divisioona]]

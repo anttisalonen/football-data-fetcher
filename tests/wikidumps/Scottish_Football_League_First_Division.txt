@@ -1,0 +1,219 @@
+{{Infobox football league
+| name            = Scottish Football League First Division
+| image           = Irn Bru Scottish Football League Logo.png
+| country         = {{SCO}}
+| founded         = 1975<br><small>1893&ndash;1946 ''(as Division Two)''<br>1946&ndash;1956 ''(as Division B)''<br>1956&ndash;1975 ''(as Division Two)''</small>
+| divisions       = 
+| teams           = 10
+| promotion       = [[Scottish Premier League]]
+| relegation      = [[Scottish Football League Second Division|Scottish Second Division]]
+| levels          = 2
+| domest_cup      = [[Scottish Cup]]<br/>[[Scottish League Cup|League Cup]]<br/>[[Scottish Challenge Cup|Challenge Cup]]
+| champions       = [[Ross County F.C.|Ross County]]
+| season          = [[2011-12 Scottish First Division|2011-12]]
+| most_champs     = [[Falkirk F.C.|Falkirk]] (7)<br>[[St Johnstone]] (7)<br><small>(since 1893)</small>
+| website         = [http://www.scottishfootballleague.com/football/first/ Official site]
+| current         = [[2012–13 Scottish First Division|2012-13]]
+}}
+
+The ''' Irn-Bru Scottish Football League First Division Championship''' is the highest division of the [[Scottish Football League]] and the second highest in the [[Scottish football league system]].
+
+The division was introduced in [[1975–76 in Scottish football]] to replace the old '''Scottish Football League Division Two'''. It contains ten teams and each year the top team is promoted to the [[Scottish Premier League]], subject to meeting the stadium criteria. The bottom club is automatically relegated and the second bottom club goes to an end of season [[play-off]] with the second, third and fourth placed clubs from the [[Scottish Football League Second Division|Second Division]]. 
+
+The teams play each other four times with three points for a victory and one point each for a drawn game.
+
+==Sponsorship==
+
+On 20 July 2007, it was announced that [[Scottish Football League]] would be sponsored by Scottish soft drink [[Irn-Bru]] for the next three seasons.<ref> [http://news.bbc.co.uk/sport1/hi/football/scot_div_1/6908169.stm "SFL ends search for new sponsor"] article from BBC Sport</ref>  [[Irn-Bru]] extended sponsorship of the SFL for another three seasons from 2010/2011 onwards.<ref> [http://news.bbc.co.uk/sport1/hi/football/scot_div_1/8523226.stm "SFL secures sponsorship extension with Irn-Bru"] article from BBC Sport</ref>
+
+==Teams for 2012&ndash;13 First Division==
+Listed below are all the teams competing in the season 2012-13 First Division.
+
+{{location map+ |Scotland mainland |float=right |width=450 |caption=Locations of the First Division teams 2012-13 teams|places=
+ 
+{{location map~ |Scotland mainland |lat=55.859747 |long=-3.959753 |label=[[Airdrie United|Airdrie]]|position=right}}
+{{location map~ |Scotland mainland |lat=56.108739 |long=-3.347097 |label=[[Cowdenbeath F.C.|Cowdenbeath]]|position=left}}
+{{location map~ |Scotland mainland |lat=55.938447 |long=-4.561439 |label=[[Dumbarton F.C.|Dumbarton]]|position=top}}
+{{location map~ |Scotland mainland |lat=56.075308 |long=-3.441906 |label=[[Dunfermline Athletic F.C.|Dunfermline]]|position=top}}
+{{location map~ |Scotland mainland |lat=56.0 |long=-3.75 |label=[[Falkirk FC|Falkirk]]|position=right}}
+{{location map~ |Scotland mainland |lat=55.941444 |long=-4.7268 |label=[[Greenock Morton FC|Greenock Morton]]|position=left}}
+{{location map~ |Scotland mainland |lat=55.78 |long=-4.058 |label=[[Hamilton Academical|Hamilton]]|position=bottom}}
+{{location map~ |Scotland mainland |lat=55.88 |long=-3.522 |label=[[Livingston FC|Livingston]]|position=right}}
+{{location map~ |Scotland mainland |lat=55.881 |long=-4.294044 |label=[[Partick Thistle FC|Partick Thistle]]|position=top}}
+{{location map~ |Scotland mainland |lat=56.11073 |long=-3.16737 |label=[[Raith Rovers FC|Raith Rovers]]|position=right}}
+
+}}
+*[[Airdrie United F.C.|Airdrie]]
+*[[Cowdenbeath F.C.|Cowdenbeath]]
+*[[Dumbarton F.C.|Dumbarton]]
+*[[Dunfermline Athletic]]
+*[[Falkirk F.C.|Falkirk]]
+*[[Greenock Morton F.C.|Greenock Morton]]
+*[[Hamilton Academical F.C.|Hamilton Academical]]
+*[[Livingston F.C.|Livingston]]
+*[[Partick Thistle F.C.|Partick Thistle]]
+*[[Raith Rovers F.C.|Raith Rovers]]
+
+==First Division managers==
+{{main|List of managers in the Scottish football league system by date of appointment}}
+The following is a list of the managers for the 2011–12 season in the Scottish First Division.
+{| class="wikitable"
+|-
+!Manager
+!Club
+!Appointed
+|-
+|{{flagicon|SCO}}  [[Billy Reid (footballer born 1963)|Billy Reid]] || [[Hamilton Academical F.C.|Hamilton Academical]] || 2 June 2005
+|-
+|{{flagicon|SCO}} [[Steven Pressley]] || [[Falkirk F.C.|Falkirk]] || 11 February 2010<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/f/falkirk/8510106.stm | title = Steven Pressley succeeds Eddie May as Falkirk manager| publisher = [[BBC Sport]] | accessdate=25 June 2012|date=11 February 2010}}</ref>
+|-
+|{{flagicon|SCO}} [[Allan Moore]] || [[Greenock Morton F.C.|Greenock Morton]] || 27 May 2010<ref>{{cite web | url=http://www.scotsman.com/sport/allan-moore-and-morton-agree-terms-for-vacant-post-1-805272 | title=Allan Moore and Morton agree terms for vacant post | publisher=[[The Scotsman]] | date=22 May 2010 | accessdate=25 June 2012}}</ref>
+|-
+|{{flagicon|SCO}} [[Jimmy Boyle (footballer)|Jimmy Boyle]] || [[Airdrie United]]|| 15 September 2010 
+|-
+|{{flagicon|SCO}} [[Alan Adamson]] || [[Dumbarton F.C.|Dumbarton]] || 12 April 2011<ref>{{cite news|url=http://www.bbc.co.uk/sport/0/football/13058310 | title = Alan Adamson confirmed Dumbarton boss| publisher = [[BBC]] | work = [[BBC Sport]] | accessdate=12 April 2011|date=12 April 2011}}</ref>
+|-
+|{{flagicon|SCO}} [[Jackie McNamara]] || [[Partick Thistle F.C.|Partick Thistle]] || 12 May 2011<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/13376698 | title=Jackie McNamara is appointed Partick Thistle manager | publisher=[[BBC]] | work=[[BBC Sport]] | date=12 May 2011 | accessdate=25 June 2012}}</ref>
+|-
+|{{flagicon|SCO}} [[Colin Cameron (footballer)|Colin Cameron]] || [[Cowdenbeath F.C.|Cowdenbeath]] || 06 June 2011<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/13665669 | title=Colin Cameron replaces Jimmy Nicholl at Cowdenbeath | publisher=[[BBC]] | work=[[BBC Sport]] | date=6 June 2011 | accessdate=13 April 2012}}</ref>
+|-
+|{{flagicon|SCO}} [[John Hughes (footballer born 1964)|John Hughes]] || [[Livingston F.C.|Livingston]] || 14 February 2012<ref>{{cite news|url=http://www.bbc.co.uk/sport/0/football/17022133 | title = John Hughes and John Collins take over at Livingston| publisher = STV Sport|accessdate=25 June 2012|date=14 February 2012}}</ref>
+|-
+|{{flagicon|SCO}} [[Jim Jefferies]] || [[Dunfermline Athletic F.C.|Dunfermline]] || 20 March 2012<ref>{{cite news|url=http://sport.stv.tv/football/scottish-premier/dunfermline/301132-dunfermline-closing-in-on-jim-jefferies/ | title = Jim Jefferies signs deal to take Dunfermline Athletic job| publisher = STV Sport|accessdate=25 June 2012|date=20 March 2012}}</ref>
+|-
+|{{flagicon|SCO}} [[Grant Murray]] || [[Raith Rovers F.C.|Raith Rovers]] || 3 July 2012<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/18700202 | title=Raith Rovers appoint Grant Murray player/manager | publisher=[[BBC Sport]] | accessdate=07 July 2012 | date=03 July 2012}}</ref>
+|}
+
+==Stadia==
+{| class="wikitable sortable"
+|-
+! Team
+! Stadium
+! Capacity
+|-
+
+|-
+|[[Airdrie United]] || [[Excelsior Stadium]] || align="center" | 10,171
+|-
+|[[Cowdenbeath F.C.|Cowdenbeath]] || [[Central Park, Cowdenbeath|Central Park]] || align="center" | 4,370
+|-
+|[[Dumbarton F.C.|Dumbarton]] ||  [[The Bet Butler Stadium]] || align="center" | 2,050
+|-
+|[[Dunfermline Athletic]] || [[East End Park, Dunfermline|East End Park]] || align="center" | 12,509
+|-
+|[[Falkirk F.C.|Falkirk]] || [[Falkirk Stadium]] || align="center" | 9,120
+|-
+|[[Greenock Morton F.C.|Greenock Morton]] || [[Cappielow]] || align="center" | 11,612
+|-
+|[[Hamilton Academical F.C.|Hamilton Academical]]|| [[New Douglas Park]] || align="center" | 6,078
+|-
+|[[Livingston F.C.|Livingston]] || [[Almondvale Stadium]] || align="center" | 10,122
+|-
+|[[Partick Thistle F.C.|Partick Thistle]] || [[Firhill Stadium]] || align="center" | 10,887
+|-
+|[[Raith Rovers F.C.|Raith Rovers]] || [[Stark's Park]] || align="center" | 10,104
+|}
+
+==Winners of the First Division==
+<!-- Deleted image removed: [[File:SFLTrophy.jpeg|thumb|right|upright|SFL League Trophy]] -->
+{{main|List of winners of the Scottish First Division and predecessors}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+! width=105|Season
+! width=180|Winner
+! width=180|Runner-up
+|-
+| [[Scottish First Division 1998-99|1998-99]]
+| [[Hibernian F.C.|Hibernian]]
+| [[Falkirk F.C.|Falkirk]]
+|-
+| [[Scottish First Division 1999-00|1999-00]]
+| [[St. Mirren F.C.|St. Mirren]]
+| [[Dunfermline Athletic F.C.|Dunfermline Athletic]]
+|-
+| [[Scottish First Division 2000-01|2000-01]]
+| [[Livingston F.C.|Livingston]]
+| [[Ayr United F.C.|Ayr United]]
+|-
+| [[Scottish First Division 2001-02|2001-02]]
+| [[Partick Thistle F.C.|Partick Thistle]]
+| [[Airdrieonians F.C.|Airdrieonians]]
+|-
+| [[Scottish First Division 2002-03|2002-03]]
+| [[Falkirk F.C.|Falkirk]]
+| [[Clyde F.C.|Clyde]]
+|-
+| [[Scottish First Division 2003-04|2003-04]]
+| [[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]]
+| [[Clyde F.C.|Clyde]]
+|-
+| [[Scottish First Division 2004-05|2004-05]]
+| [[Falkirk F.C.|Falkirk]]
+| [[St. Mirren F.C.|St. Mirren]]
+|-
+| [[Scottish First Division 2005-06|2005-06]]
+| [[St. Mirren F.C.|St. Mirren]]
+| [[St. Johnstone F.C.|St. Johnstone]]
+|-
+| [[Scottish First Division 2006-07|2006-07]]
+| [[Gretna F.C.|Gretna]]
+| [[St. Johnstone F.C.|St. Johnstone]]
+|-
+| [[2007–08 Scottish First Division|2007-08]]
+| [[Hamilton Academical F.C.|Hamilton Academical]]
+| [[Dundee F.C.|Dundee]]
+|-
+| [[2008–09 Scottish First Division|2008-09]]
+| [[St. Johnstone F.C.|St. Johnstone]]
+| [[Partick Thistle F.C.|Partick Thistle]]
+|-
+| [[2009–10 Scottish First Division|2009-10]]
+| [[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]]
+| [[Dundee F.C.|Dundee]]
+|-
+| [[2010–11 Scottish First Division|2010-11]]
+| [[Dunfermline Athletic F.C.|Dunfermline Athletic]]
+| [[Raith Rovers F.C.|Raith Rovers]]
+|-
+| [[2011–12 Scottish First Division|2011-12]]
+| [[Ross County F.C.|Ross County]]
+| [[Dundee F.C.|Dundee]]
+|}
+
+==See also==
+*[[Sports league attendances]]
+
+==Notes==
+{{reflist|2}}
+
+==External links==
+* [http://www.scottishfootballleague.com/football/first/ SFL First Division Official Site]
+* [http://footballclubs.dyndns.org/?co=scotland&league=2 Scottish Football League First Division clubs' locations]
+
+{{Scottish First Division}}
+{{Football in Scotland}}
+{{UEFA second leagues}}
+
+[[Category:Scottish Football League First Division| ]]
+[[Category:Scottish Football League|1]]
+[[Category:Football leagues in Scotland|2]]
+[[Category:National association football second tier leagues|Scotland]]
+
+[[be-x-old:Шатляндзкі Першы дывізіён]]
+[[ca:Primera divisió escocesa de futbol]]
+[[de:Scottish Football League First Division]]
+[[es:Primera División de Escocia]]
+[[fr:Championnat d'Écosse de football D2]]
+[[ko:스코틀랜드 풋볼 리그 1부]]
+[[it:Scottish First Division]]
+[[lt:Škotijos futbolo lygos pirmasis divizionas]]
+[[hu:Skót labdarúgó-bajnokság (másodosztály)]]
+[[nl:Scottish Football League First Division]]
+[[no:Scottish Football League First Division]]
+[[pl:Scottish Football League First Division]]
+[[ru:Первый дивизион шотландской Футбольной лиги]]
+[[sco:Scots Fitbaa League First Diveesion]]
+[[simple:Scottish Football League First Division]]
+[[fi:Skotlannin 1. divisioona]]
+[[zh:蘇格蘭足球甲級聯賽]]
