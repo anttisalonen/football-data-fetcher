@@ -82,8 +82,8 @@ def fetchLeagueData(specificLeague):
                         for rln, rll in leaguedata.relegationleagues.items():
                             if rln not in Globals.progress.leagues:
                                 Globals.progress.leagues[rll] = rln
-                                numFollowingLeagues += 1
-                        print 'Added %d new league(s).' % numFollowingLeagues
+                            numFollowingLeagues += 1
+                        print '%d following league(s): %s' % (numFollowingLeagues, leaguedata.relegationleagues.keys())
                 else:
                     print 'Failed - no season text.'
             else:
