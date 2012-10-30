@@ -36,6 +36,14 @@ def fetchLeagueData(specificLeague):
             for k in Globals.progress.leagues.keys():
                 if k.startswith(specificLeague):
                     found = k
+                    break
+
+            if not found:
+                for k in Globals.progress.processedleagues.keys():
+                    if k.startswith(specificLeague):
+                        found = k
+                        break
+
             if found:
                 leaguetitle = found
             else:

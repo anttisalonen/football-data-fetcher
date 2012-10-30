@@ -7,7 +7,8 @@ class Progress:
 
     def leagueProcessed(self, l, numCompleteTeams, numPartialTeams, numFollowingLeagues):
         self.processedleagues[l.title] = soccer.ProcessedLeague(l, numCompleteTeams, numPartialTeams, numFollowingLeagues)
-        del self.leagues[l.title]
+        if l.title in self.leagues:
+            del self.leagues[l.title]
 
     def __str__(self):
         return unicode(self).encode('utf-8')
