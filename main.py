@@ -69,9 +69,12 @@ def fetchLeagueData(specificLeague):
         rvtext = wikiutils.getPage(leaguetitle)
         if rvtext:
             leaguedata = parser.getLeagueData(leaguetitle, promotionleague, rvtext)
-            if leaguedata.season and leaguedata.numteams and leaguedata.levelnum:
+            if leaguedata.numteams and leaguedata.levelnum:
                 print 'proceed to current season.'
-                stext = wikiutils.getPage(leaguedata.season, True)
+                if leaguedata.season:
+                    stext = wikiutils.getPage(leaguedata.season, True)
+                else: # if no season page, try to derive season data from the league page
+                    stext = rvtext
                 if stext:
                     numCompleteTeams, numPartialTeams = parser.handleSeason(stext, leaguedata)
                     if leaguedata.relegationleagues:
