@@ -91,7 +91,8 @@ def titleToFilename(title):
 
 def getNumberKeyValue(line):
     k, v = getKeyValue(removeAngleBrackets_re.sub('', line))
-    pos = re.findall(r'\d+', v)
+    name, link = unlinkify(v)
+    pos = re.findall(r'\d+', name)
     if len(pos) >= 1:
         return int(pos[0])
     else:

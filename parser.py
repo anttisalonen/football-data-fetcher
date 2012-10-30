@@ -64,13 +64,7 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
                     relegationleagues[cl] = cl
 
         if not numteams and lineWithoutSpaces.startswith('|teams='):
-            k, v = wikiutils.getKeyValue(line)
-            name, link = wikiutils.unlinkify(v)
-            try:
-                numteams = int(name)
-            except ValueError:
-                # TODO: parse fail here due to one league split across multiple levels
-                pass
+            numteams = wikiutils.getNumberKeyValue(line)
 
     return soccer.LeagueData(leaguetitle, season, relegationleagues, promotionleague, numteams, levelnum)
 
