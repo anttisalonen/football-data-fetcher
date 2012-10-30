@@ -1,0 +1,398 @@
+{{about|the English football league|the Greek football league with the same name|Football League 2 (Greece)}}
+
+{{refimprove|date=May 2010}}
+{{Infobox football league
+| logo       = Football League Two.png
+| pixels     = 200
+| country    = England
+| founded    = 2004<br /><small>1992–2004 ''(as Division Three)''<br />1958–1992 ''(as Division Four)''</small>
+| teams      = 24
+| promotion  = [[Football League One|League One]]
+| relegation = [[Conference National]]
+| levels     = 4
+| domest_cup = [[FA Cup]]
+| league_cup = [[Football League Cup]]<br />[[Football League Trophy]]
+| confed_cup =
+| champions  = [[Swindon Town F.C.]]
+| tv         = [[Sky Sports]]<br />[[BBC Sport|BBC]] (Highlights Only)
+| season     = [[2011-12 Football League|2011–12]]
+| current    = [[2012–13 Football League Two]]
+| website    = [http://www.football-league.co.uk/page/League2Home/0,,10794,00.html League Two]
+}}
+'''Football League Two''' (often referred to as '''League Two''' for short or '''[[Npower (UK)|Npower]] League 2''' for [[sponsor (commercial)|sponsorship]] reasons) is the third-highest division of [[The Football League]] and fourth-highest division overall in the [[English football league system]].
+
+Football League Two was introduced for the [[2004-05 in English football|2004–05 season]]. It was previously known as the [[Football League Third Division]]. <ref>http://www.football-league.co.uk/page/Timeline/0,,10794~1357286,00.html "The Football League – Timeline" Retrieved 18 August 2011 </ref> Prior to the advent of the [[FA Premier League|Premier League]], the fourth-highest division was known as the [[Football League Fourth Division]]. It is the most profitable fourth-tier football league in the world.
+
+==Structure==
+There are 24 clubs in Football League Two. Each club plays each of the other clubs twice (once at home, once away) and is awarded three points for a win, one for a draw and zero for a loss. From these points a league table is constructed. 
+
+At the end of each season the top three teams, together with the winner of the play-offs between the teams that finished in 4th–7th position, are promoted to [[Football League One]] and are replaced by the four teams that finished bottom of that division. 
+
+Similarly the two teams that finished at the bottom of Football League Two are relegated to the [[Conference National]] and are replaced by the team that finished 1st and the team that won the 2nd–5th place play-off in that division. Technically a team can be reprieved from relegation if the team replacing them does not have a ground suitable for League football, but in practice this is a non-factor because every team currently in the Conference National has a ground that meets the League criteria (and even if they did not, a ground-sharing arrangement with another team can be made until their stadium is upgraded). The other way that a team can be spared relegation is if some other team either resigns or is expelled from the Football League.
+
+Final League position is determined, in this order, by points obtained, [[goal difference]], goals scored, a mini-league of the results between two or more teams ranked using the previous three criteria and finally a series of one or more play off matches.
+
+There is a mandatory wage cap in this division that limits spending on players' wages to 60% of club turnover.
+
+==Football League Two clubs 2012–13==
+{| class="wikitable" style="text-align:center;"
+|-
+!Club
+!Finishing position [[2011–12 Football League Two|last season]]
+|-
+|style="text-align:left;"|[[Accrington Stanley F.C.|Accrington Stanley]]||14th
+|-
+|style="text-align:left;"|[[AFC Wimbledon]]||16th
+|-
+|style="text-align:left;"|[[Aldershot Town F.C.|Aldershot Town]]||11th
+|-
+|style="text-align:left;"|[[Barnet F.C.|Barnet]]||22nd
+|-
+|style="text-align:left;"|[[Bradford City A.F.C.|Bradford City]]||18th
+|-
+|style="text-align:left;"|[[Bristol Rovers F.C.|Bristol Rovers]]||13th
+|-
+|style="text-align:left;"|[[Burton Albion F.C.|Burton Albion]]||17th
+|-
+|style="text-align:left;"|[[Cheltenham Town F.C.|Cheltenham Town]]||6th
+|-
+|style="text-align:left;"|[[Chesterfield F.C.|Chesterfield]]||22nd in [[League One]]
+|-
+|style="text-align:left;"|[[Dagenham & Redbridge F.C.|Dagenham & Redbridge]]||19th
+|-
+|style="text-align:left;"|[[Exeter City F.C.|Exeter City]]||23rd in [[League One]]
+|-
+|style="text-align:left;"|[[Fleetwood Town F.C.|Fleetwood Town]]||[[Conference National]] winners
+|-
+|style="text-align:left;"|[[Gillingham F.C.|Gillingham]]||8th
+|-
+|style="text-align:left;"|[[Morecambe F.C.|Morecambe]]||15th
+|-
+|style="text-align:left;"|[[Northampton Town F.C.|Northampton Town]]||20th
+|-
+|style="text-align:left;"|[[Oxford United F.C.|Oxford United]]||9th
+|-
+|style="text-align:left;"|[[Plymouth Argyle F.C.|Plymouth Argyle]]||21st
+|-
+|style="text-align:left;"|[[Port Vale F.C.|Port Vale]]||12th
+|-
+|style="text-align:left;"|[[Rochdale A.F.C.|Rochdale]]||24th in [[League One]]
+|-
+|style="text-align:left;"|[[Rotherham United F.C.|Rotherham United]]||10th
+|-
+|style="text-align:left;"|[[Southend United F.C.|Southend United]]||4th
+|-
+|style="text-align:left;"|[[Torquay United F.C.|Torquay United]]||5th
+|-
+|style="text-align:left;"|[[Wycombe Wanderers F.C.|Wycombe Wanderers]]||21st in [[League One]]
+|-
+|style="text-align:left;"|[[York City F.C.|York City]]||4th in [[Conference National]] ([[Conference National#Conference National play-off results|play-off]] winner)
+|}
+
+==Winners of Football League Two==
+{{For|winners prior to 2004|List of winners of English Football League Two and predecessors}}
+{| class="wikitable" style="text-align:center;"
+|-
+!Season
+!Winner
+!Runner-Up
+!3rd Place
+!Promoted via play-off 
+|-
+||[[2004-05 in English football|2004–05]]
+|[[Yeovil Town F.C.|Yeovil Town]]
+|[[Scunthorpe United F.C.|Scunthorpe United]]
+|[[Swansea City A.F.C.|Swansea City]]
+|[[Southend United F.C.|Southend United]]
+|-
+||[[2005-06 in English football|2005–06]]
+|[[Carlisle United F.C.|Carlisle United]]
+|[[Northampton Town F.C.|Northampton Town]]
+|[[Leyton Orient F.C.|Leyton Orient]]
+|[[Cheltenham Town F.C.|Cheltenham Town]]
+|-
+||[[2006-07 in English football|2006–07]]
+|[[Walsall F.C.|Walsall]]
+|[[Hartlepool United F.C.|Hartlepool United]]
+|[[Swindon Town F.C.|Swindon Town]]
+|[[Bristol Rovers F.C.|Bristol Rovers]]
+|-
+||[[2007-08 in English football|2007–08]]
+|[[Milton Keynes Dons F.C.|Milton Keynes Dons]]
+|[[Peterborough United F.C.|Peterborough United]]
+|[[Hereford United F.C.|Hereford United]]
+|[[Stockport County F.C.|Stockport County]]
+|-
+||[[2008-09 in English football|2008–09]]
+|[[Brentford F.C.|Brentford]]
+|[[Exeter City F.C.|Exeter City]]
+|[[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+|[[Gillingham F.C.|Gillingham]]
+|-
+||[[2009-10 in English football|2009–10]]
+|[[Notts County F.C.|Notts County]]
+|[[A.F.C. Bournemouth]]
+|[[Rochdale A.F.C.|Rochdale]]
+|{{fc|Dagenham & Redbridge}}
+|-
+||[[2010-11 in English football|2010–11]]
+|[[Chesterfield F.C.|Chesterfield]]
+|[[Bury F.C.|Bury]]
+|[[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+|[[Stevenage F.C.|Stevenage]]
+|-
+||[[2011-12 in English football|2011–12]]
+|[[Swindon Town F.C.|Swindon Town]]
+|[[Shrewsbury Town F.C.|Shrewsbury Town]]
+|[[Crawley Town F.C.|Crawley Town]]
+|[[Crewe Alexandra]]
+|}
+
+==Play-off results==
+{{main|Football League Two play-offs}}
+{| class="wikitable" style="text-align:center;"
+|-
+!Season
+!Semifinal (1st Leg)
+!Semifinal (2nd Leg)
+!Final
+|-
+||[[2004-05 in English football|2004–05]]
+|[[Lincoln City F.C.|Lincoln City]] 1–0 [[Macclesfield Town F.C.|Macclesfield Town]]<br />
+[[Northampton Town F.C.|Northampton Town]] 0–0 [[Southend United F.C.|Southend United]]
+|[[Macclesfield Town F.C.|Macclesfield Town]] 1–1 [[Lincoln City F.C.|Lincoln City]]<br />
+[[Southend United F.C.|Southend United]] 1–0 [[Northampton Town F.C.|Northampton Town]]
+|[[Lincoln City F.C.|Lincoln City]] 0–2 [[Southend United F.C.|Southend United]]
+|-
+||[[2005-06 in English football|2005–06]]
+|[[Lincoln City F.C.|Lincoln City]] 0–1 [[Grimsby Town F.C.|Grimsby Town]]<br />
+[[Wycombe Wanderers F.C.|Wycombe Wanderers]] 1–2 [[Cheltenham Town F.C.|Cheltenham Town]]
+|[[Grimsby Town F.C.|Grimsby Town]] 2–1 [[Lincoln City F.C.|Lincoln City]]<br />
+[[Cheltenham Town F.C.|Cheltenham Town]] 0–0 [[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+|[[Grimsby Town F.C.|Grimsby Town]] 0–1 [[Cheltenham Town F.C.|Cheltenham Town]]
+|-
+||[[2006-07 in English football|2006–07]]
+|[[Bristol Rovers F.C.|Bristol Rovers]] 2–1 [[Lincoln City F.C.|Lincoln City]]<br />
+[[Shrewsbury Town F.C.|Shrewsbury Town]] 0–0 [[Milton Keynes Dons F.C.|Milton Keynes Dons]]<br />
+|[[Lincoln City F.C.|Lincoln City]] 3–5 [[Bristol Rovers F.C.|Bristol Rovers]]<br />
+[[Milton Keynes Dons F.C.|Milton Keynes Dons]] 1–2 [[Shrewsbury Town F.C.|Shrewsbury Town]]
+|[[Bristol Rovers F.C.|Bristol Rovers]] 3–1 [[Shrewsbury Town F.C.|Shrewsbury Town]]
+|-
+||[[2007-08 in English football|2007–08]]
+|[[Darlington F.C.|Darlington]] 2–1 [[Rochdale A.F.C.|Rochdale]]<br />[[Wycombe Wanderers F.C.|Wycombe Wanderers]] 1–1 [[Stockport County F.C.|Stockport County]]
+|[[Rochdale A.F.C.|Rochdale]] 2–1 [[Darlington F.C.|Darlington]]<br /><small>(Rochdale won 5–4 on penalties, AET)</small><br />[[Stockport County F.C.|Stockport County]] 1–0 [[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+|[[Rochdale A.F.C.|Rochdale]] 2–3 [[Stockport County F.C.|Stockport County]]
+|-
+||[[2008-09 in English football|2008–09]]
+|[[Shrewsbury Town F.C.|Shrewsbury Town]] 0–1 [[Bury F.C.|Bury]]<br />[[Rochdale A.F.C.|Rochdale]] 0–0 [[Gillingham F.C.|Gillingham]]
+|[[Bury F.C.|Bury]] 0–1 [[Shrewsbury Town F.C.|Shrewsbury Town]]<br /><small>(Shrewsbury won 4 – 3 on penalties, AET)</small><br />[[Gillingham F.C.|Gillingham]] 2–1 [[Rochdale A.F.C.|Rochdale]]
+|[[Gillingham F.C.|Gillingham]] 1–0 [[Shrewsbury Town F.C.|Shrewsbury Town]]
+|-
+||[[2009-10 in English football|2009–10]]
+|[[Dagenham & Redbridge F.C.|Dagenham & Redbridge]] 6–0 [[Morecambe F.C.|Morecambe]]<br />[[Aldershot Town F.C.|Aldershot Town]] 0–1 [[Rotherham United F.C.|Rotherham United]]
+|[[Morecambe F.C.|Morecambe]] 2–1 [[Dagenham & Redbridge F.C.|Dagenham & Redbridge]]<br />[[Rotherham United F.C.|Rotherham United]] 2–0 [[Aldershot Town F.C.|Aldershot Town]]
+|[[Dagenham & Redbridge F.C.|Dagenham & Redbridge]] 3–2 [[Rotherham United F.C.|Rotherham United]]
+|-
+||[[2010-11 in English football|2010–11]]
+|[[Torquay United F.C.|Torquay United]] 2–0 [[Shrewsbury Town F.C.|Shrewsbury Town]]<br />[[Stevenage F.C.|Stevenage]] 2–0 [[Accrington Stanley F.C.|Accrington Stanley]]
+|[[Shrewsbury Town F.C.|Shrewsbury Town]] 0–0 [[Torquay United F.C.|Torquay United]]<br />[[Accrington Stanley F.C.|Accrington Stanley]] 0–1 [[Stevenage F.C.|Stevenage]]
+|[[Stevenage F.C.|Stevenage]] 1–0 [[Torquay United F.C.|Torquay United]]
+|-
+||[[2011-12 in English football|2011–12]]
+|[[Crewe Alexandra]] 1–0 [[Southend United F.C.|Southend United]]<br />[[Cheltenham Town F.C.|Cheltenham Town]] 2–0 [[Torquay United F.C.|Torquay United]]
+|[[Southend United F.C.|Southend United]] 2–2 [[Crewe Alexandra]]<br />[[Torquay United F.C.|Torquay United]] 1–2 [[Cheltenham Town F.C.|Cheltenham Town]]
+|[[Cheltenham Town F.C.|Cheltenham Town]] 0–2 [[Crewe Alexandra]]
+|}
+
+==Relegated teams==
+{| class="wikitable" style="text-align:left;"
+|-
+!Season
+!Clubs
+|-
+||[[2004-05 in English football|2004–05]]
+|[[Kidderminster Harriers F.C.|Kidderminster Harriers]], [[Cambridge United F.C.|Cambridge United]]
+|-
+||[[2005-06 in English football|2005–06]]
+|[[Oxford United F.C.|Oxford United]], [[Rushden & Diamonds F.C.|Rushden & Diamonds]]
+|-
+||[[2006-07 in English football|2006–07]]
+|[[Boston United F.C.|Boston United]], [[Torquay United F.C.|Torquay United]]
+|-
+||[[2007-08 in English football|2007–08]]
+|[[Mansfield Town F.C.|Mansfield Town]], [[Wrexham A.F.C.|Wrexham]]
+|-
+||[[2008-09 in English football|2008–09]]
+|[[Chester City F.C.|Chester City]], [[Luton Town F.C.|Luton Town]]<ref>Luton were deducted 30 points for financial irregularities</ref>
+|-
+||[[2009-10 in English football|2009–10]]
+|[[Darlington F.C.|Darlington]], [[Grimsby Town F.C.|Grimsby]]
+|-
+||[[2010-11 in English football|2010–11]]
+|[[Lincoln City F.C.|Lincoln City]], [[Stockport County F.C.|Stockport County]]
+|-
+||[[2011-12 in English football|2011–12]]
+|[[Macclesfield Town F.C.|Macclesfield Town]], [[Hereford United F.C.|Hereford United]]
+|}
+
+==Top scorers==
+{| class="wikitable" style="text-align:center;"
+|-
+!Season
+!Top scorer
+!Club
+!Goals
+|-
+||[[2004-05 in English football|2004–05]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Phil Jevons]]
+|[[Yeovil Town F.C.|Yeovil Town]]
+|27
+|-
+||[[2005-06 in English football|2005–06]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Karl Hawley]]
+|[[Carlisle United F.C.|Carlisle United]]
+|23
+|-
+|rowspan="2"|[[2006-07 in English football|2006–07]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Richard Barker (footballer born 1975)|Richard Barker]]
+|[[Hartlepool United F.C.|Hartlepool United]]
+|rowspan="2"|21
+|-
+|style="text-align:left;"|{{flagicon|ENG}} [[Izale McLeod]]
+|[[Milton Keynes Dons F.C.|Milton Keynes Dons]]
+|-
+|[[2007-08 in English football|2007–08]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Aaron McLean]]
+|[[Peterborough United F.C.|Peterborough United]]
+|29
+|-
+|rowspan="2"|[[2008-09 in English football|2008–09]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Grant Holt]]
+|[[Shrewsbury Town F.C.|Shrewsbury Town]]
+|rowspan="2"|20
+|-
+|style="text-align:left;"|{{flagicon|ENG}} [[Jack Lester]]
+|[[Chesterfield F.C.|Chesterfield]]
+|-
+|[[2009-10 in English football|2009–10]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Lee Hughes]]
+|[[Notts County F.C.|Notts County]]
+|30
+|-
+|[[2010-11 in English football|2010–11]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Clayton Donaldson]]
+|[[Crewe Alexandra F.C.|Crewe Alexandra]]
+|28
+|-
+|}
+
+==League Two stadia 2012–13==
+
+{| class="wikitable sortable"
+|-
+!Home Club
+!Stadium Name
+![[List of English football stadia by capacity|Capacity]]
+|-
+|style="text-align:left;"|[[Bradford City A.F.C.|Bradford City]]||[[Valley Parade]]||25,136
+|-
+|style="text-align:left;"|[[Plymouth Argyle F.C.|Plymouth Argyle]]||[[Home Park]]||19,500
+|-
+|style="text-align:left;"|[[Port Vale F.C.|Port Vale]]||[[Vale Park]]||19,052
+|-
+|style="text-align:left;"|[[Oxford United F.C.|Oxford United]]||[[Kassam Stadium]]||12,500
+|-
+|style="text-align:left;"|[[Southend United F.C.|Southend United]]||[[Roots Hall]]||12,306
+|-
+|style="text-align:left;"|[[Rotherham United F.C.|Rotherham United]]||[[New York Stadium]]||12,021
+|-
+|style="text-align:left;"|[[Bristol Rovers F.C.]]||[[Memorial Stadium (Bristol)|Memorial Stadium]]*||12,011
+|-
+|style="text-align:left;"|[[Gillingham F.C.|Gillingham]]||[[Priestfield Stadium]]||11,582
+|-
+|style="text-align:left;"|[[Chesterfield F.C.|Chesterfield]]||[[B2net Stadium]]||10,400
+|-
+|style="text-align:left;"|[[Wycombe Wanderers F.C.|Wycombe Wanderers]]||[[Adams Park]]*||10,284
+|-
+|style="text-align:left;"|[[Rochdale A.F.C.|Rochdale]]||[[Spotland_Stadium|Spotland]]||10,249
+|-
+|style="text-align:left;"|[[Exeter City F.C.|Exeter City]]||[[St James Park, Exeter|St James Park]]||8,541
+|-
+|style="text-align:left;"|[[York City F.C.|York City]]||[[Bootham Crescent]]||7,872
+|-
+|style="text-align:left;"|[[Northampton Town F.C.|Northampton Town]]||[[Sixfields Stadium]]||7,653
+|-
+|style="text-align:left;"|[[Aldershot Town F.C.|Aldershot Town]]||[[Recreation Ground (Aldershot)|Recreation Ground]]*||7,100
+|-
+|style="text-align:left;"|[[Cheltenham Town F.C.|Cheltenham Town]]||[[Whaddon Road]]*||7,066
+|-
+|style="text-align:left;"|[[Burton Albion F.C.|Burton Albion]]||[[Pirelli Stadium]]*||6,912
+|-
+|style="text-align:left;"|[[Morecambe F.C.|Morecambe]]||[[Globe Arena (football stadium)|Globe Arena]]*||6,476
+|-
+|style="text-align:left;;"|[[Barnet F.C.|Barnet]]||[[Underhill Stadium]]*||6,200
+|-
+|style="text-align:left;"|[[Torquay United F.C.|Torquay United]]||[[Plainmoor]]*||6,104
+|-
+|style="text-align:left;"|[[Dagenham & Redbridge F.C.]]||[[Victoria Road (stadium)|Victoria Road]]*||6,078
+|-
+|style="text-align:left;"|[[AFC Wimbledon]]||[[Kingsmeadow]]*||5,194
+|-
+|style="text-align:left;"|[[Fleetwood Town F.C.|Fleetwood Town]]||[[Highbury Stadium, Fleetwood|Highbury Stadium]]*||5,094
+|-
+|style="text-align:left;"|[[Accrington Stanley F.C.|Accrington Stanley]]||[[Fraser Eagle Stadium|Crown Ground]]*||5,057
+|}
+* ''*ground contains [[Terrace (stadium)|terracing]]''
+
+==See also==
+*[[Football League Fourth Division]] ([[1958–59 in English football|1958–59]] – [[1991–92 in English football|1991–92]])
+*[[Football League Third Division]] ([[1992–93 in English football|1992–93]] – [[2003–04 in English football|2003–04]])
+
+
+==References and Notes==
+{{reflist}}
+
+==External links==
+*[http://www.football-league.co.uk/page/League2Home/0,,10794,00.html Football League Two official site]
+*[http://footballclubs.dyndns.org/?co=england&league=4 Football League Two clubs' locations]
+*[http://www.division4.co.uk League Two blogs by League Two fans]
+
+{{Football League Two teamlist}}
+{{Football League Two seasons}}
+{{Football in England table cells}}
+{{UEFA fourth leagues}}
+
+[[Category:The Football League|3]]
+[[Category:2004 establishments in England]]
+[[Category:Football leagues in England|4]]
+[[Category:Sports leagues established in 2004]]
+
+[[bg:Английска втора футболна лига]]
+[[ca:Football League Two]]
+[[cs:Football League Two]]
+[[da:Football League 2]]
+[[de:Football League Two]]
+[[el:Λιγκ Του]]
+[[es:Football League Two]]
+[[fa:لیگ دو فوتبال انگلستان]]
+[[fr:Championnat d'Angleterre de football D4]]
+[[ko:풋볼 리그 2]]
+[[id:Liga Dua Inggris]]
+[[it:Football League Two]]
+[[lb:Football League Two]]
+[[lt:Anglijos Antroji futbolo lyga]]
+[[hu:Angol labdarúgó-bajnokság (negyedosztály)]]
+[[nl:Football League Two]]
+[[ja:フットボールリーグ2]]
+[[no:Football League Two]]
+[[pl:Football League Two]]
+[[pt:Football League Two]]
+[[ro:Football League Two]]
+[[ru:Вторая Футбольная лига Англии]]
+[[simple:Football League Two]]
+[[fi:Englannin kakkosliiga]]
+[[sv:Football League Two]]
+[[th:ฟุตบอลลีกทู]]
+[[tr:Football League Two]]
+[[uk:Друга футбольна ліга]]
+[[zh:英格蘭足球乙級聯賽]]

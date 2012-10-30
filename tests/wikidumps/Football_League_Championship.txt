@@ -1,0 +1,470 @@
+{{Use British English|date=November 2011}}
+{{Use dmy dates|date=August 2011}}
+:''"The Championship" redirects here. For the [[rugby union in England|rugby union]] competition, see [[RFU Championship]]. For the [[rugby league]] competition, see [[Championship (rugby league)]]''
+{{Infobox football league
+| logo       = Football League Championship.png
+| pixels     = 200
+| country    = England<br />Wales
+| founded    = 2004–present<br /><small>1992–2004 ''(as Division One)''<br />1892–1992 ''(as Division Two)''</small>
+| teams      = 24
+| promotion  = [[Premier League]]
+| relegation = [[Football League One|League One]]
+| levels     = 2
+| domest_cup = [[FA Cup]]
+| league_cup = [[Football League Cup]]
+| confed_cup =
+| champions  = [[Reading F.C.|Reading]] 
+| most_champs = [[Sunderland A.F.C.|Sunderland]] and [[Reading F.C. | Reading]] (2 titles)
+| tv         = [[Sky Sports]]<br />[[BBC Sport|BBC]]
+| season     = [[2011–12 Football League|2011–12]]
+| website    = [http://www.football-league.co.uk/page/ChampionshipHome/ Official site]
+| current    = [[2012–13 Football League Championship]]
+}}
+The '''Football League Championship''' (often referred to as the '''Championship''' for short, or the '''[[RWE npower|npower]] Championship''' for sponsorship reasons) is the highest division of [[The Football League]] and second-highest division overall in the [[English football league system]] after the [[Premier League]].
+
+The Football League Championship was introduced for the [[2004–05 in English football|2004–05 season]], having been previously known as the [[Football League First Division]]. According to [[Deloitte]], in the 2004–05 season it was the wealthiest non-top flight [[association football|football]] division in the world, and the sixth richest division in Europe.<ref>[http://news.bbc.co.uk/1/hi/business/5032978.stm First fall in Premiership wages], BBC News, 31 May 2006, reporting on Deloitte's review of football finance in 2004–05</ref>
+
+The winners of the Football League Championship receive the Football League Championship trophy which is the same trophy as the old First Division (now the [[Premier League]]) Champions were handed prior to the Premier League's inception in the 1992–93 season. 
+
+At present (2012/2013 season), [[Ipswich Town]] have held the longest tenure in the Championship, having not been promoted or relegated from the division since the 2002–03 season.
+
+==History==
+:''For history before 2004, see [[Football League First Division]] after 1993 and [[Football League Second Division]] before that year''
+In [[2004–05 in English football]], the Football League Championship announced a total attendance (including postseason) of 9.8&nbsp;million, which it said was the fourth highest total attendance for a European football division, behind the FA Premier League (12.88[[1000000 (number)|m]]), Spain's [[La Liga|Primera división]] (11.57m) and Germany's [[Fußball-Bundesliga|Bundesliga]] (10.92m), but beating Italy's [[Serie A]] (9.77m) and France's [[Ligue 1]] (8.17m).<ref>{{cite news| url=http://news.bbc.co.uk/sport1/hi/football/4748403.stm |work=BBC News  | title=Countdown underway to new season | date=6 August 2005 | accessdate=2 May 2010}}</ref><ref>{{cite news| url=http://www.timesonline.co.uk/newspaper/0,,174-1712938,00.html |work=The Times |location=UK| title=Championship glories in outstripping Serie A | first=Peter | last=Lansley | date=29 July 2005 | accessdate=2 May 2010}}</ref><ref>[http://www.thefa.com/TheFA/NewsFromTheFA/Postings/2005/08/Features_ChampionshipSuccess.htm First class second division]{{dead link|date=October 2010}} TheFA.com</ref> The total figures were aided somewhat by the presence of 24 clubs, compared to 20 clubs in both Serie A and Ligue 1, and 18 in the Bundesliga. A major factor to the competition's success comes from television revenue.
+
+On 30 September 2009, [[Coca-Cola]] announced they would end their sponsorship deal with [[the Football League]] at the end of the [[2009–10 Football League|2009–10 season]].<ref>[http://www.guardian.co.uk/football/2009/sep/30/coca-cola-football-league-sponsorship Coca-Cola end Football League sponsorship deal] The Guardian, 30 September 2009</ref> On 16 March 2010, [[RWE npower|Npower]] were announced as the new title sponsors of the Football League, and from the start of the 2010–11 Football League season, the Football League Championship is known as the ''Npower Championship''.<ref>[http://news.bbc.co.uk/1/hi/business/8570749.stm Football League names Npower as new sponsor ] BBC Sport, 16 March 2010</ref>
+
+==Structure of the league==
+The league comprises 24 teams. Over the course of a season, which runs annually from August to the following May, each team plays twice against the others in the league, once at 'home' and once 'away', resulting in each team competing in 46 games in total. Three points are awarded for a win, one for a draw and zero for a loss. The teams are ranked in the league table by points gained, then goal difference, then goals scored and then their head-to-head record for that season. In the event that two or more teams finish the season equal in all these respects, teams are separated by alphabetical order, unless a promotion, relegation or play-off place (see below) is at stake, when the teams are separated by a play-off game, though this improbable situation has never arisen in all the years the rule has existed.<ref>{{cite web | url = http://www.sporting-life.com/football/live/tables/cc_champ.html | title = Championship | publisher=Sporting Life | accessdate =2 April 2008}}</ref>
+
+At the end of the season, the top two teams and the winner of the [[Football League Championship play-offs|Championship play-offs]] are promoted to the [[FBS Premier League|Premier League]] and the bottom three teams are relegated to [[Football League One]]. The Football League Championship play-offs is a knock-out competition for the teams finishing the season in third to sixth place with the winner being promoted to the Premier League. In the play-offs, the third-placed team plays against the sixth-placed team and the fourth-placed team plays against the fifth-placed team in two-legged semi-finals (home and away). The winners of each semi-final then compete in a single match with the prize being promotion to the Premier League and the Championship play-off trophy.
+
+The three promoted teams are replaced in the division for the next season by the teams finishing in the bottom three in the Premier League and the relegated teams are replaced by the two teams finishing at the top of League One and the winner of the League One play-off final.
+
+==Broadcasting rights==
+===UK Television===
+From 2009–2012 [[Sky Sports]] have the rights to broadcast 65 live matches, live coverage of both legs of both play off semi finals and the play off final live.<ref>[http://www.football-league.co.uk/staticFiles/2e/ae/0,,10794~110126,00.pdf Football League Agrees Historic Deal With Sky Sports and BBC] football-league.co.uk press release</ref> The [[BBC]] has the rights to show 10 first choice live games for the regular season as well as the rights to show a highlight show. The deal is on a three year contract and is worth £264m that will mostly be paid by [[BSkyB|Sky]].<ref>[http://news.bbc.co.uk/sport1/hi/football/7080696.stm BBC wins Football League contract] bbc.co.uk</ref> [[Sky Sports]] will then take exclusive live rights to the Football League from 2013, having signed a three-year deal worth £195m, representing a 26% reduction in revenue from the previous joint deal between Sky and BBC.<ref>[http://www.bbc.co.uk/news/business-12965536 Sky Sports and Football League agree £195m deal] bbc.co.uk</ref> The new deal will include 75 live league games, all the play-off matches, 15 League Cup ties (including both semi-finals and the final) and selected Johnstone's Paint Trophy matches. Sky will also have highlights packages, with the free-to-air rights yet to be decided.
+
+===Radio===
+{{unreferenced section|date=June 2011}}
+Local radio stations with a local football team in The Championship usually offer audio coverage of every live game. [[BBC Sport]] holds exclusive national rights to broadcast Championship matches live to the whole of the United Kingdom; most matches are broadcast on local BBC radio stations for the area of their respective teams while some headline matches are broadcast on national stations, either [[BBC Radio Five Live|5 Live]] or [[BBC Radio Five Live Sports Extra|5 Live Sports Extra]] under their ''5 Live Sport'' banner. Most matches broadcast on BBC radio are also broadcast online to UK users on the BBC website.
+
+talkSPORT also has rights to broadcast each of the Football League Play Off Finals.
+
+===International===
+* Australia – [[Fox Sports (Australia)|Fox Sports]] broadcasts live Championship matches every weekend, as well as a Highlights show every Tuesday night at 7&nbsp;pm.
+* Brazil – [[ESPN Brasil]] has exclusive rights to broadcast live two Championship matches every week.
+* Bulgaria – [[Diema]] broadcasts live two Championship matches every week.
+* Canada – [[Sportsnet World]] broadcast lives games each weekend as well as highlights once a week.
+* Germany – [[sportdigital.tv]] broadcasts one or two games every week.
+* Hungary – [[Sport 1]] and its sister channel [[Sport 2]] broadcasts the matches.
+* India and the subcontinent, Ten Action Plus broadcasts some of the matches in Non-HD.
+* Italy – [[Sportitalia]] has exclusive rights to broadcast live one match a week and highlights show.
+* Mexico – [[SKY Sports Mexico]] has exclusive rights to broadcast live two matches.
+* Sweden – [[TV4 Sport]] shows one or two matches a week usually including a 3&nbsp;pm kick off on the Saturday.
+* France – LequipeTV shows one match a week
+* Norway – Viasat Fotball shows one or two matches a week.
+* United States - Championship matches are broadcast several times a week on Fox Soccer and Fox Soccer Plus cable channels, and occasionally on ESPN.
+
+* Asia – (except Japan and Korea) most games are broadcasted by Goal TV. 
+
+* Streaming – [[Betfair]] and [[Bet365]] both broadcast matches internationally. Betfair notes that the territories to which they are able to stream events varies from sport to sport.<ref>[http://livevideo.betfair.com/ T&C's on the Betfair Live Video website]</ref> Bet365 notes that some events are not permitted to stream within the host country.<ref>[The FAQ on the Bet365 streaming website]</ref>
+
+===Stadia and locations===
+
+<!--The stadia code is below this code of the map-->
+{{location map+ |England |float=right |width=450 |caption=Locations of teams in the 2012–13 Football League Championship |places=
+{{location map~ |England |lat=53.552308 |long=-1.467617 |label=<div style="font-size:80%;">[[Barnsley F.C.|Barnsley]]</div>|position=right}}
+{{location map~ |England |lat=52.475703 |long=-1.868189 |label= <div style="font-size:80%;">[[Birmingham City F.C.|Birmingham&nbsp;City]]</div>|position=bottom}}
+{{location map~ |England |lat=53.728569 |long=-2.489206 |label= <div style="font-size:80%;">[[Blackburn Rovers F.C.|Blackburn&nbsp;Rovers]]</div>|position=left}}
+{{location map~ |England |lat=53.804706 |long=-3.048039 |label=<div style="font-size:80%;">[[Blackpool F.C.|Blackpool]]</div>|position=top}}
+{{location map~ |England |lat=53.580578 |long=-2.535644 |label= <div style="font-size:80%;position:relative;top:-6px;left:-8px;">[[Bolton Wanderers F.C.|Bolton&nbsp;Wanderers]]</div>|position=bottom}}
+{{location map~ |England |lat=50.8519 |long=-0.158889 |label=<div style="font-size:80%;">[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]</div>|position=right}}
+{{location map~ |England |lat=51.440150 |long=-2.620303 |label=<div style="font-size:80%;">[[Bristol City F.C.|Bristol City]]</div>|position=bottom}}
+{{location map~ |England |lat=53.789167 |long=-2.23028 |label=<div style="font-size:80%;">[[Burnley F.C.|Burnley]]</div>|position=top}}
+{{location map~ |England |lat=51.474647 |long=-3.199997 |label=<div style="font-size:80%;">[[Cardiff City F.C.|Cardiff City]]</div>|position=left}}
+{{location map~ |England |lat=51.4864 |long=0.0363889 |label=<div style="font-size:80%;">[[Charlton Athletic F.C.|Charlton Athletic]]</div>|position=right}}
+{{location map~ |England |lat=51.398289 |long=-0.085536 |label=<div style="font-size:80%;">[[Crystal Palace F.C.|Crystal Palace]]</div>|position=bottom}}
+{{location map~ |England |lat=52.914911 |long=-1.447233 |label=<div style="font-size:80%;">[[Derby County F.C.|Derby County]]</div>|position=left}}
+{{location map~ |England |lat=53.6542 |long=-1.76833 |label=<div style="font-size:80%;">[[Huddersfield Town F.C.|Huddersfield]]</div>|position=right}}
+{{location map~ |England |lat=53.746605 |long=-0.367141 |label=<div style="font-size:80%;">[[Hull City A.F.C.|Hull City]]</div>|position=right}}
+{{location map~ |England |lat=52.055061 |long=1.144831 |label=<div style="font-size:80%;">[[Ipswich Town F.C.|Ipswich Town]]</div>|position=left}}
+{{location map~ |England |lat=53.7778 |long=-1.57222 |label=<div style="font-size:80%;">[[Leeds United A.F.C.|Leeds United]]</div>|position=right}}
+{{location map~ |England |lat=52.634297 |long=-1.136232 |label=<div style="font-size:80%;">[[Leicester City F.C.|Leicester City]]</div>|position=bottom}}
+{{location map~ |England |lat=54.5782 |long=-1.21682 |label=<div style="font-size:80%;">[[Middlesbrough F.C.|Middlesbrough]]</div>|position=left}}
+{{location map~ |England |lat=51.531149 |long=-0.030509 |label=<div style="font-size:80%;">[[Millwall F.C.|Millwall]]</div>|position=left}}
+{{location map~ |England |lat=52.9167 |long=-1.11667 |label=<div style="font-size:80%;">[[Nottingham Forest F.C.|Nottingham&nbsp;Forest]]</div>|position=right}}
+{{location map~ |England |lat=52.5647 |long=-0.240406 |label=<div style="font-size:80%;">[[Peterborough United F.C.|Peterborough United]]</div>|position=right}}
+{{location map~ |England |lat=53.411422 |long=-1.500669 |label=<div style="font-size:80%;">[[Sheffield Wednesday F.C.|Sheffield Wednesday]]</div>|position=bottom}}
+{{location map~ |England |lat=51.6498 |long=-0.401486 |label=<div style="font-size:80%;">[[Watford F.C.|Watford]]</div>|position=left}}
+{{location map~ |England |lat=52.590225 |long=-2.130389 |label= <div style="font-size:80%;">[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]</div> | position=left}}
+}}
+<!--Stadia code starts below this line-->
+{| class="wikitable sortable"
+|-
+! Team
+! Location
+! Stadium
+! Capacity
+|-
+| {{fb team Barnsley}} || [[Barnsley]] || [[Oakwell]] || style="text-align:center;"| 23,009
+|-
+| {{fb team Birmingham City}} || [[Birmingham]] || [[St Andrew's Stadium]] ||style="text-align:center;"| 30,079
+|-
+| {{fb team Blackburn Rovers}} || [[Blackburn]] || [[Ewood Park]] ||style="text-align:center;"| 31,154
+|-
+| {{fb team Blackpool}} || [[Blackpool]] || [[Bloomfield Road]] ||style="text-align:center;"| 17,338
+|-
+| {{fb team Bolton Wanderers}} || [[Bolton]] || [[Reebok Stadium]] ||style="text-align:center;"| 28,100
+|-
+|{{fb team Brighton & Hove Albion}} || [[Brighton]] || [[Falmer Stadium|The AMEX]] ||style="text-align:center;"|  30,750<sup>A</sup>
+|-
+| {{fb team Bristol City}} || [[Bristol]] || [[Ashton Gate Stadium|Ashton Gate]] || style="text-align:center;"| 21,497
+|-
+| {{fb team Burnley}}  || [[Burnley]] ||  [[Turf Moor]] || style="text-align:center;"| 22,546
+|-
+| {{fb team Cardiff City}}  || [[Cardiff]] ||  [[Cardiff City Stadium]] || style="text-align:center;"| 26,828
+|-
+| {{fb team Charlton Athletic}} || [[Charlton, London]] || [[The Valley (London)|The Valley]] || style="text-align:center;"| 27,111
+|-
+| {{fb team Crystal Palace}} || [[South Norwood, London]] || [[Selhurst Park]] || style="text-align:center;"| 26,309
+|-
+| {{fb team Derby County}} || [[Derby]] || [[Pride Park Stadium]] || style="text-align:center;"| 33,597
+|-
+| {{fb team Huddersfield Town}} || [[Huddersfield]] || [[John Smith's Stadium]] || style="text-align:center;"| 24,500
+|-
+| {{fb team Hull City}} || [[Kingston upon Hull]] || [[KC Stadium]] || style="text-align:center;"| 25,586
+|-
+| {{fb team Ipswich Town}} || [[Ipswich]] || [[Portman Road]] || style="text-align:center;"| 30,311
+|-
+| {{fb team Leeds United}} || [[Leeds]] || [[Elland Road]] || style="text-align:center;"| 39,460
+|-
+| {{fb team Leicester City}} || [[Leicester]] || [[King Power Stadium]] || style="text-align:center;"| 32,500
+|-
+| {{fb team Middlesbrough}} || [[Middlesbrough]] || [[Riverside Stadium]] || style="text-align:center;"| 34,988
+|-
+| {{fb team Millwall}} || [[South Bermondsey]], [[London]] || [[The Den]] || style="text-align:center;"| 20,146
+|-
+| {{fb team Nottingham Forest}} || [[Nottingham]] || [[City Ground]] || style="text-align:center;"| 30,576
+|-
+| {{fb team Peterborough United}} || [[Peterborough]] || [[London Road Stadium]] ||style="text-align:center;"| 15,460
+|-
+| {{fb team Sheffield Wednesday}} || [[Sheffield]] || [[Hillsborough Stadium|Hillsborough]] || style="text-align:center;"| 39,812
+|-
+| {{fb team Watford}} || [[Watford]] || [[Vicarage Road]]  || style="text-align:center;"| 23,500
+|-
+| {{fb team Wolverhampton Wanderers}} ||| [[Wolverhampton]] || [[Molineux Stadium|Molineux]] || align="center" | 31,700<sup>B</sup>
+|-
+|}
+{{-}}
+
+* <small><sup>A</sup>Brighton & Hove Albion have been granted permission to add a further 5,500 seats at the AMEX and the stadium is currently undergoing development. Initial capacity in August will be 27,374 and will rise in December to 27,874.<ref>{{cite web|title=Amex Expansion given green light|url=http://www.seagulls.co.uk/page/Latest/0,,10433~2749054,00.html|publisher=Brighton & Hove Albion F.C.|accessdate=27 April 2012}}</ref> The final expansion phase is likely to have been finished before the end of the 2012–13 season, around April 2013. This final phase brings the capacity up to 30,750.<ref>{{cite web|title=North stand corners 2200 seats ready for this season
+|url=http://www.northstandchat.com/showthread.php?250058-North-stand-corners-2200-seats-ready-for-this-season&p=5049541#post5049541|publisher=Brighton & Hove Albion F.C.|accessdate=27 April 2012}}</ref>
+* <sup>B</sup>Molineux is currently undergoing redevelopment. The new stand is due to be open for the start of the new season with an estimated capacity of 31,700.<ref name="WanderersStadium">{{cite web|title=Fans Feedback Of The Stan Cullis|url=http://www.molineuxpride.co.uk/wt/press_releases/date_set_for_new_stand|publisher=molineuxpride.co.uk|accessdate=22 April 2012}}</ref></small>
+
+==Previous seasons==
+===League champions, Runners-up and play-off winners===
+{{See also|List of winners of English Football League Championship and predecessors}}
+{| class="wikitable" style="text-align:center;"
+|-
+!Season
+!League champions
+!points
+!Runner-up
+!points
+!Promoted play-off winner
+!Play-off runner-up
+|-
+||[[2004–05 Football League Championship|2004–05]]
+|[[Sunderland A.F.C.|Sunderland]]
+|94
+|[[Wigan Athletic F.C.|Wigan Athletic]]
+|87
+|[[West Ham United F.C.|West Ham United]]
+|[[Preston North End F.C.|Preston North End]]
+|-
+||[[2005–06 Football League Championship|2005–06]]
+|[[Reading F.C.|Reading]]
+|106
+|[[Sheffield United F.C.|Sheffield United]]
+|90
+|[[Watford F.C.|Watford]]
+|[[Leeds United A.F.C.|Leeds United]]
+|-
+||[[2006–07 Football League Championship|2006–07]]
+|[[Sunderland A.F.C.|Sunderland]]
+|88
+|[[Birmingham City F.C.|Birmingham City]]
+|86
+|[[Derby County F.C.|Derby County]]
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|-
+||[[2007–08 Football League Championship|2007–08]]
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|81
+|[[Stoke City F.C.|Stoke City]]
+|79
+|[[Hull City A.F.C.|Hull City]]
+|[[Bristol City F.C.|Bristol City]]
+|-
+||[[2008–09 Football League Championship|2008–09]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|90
+|[[Birmingham City F.C.|Birmingham City]]
+|83
+|[[Burnley F.C.|Burnley]]
+|[[Sheffield United F.C.|Sheffield United]]
+|-
+|[[2009–10 Football League Championship|2009–10]]
+|[[Newcastle United F.C.|Newcastle United]]
+|102
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|91
+|[[Blackpool F.C.|Blackpool]]
+|[[Cardiff City F.C.|Cardiff City]]
+|-
+|[[2010–11 Football League Championship|2010–11]]
+|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|88
+|[[Norwich City F.C.|Norwich City]]<sup>1</sup>
+|84
+|[[Swansea City A.F.C.|Swansea City]]
+|[[Reading F.C.|Reading]]
+|-
+|[[2011–12 Football League Championship|2011–12]]
+|[[Reading F.C.|Reading]]
+|89
+|[[Southampton F.C.|Southampton]]
+|88
+|[[West Ham United F.C.|West Ham United]]
+|[[Blackpool F.C.|Blackpool]]
+|}
+<sup>1</sup> When Norwich City gained promotion to the Premier League they were the first team to be relegated to, relegated from, promoted to and promoted from the Championship.
+
+<small>For past winners at this level before 2004, see [[List of winners of English Football League Championship and predecessors]]</small>
+
+===Relegated teams (from Championship to League One)===
+{| class="wikitable" style="text-align:left;"
+|-
+!Season
+!Clubs
+|-
+||[[2004–05 Football League Championship|2004–05]]
+|[[Gillingham F.C.|Gillingham]], [[Nottingham Forest F.C.|Nottingham Forest]], [[Rotherham United F.C.|Rotherham United]]
+|-
+||[[2005–06 Football League Championship|2005–06]]
+|[[Crewe Alexandra F.C.|Crewe Alexandra]], [[Millwall F.C.|Millwall]], [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|-
+||[[2006–07 Football League Championship|2006–07]]
+|[[Southend United F.C.|Southend United]], [[Luton Town F.C.|Luton Town]], [[Leeds United A.F.C.|Leeds United]]
+|-
+||[[2007–08 Football League Championship|2007–08]]
+|[[Leicester City F.C.|Leicester City]], [[Scunthorpe United F.C.|Scunthorpe United]], [[Colchester United F.C.|Colchester United]]
+|-
+||[[2008–09 Football League Championship|2008–09]]
+|[[Norwich City F.C.|Norwich City]], [[Southampton F.C.|Southampton]], [[Charlton Athletic F.C.|Charlton Athletic]]
+|-
+||[[2009–10 Football League Championship|2009–10]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]], [[Plymouth Argyle F.C.|Plymouth Argyle]], [[Peterborough United F.C.|Peterborough United]]
+|-
+||[[2010–11 Football League Championship|2010–11]]
+|[[Preston North End F.C.|Preston North End]], [[Scunthorpe United F.C.|Scunthorpe United]], [[Sheffield United F.C.|Sheffield United]]
+|-
+||[[2011–12 Football League Championship|2011–12]]
+|[[Doncaster Rovers F.C.|Doncaster Rovers]], [[Coventry City F.C.|Coventry City]], [[Portsmouth F.C.|Portsmouth]]
+|}
+
+===Relegated teams (from Premier League to Championship)===
+{| class="wikitable" style="text-align:left;"
+|-
+!Season
+!Clubs
+|-
+||[[2004–05 in English football|2004–05]]
+|[[Crystal Palace F.C.|Crystal Palace]], [[Norwich City F.C.|Norwich City]], [[Southampton F.C.|Southampton]]
+|-
+||[[2005–06 in English football|2005–06]]
+|[[Birmingham City F.C.|Birmingham City]], [[West Bromwich Albion F.C.|West Bromwich Albion]], [[Sunderland A.F.C.|Sunderland]]
+|-
+||[[2006–07 in English football|2006–07]]
+| [[Sheffield United F.C.|Sheffield United]], [[Charlton Athletic F.C.|Charlton Athletic]], [[Watford F.C.|Watford]]
+|-
+||[[2007–08 in English football|2007–08]]
+|[[Reading F.C.|Reading]], [[Birmingham City F.C.|Birmingham City]], [[Derby County F.C.|Derby County]]
+|-
+||[[2008–09 in English football|2008–09]]
+|[[Newcastle United F.C.|Newcastle United]], [[Middlesbrough F.C.|Middlesbrough]], [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|-
+||[[2009–10 in English football|2009–10]]
+|[[Burnley F.C.|Burnley]], [[Hull City A.F.C.|Hull City]], [[Portsmouth F.C.|Portsmouth]]
+|-
+||[[2010–11 in English football|2010–11]]
+|[[West Ham United F.C.|West Ham United]], [[Blackpool F.C.|Blackpool]], [[Birmingham City F.C.|Birmingham City]]
+|-
+||[[2011–12 in English football|2011–12]]
+|[[Wolverhampton Wanderers]], [[Blackburn Rovers]], [[Bolton Wanderers]]
+|-
+|}
+
+===Promoted teams (from League One to Championship)===
+{| class="wikitable" style="text-align:left;"
+|-
+!Season
+!Clubs
+|-
+||[[2004–05 in English football|2004–05]]
+|[[Luton Town F.C.|Luton Town]], [[Hull City A.F.C.|Hull City]], [[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|-
+||[[2005–06 in English football|2005–06]]
+|[[Southend United F.C.|Southend United]], [[Colchester United F.C.|Colchester United]], [[Barnsley F.C.|Barnsley]]
+|-
+||[[2006–07 in English football|2006–07]]
+|[[Scunthorpe United F.C.|Scunthorpe United]], [[Bristol City F.C.|Bristol City]], [[Blackpool F.C.|Blackpool]]
+|-
+||[[2007–08 in English football|2007–08]]
+|[[Swansea City A.F.C.|Swansea City]], [[Nottingham Forest F.C.|Nottingham Forest]], [[Doncaster Rovers F.C.|Doncaster Rovers]]
+|-
+||[[2008–09 in English football|2008–09]]
+|[[Leicester City F.C.|Leicester City]], [[Peterborough United F.C.|Peterborough United]], [[Scunthorpe United F.C.|Scunthorpe United]]
+|-
+||[[2009–10 in English football|2009–10]]
+|[[Norwich City F.C.|Norwich City]], [[Leeds United A.F.C.|Leeds United]], [[Millwall F.C.|Millwall]]
+|-
+||[[2010–11 in English football|2010–11]]
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]], [[Southampton F.C.|Southampton]], [[Peterborough United F.C.|Peterborough United]]
+|-
+||[[2011–12 in English football|2011–12]]
+|[[Charlton Athletic F.C.|Charlton Athletic]], [[Sheffield Wednesday F.C.|Sheffield Wednesday]], [[Huddersfield Town F.C.|Huddersfield Town]]
+|}
+
+==Top scorers==
+{{Main|Football League Championship Top Scorer}}
+{| class="wikitable" style="text-align:center;"
+|-
+!Season
+!Top baller
+!Club
+!Goals
+|-
+||[[2004–05 Football League Championship|2004–05]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Nathan Ellington]]
+|[[Wigan Athletic F.C.|Wigan Athletic]]
+|24
+|-
+||[[2005–06 Football League Championship|2005–06]]
+|style="text-align:left;"|{{flagicon|JAM}} [[Marlon King]]
+|[[Watford F.C.|Watford]]
+|21
+|-
+||[[2006–07 Football League Championship|2006–07]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Jamie Cureton]]
+|[[Colchester United F.C.|Colchester United]]
+|23
+|-
+||[[2007–08 Football League Championship|2007–08]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Sylvan Ebanks-Blake]]
+|[[Plymouth Argyle F.C.|Plymouth Argyle]]/[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|23
+|-
+||[[2008–09 Football League Championship|2008–09]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Sylvan Ebanks-Blake]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|25
+|-
+|rowspan="2"|[[2009–10 Football League Championship|2009–10]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Peter Whittingham]]
+|[[Cardiff City F.C.|Cardiff City]]
+|rowspan="2"|20
+|-
+|style="text-align:left;"| {{flagicon|ENG}} [[Nicky Maynard]]
+|[[Bristol City F.C.|Bristol City]]
+|-
+||[[2010–11 Football League Championship|2010–11]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Danny Graham (footballer)|Danny Graham]]
+|[[Watford F.C.|Watford]]
+|24
+|-
+||[[2011–12 Football League Championship|2011–12]]
+|style="text-align:left;"|{{flagicon|ENG}} [[Rickie Lambert]]
+|[[Southampton F.C.|Southampton]]
+|27
+|}
+
+==See also==
+*[[Football League Championship Manager of the Month]]
+*[[List of English football club owners]]
+*[[List of attendance figures at domestic professional sports leagues]]&nbsp;— Championship attendance in a worldwide context
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.football-league.premiumtv.co.uk/page/ChampionshipHome Championship official site] Football League
+*[http://www.britishfootie.co.uk/england/2010-2011/championship Championship league statistics] British Footie
+*[http://www.the-championship.com/  Championship Fan site] The Championship Fan Site
+*[http://www.wikistadiums.org/championship-stadiums  Championship Stadiums] The Championship Stadiums
+
+{{Football League Championship}}
+{{Football League Championship teamlist}}
+{{Football League Championship seasons}}
+{{Football in England table cells}}
+{{UEFA second leagues}}
+
+{{s-start}}
+{{s-sports}}
+{{s-bef|before=[[Football League First Division]]}}
+{{s-ttl|title=[[English football league system|Second tier of English football]]| years = 2004&nbsp;– present}}
+{{s-non|reason=Current league}}
+{{s-end}}
+
+[[Category:Football leagues in England|2]]
+[[Category:The Football League|1]]
+[[Category:Football League Championship| ]]
+[[Category:2004 establishments in England]]
+[[Category:National association football second tier leagues|England]]
+[[Category:Sports leagues established in 2004]]
+
+[[af:Football League Championship]]
+[[be-x-old:Чэмпіянат Футбольнай Лігі]]
+[[bg:Чемпиъншип]]
+[[ca:Football League Championship]]
+[[cs:NPower Football League Championship]]
+[[da:Football League Championship]]
+[[de:Football League Championship]]
+[[et:Football League Championship]]
+[[el:Τσάμπιονσιπ]]
+[[es:Football League Championship]]
+[[fa:چمپیونشیپ]]
+[[fr:Championnat d'Angleterre de football D2]]
+[[ga:Football League Championship]]
+[[ko:풋볼 리그 챔피언십]]
+[[hy:Չեմպիոնշիպ]]
+[[hr:Football League Championship]]
+[[id:Liga Championship Inggris]]
+[[is:Enska meistaradeildin]]
+[[it:Football League Championship]]
+[[he:פוטבול ליג צ'מפיונשיפ]]
+[[lv:Anglijas futbola čempionāts]]
+[[lb:Football League Championship]]
+[[lt:Football League Championship]]
+[[hu:Angol labdarúgó-bajnokság (másodosztály)]]
+[[mk:Чемпионшип лига]]
+[[nl:Football League Championship]]
+[[ja:フットボールリーグ・チャンピオンシップ]]
+[[no:Football League Championship]]
+[[nn:Football League Championship]]
+[[pl:Football League Championship]]
+[[pt:Football League Championship]]
+[[ro:Football League Championship]]
+[[ru:Чемпионат Футбольной лиги Англии]]
+[[sco:Fitbaa League Championship]]
+[[simple:Football League Championship]]
+[[sr:Друга лига Енглеске у фудбалу]]
+[[fi:Englannin mestaruussarja]]
+[[sv:Football League Championship]]
+[[th:ฟุตบอลลีกแชมเปียนชิป]]
+[[tr:Football League Championship]]
+[[uk:Чемпіонат Футбольної ліги Англії]]
+[[vi:Giải bóng đá Hạng nhất Anh]]
+[[zh-yue:英格蘭冠軍足球聯賽]]
+[[zh:英格蘭足球冠軍聯賽]]

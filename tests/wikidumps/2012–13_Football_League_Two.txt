@@ -1,0 +1,1800 @@
+<table class="infobox " cellspacing="3" style="border-spacing: 3px; width:22em; "><caption class="" style="">[[Football League Two]]</caption><tr class=""><th scope="row" style="text-align:left; ">Season</th>
+    <td class="" style="">
+2012–13</td></tr><tr class=""><th scope="row" style="text-align:left; ">Matches played</th>
+    <td class="" style="">
+145</td></tr><tr class=""><th scope="row" style="text-align:left; ">Goals scored</th>
+    <td class="" style="">
+403&nbsp;<span style="font-size:85%;">(2.78 per match)</span></td></tr><tr class=""><th scope="row" style="text-align:left; ">Top goalscorer</th>
+    <td class="" style="">
+[[Tom Pope]]<br />(12 goals)<ref name=topscorer>{{cite web|title=English League Two Stats: Top Goal Scorers – 2012–13|url=http://soccernet.espn.go.com/stats/scorers/_/league/eng.4/english-league-two?cc=5739|publisher=ESPN|accessdate=22 August 2012}}</ref></td></tr><tr class=""><th scope="row" style="text-align:left; ">Biggest home win</th>
+    <td class="" style="">
+[[Bradford City A.F.C.|Bradford City]] 5–1 [[AFC Wimbledon]]<br />[[Burton Albion F.C.|Burton Albion]] 6–2 [[AFC Wimbledon]]<br />[[Burton Albion F.C.|Burton Albion]] 4–0 [[Oxford United F.C.|Oxford United]]<br />[[Gillingham F.C.|Gillingham]] 4–0 [[Bristol Rovers F.C.|Bristol Rovers]]<br />[[Port Vale F.C.|Port Vale]] 6–2 [[Rotherham United F.C.|Rotherham United]]<br />[[Rotherham United F.C.|Rotherham United]] 4–0 [[Bradford City A.F.C.|Bradford City]]<br />[[Barnet F.C.|Barnet]] 4–0 [[Northampton Town F.C.|Northampton Town]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Biggest away win</th>
+    <td class="" style="">
+[[Morecambe F.C.|Morecambe]] 0–4 [[Fleetwood Town F.C.|Fleetwood Town]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Highest scoring</th>
+    <td class="" style="">
+[[Burton Albion F.C.|Burton Albion]] 6–2 [[AFC Wimbledon]]<br />[[Port Vale F.C.|Port Vale]] 6–2 [[Rotherham United F.C.|Rotherham United]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Longest winning run</th>
+    <td class="" style="">
+9 games<br />[[Gillingham F.C.|Gillingham]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Longest unbeaten run</th>
+    <td class="" style="">
+8 games<br />[[Chesterfield F.C.|Chestefield]]<br />[[Gillingham F.C.|Gillingham]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Longest winless run</th>
+    <td class="" style="">
+12 games<br />[[Barnet F.C.|Barnet]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Longest losing run</th>
+    <td class="" style="">
+6 games<br />[[Oxford United F.C.|Oxford United]], [[Aldershot F.C.|Aldershot]]</td></tr><tr class=""><th scope="row" style="text-align:left; ">Highest attendance</th>
+    <td class="" style="">
+11,883<ref name=stats>{{cite web|title=English League Two Stats – 2012–13|url=http://soccernet.espn.go.com/stats/_/league/eng.4/english-league-two?cc=5739|publisher=ESPN|accessdate=22 August 2012}}</ref><br />[[Bradford City A.F.C.|Bradford City]] v [[York City F.C.|York City]]<br /><small>(13 October 2012)</small></td></tr><tr class=""><th scope="row" style="text-align:left; ">Lowest attendance</th>
+    <td class="" style="">
+1,149<ref name=stats /><br />[[Accrington Stanley F.C.|Accrington Stanley]] v [[Exeter City F.C.|Exeter City]]<br /><small>(25 August 2012)</small></td></tr><tr class=""><th scope="row" style="text-align:left; ">Average attendance</th>
+    <td class="" style="">
+4,216<ref name=stats /></td></tr><tr><td colspan="2" class="" style="text-align:center; "><div style="float: left;">← [[2011–12 Football League Two|2011–12]] </div><div style="float: right;">2013–14 →</div></td></tr>
+</table>
+
+The '''2012–13 [[Football League Two]]''' (referred to as the '''[[Npower (UK)|Npower]] Football League Two''' for sponsorship reasons) will be the ninth season of the league under its current title and twentieth season under its current league division format. It will start on 18 August 2012 and finish on 27 April 2013 with all matches that day kicking off simultaneously.
+
+==Changes from last season==
+===Team changes===
+====From League Two====
+;Promoted to [[Football League One|League One]]
+* [[Swindon Town F.C.|Swindon Town]]
+* [[Shrewsbury Town F.C.|Shrewsbury Town]]
+* [[Crawley Town F.C.|Crawley Town]]
+* [[Crewe Alexandra F.C.|Crewe Alexandra]]
+
+;Relegated to [[Football Conference|Conference National]]
+* [[Hereford United F.C.|Hereford United]]
+* [[Macclesfield Town F.C.|Macclesfield Town]]
+
+====To League Two====
+;Relegated from [[Football League One|League One]]
+* [[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+* [[Chesterfield F.C.|Chesterfield]]
+* [[Exeter City F.C.|Exeter City]]
+* [[Rochdale A.F.C.|Rochdale]]
+
+;Promoted from [[Football Conference|Conference National]]
+* [[Fleetwood Town F.C.|Fleetwood Town]]
+* [[York City F.C.|York City]]
+
+==Team overview==
+===Stadia and locations===
+''Note: Table shows mathematically qualified teams as of 28 April 2012 in alphabetical order.<ref>{{cite web|title=Football League Two|url=http://stats.football365.co.uk/dom/ENG/D3/runin.html|work=Football365|accessdate=14 April 2012}}</ref>
+<div class="thumb tright">
+<div class="thumbinner" style="width:452px; ">
+<div style="position: relative; border: 1px solid lightgray">[[file:England location map.svg|450px|2012–13 Football League Two is located in England]]<div style="position: absolute; z-index: 2; top: 35.8%; left: 50%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Accrington Stanley F.C.|<span class="nowrap">Accrington Stanley</span>]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Accrington Stanley F.C.|<span class="nowrap">Accrington Stanley</span>]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 76%; left: 68.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Aldershot Town F.C.|Aldershot Town]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Aldershot Town F.C.|Aldershot Town]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 74.8%; left: 72.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[AFC Wimbledon]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[AFC Wimbledon]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 69.7%; left: 75%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Barnet F.C.|Barnet]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Barnet F.C.|Barnet]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 35.1%; left: 57%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Bradford City A.F.C.|Bradford City]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Bradford City A.F.C.|Bradford City]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 72.2%; left: 47.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Bristol Rovers F.C.|Bristol Rovers]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-0.15em; left: -3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:70%;">[[Bristol Rovers F.C.|Bristol Rovers]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 50.8%; left: 58.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Burton Albion F.C.|Burton Albion]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Burton Albion F.C.|Burton Albion]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 65.5%; left: 53.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Cheltenham Town F.C.|Cheltenham Town]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Cheltenham Town F.C.|Cheltenham Town]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 43.9%; left: 60.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Chesterfield F.C.|Chesterfield]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Chesterfield F.C.|Chesterfield]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 71.2%; left: 75.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Dagenham & Redbridge F.C.|Dag & Red]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Dagenham & Redbridge F.C.|Dag & Red]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 84.3%; left: 36.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Exeter City F.C.|Exeter City]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Exeter City F.C.|Exeter City]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 33.3%; left: 42.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Fleetwood Town F.C.|Fleetwood Town]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Fleetwood Town F.C.|Fleetwood Town]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 73.9%; left: 83.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Gillingham F.C.|Gillingham]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-0.15em; left: -3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:70%;">[[Gillingham F.C.|Gillingham]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 31%; left: 44.4%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Morecambe F.C.|Morecambe]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Morecambe F.C.|Morecambe]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 60.2%; left: 66.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Northampton Town F.C.|<span class="nowrap">Northampton Town</span>]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Northampton Town F.C.|<span class="nowrap">Northampton Town</span>]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 68.5%; left: 63.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Oxford United F.C.|Oxford Utd]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Oxford United F.C.|Oxford Utd]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 89.8%; left: 29.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Plymouth Argyle F.C.|Plymouth Argyle]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Plymouth Argyle F.C.|Plymouth Argyle]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 47.2%; left: 52.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Port Vale F.C.|Port Vale]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Port Vale F.C.|Port Vale]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 38.1%; left: 52.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Rochdale A.F.C.|Rochdale]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[Rochdale A.F.C.|Rochdale]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 41.2%; left: 61.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Rotherham United F.C.|<span class="nowrap">Rotherham United</span>]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Rotherham United F.C.|<span class="nowrap">Rotherham United</span>]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 71.2%; left: 85.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Southend United F.C.|Southend United]]
+</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Southend United F.C.|Southend United]]
+</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 88.4%; left: 36.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Torquay United F.C.|Torquay United]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:70%;">[[Torquay United F.C.|Torquay United]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 69.9%; left: 68%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[Wycombe Wanderers F.C.|Wycombe]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:70%;">[[Wycombe Wanderers F.C.|Wycombe]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 32.5%; left: 64.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:70%;">[[York City F.C.|York City]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:70%;">[[York City F.C.|York City]]</div></span></div></div></div>
+<div class="thumbcaption">Locations of League Two 2012–13 teams
+</div>
+</div>
+</div>
+{| class="wikitable sortable"
+|-
+! Team
+! Location
+! Stadium
+! Capacity
+|-
+| [[Accrington Stanley F.C.|Accrington Stanley]] || [[Accrington]] || [[Crown Ground]] || align="center" | 5,057
+|-
+| [[AFC Wimbledon|AFC Wimbledon]] || [[Kingston upon Thames]] || [[Kingsmeadow]] ||align="center"| 4,850
+|-
+| [[Aldershot Town F.C.|Aldershot Town]] || [[Aldershot]] || [[Recreation Ground (Aldershot)|Recreation Ground]] || align="center" | 7,100
+|-
+| [[Barnet F.C.|Barnet]] || [[Barnet]] || [[Underhill Stadium]] || align="center"| 5,260
+|-
+| [[Bradford City A.F.C.|Bradford City]] || [[Bradford]] || [[Valley Parade]] || align="center" | 25,136
+|-
+| [[Bristol Rovers F.C.|Bristol Rovers]] || [[Bristol]] || [[Memorial Stadium (Bristol)|Memorial Stadium]] || align="center" | 12,011
+|-
+| [[Burton Albion F.C.|Burton Albion]] || [[Burton upon Trent]] || [[Pirelli Stadium]] || align="center" | 6,912
+|-
+| [[Cheltenham Town F.C.|Cheltenham Town]] || [[Cheltenham]] || [[Whaddon Road]] || align="center" | 7,066
+|-
+| [[Chesterfield F.C.|Chesterfield]] || [[Chesterfield]] || [[Proact Stadium]] || style="text-align:center;"| 10,338
+|-
+| [[Dagenham & Redbridge F.C.|Dagenham & Redbridge]] || [[Dagenham]] || [[Victoria Road (Dagenham)|Victoria Road]] || align="center" | 6,078
+|-
+| [[Exeter City F.C.|Exeter City]] || [[Exeter]] || [[St James Park, Exeter|St James Park]] || style="text-align:center;"| 8,830
+|-
+| [[Fleetwood Town F.C.|Fleetwood Town]] || [[Fleetwood]] || [[Highbury Stadium, Fleetwood|Highbury Stadium]] || align="center" | 5,094
+|-
+| [[Gillingham F.C.|Gillingham]] || [[Gillingham, Kent|Gillingham]] || [[Priestfield Stadium]] || align="center" | 11,582
+|-
+| [[Morecambe F.C.|Morecambe]] || [[Morecambe]] || [[Globe Arena (football stadium)|Globe Arena]] || align="center" | 6,476
+|-
+| [[Northampton Town F.C.|Northampton Town]] || [[Northampton]] || [[Sixfields Stadium]] || align="center" | 7,653
+|-
+| [[Oxford United F.C.|Oxford United]] || [[Oxford]] || [[Kassam Stadium]] || align="center" | 12,500
+|-
+| [[Plymouth Argyle F.C.|Plymouth Argyle]] || [[Plymouth]] || [[Home Park]] || align="center" | 16,388
+|-
+| [[Port Vale F.C.|Port Vale]] || [[Stoke-on-Trent]] || [[Vale Park]] || align="center" | 19,052
+|-
+| [[Rochdale A.F.C.|Rochdale]] || [[Rochdale]] || [[Spotland Stadium]] || align="center" | 10,249
+|-
+| [[Rotherham United F.C.|Rotherham United]] || [[Rotherham]] || [[New York Stadium]] || align="center" | 12,021
+|-
+| [[Southend United F.C.|Southend United]] || [[Southend-on-Sea]] || [[Roots Hall]] || align="center" | 12,392
+|-
+| [[Torquay United F.C.|Torquay United]] || [[Torquay]] || [[Plainmoor]] || align="center" | 6,104
+|-
+| [[Wycombe Wanderers F.C.|Wycombe Wanderers]] || [[High Wycombe]] || [[Adams Park]] || style="text-align:center;"| 10,284
+|-
+| [[York City F.C.|York City]] || [[York]] || [[Bootham Crescent]] || style="text-align:center;"| 7,872
+|}
+<br style="clear:both;" />
+
+===Personnel and sponsoring===
+{| class="wikitable sortable" style="text-align: left;"
+|-
+! Team
+! Manager
+! Chairman
+! Team captain
+! Kit maker
+! Sponsor
+|-
+|Accrington Stanley
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Leam Richardson]] <small>(caretaker)</small>
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Peter Marsden
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Dean Winnard]]
+|[[Samurai Sportswear]]
+|Clever Boxes
+|-
+|AFC Wimbledon
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Neal Ardley]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Erik Samuelson
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Mat Mitchel-King]] 
+|Tempest Sports
+|[[Football Manager]] (H)<br />[[Sports Interactive]] (A)
+|-
+|Aldershot Town
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Dean Holdsworth]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Kris Machala
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Ben Herd]]
+|[[Erreà]]
+|EBB Paper
+|-
+|Barnet
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Mark Robson (footballer)|Mark Robson]]<br /><span class="flagicon">[[File:Flag of the Netherlands.svg|22x20px|border |alt=Netherlands|link=Netherlands]]</span> [[Edgar Davids]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Anthony Kleanthous]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jonathan Fortune]]
+|Surridge
+|Pulse Fitness
+|-
+|Bradford City
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Phil Parkinson]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Mark Lawn]]<br /><span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Julian Rhodes]]
+|''TBA''
+|[[Nike, Inc.|Nike]]
+|Map Group UK
+|-
+|Bristol Rovers
+|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Mark McGhee]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Nick Higgs]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Matthew Gill]]
+|Erreà
+|Opus Recruitment (H)<br />CR Windows (A)
+|-
+|Burton Albion
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Gary Rowett]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Ben Robinson
+|<span class="flagicon">[[File:Flag of Ireland.svg|22x20px|border |alt=Republic of Ireland|link=Republic of Ireland]]</span> [[John McGrath (Irish footballer)|John McGrath]]
+|TAG
+|Mr Cropper
+|-
+| Cheltenham Town
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Mark Yates (footballer)|Mark Yates]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Paul Baker
+| <span class="flagicon">[[File:Flag of Ireland.svg|22x20px|border |alt=Republic of Ireland|link=Republic of Ireland]]</span> [[Alan Bennett (Irish footballer)|Alan Bennett]]
+| Erreà
+| [[Kohler Company#Products|Mira Showers]]
+|-
+|Chesterfield
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Paul Cook (footballer)|Paul Cook]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Barrie Hubbard
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Mark Allott]]
+|[[Puma AG|Puma]]
+|[[Vodka Kick]]
+|-
+|Dagenham & Redbridge
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[John Still (footballer)|John Still]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Dave Andrews
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Abu Ogogo]]
+|[[Vandanel Sports|Vandanel]]
+|West & Coe Funeral Directors
+|-
+|Exeter City
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Paul Tisdale]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Edward Chorlton
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Danny Coles]]
+|[[Joma]]
+|[[Flybe|Flybe.com]]
+|-
+|Fleetwood Town
+|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Micky Mellon]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Andy Pilley
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Steve McNulty
+|Nike
+|BES Commercial Gas
+|-
+|Gillingham
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Martin Allen]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Paul Scally]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Andrew Frampton]]
+|Vandanel
+|Medway Electrical & Mechanical Services
+|-
+|Morecambe
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jim Bentley]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Peter McGuigan
+|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Will Haining]]
+|Puma
+|[[Bench (clothing brand)|Bench]]
+|-
+|Northampton Town
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Aidy Boothroyd]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[David Cardoza]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[John Johnson (footballer)|John Johnson]]
+|Erreà
+|Jackson Grandy
+|-
+|Oxford United
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Chris Wilder]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Ian Lenagan]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jake Wright]]
+|Nike
+|[[Bridle Insurance]]
+|-
+|Plymouth Argyle
+|<span class="flagicon">[[File:Flag of Wales 2.svg|22x20px|border |alt=Wales|link=Wales]]</span> [[Carl Fletcher (Welsh footballer)|Carl Fletcher]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> James Brent
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Darren Purse]]
+|Puma
+|Bond Timber
+|-
+|Port Vale
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Micky Adams]]
+|''In Administration''
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Doug Loft]]
+|Sondico
+|N/A
+|-
+|Rochdale
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[John Coleman (footballer born 1962)|John Coleman]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Chris Dunphy]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Gary Jones (footballer born 1977)|Gary Jones]]
+|[[Fila (company)|Fila]]
+|[[Cooperative|Co-Operative]]
+|-
+|Rotherham United
+|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Steve Evans (footballer born 1962)|Steve Evans]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Tony Stewart
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Ian Sharps]]
+|Puma
+|Parkgate Shopping
+|-
+|Southend United
+|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Paul Sturrock]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Ron Martin (businessman)|Ron Martin]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Chris Barker]]
+| [[Nike, Inc.|Nike]]
+|[[InsureandGo]]
+|-
+| Torquay United
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Martin Ling]]
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Simon Baker
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Lee Mansell]]
+| [[Sports Direct|Sondico]]
+| Sparkworld
+|-
+|Wycombe Wanderers
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Gareth Ainsworth]] <small>(caretaker)</small>
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> Ivor Beeks [[Order of the British Empire|MBE]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Gareth Ainsworth]]
+|[[Kappa (company)|Kukri]]
+|[[Dreams (bed retailer)|Dreams]]
+|-
+|York City
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Gary Mills (footballer born 1961)|Gary Mills]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jason McGill]]
+|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Chris Smith (footballer born 1981)|Chris Smith]]
+|[[Nike, Inc.|Nike]]
+|[[Benenden Healthcare Society|Benenden Healthcare]]
+|}
+
+====Managerial changes====
+{| class="wikitable"
+|-
+!Team
+!Outgoing manager
+!Manner of departure
+!Date of vacancy
+!Position in table
+!Incoming manager
+!Date of appointment
+|-
+| Burton Albion
+| <span class="flagicon">[[File:Flag of Canada.svg|22x20px|border |alt=Canada|link=Canada]]</span> [[Paul Peschisolido]]
+| Sacked
+| 17 March 2012<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/17418471 | title=Burton Albion sack manager Paul Peschisolido | publisher=BBC Sport | date=17 March 2012 | accessdate=27 May 2012}}</ref>
+| Pre-season
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Gary Rowett]]
+| 10 May 2012<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/18023683 | title=Burton Albion name Gary Rowett as permanent manager | publisher=BBC Sport | date=10 May 2012 | accessdate=27 May 2012}}</ref>
+|-
+| Gillingham
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Andy Hessenthaler]]
+| Resigned
+| 8 May 2012<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/17991390 | title=Andy Hessenthaler steps down as Gillingham manager | publisher=BBC Sport | date=8 May 2012 | accessdate=27 May 2012}}</ref>
+| Pre-season
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Martin Allen]]
+| 5 July 2012<ref>{{cite web | url=http://www.dailymail.co.uk/sport/football/article-2169282/Martin-Allen-new-Gillingham-manager-year-deal.html | title=Ex-Barnet boss Allen takes charge of League Two rivals Gillingham | publisher=Daily Mail | date=5 July 2012 | accessdate=8 July 2012}}</ref>
+|-
+| Barnet
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Martin Allen]]
+| End of contract
+| 31 May 2012
+| Pre-season
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Mark Robson (footballer)|Mark Robson]]<br><span class="flagicon">[[File:Flag of the Netherlands.svg|22x20px|border |alt=Netherlands|link=Netherlands]]</span> [[Edgar Davids]]
+| 11 June 2012<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/18394278 | title=Barnet appoint Mark Robson as new head coach | publisher=BBC Sport | date=11 June 2012 | accessdate=17 June 2012}}</ref><br>11 October 2012<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/18394278 | title=Edgar Davids joins Barnet: Dutchman ready for challenge | publisher=BBC Sport | date=12 October 2012 | accessdate=24 October 2012}}</ref>
+|-
+| Chesterfield
+| <span class="flagicon">[[File:Flag of Ireland.svg|22x20px|border |alt=Republic of Ireland|link=Republic of Ireland]]</span> [[John Sheridan (footballer)|John Sheridan]]
+| Sacked
+| 28 August 2012<ref>{{cite web | url=http://www.bbc.co.uk/sport/0/football/19396772 | title=Chesterfield manager John Sheridan sacked | publisher=BBC Sport | date=28 August 2012}}</ref>
+| 18th
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Paul Cook (footballer)|Paul Cook]]
+| 25 October 2012<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/19883479|title=Chesterfield appoint Accrington boss Paul Cook |date=25 October 2012 |accessdate=26 October 2012 |publisher=BBC Sport}}</ref>
+|-
+| AFC Wimbledon
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Terry Brown (football manager)|Terry Brown]]
+| Sacked
+| 19 September 2012<ref>{{cite web |url=http://www.bbc.co.uk/sport/0/football/19650641 |title=AFC Wimbledon sack manager Terry Brown |publisher=BBC Sport |accessdate=19 September 2012}}</ref>
+| 21st
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Neal Ardley]]
+| 10 October 2012<ref>{{cite web |url=http://www.bbc.co.uk/sport/0/football/19898624 |title=AFC Wimbledon appoint Neal Ardley as new manager |publisher=BBC Sport |accessdate=12 October 2012}}</ref>
+|-
+| Wycombe Wanderers
+| <span class="flagicon">[[File:Flag of Ireland.svg|22x20px|border |alt=Republic of Ireland|link=Republic of Ireland]]</span> [[Gary Waddock]]
+| Sacked
+| 22 September 2012<ref>{{cite web |url=http://www.bbc.co.uk/sport/0/football/19689639 |title=Gary Waddock sacked as Wycombe Wanderers manager |publisher=BBC Sport |date=22 September 2012}}</ref>
+| 21st
+|
+|
+|-
+| Accrington Stanley
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Paul Cook (footballer)|Paul Cook]]
+| Signed by [[Chesterfield F.C.|Chesterfield]]
+| 25 October 2012<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/19883479|title=Chesterfield appoint Accrington boss Paul Cook |date=25 October 2012 |accessdate=26 October 2012 |publisher=BBC Sport}}</ref>
+| 16th
+|
+|
+|}
+
+==League Table==
+A total of 24 teams contest the division: 18 sides remaining in the division from last season, four relegated from [[Football League One|League One]], and two promoted from [[Football Conference|Conference National]].
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Promotion or relegation<br />
+|- style="background-color:#D0F0C0"
+|1
+|align=left|[[Gillingham F.C.|Gillingham]]
+|15
+|11
+|2
+|2
+|30
+|10||+20
+|'''35'''
+|rowspan=3 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Promotion to the<span class="Unicode"> </span>2013–14 [[Football League One|League One]]
+|- style="background-color:#D0F0C0"
+|2
+|align=left|[[Port Vale F.C.|Port Vale]]
+|15
+|9
+|3
+|3
+|33
+|16||+17
+|'''30'''
+|- style="background-color:#D0F0C0"
+|3
+|align=left|[[Cheltenham Town F.C.|Cheltenham Town]]
+|15
+|8
+|4
+|3
+|22
+|17||+5
+|'''28'''
+|- style="background-color:#D1E231"
+|4
+|align=left|[[Fleetwood Town F.C.|Fleetwood Town]]
+|15
+|7
+|5
+|3
+|21
+|13||+8
+|'''26'''
+|rowspan=4 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Qualification to the<span class="Unicode"> </span>League Two Playoffs
+|- style="background-color:#D1E231"
+|5
+|align=left|[[Bradford City A.F.C.|Bradford City]]
+|15
+|7
+|3
+|5
+|24
+|18||+6
+|'''24'''
+|- style="background-color:#D1E231"
+|6
+|align=left|[[Rotherham United F.C.|Rotherham United]]
+|14
+|7
+|3
+|4
+|23
+|17||+6
+|'''24'''
+|- style="background-color:#D1E231"
+|7
+|align=left|[[Torquay United F.C.|Torquay United]]
+|15
+|6
+|6
+|3
+|23
+|18||+5
+|'''24'''
+|- 
+|8
+|align=left|[[Burton Albion F.C.|Burton Albion]]
+|15
+|6
+|5
+|4
+|23
+|20||+3
+|'''23'''
+|- 
+|9
+|align=left|[[Rochdale A.F.C.|Rochdale]]
+|15
+|6
+|5
+|4
+|21
+|19||+2
+|'''23'''
+|- 
+|10
+|align=left|[[York City F.C.|York City]]
+|15
+|5
+|7
+|3
+|20
+|18||+2
+|'''22'''
+|- 
+|11
+|align=left|[[Exeter City F.C.|Exeter City]]
+|15
+|6
+|2
+|7
+|21
+|24||&minus;3
+|'''20'''
+|- 
+|12
+|align=left|[[Accrington Stanley F.C.|Accrington Stanley]]
+|14
+|6
+|2
+|6
+|18
+|22||&minus;4
+|'''20'''
+|- 
+|13
+|align=left|[[Southend United F.C.|Southend United]]
+|15
+|5
+|4
+|6
+|19
+|17||+2
+|'''19'''
+|- 
+|14
+|align=left|[[Northampton Town F.C.|Northampton Town]]
+|15
+|5
+|4
+|6
+|20
+|21||&minus;1
+|'''19'''
+|- 
+|15
+|align=left|[[Oxford United F.C.|Oxford United]]
+|15
+|6
+|1
+|8
+|22
+|27||&minus;5
+|'''19'''
+|- 
+|16
+|align=left|[[Chesterfield F.C.|Chesterfield]]
+|15
+|4
+|6
+|5
+|17
+|18||&minus;1
+|'''18'''
+|- 
+|17
+|align=left|[[Morecambe F.C.|Morecambe]]
+|15
+|5
+|3
+|7
+|18
+|21||&minus;3
+|'''18'''
+|- 
+|18
+|align=left|[[Plymouth Argyle F.C.|Plymouth Argyle]]
+|15
+|4
+|5
+|6
+|20
+|21||&minus;1
+|'''17'''
+|- 
+|19
+|align=left|[[Dagenham & Redbridge F.C.|Dagenham & Redbridge]]
+|15
+|3
+|7
+|5
+|20
+|22||&minus;2
+|'''16'''
+|- 
+|20
+|align=left|[[Bristol Rovers F.C.|Bristol Rovers]]
+|14
+|3
+|5
+|6
+|14
+|23||&minus;9
+|'''14'''
+|- 
+|21
+|align=left|[[AFC Wimbledon|AFC Wimbledon]]
+|15
+|4
+|2
+|9
+|18
+|29||&minus;11
+|'''14'''
+|- 
+|22
+|align=left|[[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+|14
+|3
+|3
+|8
+|13
+|23||&minus;10
+|'''12'''
+|- style="background-color:#FFCCCC"
+|23
+|align=left|[[Aldershot Town F.C.|Aldershot Town]]
+|15
+|3
+|3
+|9
+|12
+|25||&minus;13
+|'''12'''
+|rowspan=2 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Relegation to the<span class="Unicode"> </span>2013–14 [[Conference National]]
+|- style="background-color:#FFCCCC"
+|24
+|align=left|[[Barnet F.C.|Barnet]]
+|15
+|2
+|4
+|9
+|13
+|26||&minus;13
+|'''10'''
+|}
+<small>
+Updated to games played on 27 October 2012<br />Source: [http://www.football-league.co.uk/page/DivisionalLeagueTable/0,,10794~201226,00.html The Football League]<br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+==Results==
+{| class="wikitable" style="font-size: 80%; text-align: center;"
+|-
+|Home \ Away<sup class="reference" id="ref_Home \ Away^">[[#endnote_Home \ Away^|[1]]]</sup>
+|width=25|[[Accrington Stanley F.C.|ACC]]
+|width=25|[[AFC Wimbledon|WIM]]
+|width=25|[[Aldershot Town F.C.|ALD]]||width=25|[[Barnet F.C.|BRN]]||width=25|[[Bradford City A.F.C.|BRA]]||width=25|[[Bristol Rovers F.C.|BRO]]||width=25|[[Burton Albion F.C.|BRT]]||width=25|[[Cheltenham Town F.C.|CHL]]||width=25|[[Chesterfield F.C.|CHS]]||width=25|[[Dagenham & Redbridge F.C.|D&R]]||width=25|[[Exeter City F.C.|EXE]]||width=25|[[Fleetwood Town F.C.|FLE]]||width=25|[[Gillingham F.C.|GIL]]||width=25|[[Morecambe F.C.|MOR]]||width=25|[[Northampton Town F.C.|NOR]]||width=25|[[Oxford United F.C.|OXF]]||width=25|[[Plymouth Argyle F.C.|PLY]]||width=25|[[Port Vale F.C.|PVA]]||width=25|[[Rochdale A.F.C.|ROC]]||width=25|[[Rotherham United F.C.|ROT]]||width=25|[[Southend United F.C.|STD]]||width=25|[[Torquay United F.C.|TOR]]||width=25|[[Wycombe Wanderers F.C.|WYC]]||width=25|[[York City F.C.|YOR]]
+|-
+|align=right|[[Accrington Stanley F.C.|Accrington Stanley]]
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+
+|-
+|align=right|[[AFC Wimbledon|AFC Wimbledon]]
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+
+|-
+|align=right|[[Aldershot Town F.C.|Aldershot Town]]
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+
+|-
+|align=right|[[Barnet F.C.|Barnet]]
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;4</span>
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+
+|-
+|align=right|[[Bradford City A.F.C.|Bradford City]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">5&ndash;1</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+
+|-
+|align=right|[[Bristol Rovers F.C.|Bristol Rovers]]
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;2</span>
+ |
+ |
+
+|-
+|align=right|[[Burton Albion F.C.|Burton Albion]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">6&ndash;2</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">3&ndash;3</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;0</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+
+|-
+|align=right|[[Cheltenham Town F.C.|Cheltenham Town]]
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |
+ |
+ |
+
+|-
+|align=right|[[Chesterfield F.C.|Chesterfield]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;3</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+
+|-
+|align=right|[[Dagenham & Redbridge F.C.|Dagenham & Redbridge]]
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;3</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+
+|-
+|align=right|[[Exeter City F.C.|Exeter City]]
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |
+ |
+ |[[West Country derby|a]]
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |
+ |
+ |
+ |[[West Country derby|a]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;2</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+
+|-
+|align=right|[[Fleetwood Town F.C.|Fleetwood Town]]
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;5</span>
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+
+|-
+|align=right|[[Gillingham F.C.|Gillingham]]
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;1</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |
+
+|-
+|align=right|[[Morecambe F.C.|Morecambe]]
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;4</span>
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+
+|-
+|align=right|[[Northampton Town F.C.|Northampton Town]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">3&ndash;3</span>
+ |
+ |
+ |
+
+|-
+|align=right|[[Oxford United F.C.|Oxford United]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">5&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;4</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |
+ |
+
+|-
+|align=right|[[Plymouth Argyle F.C.|Plymouth Argyle]]
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |[[West Country derby|a]]
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;2</span>
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |[[West Country derby|a]]
+ |
+ |
+
+|-
+|align=right|[[Port Vale F.C.|Port Vale]]
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">6&ndash;2</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;1</span>
+ |
+
+|-
+|align=right|[[Rochdale A.F.C.|Rochdale]]
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;0</span>
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+ |
+ |
+ |
+
+|-
+|align=right|[[Rotherham United F.C.|Rotherham United]]
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;0</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;0</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">2&ndash;3</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;3</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+
+|-
+|align=right|[[Southend United F.C.|Southend United]]
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;2</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+
+|-
+|align=right|[[Torquay United F.C.|Torquay United]]
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;3</span>
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |
+ |
+ |[[West Country derby|a]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">1&ndash;0</span>
+ |
+ |
+ |bgcolor=#FFFFDD|[[West Country derby|<span style="line-height: 80%">0&ndash;0</span>]]
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">4&ndash;2</span>
+ |
+ |
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+ |
+
+|-
+|align=right|[[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;1</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">1&ndash;1</span>
+ |
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">2&ndash;1</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+ |
+
+|-
+|align=right|[[York City F.C.|York City]]
+ |
+ |
+ |
+ |
+ |[[Yorkshire Derby|a]]
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">2&ndash;2</span>
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;2</span>
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">0&ndash;2</span>
+ |
+ |
+ |
+ |bgcolor=#DFE7FF|<span style="line-height: 80%">3&ndash;1</span>
+ |
+ |
+ |
+ |bgcolor=#FFFFDD|<span style="line-height: 80%">0&ndash;0</span>
+ |
+ |
+ |bgcolor=#FFDFDF|<span style="line-height: 80%">1&ndash;3</span>
+ |bgcolor=#CCCCCC|<span class="Unicode"> </span>
+
+|}<small>Updated to games played on 27 October 2012<br />Source: [http://www.football-league.co.uk/page/AllCompFixtures/0,,10794~2012000026,00.html The Football League]<br /><sup>1&nbsp;<span class="citation wikicite" id="endnote_Home_.5C_Away.5E">[[#ref_Home \ Away^|'''<sup>^</sup>''']]</span> </sup>The home team is listed in the left-hand column.<br />'''Colours''': Blue = home team win; Yellow = draw; Red = away team win.<br />For coming matches, an '''a''' indicates there is an article about the match.<br /></small>
+
+==Season statistics==
+{| class=" multicol" style="border-collapse: collapse; padding: 0px; border: 0px; background:transparent; width:100%;"
+<p></p>
+| width="50%" align="left" valign="top" |
+===Top scorers===
+: ''As of 20 October 2012''
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Goals<ref name=topscorer />
+|-
+|rowspan=1|1
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Tom Pope]]
+|align="left"|Port Vale
+|rowspan=1|14
+|-
+|rowspan=2|2
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jamie Cureton]]
+|align="left"|Exeter City
+|rowspan=2|10
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Rene Howe]]
+|align="left"|Torquay United
+|-
+|rowspan=1|4
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Danny Kedwell]]
+|align="left"|Gillingham
+|rowspan=1|9
+|-
+|rowspan=2|5
+|align="left"|<span class="flagicon">[[File:Flag of the Democratic Republic of the Congo.svg|22x20px|border |alt=Democratic Republic of the Congo|link=Democratic Republic of the Congo]]</span> [[Britt Assombalonga]]
+|align="left"|Southend United
+|rowspan=2|8
+|-
+|align="left"|<span class="flagicon">[[File:Flag of Bermuda.svg|22x20px|border |alt=Bermuda|link=Bermuda]]</span> [[Nahki Wells]]
+|align="left"|Bradford City
+|-
+|rowspan=3|7
+|align="left"|<span class="flagicon">[[File:Flag of Ireland.svg|22x20px|border |alt=Republic of Ireland|link=Republic of Ireland]]</span> [[Pádraig Amond]]
+|align="left"|Accrington Stanley
+|rowspan=3|7
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Tom Craddock|Tom Craddock]]
+|align="left"|Oxford United
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Alex Nicholls (footballer)|Alex Nicholls]]
+|align="left"|Northampton Town
+|-
+|rowspan=4|10
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Ashley Chambers|Ashley Chambers]]
+|align="left"|York City
+|rowspan=4|6
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Byron Harrison (footballer)|Byron Harrison]]
+|align="left"|AFC Wimbledon
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Craig Reid (footballer born 1985)|Craig Reid]]
+|align="left"|Aldershot Town
+|-
+|align="left"|<span class="flagicon">[[File:Flag of the Democratic Republic of the Congo.svg|22x20px|border |alt=Democratic Republic of the Congo|link=Democratic Republic of the Congo]]</span> [[Calvin Zola]]
+|align="left"|Burton Albion
+|-
+|rowspan=9|14
+|align="left"|<span class="flagicon">[[File:Flag of Nigeria.svg|22x20px|border |alt=Nigeria|link=Nigeria]]</span> [[Dele Adebola|Dele Adebola]]
+|align="left"|Rochdale
+|rowspan=9|5
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Adebayo Akinfenwa]]
+|align="left"|Northampton Town
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Junior Brown (footballer)|Junior Brown]]
+|align="left"|Fleetwood Town
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Deon Burton|Deon Burton]]
+|align="left"|Gillingham
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Robert Grant]]
+|align="left"|Rochdale
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Shaun Harrad]]
+|align="left"|Cheltenham Town
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jack Lester]]
+|align="left"|Chesterfield
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jack Redshaw|Jack Redshaw]]
+|align="left"|Morecambe
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Ashley Vincent]]
+|align="left"|Port Vale
+|}
+<p></p>
+| width="50%" align="left" valign="top" |
+
+===Assists===
+: ''As of 13 October 2012''
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Assists<ref name="assists">{{cite web |url=http://soccernet.espn.go.com/stats/assists/_/league/eng.4/english-league-two?cc=5739 |title=English League Two Stats: Assists Leaders – 2012–13 |work=ESPN Soccernet |publisher=Entertainment and Sports Programming Network (ESPN) |accessdate=26 August 2012}}</ref>
+|-
+|1
+|align="left"|<span class="flagicon">[[File:Flag of Scotland.svg|22x20px|border |alt=Scotland|link=Scotland]]</span> [[Andrew Mangan]]
+|align="left"|Fleetwood Town
+|6
+|-
+|2
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Jennison Myrie-Williams]]
+|align="left"|Port Vale
+|5
+|-
+|rowspan=9|3
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Charlie Allen (footballer)|Charlie Allen]]
+|align="left"|Gillingham
+|rowspan=9|4
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Sean Clohessy]]
+|align="left"|Southend United
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Kevan Hurst]]
+|align="left"|Southend United
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Billy Jones (footballer born 1983)|Billy Jones]]
+|align="left"|Cheltenham Town
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Kevin Nicholson (footballer)|Kevin Nicholson]]
+|align="left"|Torquay United
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Liam Sercombe]]
+|align="left"|Exeter City
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Chris Shuker]]
+|align="left"|Port Vale
+|-
+|align="left"|<span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> [[Ben Tozer]]
+|align="left"|Northampton Town
+|}
+<p></p>
+|}
+
+===Hat-tricks===
+{| class="wikitable sortable"
+|-
+! Player|| For !! Against !! style="text-align:center;"| Result !! Date
+|-
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Parkin, Jon</span><span class="vcard"><span class="fn">[[Jon Parkin|Jon Parkin]]</span></span>[[Category:Articles with hCards]] || Fleetwood Town || Morecambe || 0–4<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/19447832 |title=Morecambe 0–4 Fleetwood |date=8 September 2012 |publisher=[[BBC Sport]] |accessdate=22 September 2012}}</ref> || 8 September 2012
+|-
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Pope, Tom</span><span class="vcard"><span class="fn">[[Tom Pope|Tom Pope]]</span></span>[[Category:Articles with hCards]]<sup>4</sup> || Port Vale || Rotherham United || 6–2<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/19447839 |title=Port Vale 6–2 Rotherham |date=8 September 2012 |publisher=[[BBC Sport]] |accessdate=22 September 2012}}</ref> || 8 September 2012
+|-
+| <span class="flagicon">[[File:Flag of England.svg|22x20px|border |alt=England|link=England]]</span> <span style="display:none;">Craddock, Tom</span><span class="vcard"><span class="fn">[[Tom Craddock|Tom Craddock]]</span></span>[[Category:Articles with hCards]]<sup>4</sup> || Oxford United || Accrington Stanley || 5–0<ref>{{cite news |url=http://www.bbc.co.uk/sport/0/football/19939613 |title=Oxford United 5–0 Accrington Stanley |date=20 October 2012 |publisher=[[BBC Sport]] |accessdate=20 October 2012}}</ref> || 20 October 2012
+|}
+* <small><sup>4</sup> Player scored 4 goals</small>
+
+===Scoring===
+*First goal of the season: [[Troy Brown (footballer)|Troy Brown]] for Aldershot Town against Plymouth Argyle (<small>''18 August 2012''</small>)
+*Fastest goal of the season: '''14 seconds''', [[Sam Morsy]] for Port Vale against Morecambe (<small>''25 August 2012''</small>)<ref>{{cite news|title=Sam Morsy targets goals to secure first team place|url=http://www.thisisstaffordshire.co.uk/Port-Vale-Sam-Morsy-targets-goals-secure-team/story-16776060-detail/story.html|accessdate=28 August 2012|newspaper=[[The Sentinel (Staffordshire)|The Sentinel]]|date=28 August 2012}}</ref>
+*Latest goal of the season: '''94 minutes and 17 seconds''', [[Jason Walker (footballer)|Jason Walker]] for York City against Chesterfield (<small>''8 September 2012''</small>)<ref>{{cite web|title=York 2–2 Chesterfield|url=http://www.bbc.co.uk/sport/0/football/19447888|accessdate=15 September 2012}}</ref>
+
+*Largest winning margin: '''5 goals'''
+**Oxford United 5–0 Accrington Stanley (<small>''20 October 2012''</small>)
+
+===Clean sheets===
+*Most [[Shutout|clean sheets]]: '''6'''<ref name=stats />
+**Fleetwood Town
+**Gillingham
+
+*Fewest clean sheets: '''1'''<ref name=stats />
+**Bristol Rovers
+**Wycombe Wanderers
+
+===Discipline===
+*Most yellow cards (club): '''28'''<ref name=teamdiscipline>{{cite web|title=English League Two Stats: Team Discipline – 2012–13|url=http://soccernet.espn.go.com/stats/fairplay/_/league/eng.4/english-league-two?cc=5739|work=ESPN|accessdate=23 August 2012}}</ref>
+**Plymouth Argyle
+
+*Most yellow cards (player): '''6'''<ref name=playerdiscipline>{{cite web|title=English League Two Stats: Player Discipline – 2012–13|url=http://soccernet.espn.go.com/stats/discipline/_/league/eng.4/english-league-two?cc=5739|work=ESPN|accessdate=23 August 2012}}</ref>
+** [[Durrell Berry]] (Plymouth Argyle)
+** [[Tom Parkes]] (Bristol Rovers)
+
+*Most red cards (club): '''4'''<ref name=teamdiscipline />
+**Gillingham
+
+*Most red cards (player): '''1'''<ref name=playerdiscipline />
+{| class=" multicol" style="border-collapse: collapse; padding: 0px; border: 0px; background:transparent; width:100%;"
+<p></p>
+| width="50%" align="left" valign="top" |
+:* [[Charlie Allen (footballer)|Charlie Allen]] (Gillingham)
+:* [[Lee Bell]] (Burton Albion)
+:* [[James Constable]] (Oxford United)
+:* [[Bradley Dack]] (Gillingham)
+:* [[Aaron Downes]] (Torquay United)
+:* [[Danny East]] (Northampton Town)
+:* [[Kevin Ellison (footballer)|Kevin Ellison]] (Morecambe)
+:* [[Tom Flanagan (footballer)|Tom Flanagan]] (Gillingham)
+:* [[Robert Grant (footballer)|Robert Grant]] (Rochdale)
+:* [[Dean Howell]] (Fleetwood Town)
+:* [[Danny Jackman]] (Gillingham)
+:* [[Leon Johnson (footballer)|Leon Johnson]] (Wycombe Wanderers)
+<p></p>
+| width="50%" align="left" valign="top" |
+:* [[Christian Jolley]] (AFC Wimbledon)
+:* [[Michael Liddle]] (Accrington Stanley)
+:* [[Kevin McIntyre (footballer)|Kevin McIntyre]] (Rochdale)
+:* [[Jack Midson]] (AFC Wimbledon)
+:* [[Josh Payne]] (Aldershot Town)
+:* [[Alex Revell]] (Rotherham United)
+:* [[John Spicer (footballer)|John Spicer]] (Southend United)
+:* [[Michael Timlin]] (Southend United)
+:* [[Peter Vincenti]] (Aldershot Town)
+:* [[Craig Westcarr]] (Chesterfield)
+:* [[Luke Wilkinson]] (Dagenham and Redbridge)
+<p></p>
+|}
+
+==References==
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<references group=""></references></div>
+
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:Football League Two teamlist|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:Football League Two teamlist|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:Football_League_Two_teamlist&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[2012&ndash;13 Football League Two|2012&ndash;13]] [[Football League Two]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><td colspan=2 style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+*[[AFC Wimbledon|AFC Wimbledon]]
+* [[Accrington Stanley F.C.|Accrington Stanley]]
+* [[Aldershot Town F.C.|Aldershot Town]]
+* [[Barnet F.C.|Barnet]]
+* [[Bradford City A.F.C.|Bradford City]]
+* [[Bristol Rovers F.C.|Bristol Rovers]]
+* [[Burton Albion F.C.|Burton Albion]]
+* [[Cheltenham Town F.C.|Cheltenham Town]]
+* [[Chesterfield F.C.|Chesterfield]]
+* [[Dagenham & Redbridge F.C.|Dagenham & Redbridge]]
+* [[Exeter City F.C.|Exeter City]]
+* [[Fleetwood Town F.C.|Fleetwood Town]]
+* [[Gillingham F.C.|Gillingham]]
+* [[Morecambe F.C.|Morecambe]]
+* [[Northampton Town F.C.|Northampton Town]]
+* [[Oxford United F.C.|Oxford United]]
+* [[Plymouth Argyle F.C.|Plymouth Argyle]]
+* [[Port Vale F.C.|Port Vale]]
+* [[Rochdale A.F.C.|Rochdale]]
+* [[Rotherham United F.C.|Rotherham United]]
+* [[Southend United F.C.|Southend United]]
+* [[Torquay United F.C.|Torquay United]]
+* [[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+* [[York City F.C.|York City]]</div></td></tr></table></td></tr></table>
+
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:Football League Two seasons|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:Football League Two seasons|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:Football_League_Two_seasons&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[Football League Fourth Division]] / [[Football League Division Three]] / [[Football League Two]] seasons</div></th></tr><tr style="height:2px;"><td></td></tr><tr><td colspan=2 style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[1958–59 Football League#Fourth Division|1958–59]]
+* [[1959–60 Football League#Fourth Division|1959–60]]
+* [[1960–61 Football League#Fourth Division|1960–61]]
+* [[1961–62 Football League#Fourth Division|1961–62]]
+* [[1962–63 Football League#Fourth Division|1962–63]]
+* [[1963–64 Football League#Fourth Division|1963–64]]
+* [[1964–65 Football League#Fourth Division|1964–65]]
+* [[1965–66 Football League#Fourth Division|1965–66]]
+* [[1966–67 Football League#Fourth Division|1966–67]]
+* [[1967–68 Football League#Fourth Division|1967–68]]
+* [[1968–69 Football League#Fourth Division|1968–69]]
+* [[1969–70 Football League#Fourth Division|1969–70]]
+* [[1970–71 Football League#Fourth Division|1970–71]]
+* [[1971–72 Football League#Fourth Division|1971–72]]
+* [[1972–73 Football League#Fourth Division|1972–73]]
+* [[1973–74 Football League#Fourth Division|1973–74]]
+* [[1974–75 Football League#Fourth Division|1974–75]]
+* [[1975–76 Football League#Fourth Division|1975–76]]
+* [[1976–77 Football League#Fourth Division|1976–77]]
+* [[1977–78 Football League#Fourth Division|1977–78]]
+* [[1978–79 Football League#Fourth Division|1978–79]]
+* [[1979–80 Football League#Fourth Division|1979–80]]
+* [[1980–81 Football League#Fourth Division|1980–81]]
+* [[1981–82 Football League#Fourth Division|1981–82]]
+* [[1982–83 Football League#Fourth Division|1982–83]]
+* [[1983–84 Football League#Fourth Division|1983–84]]
+* [[1984–85 Football League#Fourth Division|1984–85]]
+* [[1985–86 Football League#Fourth Division|1985–86]]
+* [[1986–87 Football League#Fourth Division|1986–87]]
+* [[1987–88 Football League#Fourth Division|1987–88]]
+* [[1988–89 Football League#Fourth Division|1988–89]]
+* [[1989–90 Football League#Fourth Division|1989–90]]
+* [[1990–91 Football League#Fourth Division|1990–91]]
+* [[1991–92 Football League#Fourth Division|1991–92]]
+* [[1992–93 Football League#Third Division|1992–93]]
+* [[1993–94 Football League#Third Division|1993–94]]
+* [[1994–95 Football League#Third Division|1994–95]]
+* [[1995–96 Football League#Third Division|1995–96]]
+* [[1996–97 Football League#Third Division|1996–97]]
+* [[1997–98 Football League#Third Division|1997–98]]
+* [[1998–99 Football League#Third Division|1998–99]]
+* [[1999–2000 Football League#Third Division|1999–2000]]
+* [[2000–01 Football League#Third Division|2000–01]]
+* [[2001–02 Football League#Third Division|2001–02]]
+* [[2002–03 Football League#Third Division|2002–03]]
+* [[2003–04 Football League#Third Division|2003–04]]
+* [[2004–05 Football League Two|2004–05]]
+* [[2005–06 Football League#League Two|2005–06]]
+* [[2006–07 Football League#League Two|2006–07]]
+* [[2007–08 Football League Two|2007–08]]
+* [[2008–09 Football League Two|2008–09]]
+* [[2009–10 Football League Two|2009–10]]
+* [[2010–11 Football League Two|2010–11]]
+* [[2011–12 Football League Two|2011–12]]
+* ''[[2012–13 Football League Two|2012–13]]''</div></td></tr></table></td></tr></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:2012–13 in English football|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:2012–13 in English football|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:2012%E2%80%9313_in_English_football&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[2012–13 in English football]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+<div style="float: left;"> « <span style="font-size:90%;">[[2011–12 in English football|2011–12]]</span> </div></div></td></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[The Football Association|FA]] competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 FA Cup|FA Cup]] <span style="font-size:85%;">([[2012–13 FA Cup Qualifying Rounds|Qualifying Rounds]], [[2013 FA Cup Final|Final]])</span>
+*[[2012 FA Community Shield|Community Shield]]
+*[[2012–13 FA Trophy|FA Trophy]] <span style="font-size:85%;">([[2013 FA Trophy Final|Final]])</span>
+*[[2012–13 FA Youth Cup|FA Youth Cup]]
+*[[2012–13 FA Women's Cup|FA Women's Cup]] <span style="font-size:85%;">([[2013 FA Women's Cup Final|Final]])</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[Premier League|Premier]] and [[The Football League|Football League]]s</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";;">Men</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 Premier League|Premier League]]
+*[[2012–13 Football League|Football League]] <span style="white-space: normal;"><span style="font-size:85%;">([[2012–13 Football League Championship|Championship]], [[2012–13 Football League One|League One]], [[2012–13 Football League Two|League Two]])</span></span>
+*[[2012–13 Football League Cup|League Cup]] <span style="font-size:85%;">([[2013 Football League Cup Final|Final]])</span>
+*[[2012–13 Football League Trophy|Football League Trophy]] <span style="font-size:85%;">([[2013 Football League Trophy Final|Final]])</span>
+*[[2013 Football League play-offs|Play-offs]] <span style="white-space: normal;"><span style="font-size:85%;">([[2013 Football League Championship play-off Final|Championship Final]], [[2013 Football League One play-off Final|League One Final]], [[2013 Football League Two play-off Final|League Two Final]])</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Women</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+*Super League <span style="font-size:85%;">([[2012 FA WSL|'12]], [[2013 FA WSL|'13]])</span>
+*[[2012–13 FA Women's Premier League|Premier League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Youth</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*Professional Development League <span style="font-size:85%;">([[2012–13 Professional Development League 1|League 1]], [[2012–13 Professional Development League 2|League 2]])</span></div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[Football Conference]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 Football Conference|Football Conference]] <span style="font-size:85%;">([[2012–13 Football Conference#Conference National|National]], [[2012–13 Football Conference#Conference North|North]], [[2012–13 Football Conference#Conference South|South]])</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Level 7–8</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+*[[2012–13 Isthmian League|Isthmian League]]
+*[[2012–13 Northern Premier League|Northern Premier League]]
+*[[2012–13 Southern Football League|Southern Football League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Level 9–10</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 Combined Counties Football League|Combined Counties Football League]]
+*[[2012–13 Eastern Counties Football League|Eastern Counties Football League]]
+*[[2012–13 Essex Senior Football League|Essex Senior Football League]]
+*[[2012–13 Hellenic Football League|Hellenic Football League]]
+*[[2012–13 Kent Football League|Kent League]]
+*[[2012–13 Kent Invicta Football League|Kent Invicta League]]
+*[[2012–13 Midlands football leagues (levels 9–10)#Midland Football Alliance|Midland Football Alliance]]
+*[[2012–13 Midlands football leagues (levels 9–10)#Midland Football Combination Premier Division|Midland Football Combination]]
+*[[2012–13 North West Counties Football League|North West Counties Football League]]
+*[[2012–13 Northern Counties East Football League|Northern Counties East Football League]]
+*[[2012–13 Northern Football League|Northern Football League]]
+*[[2012–13 Spartan South Midlands Football League|Spartan South Midlands Football League]]
+*[[2012–13 Sussex County Football League|Sussex County Football League]]
+*[[2012–13 United Counties Football League|United Counties Football League]]
+*[[2012–13 Wessex Football League|Wessex League]]
+*[[2012–13 Western Football League|Western Football League]]
+*[[2012–13 Midlands football leagues (levels 9–10)#West Midlands (Regional) League Premier Division|West Midlands (Regional) League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">European competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";;">Men</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2012–13 UEFA Champions League|Champions League]] <span style="font-size:85%;">([[2013 UEFA Champions League Final|Final]])</span>
+*[[2012–13 UEFA Europa League|Europa League]] <span style="font-size:85%;">([[2013 UEFA Europa League Final|Final]])</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Women</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+*[[2012–13 UEFA Women's Champions League|Champions League]] <span style="font-size:85%;">([[2013 UEFA Women's Champions League Final|Final]])</span></div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Related to national teams</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";;">[[England national football team|Men]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+*[[2014 FIFA World Cup qualification]] <span style="font-size:85%;">([[2014 FIFA World Cup qualification – UEFA Group H|Group H]])</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[England women's national football team|Women]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+*[[Hope Powell]]</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td colspan=2 style="width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+'''Club seasons'''</div></td></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Premier League|Premier League]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2012–13 Arsenal F.C. season|Arsenal]]
+* [[2012–13 Aston Villa F.C. season|Aston Villa]]
+* [[2012–13 Chelsea F.C. season|Chelsea]]
+* [[2012–13 Everton F.C. season|Everton]]
+* [[2012–13 Fulham F.C. season|Fulham]]
+* [[2012–13 Liverpool F.C. season|Liverpool]]
+* [[2012–13 Manchester City F.C. season|Manchester City]]
+* [[2012–13 Manchester United F.C. season|Manchester United]]
+* [[2012–13 Newcastle United F.C. season|Newcastle United]]
+* [[2012–13 Norwich City F.C. season|Norwich City]]
+* [[2012–13 Queens Park Rangers F.C. season|Queens Park Rangers]]
+* [[2012–13 Reading F.C. season|Reading]]
+* [[2012–13 Southampton F.C. season|Southampton]]
+* [[2012–13 Stoke City F.C. season|Stoke City]]
+* [[2012–13 Sunderland A.F.C. season|Sunderland]]
+* [[2012–13 Swansea City A.F.C. season|Swansea City]]
+* [[2012–13 Tottenham Hotspur F.C. season|Tottenham Hotspur]]
+* [[2012–13 West Bromwich Albion F.C. season|West Bromwich Albion]]
+* [[2012–13 West Ham United F.C. season|West Ham United]]
+* [[2012–13 Wigan Athletic F.C. season|Wigan Athletic]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Football League Championship|Championship]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[2012–13 Barnsley F.C. season|Barnsley]]
+* [[2012–13 Birmingham City F.C. season|Birmingham City]]
+* [[2012–13 Blackburn Rovers F.C. season|Blackburn Rovers]]
+* [[2012–13 Blackpool F.C. season|Blackpool]]
+* [[2012–13 Bolton Wanderers F.C. season|Bolton Wanderers]]
+* [[2012–13 Brighton & Hove Albion F.C. season|Brighton & Hove Albion]]
+* [[2012–13 Bristol City F.C. season|Bristol City]]
+* [[2012–13 Burnley F.C. season|Burnley]]
+* [[2012–13 Cardiff City F.C. season|Cardiff City]]
+* [[2012–13 Charlton Athletic F.C. season|Charlton Athletic]]
+* [[2012–13 Crystal Palace F.C. season|Crystal Palace]]
+* [[2012–13 Derby County F.C. season|Derby County]]
+* [[2012–13 Huddersfield Town F.C. season|Huddersfield Town]]
+* [[2012–13 Hull City A.F.C. season|Hull City]]
+* [[2012–13 Ipswich Town F.C. season|Ipswich Town]]
+* [[2012–13 Leeds United A.F.C. season|Leeds United]]
+* [[2012–13 Leicester City F.C. season|Leicester City]]
+* [[2012–13 Middlesbrough F.C. season|Middlesbrough]]
+* [[2012–13 Millwall F.C. season|Millwall]]
+* [[2012–13 Nottingham Forest F.C. season|Nottingham Forest]]
+* [[2012–13 Peterborough United F.C. season|Peterborough United]]
+* [[2012–13 Sheffield Wednesday F.C. season|Sheffield Wednesday]]
+* [[2012–13 Watford F.C. season|Watford]]
+* [[2012–13 Wolverhampton Wanderers F.C. season|Wolverhampton Wanderers]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Football League One|League One]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2012–13 A.F.C. Bournemouth season|Bournemouth]]
+* [[2012–13 Brentford F.C. season|Brentford]]
+* [[2012–13 Bury F.C. season|Bury]]
+* [[2012–13 Carlisle United F.C. season|Carlisle United]]
+* [[2012–13 Colchester United F.C. season|Colchester United]]
+* [[2012–13 Coventry City F.C. season|Coventry City]]
+* [[2012–13 Crawley Town F.C. season|Crawley Town]]
+* [[2012–13 Crewe Alexandra F.C. season|Crewe Alexandra]]
+* [[2012–13 Doncaster Rovers F.C. season|Doncaster Rovers]]
+* [[2012–13 Hartlepool United F.C. season|Hartlepool United]]
+* [[2012–13 Leyton Orient F.C. season|Leyton Orient]]
+* [[2012–13 Milton Keynes Dons F.C. season|Milton Keynes Dons]]
+* [[2012–13 Notts County F.C. season|Notts County]]
+* [[2012–13 Oldham Athletic A.F.C. season|Oldham Athletic]]
+* [[2012–13 Portsmouth F.C. season|Portsmouth]]
+* [[2012–13 Preston North End F.C. season|Preston North End]]
+* [[2012–13 Scunthorpe United F.C. season|Scunthorpe United]]
+* [[2012–13 Sheffield United F.C. season|Sheffield United]]
+* [[2012–13 Shrewsbury Town F.C. season|Shrewsbury Town]]
+* [[2012–13 Stevenage F.C. season|Stevenage]]
+* [[2012–13 Swindon Town F.C. season|Swindon Town]]
+* [[2012–13 Tranmere Rovers F.C. season|Tranmere Rovers]]
+* [[2012–13 Walsall F.C. season|Walsall]]
+* [[2012–13 Yeovil Town F.C. season|Yeovil Town]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Football League Two|League Two]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[2012–13 Accrington Stanley F.C. season|Accrington Stanley]]
+* [[2012–13 AFC Wimbledon season|AFC Wimbledon]]
+* [[2012–13 Aldershot Town F.C. season|Aldershot Town]]
+* [[2012–13 Barnet F.C. season|Barnet]]
+* [[2012–13 Bradford City A.F.C. season|Bradford City]]
+* [[2012–13 Bristol Rovers F.C. season|Bristol Rovers]]
+* [[2012–13 Burton Albion F.C. season|Burton Albion]]
+* [[2012–13 Cheltenham Town F.C. season|Cheltenham Town]]
+* [[2012–13 Chesterfield F.C. season|Chesterfield]]
+* [[2012–13 Dagenham & Redbridge F.C. season|Dagenham & Redbridge]]
+* [[2012–13 Exeter City F.C. season|Exeter City]]
+* [[2012–13 Fleetwood Town F.C. season|Fleetwood Town]]
+* [[2012–13 Gillingham F.C. season|Gillingham]]
+* [[2012–13 Morecambe F.C. season|Morecambe]]
+* [[2012–13 Northampton Town F.C. season|Northampton Town]]
+* [[2012–13 Oxford United F.C. season|Oxford United]]
+* [[2012–13 Plymouth Argyle F.C. season|Plymouth Argyle]]
+* [[2012–13 Port Vale F.C. season|Port Vale]]
+* [[2012–13 Rochdale A.F.C. season|Rochdale]]
+* [[2012–13 Rotherham United F.C. season|Rotherham United]]
+* [[2012–13 Southend United F.C. season|Southend United]]
+* [[2012–13 Torquay United F.C. season|Torquay United]]
+* [[2012–13 Wycombe Wanderers F.C. season|Wycombe Wanderers]]
+* [[2012–13 York City F.C. season|York City]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Football Conference|Football Conference]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2012–13 A.F.C. Telford United season|AFC Telford United]]
+* [[2012–13 Alfreton Town F.C. season|Alfreton Town]]
+* [[2012–13 Barrow A.F.C. season|Barrow]]
+* [[2012–13 Braintree Town F.C. season|Braintree Town]]
+* [[2012–13 Cambridge United F.C. season|Cambridge United]]
+* [[2012–13 Dartford F.C. season|Dartford]]
+* [[2012–13 Ebbsfleet United F.C. season|Ebbsfleet United]]
+* [[2012–13 Forest Green Rovers F.C. season|Forest Green Rovers]]
+* [[2012–13 Gateshead F.C. season|Gateshead]]
+* [[2012–13 Grimsby Town F.C. season|Grimsby Town]]
+* [[2012–13 Hereford United F.C. season|Hereford United]]
+* [[2012–13 Hyde F.C. season|Hyde]]
+* [[2012–13 Kidderminster Harriers F.C. season|Kidderminster Harriers]]
+* [[2012–13 Lincoln City F.C. season|Lincoln City]]
+* [[2012–13 Luton Town F.C. season|Luton Town]]
+* [[2012–13 Macclesfield Town F.C. season|Macclesfield Town]]
+* [[2012–13 Mansfield Town F.C. season|Mansfield Town]]
+* [[2012–13 Newport County A.F.C. season|Newport County]]
+* [[2012–13 Nuneaton Town F.C. season|Nuneaton Town]]
+* [[2012–13 Southport F.C. season|Southport]]
+* [[2012–13 Stockport County F.C. season|Stockport County]]
+* [[2012–13 Tamworth F.C. season|Tamworth]]
+* [[2012–13 Woking F.C. season|Woking]]
+* [[2012–13 Wrexham F.C. season|Wrexham]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Others</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[2012–13 F.C. United of Manchester season|F.C. United]]</div></td></tr></table><div></div></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+* [[List of English football transfers summer 2012|Summer 2012 transfers]]
+* [[List of English football transfers winter 2012–13|Winter 2012–13 transfers]]</div></td></tr></table></td></tr></table>
+
+
+[[Category:Current association football seasons]]
+[[Category:Football League Two seasons|2012–13]]
+[[Category:2012–13 Football League|3]]
+[[Category:2012–13 in English football|4]]
+
+[[fr:Championnat d'Angleterre de football D4 2012-2013]]
+[[it:Football League Two 2012-2013]]
+[[ru:Вторая Футбольная лига Англии 2012/2013]]
+[[zh:2012年至2013年英格蘭足球乙級聯賽]]

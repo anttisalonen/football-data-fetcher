@@ -32,6 +32,26 @@ class ParseLeague(unittest.TestCase):
                 self.assertTrue('Tottenham Hotspur' in teamnames)
                 self.assertTrue('West Ham United F.C.' in teamlinks)
 
+    def test_parseEnglishTopLeagues(self):
+        for file in ['tests/wikidumps/Football_League_Championship.txt',
+                'tests/wikidumps/Football_League_One.txt',
+                'tests/wikidumps/Football_League_Two.txt']:
+            with open(file, 'r') as f:
+                leaguedata = parser.getLeagueData('', '', f.read())
+                self.assertTrue(leaguedata.numteams == 24)
+
+    def test_parseEnglishTopSeasons(self):
+        for file in ['tests/wikidumps/2012–13_Football_League_Championship.txt',
+                'tests/wikidumps/2012–13_Football_League_One.txt',
+                'tests/wikidumps/2012–13_Football_League_Two.txt']:
+            with open(file, 'r') as f:
+                teams = parser.getSeasonTeams(f.read(), 24)
+                teamnames = [t[0] for t in teams if t]
+                teamlinks = [t[1] for t in teams if t]
+                self.assertTrue(len(teams) == 24)
+                self.assertTrue(len(teamnames) == 24)
+                self.assertTrue(len(teamlinks) == 24)
+
 if __name__ == '__main__':
     unittest.main()
 
