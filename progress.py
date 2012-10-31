@@ -10,13 +10,24 @@ class Progress:
         if l.title in self.leagues:
             del self.leagues[l.title]
 
+    def printProcessedLeagues(self):
+        s = u''
+        for l, data in sorted(self.processedleagues.items()):
+            s += u'%s' % data
+        return s
+
+    def printQueuedLeagues(self):
+        s = u''
+        s += u'Leagues in queue:\n'
+        for t, n in sorted(self.leagues.items()):
+            s += u'%-40s %-40s\n' % (t, n)
+        return s
+
     def __str__(self):
         return unicode(self).encode('utf-8')
 
     def __unicode__(self):
         s = u''
-        for l, data in sorted(self.processedleagues.items()):
-            s += u'%s' % data
         s += u'Progress: %d leagues in the queue, %d processed\n' % (len(self.leagues), len(self.processedleagues))
         if self.processedleagues:
             s += u'%40s    %5s %5s %5s %5s %5s %5s %5s\n' % ('League', '1', '2', '3', '4', '5', '6', '7')
@@ -56,10 +67,6 @@ class Progress:
                                 s += u'%4dL ' % len(teaminfo[i])
                     s += u'\n'
 
-        if self.leagues:
-            s += u'Leagues in queue:\n'
-            for t, n in sorted(self.leagues.items()):
-                s += u'%-40s %-40s\n' % (t, n)
         return s
 
 

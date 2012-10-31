@@ -47,10 +47,8 @@ def fetchLeagueData(specificLeague):
             if found:
                 leaguetitle = found
             else:
-                print >> sys.stderr, "I don't have league '%s' queued. I just have these:\n\n" % specificLeague
-                for l in sorted(Globals.progress.leagues.keys()):
-                    print >> sys.stderr, '\t%s' % l
-                print >> sys.stderr, '\n'
+                print >> sys.stderr, "I don't have league '%s' queued.\n" % specificLeague
+                print >> sys.stderr, "%s\n" % Globals.progress.printQueuedLeagues()
                 return
         else:
             leaguetitle = iter(Globals.progress.leagues).next()
