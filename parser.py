@@ -42,6 +42,15 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
     relegationleagues = dict()
     numteams = 0
     levelnum = 0
+    class InfoboxState:
+        Outside = 0
+        Entered = 1
+        RelegationLeagues = 2
+        NumTeams = 3
+        NumLevel = 4
+        Season = 5
+
+    ibs = InfoboxState.Outside
 
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
@@ -55,7 +64,6 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
             if tp:
                 levelnum = tp
 
-        # TODO: handle infobox football like in Fußball-Regionalliga_Nord
         if len(relegationleagues) == 0 and lineWithoutSpaces.startswith("|relegation="):
             k, v = wikiutils.getKeyValue(line)
             candidates = [wikiutils.unlinkify(x.strip()) for x in br_re.split(v)]
@@ -65,6 +73,49 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
 
         if not numteams and lineWithoutSpaces.startswith('|teams='):
             numteams = wikiutils.getNumberKeyValue(line)
+
+        if ibs == InfoboxState.Outside and lineWithoutSpaces.startswith('{|class="infoboxfootball"'):
+            # e.g. Regionalliga_Nord
+            ibs = InfoboxState.Entered
+        elif ibs != InfoboxState.Outside:
+            if lineWithoutSpaces and lineWithoutSpaces[0] == '|':
+                text = '|'.join(line.split('|')[2:])
+                if not text and lineWithoutSpaces[0:2] == '|}':
+                    ibs = InfoboxState.Outside
+                    break
+                elif text:
+                    t, link = wikiutils.unlinkify(text)
+                    tl = t.lower()
+                    if 'background' in line:
+                        if 'relegation' in tl:
+                            ibs = InfoboxState.RelegationLeagues
+                        elif 'number of clubs' in tl:
+                            ibs = InfoboxState.NumTeams
+                        elif 'level' in tl:
+                            ibs = InfoboxState.NumLevel
+                        elif 'current season' in tl:
+                            ibs = InfoboxState.Season
+                        else:
+                            ibs = InfoboxState.Entered
+                    else:
+                        if ibs == InfoboxState.RelegationLeagues:
+                            if not link:
+                                ibs = InfoboxState.Entered
+                            else:
+                                relegationleagues[link] = link
+                        elif ibs == InfoboxState.NumTeams:
+                            pos = re.findall(r'\d+', t)
+                            if len(pos) >= 1:
+                                numteams = int(pos[0])
+                        elif ibs == InfoboxState.NumLevel:
+                            pos = re.findall(r'\d+', t)
+                            if len(pos) >= 1:
+                                levelnum = int(pos[0])
+                        elif ibs == InfoboxState.Season:
+                            if not link:
+                                ibs = InfoboxState.Entered
+                            else:
+                                season = link
 
     return soccer.LeagueData(leaguetitle, season, relegationleagues, promotionleague, numteams, levelnum)
 
