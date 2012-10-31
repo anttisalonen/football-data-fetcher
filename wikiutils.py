@@ -25,8 +25,11 @@ def unlinkify(origstr):
     if s.startswith('[[') and s.endswith(']]'):
         s = s[2:][:-2]
         if '|' in s:
-            [a, b] = s.split('|')
-            return (b.strip(), a.strip())
+            ln = s.split('|')
+            if len(ln) >= 2:
+                return (ln[-1].strip(), ln[0].strip())
+            else:
+                return (s, None)
         else:
             return (s.strip(), s.strip())
     else:
