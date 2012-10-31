@@ -108,6 +108,33 @@ class ParseLeague(unittest.TestCase):
         self.assertTrue(len(teamnames) == numTeams)
         self.assertTrue(len(teamlinks) == numTeams)
 
+    def test_parseOldInfoboxFootball(self):
+        with open('tests/wikidumps/Regionalliga_Nord.txt', 'r') as f:
+            leaguedata = parser.getLeagueData('', '', f.read())
+            self.assertTrue(leaguedata.season == '2012–13 Fußball-Regionalliga')
+            self.assertTrue(leaguedata.numteams == 18)
+            self.assertTrue(leaguedata.levelnum == 4)
+            self.assertTrue(len(leaguedata.relegationleagues) == 4)
+            self.assertTrue('Oberliga Hamburg' in leaguedata.relegationleagues.keys())
+            self.assertTrue('Bremen-Liga' in leaguedata.relegationleagues.keys())
+            self.assertTrue('Schleswig-Holstein-Liga' in leaguedata.relegationleagues.keys())
+            self.assertTrue('Oberliga Niedersachsen' in leaguedata.relegationleagues.keys())
+
+        with open('tests/wikidumps/Oberliga_Niedersachsen.txt', 'r') as f:
+            leaguedata = parser.getLeagueData('', '', f.read())
+            self.assertTrue(leaguedata.numteams == 16)
+            self.assertTrue(leaguedata.levelnum == 5)
+            self.assertTrue(len(leaguedata.relegationleagues) == 4)
+            self.assertTrue('Landesliga Braunschweig' in leaguedata.relegationleagues.keys())
+            self.assertTrue('Landesliga Lüneburg' in leaguedata.relegationleagues.keys())
+            self.assertTrue('Landesliga Hannover' in leaguedata.relegationleagues.keys())
+            self.assertTrue('Landesliga Weser-Ems' in leaguedata.relegationleagues.keys())
+
+    def test_ignoreHistoricalTeamList(self):
+        with open('tests/wikidumps/Regionalliga_Süd.txt', 'r') as f:
+            teams = parser.getSeasonTeams(f.read(), 18)
+            self.assertTrue(teams is None)
+
 if __name__ == '__main__':
     unittest.main()
 

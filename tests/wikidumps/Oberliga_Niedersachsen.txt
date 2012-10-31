@@ -1,0 +1,496 @@
+{| class="infobox football" style="width: 16em; text-align: center;"
+|-
+! style="font-size: 17px;" |Niedersachsenliga
+|- 
+| style="font-size: 13px; background: #BFD7FF;" | '''Founded'''
+|-
+| style="font-size: 13px;" | 1947
+|-
+| style="font-size: 13px; background: #BFD7FF;" | '''Nation'''
+|-
+| style="font-size: 13px;" | {{GER}}
+|-
+| style="font-size: 12px; line-height: 15px;" | [[File:Deutschland Lage von Niedersachsen.svg|100px|Map of Germany:Position of Lower Saxony highlighted]]
+|-
+| style="font-size: 13px; background: #BFD7FF;" | '''States'''
+|-
+| style="font-size: 13px;" | [[File:Flag of Lower Saxony.svg|20px|Flag of Lower Saxony]] [[Lower Saxony]]
+|-
+| style="font-size: 13px; background: #BFD7FF;" | '''Promotion To'''
+|-
+| style="font-size: 13px;" | [[Regionalliga Nord]]
+|-
+| style="font-size: 13px; background: #BFD7FF;" | '''Relegation To'''
+|-
+| style="font-size: 13px;" | [[Landesliga Braunschweig|LL Braunschweig]]
+|-
+| style="font-size: 13px;" | [[Landesliga Lüneburg|LL Lüneburg]]
+|-
+| style="font-size: 13px;" | [[Landesliga Hannover|LL Hannover]]
+|-
+| style="font-size: 13px;" | [[Landesliga Weser-Ems|LL Weser-Ems]]
+|-
+| style="font-size: 13px; background: #BFD7FF;" | '''Number of Clubs'''
+|-
+| style="font-size: 13px;" | 16
+|-
+| style="font-size: 13px; background: #BFD7FF;" | '''Level on Pyramid'''
+|-
+| style="font-size: 13px;" | [[German football league system|Level 5]]
+|-
+| style="font-size: 13px; background: #BFD7FF;" | '''Current champions 2011-12'''
+|-
+| style="font-size: 13px;" |[[SC Goslar 08]]
+|}
+
+The '''Niedersachsenliga''', ({{lang-en|Lower Saxony league}}) sometimes referred to as ''Oberliga Niedersachsen'', is the fifth tier of the [[German football league system]] and the highest league in the [[Germany|German]] [[States of Germany|state]] of [[Lower Saxony]] ({{lang-de|Niedersachsen}}). Since 1994, the league was split into a western and an eastern group. From 2010, it returned to a single-division format.<ref name=reform >[http://www.nfv-www.de/downloads/ausschreibungen/099_Ausschreibung%20Oberliga%20Niedersachsen%202009-10_09.pdf Oberliga Niedersachsen 2009-10: Regulations] {{de icon}} NFV website, accessed: 9 July 2009</ref> It is one of fourteen [[Fußball-Oberliga|Oberligas]] in German football, the fifth tier of the [[German football league system]].
+
+==Overview==
+===1947-1963===
+The league was formed as '''Landesliga Niedersachsen''' in 1947, operating with four divisions in variable strength, all up with 42 clubs. The four regional divisions were named after the capital city of the district, being ''Hannover'', ''Hildesheim'', ''Braunschweig'' and ''Osnabrück''. Additionally, some clubs from Niedersachsen also played in the [[Verbandsliga Bremen|Amateurliga Bremen]], a trend that continues to a lesser degree even today. The state of Lower Saxony had only recently then been formed in the [[Allied Occupation Zones in Germany|British occupation zone]] and [[Bremen (state)|Bremens]] status as an independent German state had not been fully confirmed yet.
+
+From the start, the ''Landesliga Niedersachsen'' was a feeder league to the [[Oberliga Nord (1947-63)|Oberliga Nord]] which its champion had the option of promotion to. Promotion had to be archived through a play-off with teams from the ''Amateurligas'' of [[Verbandsliga Bremen|Bremen]], [[Verbandsliga Hamburg|Hamburg]] and [[Verbandsliga Schleswig-Holstein|Schleswig-Holstein]]. As such, the league was the second tier of the northern German league system.
+
+In 1949, the four ''Landesligen'' were disbanded in favor of the two new ''Amateuroberligen'', the '''Amateuroberliga Niedersachsen-West''' and the '''Amateuroberliga Niedersachsen-Ost'''. The western division started with sixteen, the eastern with eighteen clubs. The majority of clubs previously playing in the Bremen leagues also returned to the Niedersachsen league system. Below the ''Amateuroberligen'', eight ''Amateurligen'' were established. This system remained as such unchanged until 1964.
+
+The two leagues continued to exchange clubs to balance out promotion and relegation but did not play out a Niedersachsen champion as such since promotion was decided between these two leagues and the other three northern German leagues. Especially the clubs from [[Hannover]] were frequently transferred between divisions.
+
+After the first couple of seasons went with ever changing club numbers in the two leagues, reaching a peak of twenty, by 1954 both leagues had arrived at sixteen clubs each, which they maintained for the most of the coming seasons.
+
+===1963-1974===
+In 1963, with the introduction of the [[Bundesliga (football)|Bundesliga]], the disbanding of the ''Oberliga Nord'' and the formation of the [[Regionalliga Nord (1963-74)|Regionalliga Nord]], the leagues fell to tier three, but initially remained unchanged otherwise. The champions of the Niedersachsen leagues continued to have to play-off for promotion, now to the ''Regionalliga'', with the same opposition as before.
+
+The year 1964 saw the creation of a single-division highest league for Niedersachsen. Eight clubs from the western group, seven from the eastern group, one team from the ''Regionalliga'' and two promoted teams made up the new '''Amateurliga Niedersachsen'''. Promotion however still had to be archived through a promotion round with the other northern German champions.
+
+Below the ''Amateurliga'', four new [[Verbandsliga]]s were established, ''North'', ''South'', ''East'' and ''West'', with their champions directly promoted and four clubs relegated from the eighteen-team ''Amateurliga''.
+
+The late 1960s and early 1970s saw the oddity of fourth and fifth placed teams being promoted. The reasons for this were the fact that Lower Saxony, as the strongest association in northern Germany was permitted to send more than one team to the promotion round and the high finishes of reserve teams of the likes of [[Hannover 96]], [[Arminia Hannover]] and [[Eintracht Braunschweig]] in the league, which were ineligible to enter the promotion rounds.
+
+The league strength for most of these season stood at sixteen clubs.
+
+===1974-1994===
+After the 1973-74 season, the ''Regionalliga Nord'' was disbanded in favor of the [[2nd Bundesliga Nord (1974-81)|2nd Bundesliga Nord]]. The new [[Oberliga Nord]] was now introduced in northern Germany, as the third tier of the league system, below the ''2nd Bundesliga''. This meant for the ''Amateurliga'' a slip to tier four. The top three teams of the league were however promoted to the new ''Oberliga'' and the ''Amateurliga'' was renamed '''Landesliga Niedersachsen'''. The system for promotion from the ''Landesliga'' remained mostly unchanged and the league continued to operate on sixteen clubs.
+
+For the first time, reserve teams were also eligible for promotion from the Niedersachsen league and ''Eintracht Braunschweig II'' became the first team to do so in 1975.
+
+In 1979, the league changed its name once more, now becoming the '''Verbandsliga Niedersachsen''', but remaining unchanged otherwise.
+
+===1994-2008===
+In 1994, the [[Regionalliga Nord]] was re-established, now as the third tier of the league system. The ''Oberliga Nord'' was in turn replaced by two parallel [[Oberliga (football)|Oberligen]], [[Oberliga Niedersachsen/Bremen|Niedersachsen/Bremen]] and [[Oberliga Hamburg/Schleswig-Holstein|Hamburg/Schleswig-Holstein]]. For the ''Verbandsliga Niedersachsen'', this meant a further slip, now to tier five, and a split to two separate divisions again, but also, for the first time in its history, direct promotion for the league champions.
+
+While the first and third placed team from the 1993-94 season gained entry to the new [[Regionalliga]], the other twelve clubs of the top-fourteen were promoted to the ''Oberliga Niedersachsen/Bremen''. Only the bottom five teams of the field of nineteen of that season actually remained in the ''Verbandsligas''.
+
+The first season of the new separated leagues saw a strong imbalance of clubs, ''West'' operated on sixteen, ''East'' on twenty-one teams. The year after, both run on a strength of sixteen.
+
+The 1999-2000 season saw another league system change with the reduction of numbers of ''Regionalligen'', this however had only one effect on the ''Verbandsligen'', no direct promotion was available this year.
+
+In 2004, it was decided to restore the ''Oberliga Nord'' in favor of the two separate ''Oberligen''.
+
+===2008-2010===
+At the end of the 2007-08 season, the new [[3rd Liga]] was established and the ''Oberliga Nord'' disbanded, again. The four northern German states were then the only region without an ''Oberliga'' and the five ''Verbandsligen'' sat right below the ''Regionalliga Nord'', parallel to the two [[NOFV-Oberliga]]s. At the end of the 2007-08 season, the five winners of the northern ''Verbandsligas'' played with the sixth placed team from the ''Oberliga Nord'' for one last spot in the ''Regionalliga''.<ref>{{cite web|url=http://www.nordfv.de/cms/fileadmin/Downloads/Ringbuch_07_08/Dfb_Oberliga_23_07_2007.pdf|title=Regulations for the Oberliga Nord 2007-08|accessdate=2008-03-04|author=|publisher=Northern German FA}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> In the future seasons, promotion for the ''Niedersachsenliga'' winners will only be available through a decider between the two champions. These two teams will compete for one promotion spot to the ''Regionalliga''.
+The ''Niedersachsen-Liga'' will however maintain their status as tier five leagues and accordingly be renamed '''Oberliga Niedersachsen'''.
+
+===2010 onwards===
+The 2009-10 season functioned as a qualifying stage for the new single-division ''Niedersachsenliga'', which kick-off in 2010. While the Lower Saxony champion was promoted to the Regionalliga, as in the previous season, the other fifteen teams placed one to eight in the two leagues were directly qualify for the new league. The four teams placed ninth and tenth took part in a qualifying round with the four ''Bezirksoberliga'' champions. In two groups of four, the top-two of each group also qualifyed for the new league. The teams placed eleventh or lower in the ''Oberligas'' in 2009-10 were automatically  relegated.<ref name="reform"/>
+
+The new single-division ''Niedersachsenliga'' consisted of 20 clubs in its first season and then 18 thereafter, also fluctuation due to relegation/promotion to and from the Regionalliga are possible.
+
+At the end of the 2011-12 season, the top four clubs, being the [[Goslarer SC]], [[BV Cloppenburg]], [[VfB Oldenburg]] and [[Schwarz-Weiß Rehden]], were directly promoted to the Regionalliga Nord while the sixth placed club, [[SV Holthausen/Biene]], unsuccessfully entered a promotion playoff with the runners-up from the [[Oberliga Hamburg]] and [[Schleswig-Holstein-Liga]]. Fifth placed [[VfL Osnabrück II]] was ineligible for promotion to the Regionalliga as it is the reserve side of a 3. Liga team.
+
+==Position of the Oberliga Niedersachsen in the league system==
+
+{| class="wikitable"
+|-
+!Years
+!Tier
+!Promotion to
+|-
+|1947-63
+|align="center"|'''II'''
+|'''[[Oberliga Nord (1947-63)|Oberliga Nord]]'''
+|-
+|1963-74
+|align="center"|'''III'''
+|'''[[Regionalliga Nord (1963-74)|Regionalliga Nord]]'''
+|-
+|1974-94
+|align="center"|'''IV'''
+|'''[[Oberliga Nord]]'''
+|-
+|1994–2004
+|align="center"|'''V'''
+|'''[[Oberliga Niedersachsen/Bremen]]'''
+|-
+|2004-08
+|align="center"|'''V'''
+|'''Oberliga Nord'''
+|-
+|2008-
+|align="center"|'''V'''
+|'''[[Regionalliga Nord]]'''
+|}
+<small>Source:{{Cite web
+| url = http://www.f-archiv.de/
+| title = Verbandsliga Niedersachsen 
+| accessdate = 2008-03-05
+| publisher = Das deutsche Fussball-Archiv
+}}</small>
+
+==Winners of the Niedersachsenligas==
+===Landesliga Niedersachsen===
+{| class="wikitable"
+|- align="center" bgcolor="#dfdfdf"
+|width="80"| '''Season'''
+|width="200"| '''Staffel Braunschweig'''
+|width="200"| '''Staffel Hildesheim'''
+|width="200"| '''Staffel Hannover'''
+|width="200"| '''Staffel Osnabrück'''
+|-
+|1947-48
+|[[MTV Braunschweig]]
+|'''[[Göttingen 05]]'''
+|Teutonia Uelzen
+|Eintracht Osnabrück
+|-
+|1948-49
+|[[VfB Rot-Weiß 04 Braunschweig|Rot-Weiß Braunschweig]]
+|SV Hameln 07
+|SV Linden 07
+|'''[[VfB Oldenburg]]'''
+|}
+
+*Due to irregularities in the previous season, ''Hannover 96'' was also promoted in 1949.
+
+===Amateuroberligas Niedersachsen West and Ost===
+{| class="wikitable"
+|- align="center" bgcolor="#dfdfdf"
+|width="80"| '''Season'''
+|width="200"| '''West'''
+|width="200"| '''East'''
+|-
+|1949-50
+|'''Eintracht Osnabrück'''
+|[[TSV Goslar]]
+|-
+|1950-51
+|[[Kickers Emden]]
+|VfR Osterode
+|-
+|1951-52
+|VfB Oldenburg 
+|[[VfL Wolfsburg]]
+|-
+|1952-53
+|[[Eintracht Nordhorn]]
+|'''[[Eintracht Braunschweig]]'''
+|-
+|1953-54
+|Eintracht Nordhorn *
+|'''VfL Wolfsburg'''
+|-
+|1954-55
+|'''Eintracht Nordhorn'''
+|VfV Hildesheim
+|-
+|1955-56
+|[[TSR Olympia Wilhelmshaven|Olympia Wilhelmshaven]]
+|Eintracht Braunschweig II
+|-
+|1956-57
+|VfB Oldenburg 
+|Union Salzgitter (C)
+|-
+|1957-58
+|[[Arminia Hannover]]
+|'''VfV Hildesheim''' (C)
+|-
+|1958-59
+|VfB Oldenburg *
+|Arminia Hannover (C)
+|-
+|1959-60
+|[[Hannover 96|Hannover 96 II]] (C) *
+|[[Leu Braunschweig|SC Leu Braunschweig]]
+|-
+|1960-61
+|Arminia Hannover *
+|SC Leu Braunschweig (C)
+|-
+|1961-62
+|'''Arminia Hannover''' (C)
+|SC Leu Braunschweig 
+|-
+|1962-63
+|'''VfL Oldenburg''' 
+|'''VfL Wolfsburg''' (C)
+|-
+|1963-64
+|Olympia Wilhelmshaven
+|Hannover 96 II (C) *
+|}
+*(C) denotes club won Lower Saxony championship play-off (played out since 1956-57).
+*In 1954, the runner-up ''VfB Oldenburg'' was promoted instead.
+*In 1959, the runner-up ''Eintracht Osnabrück'' was promoted instead.
+*In 1960, the runner-up ''VfB Oldenburg'' was promoted instead.
+*In 1961, the third placed ''Eintracht Nordhorn'' was promoted instead.
+*In 1964, the runner-up ''Göttingen 05'' was promoted instead.
+
+===Amateurliga/Landesliga/Verbandsliga Niedersachsen===
+{| border=0 cellpadding=0 cellspacing=0>
+|
+{| class="wikitable"
+|- align="center" bgcolor="#dfdfdf"
+|width="80"| '''Season'''
+|width="200"| '''Club'''
+|-
+|1964-65
+|Hannover 96 II
+|-
+|1965-66
+|Hannover 96 II
+|-
+|1966-67
+|Hannover 96 II
+|-
+|1967-68
+|[[SV Meppen]]
+|-
+|1968-69
+|'''SC Leu Braunschweig'''
+|-
+|1969-70
+|[[Eintracht Braunschweig|Eintracht Braunschweig II]]
+|-
+|1970-71
+|'''[[OSV Hannover]]'''
+|-
+|1971-72
+|'''VfB Oldenburg''' 
+|-
+|1972-73
+|Union Salzgitter
+|-
+|1973-74
+|'''Preußen 07 Hameln'''
+|-
+|1974-75
+|VfB Peine
+|-
+|1975-76
+|'''Atlas Delmenhorst''' 
+|-
+|1976-77
+|TSV Helmstedt *
+|-
+|1977-78
+|Germania Leer *
+|-
+|1978-79
+|'''SV Meppen''' 
+|-
+|}
+|
+{| class="wikitable"
+|- align="center" bgcolor="#dfdfdf"
+|width="80"| '''Season'''
+|width="200"| '''Club'''
+|-
+|1979-80
+|'''Lüneburger SK'''
+|-
+|1980-81
+|[[TuS Celle FC|TuS Celle]]
+|-
+|1981-82
+|'''TuS Hessisch-Oldendorf'''
+|-
+|1982-83
+|Blau-Weiß Lohne 
+|-
+|1983-84
+|Atlas Delmenhorst 
+|-
+|1984-85
+|VfL Herzlake
+|-
+|1985-86
+|Atlas Delmenhorst
+|-
+|1986-87
+|VfL Herzlake
+|-
+|1987-88
+|'''VfL Herzlake''' 
+|-
+|1988-89
+|[[Kickers Emden]] 
+|-
+|1989-90
+|'''TuS Celle''' 
+|-
+|1990-91
+|'''Kickers Emden'''
+|-
+|1991-92
+|'''TuS Lingen'''
+|-
+|1992-93
+|BV Cloppenburg 
+|-
+|1993-94
+|'''SV Wilhelmshaven'''
+|}
+|}
+
+*In 1967, the third placed ''TuS Haste'' was promoted instead.
+*In 1968, the fourth placed ''TuS Celle'' was promoted instead.
+*In 1969, the fourth placed ''Olympia Wilhelmshaven'' was also promoted.
+*In 1970, the fifth placed ''SV Meppen'' was promoted instead.
+*In 1972, the runner-up ''SV Meppen'' was also promoted.
+*In 1974, the top three teams were promoted to the new Oberliga Nord, ''SpVgg Bad Pyrmont'' and ''Union Salzgitter'' were therefore also promoted.
+*In 1975, the second and third placed ''Eintracht Nordhorn'' and ''Eintracht Braunschweig II'' were promoted instead.
+*In 1977, the second placed ''VfB Peine'' won a play-off for the Lower Saxony championship, neither team was promoted.
+*In 1978, the second placed ''VfB Peine'' won a play-off for the Lower Saxony championship, neither team was promoted.
+*In 1979, the third placed ''MTV Gifhorn'' was also promoted.
+*In 1981, the third placed ''TSV Havelse'' was promoted instead.
+*In 1982, the runner-up ''Olympia Wilhelmshaven'' was also promoted.
+*In 1983, the third placed ''Eintracht Braunschweig II'' was promoted instead.
+*In 1985, the second and third placed ''Eintracht Braunschweig II'' and ''Wolfenbüttler SV'' were promoted instead.
+*In 1986, the runner-up ''SpVgg Göttingen'' was also promoted.
+*In 1989, the third placed ''TuS Esens'' was promoted instead.
+*In 1990, the third placed ''Eintracht Nordhorn'' was also promoted.
+*In 1993, the runner-up ''Preußen 07 Hameln'' was promoted instead.
+*In 1994, the top fourteen clubs were all promoted!
+
+===Verbandsligas Niedersachsen West and Ost===
+{| class="wikitable"
+|- align="center" bgcolor="#dfdfdf"
+|width="80"| '''Season'''
+|width="200"| '''West'''
+|width="200"| '''East'''
+|-
+|1994-95
+|'''Eintracht Nordhorn'''
+|'''SV Südharz Walkenried''' (C)
+|-
+|1995-96
+|'''Concordia Ihrhove''' (C)
+|'''Wolfenbüttler SV''' *
+|-
+|1996-97
+|'''FC Schüttorf'''
+|'''SpVgg Einbeck''' (C) *
+|-
+|1997-98
+|'''Blau-Weiß Lohne''' 
+|'''MTV Gifhorn''' (C)
+|-
+|1998-99
+|'''FC Schüttorf'''
+|'''VfL Wolfsburg II''' (C)
+|-
+|1999–2000
+|'''Hannover 96 II'''
+|Eintracht Braunschweig II (C)
+|-
+|2000-01
+|'''SC Langenhagen''' (C)
+|'''SpVgg Einbeck''' 
+|-
+|2001-02
+|'''VfV Hildesheim''' 
+|'''Eintracht Braunschweig II''' (C)
+|-
+|2002-03
+|'''Hannover 96 II''' (C)
+|'''SSV Vorsfelde'''
+|-
+|2003-04
+|[[VfL Osnabrück|VfL Osnabrück II]] (C)
+|TSV Neuenkirchen
+|-
+|2004-05
+|'''VfL Osnabrück II''' (C)
+|'''Eintracht Braunschweig II'''
+|-
+|2005-06
+|'''SV Ramlingen-Ehlershausen''' (C)
+|'''[[VSK Osterholz Scharmbeck]]'''
+|-
+|2006-07
+|'''[[VfB Oldenburg]]'''
+|'''[[TuS Heeslingen]]''' (C)
+|-
+|2007-08
+|[[VfL Oldenburg]]
+|MTV Gifhorn (C)
+|}
+<small>Source:{{Cite web
+| url = http://www.f-archiv.de/
+| title = Verbandsliga Niedersachsen 
+| accessdate = 2008-03-05
+| publisher = Das deutsche Fussball-Archiv
+}}</small>
+
+*'''Bold''' denotes club gained promotion.
+*(C) denotes club won Lower Saxony championship play-off.
+*In 1996, the runner-up ''SSV Vorsfelde'' was also promoted.
+*In 1997, the runner-up ''Rotenburger SV'' was also promoted.
+
+===Oberligas Niedersachsen West and Ost===
+{| class="wikitable"
+|- align="center" bgcolor="#dfdfdf"
+|width="80"| '''Season'''
+|width="200"| '''West'''
+|width="200"| '''East'''
+|-
+|2008-09
+|VfB Oldenburg 
+|'''[[SC Goslar 08]]''' (C)
+|-
+|2009-10
+|'''[[TSV Havelse]]'''
+|'''[[Eintracht Braunschweig|Eintr. Braunschweig II]]''' (C)
+|}
+*'''Bold''' denotes club gained promotion.
+*(C) denotes club won Lower Saxony championship play-off.
+* In 2010 both champions gained promotion as none of the champions from the [[Bremen-Liga]], [[Hamburg-Liga]] and [[Schleswig-Holstein-Liga]] applied for a [[Fußball-Regionalliga|Regionalliga]]-licence
+
+===Oberliga Niedersachsen===
+{| class="wikitable"
+|- align="center" bgcolor="#dfdfdf"
+|width="80"| '''Season'''
+|width="200"| '''Club'''
+|-
+|2010-11
+|'''SV Meppen'''
+|-
+|2011-12
+|'''SC Goslar 08'''
+|}
+
+*'''Bold''' denotes club gained promotion.
+
+== References ==
+{{Reflist}}
+
+===Sources===
+* ''Deutschlands Fußball in Zahlen'', {{de icon}} An annual publication with tables and results from the Bundesliga to Verbandsliga/Landesliga, publisher: [[Deutscher Sportclub für Fußballstatistiken|DSFS]]
+* ''Kicker Almanach'', {{de icon}} The yearbook on German football from Bundesliga to Oberliga, since 1937, published by the [[Kicker (sports magazine)|Kicker Sports Magazine]]
+* ''Die Deutsche Liga-Chronik 1945-2005'' {{de icon}} History of German football from 1945 to 2005 in tables, publisher: [[DSFS]], published: 2006
+
+== External links ==
+* {{de icon}} [http://www.f-archiv.de/ Das deutsche Fussball Archiv] Historic German league tables
+* {{de icon}} [http://ergebnisdienst.fussball.de/begegnungen/oberliga-niedersachsen/niedersachsen/oberligen-niedersachsen/herren/spieljahr1011/niedersachsen/M01S1011W018888 The ''Niedersachsenliga'' at Fussball.de]
+* {{de icon}} [http://www.nfv-www.de/page.php The ''Lower Saxony Football Association'' (NFV)]
+
+{{Oberliga Niedersachsen-West}}
+{{German Amateur Oberliga (football)}}
+
+[[Category:Fußball-Oberliga]]
+[[Category:Football competitions in Lower Saxony]]
+[[Category:1947 establishments in Germany]]
+
+[[de:Fußball-Oberliga Niedersachsen]]
+[[nl:Oberliga Niedersachsen]]
+[[ru:Оберлига Нижняя Саксония]]
