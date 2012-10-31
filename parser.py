@@ -142,7 +142,9 @@ def getSeasonTeams(rvtext, numteams):
 
         if (tableStatus == 2 or tableStatus == 3) and ls[0:2] == '|}':
             tableStatus = 0
-            if len(thisteams) == numteams:
+            # make sure there are no duplicates in the list - may happen
+            # e.g. with historical winners tables (Regionalliga_Süd)
+            if len(thisteams) == numteams and len(set(thisteams)) == len(thisteams):
                 teams = thisteams
                 break
 
