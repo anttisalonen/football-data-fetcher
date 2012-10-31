@@ -11,5 +11,6 @@ class Globals:
     progpath = datadir + 'progress.save'
     didSomething = False
     dumpTextFiles = False
+    fetchTeams = True
 
 
