@@ -73,6 +73,8 @@ class LeagueData:
         self.season = season
         self.relegationleagues = relegationleagues
         self.numteams = numteams
+        if self.numteams is None:
+            self.numteams = 0
         self.promotionleague = promotionleague
         self.levelnum = levelnum
 
