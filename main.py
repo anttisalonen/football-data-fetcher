@@ -1,6 +1,8 @@
 #!/usr/bin/env python2
 # coding: utf-8
 
+from lxml import etree
+
 import re
 import sys
 import os, errno
@@ -54,9 +56,6 @@ def fetchLeagueData(specificLeague):
         else:
             leaguetitle = iter(Globals.progress.leagues).next()
 
-        numCompleteTeams = 0
-        numPartialTeams = 0
-
         promotionleague = None
         for processedleaguename, processedleague in Globals.progress.processedleagues.items():
             if processedleague.relegationleagues and leaguetitle in processedleague.relegationleagues:
@@ -82,6 +81,18 @@ def fetchLeagueData(specificLeague):
                 if stext:
                     parser.getTeamData(stext, leaguedata)
                 parser.getTeamData(rvtext, leaguedata)
+
+                if leaguedata.hasTeams():
+                    root = etree.Element("League")
+                    root.set('title', leaguedata.title)
+                    for g in leaguedata.groups:
+                        groupelem = etree.SubElement(root, 'Group')
+                        groupelem.set('title', g.title)
+                        for td in g.teams:
+                            teamelem = td.toXML()
+                            groupelem.append(teamelem)
+                    with open(Globals.outputdir + leaguedata.title + '.xml', 'w') as f:
+                        f.write(etree.tostring(root, pretty_print=True))
 
             if not leaguedata.levelnum:
                 if not promotionleague:
@@ -148,11 +159,11 @@ def main():
             print Globals.progress
 
 def save():
-    with open(Globals.progpath, 'w') as f:
+    with open(Globals.progpath, 'wb') as f:
         pickle.dump(Globals.progress, f)
 
 def load():
-    with open(Globals.progpath, 'r') as f:
+    with open(Globals.progpath, 'rb') as f:
         Globals.progress = pickle.load(f)
 
 def cleanup():

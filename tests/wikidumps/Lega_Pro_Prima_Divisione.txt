@@ -1,0 +1,484 @@
+{{Infobox football league
+| logo       = 
+| pixels     = 250
+| country    = {{flagcountry|Italy}}/{{flagcountry|San Marino}}
+| confed     = [[Italian Football Federation|FIGC]]
+| founded    = 1935 as ''Serie C''<br />1978 as ''Serie C1''<br />2008 as ''Lega Pro Prima Divisione''
+| teams      = 33 (17, 16 respectively for the group A, B)
+| promotion  = [[Serie B]]
+| relegation = [[Lega Pro Seconda Divisione]]
+| levels     = 3
+| domest_cup = [[Coppa Italia Lega Pro]]<br />[[Supercoppa di Lega di Prima Divisione]]
+| confed_cup = 
+| champions  = [[Ternana Calcio|Ternana]] (group A)<br />[[Spezia Calcio|Spezia]] (group B)
+| season     = [[Lega Pro Prima Divisione 2011-12]]
+| website    = http://www.lega-pro.com
+| current    = [[2012–13 Lega Pro Prima Divisione]]
+}}
+'''Lega Pro Prima Divisione''' is the name of the third highest [[football (soccer)|football]] league in [[Italy]]. It consists of 33 teams, divided geographically into two divisions of 17 and 16 teams respectively for group A and B. Until 2008 it was known as '''Serie C1'''.
+
+Before the 1978-79 season there were only three leagues of professional football in Italy, the third being [[Serie C]]. In 1978, it was decided to split [[Serie C]] into Serie C1 and [[Serie C2]]. Serie C2, the fourth highest professional league in the Italian system, was also renamed in 2008 and is now called [[Lega Pro Seconda Divisione]].
+
+During the regular season, teams play only other teams in their own division.  Each opponent is played twice, once at home and once away, for a total of 34 matches. Games are scheduled such that in the first 17 matches, every opponent is played once. In the last 17 matches, the same opponents are played in the same order with the only difference being that the venue changes.
+
+Serie C1, and its forerunner Serie C, is the lowest division where nine clubs have ever played: [[Bologna FC|Bologna]], [[SSC Napoli|Napoli]], [[Genoa CFC|Genoa]], [[UC Sampdoria|Sampdoria]] (with its forerunners [[AC Liguria|Liguria]]), [[Atalanta BC|Atalanta]], [[Brescia Calcio|Brescia]], [[Udinese Calcio|Udinese]], [[Hellas Verona F.C.|Verona]] and [[Vicenza Calcio|Vicenza]].<ref>[http://www.rsssf.com/tablesi/italall.html]</ref>
+
+==Promotion and relegation==
+In each division, two teams are promoted to [[Serie B]], and three teams are relegated to [[Lega Pro Seconda Divisione]]. In total, the league promotes 4 teams to Serie B and relegates 6 teams to Seconda Divisione.
+
+The team finishing first in the regular season is directly promoted to [[Serie B]], while teams placing 2nd to 5th are entered into a play-off [[Single-elimination tournament|semi-final]] for the chance of gaining the second promotional spot for that particular division.
+
+In the play-off phase that takes place after the regular season is completed, in each division the team placed 2nd will play the team placed 5th, and the team placed 3rd will play the team placed 4th in two double-leg promotional semi-final series with the higher classified team having home field advantage in the second leg. In case of an aggregate tie score, the [[away goals rule]] is not used, and the higher classified team is declared the winner without extra time being played nor penalty kicks being taken. The winning teams advance to the final in another double-leg series with similar rules. The only difference being that if an aggregate tie exists at the end of the second match, extra time is played. If the tie persists, again the higher classified team is declared the winner and no penalty kicks are taken. The winner becomes the second team promoted for that particular division to [[Serie B]].
+
+The team finishing last in the regular season is directly relegated to Seconda Divisione, while teams placing 14th to 17th are entered into a relegation playoff phase called ''play-out''.  There is only one round in the play-outs. In each division the team placed 14th will play the team placed 17th, and the team placed 15th will play the team placed 16th in a double-leg series with the higher classified team having home field advantage in the second leg. In case of an aggregate tie score, the rules are exactly the same as those for the promotional semi-finals. The two winning teams remain in Prima Divisione while the two losing teams become the second and third teams relegated for that particular division.
+
+Play-off and play-out phases were first held in 1993-1994. Before then, the two top-placed teams were promoted to Serie B, whereas the three bottom-table ones were relegated to Serie C2, as it was known at that time.
+
+==Past champions==
+===Serie C1===
+{{col-begin}}
+{{col-2}}
+'''Group A'''
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="text-align: center"
+|-
+! Season
+! Winner
+! Runner Up
+|-
+!width=100|
+!width=150|
+!width=150|
+|-
+| [[Serie C1 1978-79|1978-79]]
+| [[Calcio Como|Como]]
+| [[Parma F.C.|Parma]]
+|-
+| [[Serie C1 1979-80|1979-80]]
+| [[A.S. Varese 1910|Varese]]
+| [[Rimini Calcio F.C.|Rimini]]
+|-
+| [[Serie C1 1980-81|1980-81]]
+| [[A.C. Reggiana 1919|Reggiana]]
+| [[U.S. Cremonese|Cremonese]]
+|-
+| [[Serie C1 1981-82|1981-82]]
+| [[Atalanta B.C.|Atalanta]]
+| [[A.C. Monza Brianza 1912|Monza]]
+|-
+| [[Serie C1 1982-83|1982-83]]
+| [[U.S. Triestina Calcio|Triestina]]
+| [[Calcio Padova|Padova]]
+|-
+| [[Serie C1 1983-84|1983-84]]
+| [[Parma F.C.|Parma]]
+| [[Bologna F.C. 1909|Bologna]]
+|-
+| [[Serie C1 1984-85|1984-85]]
+| [[Brescia Calcio|Brescia]]
+| [[Vicenza Calcio|Lanerossi&nbsp;Vicenza]]
+|-
+| [[Serie C1 1985-86|1985-86]]
+| [[Parma F.C.|Parma]]
+| [[Modena F.C.|Modena]]
+|-
+| [[Serie C1 1986-87|1986-87]]
+| [[Piacenza Calcio|Piacenza]]
+| [[Calcio Padova|Padova]]
+|-
+| [[Serie C1 1987-88|1987-88]]
+| [[A.C. Ancona|Ancona]]
+| [[A.C. Monza Brianza 1912|Monza]]
+|-
+| [[Serie C1 1988-89|1988-89]]
+| [[A.C. Reggiana 1919|Reggiana]]
+| [[U.S. Triestina Calcio|Triestina]]
+|-
+| [[Serie C1 1989-90|1989-90]]
+| [[Modena F.C.|Modena]]
+| [[A.S. Lucchese-Libertas|Lucchese]]
+|-
+| [[Serie C1 1990-91|1990-91]]
+| [[Piacenza Calcio|Piacenza]]
+| [[S.S.C. Venezia|Venezia]]
+|-
+| [[Serie C1 1991-92|1991-92]]
+| [[SPAL 1907|SPAL]]
+| [[A.C. Monza Brianza 1912|Monza]]
+|-
+| [[Serie C1 1992-93|1992-93]]
+| [[Ravenna Calcio|Ravenna]]
+| [[Vicenza Calcio|Vicenza]]
+|}
+{{col-end}}
+
+{{col-2}}
+
+'''Group B'''
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"  style="text-align: center"
+|-
+! Season
+! Winner
+! Runner Up
+|-
+! width=100|
+! width=150|
+! width=150|
+|-
+| [[Serie C1 1978-79|1978-79]]
+| [[F.C. Matera|Matera]]
+| [[Pisa Calcio|Pisa]]
+|-
+| [[Serie C1 1979-80|1979-80]]
+| [[Calcio Catania|Catania]]
+| [[U.S. Foggia|Foggia]]
+|-
+| [[Serie C1 1980-81|1980-81]]
+| [[S.S. Cavese 1919|Cavese]]
+| [[S.S. Sambenedettese Calcio|Sambenedettese]]
+|-
+| [[Serie C1 1981-82|1981-82]]
+| [[A.C. Arezzo|Arezzo]]
+| [[Pol. Nuovo Campobasso Calcio|Campobasso]]
+|-
+| [[Serie C1 1982-83|1982-83]]
+| [[Empoli F.C.|Empoli]]
+| [[Pescara Calcio|Pescara]]
+|-
+| [[Serie C1 1983-84|1983-84]]
+| [[A.S. Bari|Bari]]
+| [[Taranto Sport|Taranto]]
+|-
+| [[Serie C1 1984-85|1984-85]]
+| [[F.C. Catanzaro|Catanzaro]]
+| [[U.S. Città di Palermo|Palermo]]
+|-
+| [[Serie C1 1985-86|1985-86]]
+| [[F.C. Messina Peloro|Messina]]
+| [[Taranto Sport|Taranto]]
+|-
+| [[Serie C1 1986-87|1986-87]]
+| [[F.C. Catanzaro|Catanzaro]]
+| [[A.S.D. Barletta|Barletta]]
+|-
+| [[Serie C1 1987-88|1987-88]]
+| [[S.S.D. Licata 1931|Licata]]
+| [[A.S. Cosenza Calcio|Cosenza]]
+|-
+| [[Serie C1 1988-89|1988-89]]
+| [[Cagliari Calcio|Cagliari]]
+| [[U.S. Foggia|Foggia]]
+|-
+| [[Serie C1 1989-90|1989-90]]
+| [[Taranto Sport|Taranto]]
+| [[Salernitana Calcio 1919|Salernitana]]
+|-
+| [[Serie C1 1990-91|1990-91]]
+| [[A.S.D. Caserta Calcio|Casertana]]
+| [[U.S. Città di Palermo|Palermo]]
+|-
+| [[Serie C1 1991-92|1991-92]]
+| [[Ternana Calcio|Ternana]]
+| [[A.S. Andria BAT|Fidelis&nbsp;Andria]]
+|-
+| [[Serie C1 1992-93|1992-93]]
+| [[U.S. Città di Palermo|Palermo]]
+| [[S.S.D. Acireale Calcio 1946|Acireale]]
+|}
+{{col-end}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="text-align: center"
+|-
+! Season
+! Winner
+! Playoff Winner
+|-
+!width=100|
+!width=150|
+!width=150|
+|-
+| [[Serie C1 1993-94|1993-94]]
+| [[A.C. ChievoVerona|Chievo]]
+| [[Calcio Como|Como]]
+|-
+| [[Serie C1 1994-95|1994-95]]
+| [[Bologna F.C. 1909|Bologna]]
+| [[A.C. Pistoiese|Pistoiese]]
+|-
+| [[Serie C1 1995-96|1995-96]]
+| [[Ravenna Calcio|Ravenna]]
+| [[Empoli F.C.|Empoli]]
+|-
+| [[Serie C1 1996-97|1996-97]]
+| [[Treviso F.B.C. 1993|Treviso]]
+| [[A.C. Monza Brianza 1912|Monza]]
+|-
+| [[Serie C1 1997-98|1997-98]]
+| [[A.C. Cesena|Cesena]]
+| [[U.S. Cremonese|Cremonese]]
+|-
+| [[Serie C1 1998-99|1998-99]]
+| [[F.C. AlzanoCene 1909|Alzano&nbsp;Virescit]]
+| [[A.C. Pistoiese|Pistoiese]]
+|-
+| [[Serie C1 1999-00|1999-00]]
+| [[A.C. Siena|Siena]]
+| [[A.S. Cittadella|Cittadella]]
+|-
+| [[Serie C1 2000-01|2000-01]]
+| [[Modena F.C.|Modena]]
+| [[Calcio Como|Como]]
+|-
+| [[Serie C1 2001-02|2001-02]]
+| [[A.S. Livorno Calcio|Livorno]]
+| [[U.S. Triestina Calcio|Triestina]]
+|-
+| [[Serie C1 2002–03|2002-03]]
+| [[Treviso F.B.C. 1993|Treviso]]
+| [[U.C. AlbinoLeffe|AlbinoLeffe]]
+|-
+| [[Serie C1 2003–04|2003-04]]
+| [[A.C. Arezzo|Arezzo]]
+| [[A.C. Cesena|Cesena]]
+|-
+| [[Serie C1 2004-05|2004-05]]
+| [[U.S. Cremonese|Cremonese]]
+| [[A.C. Mantova|Mantova]]
+|-
+| [[Serie C1 2005-06|2005-06]]
+| [[Spezia Calcio 1906|Spezia]]
+| [[Genoa C.F.C.|Genoa]]
+|-
+| [[Serie C1 2006-07|2006-07]]
+| [[U.S. Grosseto F.C.|Grosseto]]
+| [[Pisa Calcio|Pisa]]
+|-
+| [[Serie C1 2007-08|2007-08]]
+| [[U.S. Sassuolo Calcio|Sassuolo]]
+| [[A.S. Cittadella|Cittadella]]
+|}
+{{col-end}}
+
+{{col-2}}
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"  style="text-align: center"
+|-
+! Season
+! Winner
+! Playoff Winner
+|-
+!width=100|
+!width=150|
+!width=150|
+|-
+| [[Serie C1 1993-94|1993-94]]
+| [[Perugia Calcio|Perugia]]
+| [[Salernitana Calcio 1919|Salernitana]]
+|-
+| [[Serie C1 1994-95|1994-95]]
+| [[Reggina Calcio|Reggina]]
+| [[U.S. Avellino|Avellino]]
+|-
+| [[Serie C1 1995-96|1995-96]]
+| [[U.S. Lecce|Lecce]]
+| [[A.S.D. Castel di Sangro Calcio|Castel&nbsp;di&nbsp;Sangro]]
+|-
+| [[Serie C1 1996-97|1996-97]]
+| [[A.S. Andria BAT|Fidelis&nbsp;Andria]]
+| [[A.C. Ancona|Ancona]]
+|-
+| [[Serie C1 1997-98|1997-98]]
+| [[A.S. Cosenza Calcio|Cosenza]]
+| [[Ternana Calcio|Ternana]]
+|-
+| [[Serie C1 1998-99|1998-99]]
+| [[U.S. Fermana|Fermana]]
+| [[F.C. Savoia 1908|Savoia]]
+|-
+| [[Serie C1 1999-00|1999-00]]
+| [[F.C. Crotone|Crotone]]
+| [[A.C. Ancona|Ancona]]
+|-
+| [[Serie C1 2000-01|2000-01]]
+| [[U.S. Città di Palermo|Palermo]]
+| [[F.C. Messina Peloro|Messina]]
+|-
+| [[Serie C1 2001-02|2001-02]]
+| [[Ascoli Calcio 1898|Ascoli]]
+| [[Calcio Catania|Catania]]
+|-
+| [[Serie C1 2002–03|2002-03]]
+| [[U.S. Avellino|Avellino]]
+| [[Pescara Calcio|Pescara]]
+|-
+| [[Serie C1 2003–04|2003-04]]
+| [[F.C. Catanzaro|Catanzaro]]
+| [[F.C. Crotone|Crotone]]
+|-
+| [[Serie C1 2004-05|2004-05]]
+| [[Rimini Calcio F.C.|Rimini]]
+| [[U.S. Avellino|Avellino]]
+|-
+| [[Serie C1 2005-06|2005-06]]
+| [[S.S.C. Napoli|Napoli]]
+| [[Frosinone Calcio|Frosinone]]
+|-
+| [[Serie C1 2006-07|2006-07]]
+| [[Ravenna Calcio|Ravenna]]
+| [[U.S. Avellino|Avellino]]
+|-
+| [[Serie C1 2007-08|2007-08]]
+| [[Salernitana]]
+| [[A.C. Ancona|Ancona]]
+|}
+{{col-end}}
+{{col-end}}
+
+===Lega Pro Prima Divisione===
+{{col-begin}}
+{{col-2}}
+'''Group  A'''
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="text-align: center"
+|-
+! Season
+! Winner
+! Playoff Winner
+|-
+!width=100|
+!width=150|
+!width=150|
+|-
+| [[Lega Pro Prima Divisione 2008–09|2008-09]]
+| [[A.C. Cesena|Cesena]]
+| [[Calcio Padova|Padova]]
+|-
+| [[Lega Pro Prima Divisione 2009-10|2009-10]]
+| [[Novara Calcio|Novara]]
+| [[AS Varese 1910|Varese]]
+|-
+| [[Lega Pro Prima Divisione 2010-11|2010-11]]
+| [[A.S. Gubbio 1910|Gubbio]]
+| [[Hellas Verona F.C.|Verona]]
+|-
+| [[Lega Pro Prima Divisione 2011-12|2011-12]]
+| [[Ternana Calcio|Ternana]]
+| [[F.C. Pro Vercelli 1892|Pro Vercelli]]
+|}
+{{col-end}}
+
+{{col-2}}
+'''Group B'''
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"  style="text-align: center"
+|-
+! Season
+! Winner
+!Playoff Winner
+|-
+!width=100|
+!width=150|
+!width=150|
+|-
+| [[Lega Pro Prima Divisione 2008–09|2008-09]]
+| [[Gallipoli Calcio|Gallipoli]]
+| [[F.C. Crotone|Crotone]]
+|-
+| [[Lega Pro Prima Divisione 2009-10|2009-10]]
+| [[Calcio Portogruaro Summaga|Portosummaga]]
+| [[Delfino Pescara 1936|Pescara]]
+|-
+| [[Lega Pro Prima Divisione 2010-11|2010-11]]
+| [[A.S.G. Nocerina|Nocerina]]
+| [[S.S. Juve Stabia|Juve Stabia]]
+|-
+| [[Lega Pro Prima Divisione 2011-12|2011-12]]
+| [[Spezia Calcio|Spezia]]
+| [[S.S. Virtus Lanciano 1924|Virtus Lanciano]]
+|}
+{{col-end}}
+{{col-end}}
+
+== Complete team list ==
+These are the 171 clubs which took part to the 34 Serie C1 and Lega Pro Prima Divisione editions played from 1978–79 to 2012–13. The teams in bold compete in Lega Pro Prima Divisione in the current season.
+
+* '''23''' seasons: [[SPAL 1907|SPAL]]
+* '''21''' seasons: '''[[Carrarese Calcio|Carrarese]]''', [[Spezia Calcio|Spezia]]
+* '''20''' seasons: '''[[Benevento Calcio|Benevento]]''', '''[[A.C. Reggiana 1919|Reggiana]]'''
+* '''19''' seasons: [[U.S. Salernitana 1919|Salernitana]]
+* '''17''' seasons: [[U.S.D. Arezzo|Arezzo]], [[U.S. Foggia|Foggia]], '''[[A.C. Prato|Prato]]''' 
+* '''16''' seasons: '''[[Calcio Como|Como]]''', [[Modena F.C.|Modena]], [[A.C. Monza Brianza 1912|Monza]], '''[[A.S.G. Nocerina|Nocerina]]''', [[Ternana Calcio|Ternana]]
+* '''15''' seasons: [[A.S.D. Virtus Casarano|Casarano]], [[A.S. Lucchese Libertas 1905|Lucchese]] 
+* '''14''' seasons: [[U.S. Alessandria Calcio 1912|Alessandria]], '''[[A.S. Avellino 1912|Avellino]]''', [[Giulianova Calcio|Giulianova]], [[A.S. Livorno Calcio|Livorno]], '''[[A.C. Lumezzane|Lumezzane]]''', [[Calcio Padova|Padova]], [[A.C. Siena|Siena]], [[A.S. Taranto Calcio|Taranto]]
+* '''13''' seasons: '''[[S.S. Barletta Calcio|Barletta]]''', '''[[U.S. Cremonese|Cremonese]]''', [[U.S. Pistoiese 1921|Pistoiese]]
+* '''12''' seasons: [[A.C. Ancona|Ancona]], '''[[Carpi F.C. 1909|Carpi]]''', [[S.S. Chieti Calcio|Chieti]], [[Empoli F.C.|Empoli]], [[S.S. Juve Stabia|Juve&nbsp;Stabia]], '''[[A.C. Pavia|Pavia]]''', '''[[A.C. Pisa 1909|Pisa]]''', [[Reggina Calcio|Reggina]], [[U.S. Sambenedettese|Sambenedettese]]
+* '''11''' seasons: '''[[A.S. Andria BAT|Andria&nbsp;BAT]]''', [[Atletico Roma F.C.|Atletico&nbsp;Roma]], [[U.S. Casertana 1908|Casertana]], [[Calcio Catania|Catania]], [[S.S. Cavese 1919|Cavese]], [[Novara Calcio|Novara]], [[Perugia Calcio|Perugia]], '''[[Piacenza Calcio|Piacenza]]''', [[A.C. Rimini 1912|Rimini]], [[Trento Calcio 1921|Trento]], '''[[A.S.D. Treviso 2009|Treviso]]''', [[U.S. Triestina Calcio|Triestina]], [[S.S. Virtus Lanciano 1924|Virtus&nbsp;Lanciano]]
+* '''10''' seasons: [[Cosenza Calcio 1914|Cosenza]], [[Alma Juventus Fano 1906|Fano]], [[A.S.D. Ischia Isolaverde|Ischia]], [[Calcio Lecco 1912|Lecco]], [[Mantova F.C.|Mantova]], [[Aurora Pro Patria 1919|Pro&nbsp;Patria]], [[A.S.D. Nuova Pro Sesto|Pro&nbsp;Sesto]], [[U.S. Siracusa|Siracusa]], [[S.E.F. Torres 1903|Torres]], [[A.S. Varese 1910|Varese]], [[Vicenza Calcio|Vicenza]]
+* '''9''' seasons: [[S.S.D. Acireale Calcio 1946|Acireale]], [[U.S. Fermana|Fermana]], '''[[Paganese Calcio 1926|Paganese]]''', [[U.S. Città di Palermo|Palermo]], [[A.S.D. Atletico Puteolana 2008|Puteolana]], [[Teramo Calcio|Teramo]]
+* '''8''' seasons: [[U.S.D. Atletico Catania|Atletico&nbsp;Catania]], [[A.S. Cittadella|Cittadella]], [[U.S. Massese 1919|Massese]], [[A.S.D. Liberty Monopoli|Monopoli]], [[Montevarchi Calcio Aquila 1902|Montevarchi]], [[Ravenna Calcio|Ravenna]], '''[[Sorrento Calcio|Sorrento]]''', [[Vis Pesaro 1898|Vis&nbsp;Pesaro]]
+* '''7''' seasons: [[Ascoli Calcio 1898|Ascoli]], Francavilla, [[A.S.D. Martina Franca|Martina]], [[U.S. Sanremese Calcio 1904|Sanremese]], [[A.S. Sora|Sora]] 
+* '''6''' seasons: [[F.C. AlzanoCene 1909|Alzano&nbsp;Virescit]], Brescello, [[Pol. Nuovo Campobasso Calcio|Campobasso]], [[A.S. Casale Calcio|Casale]], [[A.C. Cesena|Cesena]], [[F.C. Crotone|Crotone]], [[Foligno Calcio|Foligno]], '''[[Frosinone Calcio|Frosinone]]''', [[Giarre F.C.|Giarre]], [[A.S. Gualdo Calcio|Gualdo]], [[A.C. Legnano|Legnano]], [[A.S.C. Atletico Nola|Nola]], [[Parma F.C.|Parma]], [[Delfino Pescara 1936|Pescara]], [[F.C. Turris 1944 A.S.D.|Turris]]
+* '''5''' seasons: '''[[U.C. AlbinoLeffe|AlbinoLeffe]]''', [[F.B. Brindisi 1912|Brindisi]], [[A.S.D. Castel di Sangro Calcio|Castel&nbsp;di&nbsp;Sangro]], '''[[F.C. Catanzaro|Catanzaro]]''', [[A.C. ChievoVerona|Chievo]], [[U.S. Fiorenzuola 1922|Fiorenzuola]], [[F.C. Forlì|Forlì]], [[S.S.D. Licata 1931|Licata]], [[A.C.R. Messina|Messina]], [[U.S. Pergocrema 1932|Pergocrema]], [[Potenza S.C.|Potenza]], [[San Frediano Rondinella S.S.|R.M.&nbsp;Firenze]], [[S.S. Rende|Rende]], '''[[Trapani Calcio|Trapani]]''', [[F.B.C. Unione Venezia|Venezia]], [[A.S. Viterbese Calcio|Viterbese]]
+* '''4''' seasons: [[L'Aquila Calcio 1927|L'Aquila]], '''[[U.S. Latina Calcio|Latina]]''', [[U.C. AlbinoLeffe|Leffe]], [[A.C. Palazzolo 1913|Palazzolo]], '''[[Calcio Portogruaro Summaga|Portogruaro]]''', [[A.C. Sangiovannese 1927|Sangiovannese]], Saronno, [[Hellas Verona F.C.|Verona]], '''[[F.C. Esperia Viareggio|Viareggio]]''', Virescit&nbsp;Boccaleone
+* '''3''' seasons: [[A.S.D. Battipagliese|Battipagliese]], [[Bologna F.C. 1909|Bologna]], [[Brescia Calcio|Brescia]], [[U.S. Centese A.S.D. 1986|Centese]], [[Derthona F.B.C. 1908|Derthona]], [[A.S.D. Gallipoli Football 1909|Gallipoli]], [[U.S. Grosseto F.C.|Grosseto]], [[A.S.D. Manfredonia Football 1932|Manfredonia]], [[F.C. Matera|Matera]], [[Real Marcianise Calcio|Real&nbsp;Marcianise]], '''[[San Marino Calcio|San&nbsp;Marino]]''', [[A.C.D. Sant'Angelo 1907|Sant'Angelo]], '''[[F.C. Südtirol-Alto Adige|Südtirol]]'''
+* '''2''' seasons: [[A.S.D. Akragas Calcio|Akragas]], Baracca&nbsp;Lugo, [[Bassano Virtus 55 S.T.|Bassano&nbsp;Virtus]], [[A.S.D. Junior Biellese Libertas|Biellese]], [[Cagliari Calcio|Cagliari]], [[Civitanovese Calcio|Civitanovese]], '''[[FeralpiSalò]]''', [[Gela Calcio|Gela]], '''[[A.S. Gubbio 1910|Gubbio]]''', '''[[U.S. Lecce|Lecce]]''', [[S.C. Marsala 1912|Marsala]], [[S.S.C. Napoli|Napoli]], Ospitaletto, [[A.C. Paternò 2004|Paternò]], [[A.S. Pizzighettone|Pizzighettone]], [[U.S. Sassuolo Calcio|Sassuolo]], '''[[S.S. Tritium 1908|Tritium]]''' 
+* '''1''' season: [[A.C. Asti|Asti]], [[Atalanta B.C.|Atalanta]], [[Nuova Avezzano Calcio|Avezzano]], [[A.S. Bari|Bari]], Crevalcore, '''[[A.C. Cuneo 1905|Cuneo]]''', [[A.C. Fanfulla 1874|Fanfulla]], [[A.S.C. Figline|Figline]], [[Genoa C.F.C.|Genoa]], [[U.S. Ivrea Calcio|Ivrea]], [[Jesina Calcio|Jesina]], Leonzio, [[A.C. Mestre|Mestre]], [[A.S. Pescina Valle del Giovenco|Pescina&nbsp;V.d.G.]], [[U.S. Pontedera 1912|Pontedera]], [[F.C. Pro Vercelli 1892|Pro&nbsp;Vercelli]], Rhodense, [[SandonàJesoloCalcio|Sandonà]], '''[[Virtus Entella]]''', [[F.C. Vittoria|Vittoria]]
+
+==See also==
+*[[Italian football league system]]
+
+==External links==
+*[http://www.lega-pro.com/ Lega Pro Official Website]
+
+==References==
+{{reflist|1}}
+
+{{Lega Pro Prima Divisione}}
+{{Football in Italy}}
+{{UEFA third leagues}}
+
+[[Category:Lega Pro Prima Divisione|  ]]
+[[Category:Football leagues in Italy|3]]
+[[Category:Lega Pro|1]]
+[[Category:Professional sports leagues in Italy]]
+[[Category:1978 establishments]]
+
+[[bg:Серия Ц1]]
+[[da:Serie C1]]
+[[de:Lega Pro Prima Divisione]]
+[[es:Lega Pro Prima Divisione]]
+[[fr:Championnat d'Italie de football D3]]
+[[gl:Lega Pro Prima Divisione]]
+[[id:Lega Pro Prima Divisione]]
+[[it:Lega Pro Prima Divisione]]
+[[lt:Lega Pro Prima Divisione]]
+[[hu:Olasz labdarúgó-bajnokság (harmadosztály)]]
+[[nl:Lega Pro Prima Divisione]]
+[[ja:レガ・プロ・プリマ・ディヴィジオーネ]]
+[[no:Lega Pro Prima Divisione]]
+[[pl:Serie C1]]
+[[pt:Lega Pro Prima Divisione]]
+[[ru:Высший дивизион Профессиональной лиги]]
+[[simple:Lega Pro Prima Divisione]]
+[[sk:Lega Pro Prima Divisione]]
+[[sv:Lega Pro Prima Divisione]]
+[[th:เลกาโปรปรีมาดีวีซีโอเน]]
+[[tr:Lega Pro Prima Divisione]]
+[[uk:Лега Про Пріма Дівізіоне]]
+[[zh:意大利足球丙一级联赛]]

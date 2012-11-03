@@ -67,16 +67,39 @@ class Team:
 
         return teamelem
 
+# Not a group of leagues, but a parallel division
+class LeagueGroup:
+    def __init__(self, grouptitle, leaguetitle):
+        self.title = grouptitle
+        if self.title is None:
+            self.title = ""
+        self.leaguetitle = leaguetitle
+        self.teams = []
+        self.numPartialTeams = 0
+        self.numCompleteTeams = 0
+
 class LeagueData:
     def __init__(self, leaguetitle, promotionleague):
         self.title = leaguetitle
+        self.groups = []
         self.season = None
         self.relegationleagues = None
-        self.numteams = 0
         self.promotionleague = promotionleague
         self.levelnum = 0
-        self.numPartialTeams = 0
-        self.numCompleteTeams = 0
+        self.divisions = 0
+        self.numteams = 0
+
+    def getTotalCompleteTeams(self):
+        return sum([group.numCompleteTeams for group in self.groups])
+
+    def getTotalNumTeams(self):
+        return self.numteams
+
+    def hasTeams(self):
+        for g in self.groups:
+            if g.numPartialTeams or g.numCompleteTeams:
+                return True
+        return False
 
     def __str__(self):
         return unicode(self).encode('utf-8')
@@ -84,10 +107,11 @@ class LeagueData:
     def __unicode__(self):
         s =  u'LeagueData:\n'
         s += u'\tTitle: %s\n' % self.title
-        s += u'\tSeason: %s\n' % self.season
+        s += u'\tSeason: %s\n' % self.season.decode('utf-8')
         s += u'\tRelegation leagues: %s\n' % self.relegationleagues
         s += u'\tNumber of teams: %s\n' % self.numteams
         s += u'\tPromotion league: %s\n' % self.promotionleague
         s += u'\tLevel number: %s\n' % self.levelnum
+        s += u'\tDivisions: %s\n' % self.divisions
         return s
 

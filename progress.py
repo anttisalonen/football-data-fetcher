@@ -34,7 +34,7 @@ class Progress:
             for l, data in sorted(self.processedleagues.items()):
                 if data.levelnum == 1:
                     teaminfo = dict()
-                    teaminfo[1] = [(data.numCompleteTeams, data.numteams)]
+                    teaminfo[1] = [(data.getTotalCompleteTeams(), data.getTotalNumTeams())]
                     visitedDeps = set()
                     openDeps = set(data.relegationleagues.keys())
                     while True:
@@ -51,9 +51,9 @@ class Progress:
                             if newDeps:
                                 openDeps |= newDeps
                             if rel.levelnum not in teaminfo:
-                                teaminfo[rel.levelnum] = [(rel.numCompleteTeams, rel.numteams)]
+                                teaminfo[rel.levelnum] = [(rel.getTotalCompleteTeams(), rel.getTotalNumTeams())]
                             else:
-                                teaminfo[rel.levelnum].append((rel.numCompleteTeams, rel.numteams))
+                                teaminfo[rel.levelnum].append((rel.getTotalCompleteTeams(), rel.getTotalNumTeams()))
 
                     s += u'%40s => ' % data.title
                     for i in xrange(1, 8):

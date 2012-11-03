@@ -9,31 +9,55 @@ import teamparser
 import soccer
 
 class ParseLeague(unittest.TestCase):
+    def parseDump(self, name, seasontitle, numteams, numgroups = 0, levelnum = 0):
+        leaguetext = open('tests/wikidumps/%s.txt' % name, 'r').read()
+        if seasontitle:
+            seasontext = open('tests/wikidumps/%s.txt' % seasontitle, 'r').read()
+        else:
+            seasontext = None
+
+        leaguedata = soccer.LeagueData(name, '')
+        parser.getLeagueData(leaguetext, leaguedata)
+
+        groups = None
+        if seasontext:
+            parser.getLeagueData(seasontext, leaguedata)
+            groups = parser.getSeasonTeams(seasontext, leaguedata)
+        if not groups:
+            groups = parser.getSeasonTeams(leaguetext, leaguedata)
+
+        self.assertEqual(leaguedata.numteams, numteams)
+        if numgroups:
+            self.assertEqual(len(groups), numgroups)
+        if levelnum:
+            self.assertEqual(leaguedata.levelnum, levelnum)
+        return leaguedata
+
+    def test_parseKakkonen(self):
+        ld = self.parseDump('Kakkonen', '2012_Kakkonen', 40, 4)
+
     def test_parseEnglishPremierLeague(self):
-        promotionleague = None
-        leaguetitle = 'Premier_League'
-        with open('tests/wikidumps/Premier_League.txt', 'r') as f:
-            leaguedata = soccer.LeagueData(leaguetitle, promotionleague)
-            parser.getLeagueData(f.read(), leaguedata)
-            self.assertTrue(leaguedata.season == '2012–13 Premier League')
-            self.assertTrue(leaguedata.numteams == 20)
-            self.assertTrue(leaguedata.levelnum == 1)
+        self.parseDump('Premier_League', '2012–13_Premier_League', 20, 1, 1)
 
     def test_parseEnglishPremierLeagueSeason(self):
         for file in ['tests/wikidumps/2012–13_Premier_League.txt', 'tests/wikidumps/Premier_League.txt']:
             with open(file, 'r') as f:
-                teams = parser.getSeasonTeams(f.read(), 20, '')
+                l = soccer.LeagueData('', '')
+                l.numteams = 20
+                groups = parser.getSeasonTeams(f.read(), l)
+                self.assertEqual(len(groups), 1)
+                teams = groups[0][1]
                 teamnames = [t[0] for t in teams if t]
                 teamlinks = [t[1] for t in teams if t]
-                self.assertTrue(len(teams) == 20)
-                self.assertTrue(len(teamnames) == 20)
-                self.assertTrue(len(teamlinks) == 20)
-                self.assertTrue(('Chelsea', 'Chelsea F.C.') in teams)
-                self.assertTrue(('Everton', 'Everton F.C.') in teams)
-                self.assertTrue(('Liverpool', 'Liverpool F.C.') in teams)
-                self.assertTrue(('Manchester United', 'Manchester United F.C.') in teams)
-                self.assertTrue('Tottenham Hotspur' in teamnames)
-                self.assertTrue('West Ham United F.C.' in teamlinks)
+                self.assertEqual(len(teams), 20)
+                self.assertEqual(len(teamnames), 20)
+                self.assertEqual(len(teamlinks), 20)
+                self.assertIn(('Chelsea', 'Chelsea F.C.'), teams)
+                self.assertIn(('Everton', 'Everton F.C.'), teams)
+                self.assertIn(('Liverpool', 'Liverpool F.C.'), teams)
+                self.assertIn(('Manchester United', 'Manchester United F.C.'), teams)
+                self.assertIn('Tottenham Hotspur', teamnames)
+                self.assertIn('West Ham United F.C.', teamlinks)
 
     def test_parseEnglishTopLeagues(self):
         for file in ['tests/wikidumps/Football_League_Championship.txt',
@@ -42,28 +66,32 @@ class ParseLeague(unittest.TestCase):
             with open(file, 'r') as f:
                 leaguedata = soccer.LeagueData('', '')
                 parser.getLeagueData(f.read(), leaguedata)
-                self.assertTrue(leaguedata.numteams == 24)
+                self.assertEqual(leaguedata.numteams, 24)
 
     def test_parseEnglishTopSeasons(self):
         for file in ['tests/wikidumps/2012–13_Football_League_Championship.txt',
                 'tests/wikidumps/2012–13_Football_League_One.txt',
                 'tests/wikidumps/2012–13_Football_League_Two.txt']:
             with open(file, 'r') as f:
-                teams = parser.getSeasonTeams(f.read(), 24, '')
+                l = soccer.LeagueData('', '')
+                l.numteams = 24
+                groups = parser.getSeasonTeams(f.read(), l)
+                self.assertEqual(len(groups), 1)
+                teams = groups[0][1]
                 teamnames = [t[0] for t in teams if t]
                 teamlinks = [t[1] for t in teams if t]
-                self.assertTrue(len(teams) == 24)
-                self.assertTrue(len(teamnames) == 24)
-                self.assertTrue(len(teamlinks) == 24)
+                self.assertEqual(len(teams), 24)
+                self.assertEqual(len(teamnames), 24)
+                self.assertEqual(len(teamlinks), 24)
 
     def test_parseTeamSquad(self):
         with open('tests/wikidumps/Template:Boca_Unidos_squad.txt', 'r') as f:
             team = teamparser.parseTeam('', f.read(), False)
             self.assertTrue(team)
-            self.assertTrue(len(team.players) == 33)
-            self.assertTrue(team.players[32].name == 'José Luis Villanueva')
-            self.assertTrue(team.players[32].pos == 'FW')
-            self.assertTrue(team.players[32].nationality == 'CHI')
+            self.assertEqual(len(team.players), 33)
+            self.assertEqual(team.players[32].name, 'José Luis Villanueva')
+            self.assertEqual(team.players[32].pos, 'FW')
+            self.assertEqual(team.players[32].nationality, 'CHI')
 
     def test_parseTeams(self):
         for file in ['tests/wikidumps/Everton_FC.txt',
@@ -94,51 +122,60 @@ class ParseLeague(unittest.TestCase):
             leaguedata = soccer.LeagueData(leaguename, promotionleague)
             parser.getLeagueData(open(leaguepath, 'r').read(), leaguedata)
             if not nextleaguename:
-                self.assertTrue(len(leaguedata.relegationleagues) == 0)
+                self.assertEqual(len(leaguedata.relegationleagues), 0)
             else:
-                self.assertTrue(len(leaguedata.relegationleagues) == 1)
-                self.assertTrue(nextleaguename in leaguedata.relegationleagues.keys())
-            self.assertTrue(leaguedata.title == leaguename)
-            self.assertTrue(leaguedata.promotionleague == promotionleague)
-            teams = parser.getSeasonTeams(open(seasonpath, 'r').read(), numteams, '')
+                self.assertEqual(len(leaguedata.relegationleagues), 1)
+                self.assertIn(nextleaguename, leaguedata.relegationleagues.keys())
+            self.assertEqual(leaguedata.title, leaguename)
+            self.assertEqual(leaguedata.promotionleague, promotionleague)
+            groups = parser.getSeasonTeams(open(seasonpath, 'r').read(), leaguedata)
+            self.assertEqual(len(groups), 1)
+            teams = groups[0][1]
             self.checkLeagueData(numteams, leaguedata, teams)
 
     def checkLeagueData(self, numTeams, leaguedata, teams):
-        self.assertTrue(leaguedata.numteams == numTeams)
+        self.assertEqual(leaguedata.numteams, numTeams)
         teamnames = [t[0] for t in teams if t]
         teamlinks = [t[1] for t in teams if t]
-        self.assertTrue(len(teams) == numTeams)
-        self.assertTrue(len(teamnames) == numTeams)
-        self.assertTrue(len(teamlinks) == numTeams)
+        self.assertEqual(len(teams), numTeams)
+        self.assertEqual(len(teamnames), numTeams)
+        self.assertEqual(len(teamlinks), numTeams)
 
     def test_parseOldInfoboxFootball(self):
         with open('tests/wikidumps/Regionalliga_Nord.txt', 'r') as f:
             leaguedata = soccer.LeagueData('', '')
             parser.getLeagueData(f.read(), leaguedata)
-            self.assertTrue(leaguedata.season == '2012–13 Fußball-Regionalliga')
-            self.assertTrue(leaguedata.numteams == 18)
-            self.assertTrue(leaguedata.levelnum == 4)
-            self.assertTrue(len(leaguedata.relegationleagues) == 4)
-            self.assertTrue('Oberliga Hamburg' in leaguedata.relegationleagues.keys())
-            self.assertTrue('Bremen-Liga' in leaguedata.relegationleagues.keys())
-            self.assertTrue('Schleswig-Holstein-Liga' in leaguedata.relegationleagues.keys())
-            self.assertTrue('Oberliga Niedersachsen' in leaguedata.relegationleagues.keys())
+            self.assertEqual(leaguedata.season, '2012–13 Fußball-Regionalliga')
+            self.assertEqual(leaguedata.numteams, 18)
+            self.assertEqual(leaguedata.levelnum, 4)
+            self.assertEqual(len(leaguedata.relegationleagues), 4)
+            self.assertIn('Oberliga Hamburg', leaguedata.relegationleagues.keys())
+            self.assertIn('Bremen-Liga', leaguedata.relegationleagues.keys())
+            self.assertIn('Schleswig-Holstein-Liga', leaguedata.relegationleagues.keys())
+            self.assertIn('Oberliga Niedersachsen', leaguedata.relegationleagues.keys())
 
-        with open('tests/wikidumps/Oberliga_Niedersachsen.txt', 'r') as f:
-            leaguedata = soccer.LeagueData('', '')
-            parser.getLeagueData(f.read(), leaguedata)
-            self.assertTrue(leaguedata.numteams == 16)
-            self.assertTrue(leaguedata.levelnum == 5)
-            self.assertTrue(len(leaguedata.relegationleagues) == 4)
-            self.assertTrue('Landesliga Braunschweig' in leaguedata.relegationleagues.keys())
-            self.assertTrue('Landesliga Lüneburg' in leaguedata.relegationleagues.keys())
-            self.assertTrue('Landesliga Hannover' in leaguedata.relegationleagues.keys())
-            self.assertTrue('Landesliga Weser-Ems' in leaguedata.relegationleagues.keys())
+        leaguedata = self.parseDump('Oberliga_Niedersachsen', None, 16, 0, 5)
+        self.assertEqual(len(leaguedata.relegationleagues), 4)
+        self.assertIn('Landesliga Braunschweig', leaguedata.relegationleagues.keys())
+        self.assertIn('Landesliga Lüneburg', leaguedata.relegationleagues.keys())
+        self.assertIn('Landesliga Hannover', leaguedata.relegationleagues.keys())
+        self.assertIn('Landesliga Weser-Ems', leaguedata.relegationleagues.keys())
 
     def test_ignoreHistoricalTeamList(self):
         with open('tests/wikidumps/Regionalliga_Süd.txt', 'r') as f:
-            teams = parser.getSeasonTeams(f.read(), 18, '')
-            self.assertTrue(teams is None)
+            l = soccer.LeagueData('', '')
+            l.numteams = 18
+            teams = parser.getSeasonTeams(f.read(), l)
+            self.assertTrue(not teams)
+
+    def test_parseLegaProPrimaDivisione(self):
+        leaguetext = open('tests/wikidumps/Lega_Pro_Prima_Divisione.txt', 'r').read()
+        seasontext = open('tests/wikidumps/2012–13_Lega_Pro_Prima_Divisione.txt', 'r').read()
+        leaguedata = soccer.LeagueData('', '')
+        parser.getLeagueData(leaguetext, leaguedata)
+        self.assertEqual(leaguedata.numteams, 33)
+        groups = parser.getSeasonTeams(seasontext, leaguedata)
+        self.assertEqual(len(groups), 2)
 
 if __name__ == '__main__':
     unittest.main()

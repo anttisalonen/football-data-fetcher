@@ -42,6 +42,7 @@ def getLeagueData(rvtext, leaguedata):
     relegationleagues = dict()
     numteams = 0
     levelnum = 0
+    divisions = 0
     class InfoboxState:
         Outside = 0
         Entered = 1
@@ -58,6 +59,11 @@ def getLeagueData(rvtext, leaguedata):
             k, v = wikiutils.getKeyValue(line)
             competition, competitionlink = wikiutils.unlinkify(v)
             season = competitionlink
+
+        if not divisions and (lineWithoutSpaces.startswith("|divisions=") or lineWithoutSpaces.startswith("|division=")):
+            tp = wikiutils.getNumberKeyValue(line)
+            if tp:
+                divisions = tp
 
         if not levelnum and (lineWithoutSpaces.startswith("|levels=") or lineWithoutSpaces.startswith("|level=")):
             tp = wikiutils.getNumberKeyValue(line)
@@ -123,13 +129,47 @@ def getLeagueData(rvtext, leaguedata):
         leaguedata.relegationleagues = relegationleagues
     if not leaguedata.numteams:
         leaguedata.numteams = numteams
+    if not leaguedata.divisions:
+        leaguedata.divisions = divisions
     if not leaguedata.levelnum:
         leaguedata.levelnum = levelnum
 
-def getSeasonTeams(rvtext, numteams, leaguetitle):
-    # collect all lists that seem correct along with their corresponding headings.
-    # if more than one team list found, pick the one with the correct heading.
-    teamlists = []
+def addOrUpdateTeamList(l, heading, teams):
+    def cleaned(namelist):
+        ret = []
+        for t in sorted(namelist):
+            ret.append(t.replace('&nbsp;', ' '))
+        return ret
+    """Check whether a list with the same team names already exists in the list.
+    If this is the case, have the team list with more links in the list."""
+    tlist = sorted([wikiutils.unlinkify(t) for t in teams])
+    toinsert = cleaned([t[0] for t in tlist])
+    previous = None
+    teamPairList = [p[1] for p in l]
+    prev = None
+    for t in l:
+        thistl = cleaned([x[0] for x in t[1]])
+        if thistl == toinsert:
+            prev = t
+            break
+    if prev:
+        numLinksInPrev = len([x for x in prev[1] if x[1]])
+        numLinksInThis = len([x for x in tlist if x[1]])
+        if numLinksInThis > numLinksInPrev:
+            l.remove(prev)
+            l.append((heading, tlist))
+    else:
+        l.append((heading, tlist))
+
+def getSeasonTeams(rvtext, leaguedata):
+    """Collect all lists that seem to be club lists along with their corresponding headings.
+    If one team list with the number of teams as length, we're done.
+    If multiple team lists, all with the correct number of teams as length, are found,
+    pick the one with the correct heading.
+    If multiple team lists are found, all shorter than the correct number of teams,
+    and the sum of the lists is the total number of teams, create one group for each list."""
+    correctLengthTeamLists = []
+    shorterTeamLists = []
 
     tableStatus = 0
     teamColumn = -1
@@ -137,6 +177,7 @@ def getSeasonTeams(rvtext, numteams, leaguetitle):
     haveTeams = False
     thisTeamHeading = None
 
+    """First collect all team lists."""
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
 
@@ -208,61 +249,64 @@ def getSeasonTeams(rvtext, numteams, leaguetitle):
         if (tableStatus == 2 or tableStatus == 3) and ls[0:2] == '|}':
             # make sure there are no duplicates in the list - may happen
             # e.g. with historical winners tables (Regionalliga_Süd)
-            if len(thisteams) == numteams and len(set(thisteams)) == len(thisteams):
-                teamlists.append((thisTeamHeading, thisteams))
+            if len(set(thisteams)) == len(thisteams):
+                if len(thisteams) == leaguedata.numteams:
+                    addOrUpdateTeamList(correctLengthTeamLists, thisTeamHeading, thisteams)
+                elif thisteams and len(thisteams) < leaguedata.numteams:
+                    # Only add list if the same team list not already added.
+                    addOrUpdateTeamList(shorterTeamLists, thisTeamHeading, thisteams)
 
             tableStatus = 0
             thisteams = []
             thisTeamHeading = None
 
-    if teamlists:
-        if len(teamlists) == 1:
-            teams = teamlists[0][1]
+    groups = []
+    if correctLengthTeamLists and leaguedata.divisions <= 1:
+        if len(correctLengthTeamLists) == 1:
+            groups = [('', correctLengthTeamLists[0][1])]
         else:
-            teams = None
-            if leaguetitle:
-                for theading, tlist in teamlists:
-                    if theading and leaguetitle in theading:
-                        teams = tlist
+            if leaguedata.title:
+                for theading, tlist in correctLengthTeamLists:
+                    if theading and leaguedata.title in theading:
+                        groups = [(theading, tlist)]
                         break
-            if teams == None:
-                # if not found, default to the first one
-                teams = teamlists[0][1]
+            if not groups:
+                # if not found, default to the first one (correct in e.g. 2012_Ykkönen)
+                groups = [('', correctLengthTeamLists[0][1])]
 
-        teamres = []
-        for t in teams:
-            name, link = wikiutils.unlinkify(t)
-            teamres.append((name, link))
-        return teamres
+    elif shorterTeamLists and (leaguedata.divisions == 0 or len(shorterTeamLists) == leaguedata.divisions):
+        totalNumTeams = sum([len(l[1]) for l in shorterTeamLists])
+        if totalNumTeams == leaguedata.numteams:
+            groups = shorterTeamLists
 
-    return None
+    return groups
 
 def getTeamData(rvtext, leaguedata):
-    if leaguedata.numPartialTeams or leaguedata.numCompleteTeams:
+    if leaguedata.hasTeams():
         return
 
-    teams = getSeasonTeams(rvtext, leaguedata.numteams, leaguedata.title)
+    groups = getSeasonTeams(rvtext, leaguedata)
 
-    numPartialTeams = 0
-    numCompleteTeams = 0
-
-    if teams:
-        print len(teams), 'teams found.'
-        root = etree.Element("League")
-        root.set('title', leaguedata.title)
-        for name, link in teams:
-            if link:
-                td = teamparser.fetchTeamData(link)
-                if td and len(td.players) > 0:
-                    numCompleteTeams += 1
-                    teamelem = td.toXML()
-                    root.append(teamelem)
-        numPartialTeams = len(teams) - numCompleteTeams
-        with open(Globals.outputdir + leaguedata.title + '.xml', 'w') as f:
-            f.write(etree.tostring(root, pretty_print=True))
+    if groups:
+        print len(groups), 'groups found.'
+        for name, teams in groups:
+            numCompleteTeams = 0
+            group = soccer.LeagueGroup(name, leaguedata.title)
+            print '%d teams in group %s.' % (len(teams), name)
+            for name, link in teams:
+                if link:
+                    td = teamparser.fetchTeamData(link)
+                    if td:
+                        if len(td.players) > 0:
+                            numCompleteTeams += 1
+                        group.teams.append(td)
+                    else:
+                        group.teams.append(soccer.Team(name, [], 0, []))
+            numPartialTeams = len(teams) - numCompleteTeams
+            group.numPartialTeams = numPartialTeams
+            group.numCompleteTeams = numCompleteTeams
+            leaguedata.groups.append(group)
     else:
         print "Failed finding teams."
 
-    leaguedata.numPartialTeams = numPartialTeams
-    leaguedata.numCompleteTeams = numCompleteTeams
 

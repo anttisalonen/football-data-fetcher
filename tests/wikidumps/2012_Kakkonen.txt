@@ -1,0 +1,833 @@
+The '''2012 [[Kakkonen]]''' season began on 18 April and ended on 6 October 2012.<ref>http://palloverkko.palloliitto.fi/Live/stats/CompetitionDetails.aspx?compID=79</ref>
+
+==Teams==
+A total of 40 teams contested the league divided into four groups, Eteläinen (Southern), Pohjoinen (Northern), Läntinen (Western) and Itäinen (Eastern). 30 returned from the 2011 season, three relegated from [[2011 Ykkönen|Ykkönen]] and seven promoted from [[Kolmonen]]. The champion of each group qualified to promotion matches to decide which two teams get promoted to the [[Ykkönen]]. The bottom two teams in each group and the worst eight-placed qualified directly for relegation to [[Kolmonen]]. Each team played a total of 27 matches, playing three times against each team of its group.
+
+===Stadia and Locations===
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px; ">
+<div style="position: relative; border: 1px solid lightgray">[[file:Finland location map.svg|400px|2012 Kakkonen is located in Finland]]<div style="position: absolute; z-index: 2; top: 91.3%; left: 25.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Åbo IFK|ÅIFK]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:80%;">[[Åbo IFK|ÅIFK]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 56.7%; left: 67.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[AC Kajaani]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[AC Kajaani]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 93.8%; left: 45.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Pink pog.svg|8x8px|<div style="font-size:80%;position:relative;right:-2px;;bottom:-2px;">[[Atlantis FC|Atlantis]]<br>[[FC Kiffen 08|FC Kiffen]]<br>[[FC Gnistan|Gnistan]]<br>[[Laajasalon Palloseura|LPS]]<br>[[Klubi 04]]<sup>1</sup></div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;position:relative;right:-2px;;bottom:-2px;">[[Atlantis FC|Atlantis]]<br>[[FC Kiffen 08|FC Kiffen]]<br>[[FC Gnistan|Gnistan]]<br>[[Laajasalon Palloseura|LPS]]<br>[[Klubi 04]]<sup>1</sup></div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 95.6%; left: 34.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Bollklubben-46|BK-46]]<br>[[Ekenäs Idrottsförening|EIF]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;">[[Bollklubben-46|BK-46]]<br>[[Ekenäs Idrottsförening|EIF]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 93.5%; left: 43.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;position:relative;left:-8px;">[[EsPa]]<br>[[FC Espoo]]<br>[[GrIFK]]<br>[[Pallohonka]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-0.15em; left: -3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:80%;position:relative;left:-8px;">[[EsPa]]<br>[[FC Espoo]]<br>[[GrIFK]]<br>[[Pallohonka]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 35.8%; left: 51.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[FC Santa Claus]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[FC Santa Claus]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 91.8%; left: 51.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Pink pog.svg|8x8px|<div style="font-size:80%;">[[FC Futura]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:80%;">[[FC Futura]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 81.9%; left: 21.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Blue pog.svg|8x8px|<div style="font-size:80%;">[[FC Jazz]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[FC Jazz]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 67.1%; left: 20.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Blue pog.svg|8x8px|<div style="font-size:80%;">[[FC Kiisto]]<br>[[Vasa IFK|VIFK]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[FC Kiisto]]<br>[[Vasa IFK|VIFK]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 86.4%; left: 51.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Pink pog.svg|8x8px|<div style="font-size:80%;">[[FC Kuusysi]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[FC Kuusysi]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 58.1%; left: 42.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[FC YPA]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[FC YPA]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 60.2%; left: 31.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[GBK Kokkola|GBK]]<br>[[Kokkolan Palloveikot|KPV]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[GBK Kokkola|GBK]]<br>[[Kokkolan Palloveikot|KPV]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 86.3%; left: 41.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Blue pog.svg|8x8px|<div style="font-size:80%;">[[Hämeenlinnan Härmä|Härmä]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;">[[Hämeenlinnan Härmä|Härmä]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 47.8%; left: 49.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[HauPa]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[HauPa]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 81.6%; left: 36.8%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Blue pog.svg|8x8px|<div style="font-size:80%;">[[FC Ilves|Ilves]]<br>[[Tampereen Pallo-Veikot|TPV]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[FC Ilves|Ilves]]<br>[[Tampereen Pallo-Veikot|TPV]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 91.1%; left: 46.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Pink pog.svg|8x8px|<div style="font-size:80%;">[[Järvenpään Palloseura|JäPS]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;">[[Järvenpään Palloseura|JäPS]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 77.7%; left: 47.4%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Blue pog.svg|8x8px|<div style="font-size:80%;">[[Jämsänkosken Ilves|JIlves]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Jämsänkosken Ilves|JIlves]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 91.2%; left: 61.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Pink pog.svg|8x8px|<div style="font-size:80%;">[[Kotkan Työväen Palloilijat|KTP]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:80%;">[[Kotkan Työväen Palloilijat|KTP]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 93.2%; left: 39%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[Lohjan Pallo|LoPa]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><div style="font-size:80%;">[[Lohjan Pallo|LoPa]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 79.9%; left: 63.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Pink pog.svg|8x8px|<div style="font-size:80%;">[[Mikkelin Palloilijat|MP]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Mikkelin Palloilijat|MP]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 73.3%; left: 18%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Blue pog.svg|8x8px|<div style="font-size:80%;">[[Närpes Kraft Fotbollsförening|Närpes Kraft]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Närpes Kraft Fotbollsförening|Närpes Kraft]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 85.1%; left: 19.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Blue pog.svg|8x8px|<div style="font-size:80%;">[[Pallo-Iirot|P-Iirot]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Pallo-Iirot|P-Iirot]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 93%; left: 44.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Pink pog.svg|8x8px|<div style="font-size:80%;">[[Pallokerho-35|PK-35/VJS]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Pallokerho-35|PK-35/VJS]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 62.8%; left: 63.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[PK-37]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[PK-37]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 42.8%; left: 42.8%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[Palloseura Kemi Kings|PS Kemi]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Palloseura Kemi Kings|PS Kemi]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 91.9%; left: 31.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<div style="font-size:80%;">[[SalPa]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><div style="font-size:80%;">[[SalPa]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 74.5%; left: 18.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Blue pog.svg|8x8px|<div style="font-size:80%;">[[Sporting Kristina|Sporting]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Sporting Kristina|Sporting]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 41.7%; left: 39.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[TP-47]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[TP-47]]</div></span></div></div>
+<div style="position: absolute; z-index: 2; top: 74.1%; left: 68.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Green pog.svg|8x8px|<div style="font-size:80%;">[[Warkaus JK]]</div>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><div style="font-size:80%;">[[Warkaus JK]]</div></span></div></div></div>
+<div class="thumbcaption">Location of the 2012 Kakkonen teams. Eteläinen (Southern) are red dots, Pohjoinen (Northern) are green dots, Läntinen (Western) are blue dots while Itäinen (Eastern) are pink dots.<br><sup>1</sup>Klubi 04 plays in Eteläinen (Southern).
+</div>
+</div>
+</div>
+
+{| class="wikitable sortable" border="1"
+|-
+! Team
+! Location
+! Stadium
+! Stadium capacity
+|-
+|[[Åbo IFK|ÅIFK]] || [[Turku]] || Urheilupuiston yläkenttä || 1,500
+|-
+|[[AC Kajaani]] || [[Kajaani]] || Kajaanin Liikuntapuisto || 800
+|-
+|[[Atlantis FC]] || [[Helsinki]] || Töölön Pallokentta || 4,000
+|-
+|[[Bollklubben-46|BK-46]] || [[Raseborg]] || Karjaan urheilukenttä || 1,000
+|-
+|[[Ekenäs Idrottsförening|EIF]] || [[Raseborg]] || Ekenäs Centrumplan || 2,500
+|-
+|[[EsPa]] || [[Espoo]] || Matinkylän tekonurmi || N/A
+|-
+|[[FC Santa Claus]] || [[Rovaniemi]] || Saarenkylän tekonurmi || 2,000
+|-
+|[[FC Espoo]] || [[Espoo]] || Leppävaaran stadion || 5,000
+|-
+|[[FC Futura]] || [[Porvoo]] || Porvoon keskuskenttä || 500
+|-
+|[[FC Jazz]] || [[Pori]] || [[Porin Stadion]] || 12,000
+|-
+|[[FC Kiffen 08|FC Kiffen]] || [[Helsinki]] || [[Töölön Pallokenttä]] || N/A
+|-
+|[[FC Kiisto]] || [[Vaasa]] || [[Kaarlen kenttä]] || 5,500
+|-
+|[[FC Kuusysi]] || [[Lahti]] || [[Lahden kisapuisto|Kisapuisto]] || 4,400
+|-
+|[[FC YPA]] || [[Ylivieska]] || Safari || 600
+|-
+|[[GBK Kokkola|GBK]] || [[Kokkola]] || Kokkolan keskuskenttä || 3,000
+|-
+|[[IF Gnistan|Gnistan]] || [[Helsinki]] || Fair Pay Arena || 2,000
+|-
+|[[GrIFK]] || [[Kauniainen]] || [[Kauniaisten Keskuskenttä]] || 700
+|-
+|[[Hämeenlinnan Härmä|Härmä]] || [[Hämeenlinna]] || [[Kaurialan kenttä|Kauriala]] || 4,000
+|-
+|[[HauPa]] || [[Haukipudas]] || Haukiputaan keskuskenttä || 2,000
+|-
+|[[FC Ilves|Ilves]] || [[Tampere]] || [[Tammela Stadion]] || 5,040
+|-
+|[[Järvenpään Palloseura|JäPS]] || [[Järvenpää]] || Järvenpään keskuskenttä || 500
+|-
+|[[Jämsänkosken Ilves|JIlves]] || [[Jämsä]] || Jämsänkosken Pallokenttä || 2,500
+|-
+|[[Klubi-04]] || [[Helsinki]] || [[Sonera Stadium]] || 10,770
+|-
+|[[Kokkolan Palloveikot|KPV]] || [[Kokkola]] || Kokkolan Keskuskenttä || 2,000
+|-
+|[[Kotkan Työväen Palloilijat|KTP]] || [[Kotka]] || [[Arto Tolsa Areena]] || 4,780
+|-
+|[[Lohjan Pallo|LoPa]] || [[Lohja]] || Harjun urheilukenttä || 3,000
+|-
+|[[Laajasalon Palloseura|LPS]] || [[Helsinki]] || Laajasalon urheilupuisto || N/A
+|-
+|[[Mikkelin Palloilijat|MP]] || [[Mikkeli]] || [[Mikkelin Urheilupuisto]] || 7,000
+|-
+|[[Närpes Kraft Fotbollsförening|Närpes Kraft]] || [[Närpes]] || Mosedal || 2,000
+|-
+|[[Pallo-Iirot|P-Iirot]] || [[Rauma, Finland|Rauma]] || Äijänsuon stadion || 2,000
+|-
+|[[Pallohonka]] || [[Espoo]] || Otaniemen urheilukeskus || 500
+|-
+|[[Pallokerho-35|PK-35/VJS]] || [[Vantaa]] || [[ISS Stadion]] || 4,700
+|-
+|[[PK-37]] || [[Iisalmi]] || Sankariniemi || 5,000
+|-
+|[[Palloseura Kemi Kings|PS Kemi]] || [[Kemi]] || Sauvosaari || 1,500
+|-
+|[[SalPa]] || [[Salo, Finland|Salo]] || Salon Urheilupuisto || 2,500
+|-
+|[[Sporting Kristina|Sporting]] || [[Kristinestad]] || Kristinaplan || 2,000
+|-
+|[[TP-47]] || [[Tornio]] || Pohjan Stadion || 4,000
+|-
+|[[Tampereen Pallo-Veikot|TPV]] || [[Tampere]] || [[Tammela Stadion]] || 5,040
+|-
+|[[Vasa IFK|VIFK]] || [[Vaasa]] || [[Hietalahti Stadium]] || 4,600
+|-
+|[[Warkaus JK]] || [[Varkaus]] || Varkauden Keskuskenttä || 2,000
+|}
+
+==League tables==
+===Eteläinen (Southern)===
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- style="background-color:#D0F0C0"
+|1
+|align=left|[[Åbo IFK|ÅIFK]]
+|27
+|17
+|5
+|5
+|50
+|25||+25
+|'''56'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Promotion Playoffs to the [[Ykkönen]]
+|- 
+|2
+|align=left|[[Bollklubben-46|BK-46]]
+|27
+|16
+|3
+|8
+|55
+|35||+20
+|'''51'''
+|- 
+|3
+|align=left|[[SalPa|SalPa]]
+|27
+|15
+|5
+|7
+|50
+|34||+16
+|'''50'''
+|- 
+|4
+|align=left|[[Ekenäs Idrottsförening|EIF]]
+|27
+|14
+|6
+|7
+|75
+|34||+41
+|'''48'''
+|- 
+|5
+|align=left|[[Klubi-04|Klubi 04]]
+|27
+|13
+|6
+|8
+|64
+|36||+28
+|'''45'''
+|- 
+|6
+|align=left|[[GrIFK|GrIFK]]
+|27
+|12
+|6
+|9
+|64
+|35||+29
+|'''42'''
+|- 
+|7
+|align=left|[[Pallohonka|Pallohonka]]
+|27
+|13
+|3
+|11
+|56
+|38||+18
+|'''42'''
+|- style="background-color:#FFE6E6"
+|8
+|align=left|[[EsPa|EsPa]]
+|27
+|9
+|1
+|17
+|46
+|59||&minus;13
+|'''28'''
+|- style="background-color:#FFCCCC"
+|9
+|align=left|[[FC Espoo|FC Espoo]]&nbsp;'''(R)'''
+|27
+|7
+|2
+|18
+|48
+|61||&minus;13
+|'''23'''
+|rowspan=2 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Relegation to the<span class="Unicode"> </span>[[Kolmonen]]
+|- style="background-color:#FFCCCC"
+|10
+|align=left|[[Lohjan Pallo|LoPa]]&nbsp;'''(R)'''
+|27
+|0
+|1
+|26
+|14
+|165||&minus;151
+|'''1'''
+|}
+<small>
+Updated to games played on 6 October 2012<br />Source: [http://palloverkko.palloliitto.fi/Live/Stats/CompetitionDetails.aspx?compID=79 palloverkko.palloliitto.fi]<br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+===Pohjoinen (Northern)===
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- style="background-color:#D0F0C0"
+|1
+|align=left|[[AC Kajaani|AC Kajaani]]&nbsp;'''(P)'''
+|24
+|15
+|4
+|5
+|53
+|33||+20
+|'''49'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Promotion Playoffs to the [[Ykkönen]]
+|- 
+|2
+|align=left|[[Gamlakarleby Bollklubb|GBK]]
+|24
+|12
+|8
+|4
+|53
+|29||+24
+|'''44'''
+|- 
+|3
+|align=left|[[PS Kemi Kings|PS Kemi]]
+|24
+|12
+|3
+|9
+|52
+|37||+15
+|'''39'''
+|- 
+|4
+|align=left|[[PK-37|PK-37]]
+|24
+|11
+|6
+|7
+|37
+|33||+4
+|'''39'''
+|- 
+|5
+|align=left|[[TP-47|TP-47]]
+|24
+|8
+|5
+|11
+|39
+|42||&minus;3
+|'''29'''
+|- 
+|6
+|align=left|[[FC YPA|FC YPA]]
+|24
+|9
+|2
+|13
+|41
+|45||&minus;4
+|'''29'''
+|- 
+|7
+|align=left|[[Kokkolan Palloveikot|KPV]]
+|24
+|7
+|7
+|10
+|30
+|39||&minus;9
+|'''28'''
+|- style="background-color:#FFE6E6"
+|8
+|align=left|[[FC Santa Claus|FC Santa Claus]]
+|24
+|6
+|6
+|12
+|29
+|54||&minus;25
+|'''24'''
+|- style="background-color:#FFCCCC"
+|9
+|align=left|[[HauPa|HauPa]]&nbsp;'''(R)'''
+|24
+|6
+|3
+|15
+|27
+|47||&minus;20
+|'''21'''
+|rowspan=2 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Relegation to the<span class="Unicode"> </span>[[Kolmonen]]
+|- style="background-color:#FFCCCC"
+|10
+|align=left|[[Warkaus JK|Warkaus JK]]&nbsp;'''(R)'''
+|0
+|0
+|0
+|0
+|0
+|0||0
+|'''0'''<sup class="reference plainlinks nourlexpansion" id="ref_a">[[#endnote_a|a]]</sup>
+|}
+<small>
+Updated to games played on 6 October 2012<br />Source: [http://palloverkko.palloliitto.fi/Live/Stats/CompetitionDetails.aspx?compID=80 palloverkko.palloliitto.fi]<br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+:a.<span class="citation wikicite" id="endnote_a"><b>[[#ref_a|^]]</b></span>  [[Warkaus JK]] was excluded from the [[Kakkonen]] due to breaking the rules of the [[Football Association of Finland|association]].</small><ref>http://www.palloliitto.fi/uutiset/warkaus-jk-suljetaan-pois-miesten-kakkosesta</ref>
+
+:1. The match PS Kemi – TP-47 originally finished 1–0, but the result was changed to 0–3, as PS Kemi fielded an ineligible player.</small><ref name="Kakkonen1">http://www.palloliitto.fi/uutiset/muutoksia-ykkosen-ja-kakkosen-sarjataulukoihin</ref>
+
+===Läntinen (Western)===
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- style="background-color:#D0F0C0"
+|1
+|align=left|[[FC Ilves|Ilves]]&nbsp;'''(P)'''
+|27
+|22
+|4
+|1
+|84
+|21||+63
+|'''70'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Promotion Playoffs to the [[Ykkönen]]
+|- 
+|2
+|align=left|[[FC Jazz|FC Jazz]]
+|27
+|17
+|6
+|4
+|58
+|23||+35
+|'''57'''
+|- 
+|3
+|align=left|[[Pallo-Iirot|P-Iirot]]
+|27
+|18
+|1
+|8
+|67
+|40||+27
+|'''55'''
+|- 
+|4
+|align=left|[[Vasa IFK|VIFK]]
+|27
+|14
+|10
+|3
+|46
+|25||+21
+|'''52'''
+|- 
+|5
+|align=left|[[Närpes Kraft Fotbollsförening|Närpes Kraft]]
+|27
+|12
+|5
+|10
+|56
+|57||&minus;1
+|'''41'''
+|- 
+|6
+|align=left|[[Tampereen Palloveikot|TPV]]
+|27
+|10
+|8
+|9
+|43
+|37||+6
+|'''38'''
+|- 
+|7
+|align=left|[[Hämeenlinnan Härmä|Härmä]]
+|27
+|7
+|5
+|15
+|38
+|59||&minus;21
+|'''26'''
+|- style="background-color:#FFE6E6"
+|8
+|align=left|[[Sporting Kristina|Sporting]]&nbsp;'''(R)'''
+|27
+|6
+|3
+|18
+|33
+|58||&minus;25
+|'''21'''
+|- style="background-color:#FFCCCC"
+|9
+|align=left|[[FC Kiisto|FC Kiisto]]&nbsp;'''(R)'''
+|27
+|3
+|4
+|20
+|20
+|68||&minus;48
+|'''13'''
+|rowspan=2 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Relegation to the<span class="Unicode"> </span>[[Kolmonen]]
+|- style="background-color:#FFCCCC"
+|10
+|align=left|[[Jämsänkosken Ilves|JIlves]]&nbsp;'''(R)'''
+|27
+|2
+|2
+|23
+|21
+|81||&minus;60
+|'''8'''
+|}
+<small>
+Updated to games played on 6 October 2012<br />Source: [http://palloverkko.palloliitto.fi/Live/Stats/CompetitionDetails.aspx?compID=81 palloverkko.palloliitto.fi]<br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+:2. The match TPV – JIlves originally finished 1–1, but the result was changed to 3–0, as JIlves fielded an ineligible player.</small><ref name="Kakkonen1"/>
+:3. The match JIlves – Ilves originally finished 3–5, but the result was changed to 0–3, as JIlves fielded an ineligible player.</small><ref name="Kakkonen1"/>
+
+===Itäinen (Eastern)===
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- style="background-color:#D0F0C0"
+|1
+|align=left|[[Järvenpään Palloseura|JäPS]]
+|27
+|16
+|5
+|6
+|59
+|33||+26
+|'''53'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Promotion Playoffs to the [[Ykkönen]]
+|- 
+|2
+|align=left|[[IF Gnistan|Gnistan]]
+|27
+|15
+|7
+|5
+|46
+|26||+20
+|'''52'''
+|- 
+|3
+|align=left|[[Mikkelin Palloilijat|MP]]
+|27
+|15
+|4
+|8
+|68
+|37||+31
+|'''49'''
+|- 
+|4
+|align=left|[[FC Kuusysi|FC Kuusysi]]
+|27
+|12
+|4
+|11
+|45
+|39||+6
+|'''40'''
+|- 
+|5
+|align=left|[[Atlantis FC|Atlantis FC]]
+|27
+|11
+|6
+|10
+|54
+|43||+11
+|'''39'''
+|- 
+|6
+|align=left|[[Kotkan Työväen Palloilijat|KTP]]
+|27
+|10
+|7
+|10
+|43
+|54||&minus;11
+|'''37'''
+|- 
+|7
+|align=left|[[FC Futura|FC Futura]]
+|27
+|9
+|6
+|12
+|48
+|58||&minus;10
+|'''33'''
+|- style="background-color:#FFE6E6"
+|8
+|align=left|[[Laajasalon Palloseura|LPS]]
+|27
+|9
+|5
+|13
+|37
+|50||&minus;13
+|'''32'''
+|- style="background-color:#FFCCCC"
+|9
+|align=left|[[FC Kiffen 08|FC Kiffen]]&nbsp;'''(R)'''
+|27
+|6
+|6
+|15
+|25
+|53||&minus;28
+|'''24'''
+|rowspan=2 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Relegation to the<span class="Unicode"> </span>[[Kolmonen]]
+|- style="background-color:#FFCCCC"
+|10
+|align=left|[[Pallokerho-35#PK-35/VJS|PK-35/VJS]]&nbsp;'''(R)'''
+|27
+|5
+|4
+|18
+|23
+|55||&minus;32
+|'''19'''
+|}
+<small>
+Updated to games played on 6 October 2012<br />Source: [http://palloverkko.palloliitto.fi/Live/Stats/CompetitionDetails.aspx?compID=82 palloverkko.palloliitto.fi]<br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+:4. The match Gnistan – Atlantis FC originally finished 0–1, but the result was changed to 3–0, as Atlantis FC fielded an ineligible player.</small><ref>http://www.palloliitto.fi/uutiset/paatos-koskien-miesten-kakkosen-ottelua-fc-gnistan-atlantis-fc</ref>
+
+===Promotion play-offs===
+Group winners will play two-legged ties. Team pairs will be drawn and the two winning teams will be promoted to the [[Ykkönen]] for season 2013.<ref>[http://www.palloliitto.fi/uutiset/kakkosen-nousukarsintaparit-arvottiin Kakkosen nousukarsintaparit arvottiin] {{fi icon}}</ref>
+
+'''Group winners'''<br>
+Eteläinen (Southern): [[ÅIFK]]<br>
+Pohjoinen (Northern): [[AC Kajaani]]<br>
+Läntinen (Western): [[FC Ilves|Ilves]]<br>
+Itäinen (Eastern): [[JäPS]]
+
+====First leg====
+{| cellspacing=0 style="width: 100%; background-color: transparent" class="vevent"
+
+| width=15% valign=top align=right rowspan=5 class="summary" | 13 October 2012<br /> 
+! width=24% valign=top align=right class = "vcard attendee" | <span class="fn org">[[JäPS]]</span>
+! width=13% valign=top align=center           | 0–0 
+! width=24% valign=top align=left  class = "vcard attendee" | <span class="fn org">[[AC Kajaani]]</span>
+| style="font-size: 85%" rowspan=2 valign=top | <br />Attendance: 753<br />
+|- style="font-size: 85%"
+| valign=top align=right  |  
+| valign=top align=center |  
+| valign=top              | 
+
+|}
+----
+{| cellspacing=0 style="width: 100%; background-color: transparent" class="vevent"
+
+| width=15% valign=top align=right rowspan=5 class="summary" | 13 October 2012<br /> 
+! width=24% valign=top align=right class = "vcard attendee" | <span class="fn org">[[ÅIFK]]</span>
+! width=13% valign=top align=center           | 0–1 
+! width=24% valign=top align=left  class = "vcard attendee" | <span class="fn org">[[FC Ilves|Ilves]]</span>
+| style="font-size: 85%" rowspan=2 valign=top | <br />Attendance: 902<br />
+|- style="font-size: 85%"
+| valign=top align=right  |  
+| valign=top align=center |  
+| valign=top              | [[Kalle Multanen|Multanen]] [[File:Soccerball shade.svg|13px|Goal|link=]]&nbsp;<span style="font-size: 10px; vertical-align: middle;">11'</span>
+
+|}
+
+====Second leg====
+{| cellspacing=0 style="width: 100%; background-color: transparent" class="vevent"
+
+| width=15% valign=top align=right rowspan=5 class="summary" | 20 October 2012<br /> 
+! width=24% valign=top align=right class = "vcard attendee" | <span class="fn org">[[AC Kajaani]]</span>
+! width=13% valign=top align=center           | 1–0 
+! width=24% valign=top align=left  class = "vcard attendee" | <span class="fn org">[[JäPS]]</span>
+| style="font-size: 85%" rowspan=2 valign=top | <br />Attendance: 980<br />
+|- style="font-size: 85%"
+| valign=top align=right  | [[Ville Nikkanen|Nikkanen]] [[File:Soccerball shade.svg|13px|Goal|link=]]&nbsp;<span style="font-size: 10px; vertical-align: middle;">61'</span> 
+| valign=top align=center |  
+| valign=top              | 
+
+|}
+''AC Kajaani won 1–0 on aggregate.''
+----
+{| cellspacing=0 style="width: 100%; background-color: transparent" class="vevent"
+
+| width=15% valign=top align=right rowspan=5 class="summary" | 20 October 2012<br /> 
+! width=24% valign=top align=right class = "vcard attendee" | <span class="fn org">[[FC Ilves|Ilves]]</span>
+! width=13% valign=top align=center           | 4–1 
+! width=24% valign=top align=left  class = "vcard attendee" | <span class="fn org">[[ÅIFK]]</span>
+| style="font-size: 85%" rowspan=2 valign=top | <br />Attendance: 3,841<br />
+|- style="font-size: 85%"
+| valign=top align=right  | [[Olli Vakkala|Vakkala]] [[File:Soccerball shade.svg|13px|Goal|link=]]&nbsp;<span style="font-size: 10px; vertical-align: middle;">3'</span><br>[[Henri Scheweleff|Scheweleff]] [[File:Soccerball shade.svg|13px|Goal|link=]]&nbsp;<span style="font-size: 10px; vertical-align: middle;">11'</span>,&nbsp;<span style="font-size: 10px; vertical-align: middle;">26'</span><br>[[Jaakko Juuti|Juuti]] [[File:Soccerball shade.svg|13px|Goal|link=]]&nbsp;<span style="font-size: 10px; vertical-align: middle;">51'</span> 
+| valign=top align=center |  
+| valign=top              | [[Marcus Igwe Okorie|Okorie]] [[File:Soccerball shade.svg|13px|Goal|link=]]&nbsp;<span style="font-size: 10px; vertical-align: middle;">88'</span>
+
+|}
+''Ilves won 5–1 on aggregate.''
+
+===Eight-placed teams===
+At the end of the season, a comparison is made between the eight-placed teams. The worst eight-placed team will be directly relegated to the [[Kolmonen]].
+
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- 
+|1
+|align=left|[[Laajasalon Palloseura|LPS]]
+|27
+|9
+|5
+|13
+|37
+|50||&minus;13
+|'''32'''
+|- 
+|2
+|align=left|[[EsPa|EsPa]]
+|27
+|9
+|1
+|17
+|46
+|59||&minus;13
+|'''28'''
+|- 
+|3
+|align=left|[[FC Santa Claus|FC Santa Claus]]
+|24
+|6
+|6
+|12
+|29
+|54||&minus;25
+|'''24'''
+|- style="background-color:#FFCCCC"
+|4
+|align=left|[[Sporting Kristina|Sporting]]&nbsp;'''(R)'''
+|27
+|6
+|3
+|18
+|33
+|58||&minus;25
+|'''21'''
+|rowspan=1 style="background-color:{{{bc}}}; "|<span style="font-size:92.5%; ">Relegation to the<span class="Unicode"> </span>[[Kolmonen]]
+|}
+<small>
+Updated to games played on 6 October 2012<br />Source: [[Category:All articles with unsourced statements]][[Category:Articles with unsourced statements from July 2012]]<sup class="Template-Fact" style="white-space:nowrap;">&#91;<i>[[Wikipedia:Citation needed|<span title="This claim needs references to reliable sources<nowiki/> from July 2012">citation needed</span>]]</i>&#93;</sup><br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+==See also==
+*[[2012 Veikkausliiga]]
+*[[2012 Finnish League Cup]]
+*[[2012 Suomen Cup]]
+*[[2012 Ykkönen]]
+
+==References==
+*[http://www.palloliitto.fi/kilpailu/miehet/kakkonen_2012/ Kakkonen 2012]
+<div class="reflist " style=" list-style-type: decimal;">
+<references group=""></references></div>
+
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:2012 in Finnish football|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:2012 in Finnish football|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:2012_in_Finnish_football&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[2012 in Finnish football|2012]] in [[Football in Finland|Finnish football]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+<div style="float: left;"> « <span style="font-size:90%;">[[Template:2011 in Finnish football|2011]]</span> </div> <div style="float: right;"><span style="font-size:90%;">[[Template:2013 in Finnish football|2013]]</span> » </div></div></td></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic leagues</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2012 Veikkausliiga|Veikkausliiga]] 
+* [[2012 Ykkönen|Ykkönen]]
+* [[2012 Kakkonen|Kakkonen]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic cups</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012 Finnish Cup|Cup]] 
+* [[2012 Finnish League Cup|League Cup]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">European competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">Men</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2011–12 UEFA Champions League|Champions League]] <small>([[2012 UEFA Champions League Final|Final]])</small>
+* [[2011–12 UEFA Europa League|Europa League]] <small>([[2012 UEFA Europa League Final|Final]])</small></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">Women</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[2011–12 UEFA Women's Champions League|Champions League]] <small>([[2012 UEFA Women's Champions League Final|Final]])</small></div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Related to national teams</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">[[Finland national football team|Men]]</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2014 FIFA World Cup]] [[2014 FIFA World Cup qualification (UEFA)|qualification]] <small>([[2014 FIFA World Cup qualification – UEFA Group I|Group I]])</small></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">Women</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[Finland women's national football team|National football team]]</div></td></tr></table><div></div></td></tr></table></td></tr></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:Football in Finland|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:Football in Finland|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:Football_in_Finland&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[Football in Finland]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+[[Football Association of Finland]]</div></td></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">National teams</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[Finland national football team|Finland]] ([[Finland women's national football team|Women's]])
+* [[Finland national under-21 football team|U-21]]
+* [[Finland national under-19 football team|U-19]]
+* [[Finland national under-17 football team|U-17]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[Finnish football league system|League system]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";background:transparent;font-weight:normal;;">Men:</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:transparent;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[Veikkausliiga]] (tier 1)
+* [[Ykkönen]] (tier 2)
+* [[Kakkonen]] (tier 3)
+* [[Kolmonen]] (tier 4)
+* [[Nelonen (football)|Nelonen]] (tier 5)
+* [[Vitonen]] (tier 6) 
+* [[Kutonen]] (tier 7) 
+* [[Seiska (football)|Seiska]] (tier 8)</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";background:transparent;font-weight:normal;;">Women:</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:transparent;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[Naisten Liiga]]</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[Finnish District Football Associations|District Associations]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[Ålands Fotbollförbund|Åland&nbsp;FF]] 
+* [[SPL Helsingin piiri|SPL&nbsp;Helsinki]] 
+* [[SPL Itä-Suomen piiri|SPL&nbsp;Itä-Suomi]] 
+* [[SPL Kaakkois-Suomen piiri|SPL&nbsp;Kaakkois-Suomi]] 
+* [[SPL Keski-Pohjanmaan piiri|SPL&nbsp;Keski-Pohjanmaa]] 
+* [[SPL Keski-Suomen piiri|SPL&nbsp;Keski-Suomi]] 
+* [[SPL Pohjois-Suomen piiri|SPL&nbsp;Pohjois-Suomi]] 
+* [[SPL Satakunnan piiri|SPL&nbsp;Satakunta]] 
+* [[SPL Tampereen piiri|SPL&nbsp;Tampere]] 
+* [[SPL Turun piiri|SPL&nbsp;Turku]] 
+* [[SPL Uudenmaan piiri|SPL&nbsp;Uusimaa]] 
+* [[SPL Vaasan piiri|SPL&nbsp;Vaasa]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic cups</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[Finnish Cup]]
+* [[Finnish League Cup]]
+* [[Finnish Women's Cup]]</div></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow hlist" style=";" colspan="2"><div>
+* [[List of football clubs in Finland|List of clubs]]
+* [[Finnish Footballer of the Year|Footballer of the Year]]
+* [[:Category:Football competitions in Finland|List of competitions]]
+* [[List of football stadiums in Finland|List of venues]]</div></td></tr></table></td></tr></table>
+
+
+[[Category:2012 domestic association football leagues]]
+[[Category:2012 in Finland]]
+
+[[fi:Kakkosen kausi 2012]]

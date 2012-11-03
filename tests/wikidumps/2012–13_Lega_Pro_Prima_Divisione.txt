@@ -1,0 +1,980 @@
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr><td class="mbox-image"><div style="width: 52px;">[[File:Crystal Clear app kedit.svg|50x40px]]</div></td><td class="mbox-text" style=""><span class="mbox-text-span">This article '''may need to be rewritten entirely to comply with Wikipedia's [[Wikipedia:Manual of Style|quality standards]]'''.<span class="hide-when-compact">  [//en.wikipedia.org/w/index.php?title=2012%E2%80%9313_Lega_Pro_Prima_Divisione&action=edit You can help]. The [[Talk:2012–13 Lega Pro Prima Divisione|discussion page]] may contain suggestions.</span>&#32;<small>''(July 2011)''</small><span class="hide-when-compact"> </span></span></td></tr></table>[[Category:Wikipedia articles needing rewrite from July 2011]]
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" style="">
+<tr><td class="mbox-image"><div style="width: 52px;">[[File:Question book-new.svg|50x40px]]</div></td><td class="mbox-text" style=""><span class="mbox-text-span">This article '''does not [[Wikipedia:Citing sources|cite]] any [[Wikipedia:Verifiability|references or sources]]'''.<span class="hide-when-compact">  Please help [//en.wikipedia.org/w/index.php?title=2012%E2%80%9313_Lega_Pro_Prima_Divisione&action=edit improve this article] by [[Help:Introduction to referencing/1|adding citations to reliable sources]]. Unsourced material may be challenged and [[Wikipedia:Verifiability#Burden of evidence|removed]].</span>&#32;<small>''(June 2012)''</small><span class="hide-when-compact"> </span></span></td></tr></table>[[Category:Articles lacking sources from June 2012]][[Category:All articles lacking sources]]
+<table class="infobox " cellspacing="3" style="border-spacing: 3px; width:22em; "><caption class="" style="">[[Lega Pro Prima Divisione]]</caption><tr class=""><th scope="row" style="text-align:left; ">Season</th>
+    <td class="" style="">
+'''2012–13'''</td></tr><tr><td colspan="2" class="" style="text-align:center; "><div style="float: left;">← [[2011–12 Lega Pro Prima Divisione|2011–12]] </div><div style="float: right;">[[2013–14 Lega Pro Prima Divisione|2013–14]] →</div></td></tr>
+</table>
+
+The '''2012&ndash;13 [[Lega Pro Prima Divisione]]''' season will be the thirty-fifth [[association football|football]] league season of [[Italy|Italian]] [[Lega Pro Prima Divisione]] since its establishment in 1978, and the fifth since the renaming from Serie C to Lega Pro.
+
+It will be divided into two phases: the [[regular season]], and the playoff phase.
+
+The league should also be composed of 33 teams divided into two divisions of 17 and 16 teams respectively for group A and B.
+
+There was only one repechanges from [[Lega Pro Seconda Divisione]] by [[Virtus Entella]], because no other teams showed interest to submit the application for the high price of the guarantee and the repayable contribution required.
+
+Teams finishing first in the regular season, plus one team winning the playoff round from each division will be promoted to [[Serie B]]; teams finishing last in the regular season, plus two relegation playoff losers from each division will be relegated to [[Lega Pro Seconda Divisione]]. In all, four teams will be promoted to Serie B, and six teams will be relegated to Lega Pro Seconda Divisione.
+
+==Girone A==
+===Teams===
+Teams from  [[Apulia]], [[Emilia-Romagna]], [[Liguria]], [[Lombardy]], [[Piedmont]], [[Sicily]], [[Trentino-Alto Adige/Südtirol]] & [[Veneto]]   
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px; ">
+<div style="position: relative; border: 1px solid lightgray">[[file:Italy provincial location map.svg|400px|2012–13 Lega Pro Prima Divisione is located in Italy]]<div style="position: absolute; z-index: 2; top: 13.2%; left: 28.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[U.C. AlbinoLeffe|AlbinoLeffe]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><small>[[U.C. AlbinoLeffe|AlbinoLeffe]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 21.6%; left: 36.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Carpi F.C. 1909|Carpi]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Carpi F.C. 1909|Carpi]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 13.1%; left: 22.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Calcio Como|Como]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Calcio Como|Como]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 18.7%; left: 29.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[U.S. Cremonese|Cremonese]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[U.S. Cremonese|Cremonese]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 24.9%; left: 10.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.C. Cuneo 1905|Cuneo]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[A.C. Cuneo 1905|Cuneo]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 14.8%; left: 33.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[FeralpiSalò]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-0.15em; left: -3em; text-align: center;"><span style="padding: 1px; "><small>[[FeralpiSalò]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 58.3%; left: 93.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|[[U.S. Lecce|Lecce]]|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; ">[[U.S. Lecce|Lecce]]</span></div></div>
+<div style="position: absolute; z-index: 2; top: 14.5%; left: 31.8%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.C. Lumezzane|Lumezzane]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[A.C. Lumezzane|Lumezzane]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 18.3%; left: 23%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.C. Pavia|Pavia]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><small>[[A.C. Pavia|Pavia]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 13.4%; left: 51.8%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Calcio Portogruaro Summaga|Portogruaro]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Calcio Portogruaro Summaga|Portogruaro]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 22.3%; left: 34.6%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.C. Reggiana 1919|Reggiana]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[A.C. Reggiana 1919|Reggiana]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 28.4%; left: 49%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[San Marino Calcio|San&nbsp;Marino]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-0.15em; left: -3em; text-align: center;"><span style="padding: 1px; "><small>[[San Marino Calcio|San&nbsp;Marino]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 7.4%; left: 40.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[F.C. Südtirol-Alto Adige|Südtirol]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[F.C. Südtirol-Alto Adige|Südtirol]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 77.5%; left: 49.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Trapani Calcio|Trapani]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Trapani Calcio|Trapani]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 14.3%; left: 47.2%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[F.C. Treviso|Treviso]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><small>[[F.C. Treviso|Treviso]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 14.9%; left: 25.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Tritium Calcio 1908|Tritium]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><small>[[Tritium Calcio 1908|Tritium]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 25.5%; left: 24.4%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Virtus Entella]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Virtus Entella]]</small></span></div></div></div>
+<div class="thumbcaption"><small>Location of teams in Girone A 2012–13</small>
+</div>
+</div>
+</div>
+{| class="wikitable sortable"	
+|-	
+! Club	
+! City	 	
+! Stadium	 
+! Capacity	
+! 2011–12 season
+|-
+| [[U.C. AlbinoLeffe|AlbinoLeffe]]
+| [[Albino, Italy|Albino]]&nbsp;and&nbsp;[[Leffe, Italy|Leffe]]<br/><small>(playing&nbsp;in&nbsp;[[Bergamo]])</small>
+| [[Stadio Atleti Azzurri d'Italia|Atleti Azzurri d'Italia]]
+| 26,542
+| [[2011-12 Serie B|22th in Serie B]]
+|-
+| [[Carpi F.C. 1909|Carpi]]
+| [[Carpi, Emilia-Romagna|Carpi]]	
+| Sandro Cabassi
+| 4,164
+| [[2011-12 Lega Pro Prima Divisione|3rd in Lega Pro Prima Divisione A]]
+|-
+| [[Calcio Como|Como]]
+| [[Como]]	
+| [[Stadio Giuseppe Sinigaglia|Giuseppe Sinigaglia]]	
+| 13,602 	
+| [[2011-12 Lega Pro Prima Divisione|13th in Lega Pro Prima Divisione A]]
+|-
+| [[U.S. Cremonese|Cremonese]] 	
+| [[Cremona]]
+| [[Stadio Giovanni Zini|Giovanni Zini]]
+| 20,641	
+| [[2011-12 Lega Pro Prima Divisione|5th in Lega Pro Prima Divisione B]]
+|-
+| [[A.C. Cuneo 1905|Cuneo]]
+| [[Cuneo]]
+| Fratelli Paschiero
+| 4,000
+| [[2011-12 Lega Pro Seconda Divisione|3rd in Lega Pro Seconda Divisione A]]
+|-
+| [[FeralpiSalò]]
+| [[Salò]] and [[Lonato del Garda]]<br/><small>(playing in Salò)</small>
+| [[Stadio Lino Turina|Lino Turina]]	
+| 2,000
+| [[2011-12 Lega Pro Prima Divisione|14th in Lega Pro Prima Divisione A]]
+|-
+| [[U.S. Lecce|Lecce]]
+| [[Lecce]]
+| [[Stadio Via del Mare|Via del Mare]]
+| 33,876
+| [[2011–12 Serie A|18th in Serie A]]
+|-
+| [[A.C. Lumezzane|Lumezzane]]	
+| [[Lumezzane]]
+| [[Nuovo Stadio Comunale (Lumezzane)|Nuovo Comunale]]
+| 4,150
+| [[2011-12 Lega Pro Prima Divisione|8th in Lega Pro Prima Divisione A]]
+|-
+| [[A.C. Pavia|Pavia]]
+| [[Pavia]]	
+| [[Stadio Pietro Fortunati|Pietro Fortunati]]	
+| 4,999	
+| [[2011-12 Lega Pro Prima Divisione|16th in Lega Pro Prima Divisione A]]
+|-
+| [[Calcio Portogruaro Summaga|Portogruaro]]
+| [[Portogruaro]]
+| [[Stadio Piergiovanni Mecchia|Piergiovanni Mecchia]]	
+| 4,021
+| [[2011-12 Lega Pro Prima Divisione|10th in Lega Pro Prima Divisione B]]	
+|-
+| [[A.C. Reggiana 1919|Reggiana]]
+| [[Reggio Emilia]]
+| [[Stadio Città del Tricolore|Città del Tricolore]]
+| 20,084
+| [[2011-12 Lega Pro Prima Divisione|9th in Lega Pro Prima Divisione A]]
+|-
+| [[San Marino Calcio|San&nbsp;Marino]]
+| [[Serravalle (San Marino)|Serravalle]]
+| [[Stadio Olimpico (San Marino)|Olimpico]]
+| 7,000
+| [[2011-12 Lega Pro Seconda Divisione|2nd in Lega Pro Seconda Divisione A]]
+|-
+| [[F.C. Südtirol-Alto Adige|Südtirol]]
+| [[Bolzano]]
+| [[Stadio Druso|Druso]]
+| 3,500
+| [[2011-12 Lega Pro Prima Divisione|7th in Lega Pro Prima Divisione B]]
+|-
+| [[Trapani Calcio|Trapani]]	
+| [[Trapani]]<br /><small>(playing in [[Erice]])</small>	
+| [[Stadio Polisportivo Provinciale|Provinciale]]
+| 6,776
+| [[2011-12 Lega Pro Prima Divisione|2nd in Lega Pro Prima Divisione B]]
+|-
+| [[F.C. Treviso|Treviso]]
+| [[Treviso]]
+| [[Stadio Omobono Tenni|Omobono Tenni]]
+| 10,000
+| [[2011-12 Lega Pro Seconda Divisione|1st in Lega Pro Seconda Divisione A]]
+|-
+| [[S.S. Tritium 1908|Tritium]]
+| [[Trezzo sull'Adda]]<br/><small>(playing in [[Monza]])</small>
+| [[Stadio Brianteo]]
+| 18,568
+| [[2011-12 Lega Pro Prima Divisione|12th in Lega Pro Prima Divisione A]]
+|-
+| [[Virtus Entella]]
+| [[Chiavari]]
+| Comunale
+| 2,500
+| [[2011-12 Lega Pro Seconda Divisione|5th in Lega Pro Seconda Divisione A]]
+|}
+
+===League table===
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- style="background-color:#ACE1AF"
+|1
+|align=left|[[U.S. Lecce|Lecce]]
+|8
+|7
+|1
+|0
+|19
+|8||+11
+|'''22'''
+|rowspan=1|<span style="font-size:92.5%;">Promotion to&nbsp;[[Serie B]] </span>
+|- style="background-color:#D0F0C0"
+|2
+|align=left|[[Virtus Entella|Virtus Entella]]
+|8
+|4
+|2
+|2
+|17
+|13||+4
+|'''14'''
+|rowspan=4|<span style="font-size:92.5%;">Qualification to&nbsp;[[#Promotion play-off|Promotion play-off]] </span>
+|- style="background-color:#D0F0C0"
+|3
+|align=left|[[Carpi F.C. 1909|Carpi]]
+|8
+|4
+|2
+|2
+|8
+|6||+2
+|'''14'''
+|- style="background-color:#D0F0C0"
+|4
+|align=left|[[Calcio Portogruaro Summaga|Portogruaro]]
+|7
+|3
+|4
+|0
+|8
+|4||+4
+|'''13'''
+|- style="background-color:#D0F0C0"
+|5
+|align=left|[[F.C. Südtirol-Alto Adige|Südtirol]]
+|7
+|4
+|1
+|2
+|11
+|8||+3
+|'''13'''
+|- 
+|6
+|align=left|[[Calcio Como|Como]]
+|7
+|3
+|3
+|1
+|13
+|9||+4
+|'''11'''<sup class="reference plainlinks nourlexpansion" id="ref_3">[[#endnote_3|3]]</sup>
+|- 
+|7
+|align=left|[[U.S. Cremonese|Cremonese]]
+|9
+|2
+|6
+|1
+|9
+|6||+3
+|'''11'''<sup class="reference plainlinks nourlexpansion" id="ref_1">[[#endnote_1|1]]</sup>
+|- 
+|8
+|align=left|[[Trapani Calcio|Trapani]]
+|7
+|3
+|1
+|3
+|11
+|9||+2
+|'''10'''
+|- 
+|9
+|align=left|[[A.C. Lumezzane|Lumezzane]]
+|8
+|2
+|4
+|2
+|6
+|5||+1
+|'''10'''
+|- 
+|10
+|align=left|[[A.C. Pavia|Pavia]]
+|8
+|2
+|4
+|2
+|6
+|6||0
+|'''10'''
+|- 
+|11
+|align=left|[[FeralpiSalò|FeralpiSalò]]
+|7
+|3
+|0
+|4
+|7
+|11||&minus;4
+|'''9'''
+|- 
+|12
+|align=left|[[A.C. Reggiana 1919|Reggiana]]
+|8
+|2
+|2
+|4
+|6
+|10||&minus;4
+|'''8'''
+|- style="background-color:#FFCCCC"
+|13
+|align=left|[[San Marino Calcio|San Marino]]
+|7
+|2
+|1
+|4
+|8
+|11||&minus;3
+|'''7'''
+|rowspan=4|<span style="font-size:92.5%;">Qualification to&nbsp;[[#Relegation play-off|Relegation play-off]] </span>
+|- style="background-color:#FFCCCC"
+|14
+|align=left|[[A.C. Cuneo 1905|Cuneo]]
+|8
+|1
+|2
+|5
+|5
+|12||&minus;7
+|'''5'''
+|- style="background-color:#FFCCCC"
+|15
+|align=left|[[Tritium Calcio 1908|Tritium]]
+|7
+|0
+|3
+|4
+|6
+|12||&minus;6
+|'''3'''
+|- style="background-color:#FFCCCC"
+|16
+|align=left|[[F.C. Treviso|Treviso]]
+|8
+|0
+|2
+|6
+|6
+|17||&minus;11
+|'''1'''<sup class="reference plainlinks nourlexpansion" id="ref_3">[[#endnote_3|3]]</sup>
+|- style="background-color:#FF8888"
+|17
+|align=left|[[U.C. AlbinoLeffe|AlbinoLeffe]]
+|8
+|1
+|6
+|1
+|8
+|7||+1
+|'''-1'''<sup class="reference plainlinks nourlexpansion" id="ref_2">[[#endnote_2|2]]</sup>
+|rowspan=1|<span style="font-size:92.5%;">Relegation to&nbsp;[[Lega Pro Seconda Divisione]] </span>
+|}
+<small>
+Updated to games played on 29 October 2012<br />Source: [[Category:All articles with unsourced statements]][[Category:Articles with unsourced statements from August 2012]]<sup class="Template-Fact" style="white-space:nowrap;">&#91;<i>[[Wikipedia:Citation needed|<span title="This claim needs references to reliable sources<nowiki/> from August 2012">citation needed</span>]]</i>&#93;</sup><br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+:1.<span class="citation wikicite" id="endnote_1"><b>[[#ref_1|^]]</b></span>  Cremonese was deducted 1 point due to the [[2011 Italian football scandal]].
+:2.<span class="citation wikicite" id="endnote_2"><b>[[#ref_2|^]]</b></span>  AlbinoLeffe was deducted 10 points due to the [[2011 Italian football scandal]].
+:3.<span class="citation wikicite" id="endnote_3"><b>[[#ref_3|^]]</b></span>  Como and Treviso were deducted 1 point due to financial irregularities.
+
+==Girone B==
+===Teams===
+Teams from [[Apulia]], [[Calabria]], [[Campania]], [[Lazio]], [[Tuscany]] & [[Umbria]]
+<div class="thumb tright">
+<div class="thumbinner" style="width:382px; ">
+<div style="position: relative; border: 1px solid lightgray">[[file:Italy provincial location map.svg|380px|2012–13 Lega Pro Prima Divisione is located in Italy]]<div style="position: absolute; z-index: 2; top: 51.1%; left: 78.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.S. Andria BAT|Andria&nbsp;BAT]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[A.S. Andria BAT|Andria&nbsp;BAT]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 53.6%; left: 67.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.S. Avellino 1912|Avellino]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[A.S. Avellino 1912|Avellino]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 50.3%; left: 78.8%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[S.S. Barletta Calcio|Barletta]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-2.65em; left:-3em; text-align: center;"><span style="padding: 1px; "><small>[[S.S. Barletta Calcio|Barletta]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 51.8%; left: 67.1%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Benevento Calcio|Benevento]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Benevento Calcio|Benevento]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 27.4%; left: 30.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Carrarese Calcio|Carrarese]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Carrarese Calcio|Carrarese]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 70.2%; left: 81.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[U.S. Catanzaro 1929|Catanzaro]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[U.S. Catanzaro 1929|Catanzaro]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 47.7%; left: 55.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Frosinone Calcio|Frosinone]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Frosinone Calcio|Frosinone]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 33.5%; left: 49.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.S. Gubbio 1910|Gubbio]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[A.S. Gubbio 1910|Gubbio]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 49%; left: 52.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[U.S. Latina Calcio|Latina]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[U.S. Latina Calcio|Latina]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 55%; left: 65.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.S.G. Nocerina|Nocerina]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-0.15em; left: -3em; text-align: center;"><span style="padding: 1px; "><small>[[A.S.G. Nocerina|Nocerina]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 55%; left: 65.7%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Paganese Calcio 1926|Paganese]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px; "><small>[[Paganese Calcio 1926|Paganese]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 35.5%; left: 48.4%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.C. Perugia|Perugia]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[A.C. Perugia|Perugia]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 29.1%; left: 38.3%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.C. Prato|Prato]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; top:-0.15em; left: -3em; text-align: center;"><span style="padding: 1px; "><small>[[A.C. Prato|Prato]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 30.4%; left: 32.8%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[A.C. Pisa 1909|Pisa]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[A.C. Pisa 1909|Pisa]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 56%; left: 63.9%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[Sorrento Calcio|Sorrento]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[Sorrento Calcio|Sorrento]]</small></span></div></div>
+<div style="position: absolute; z-index: 2; top: 29.2%; left: 31.5%; height: 0; width: 0; margin: 0; padding: 0;"><div style="position: relative; text-align: center; left: -4px; top: -4px; width: 8px; font-size: 8px; line-height: 0; z-index:100;" title="">[[File:Red pog.svg|8x8px|<small>[[F.C. Esperia Viareggio|Viareggio]]</small>|link=|alt=]]</div><div style="font-size: 90%; line-height: 110%; z-index:90; position: relative; top: -1.5em; width: 6em; left: -6.5em; text-align: right;"><span style="padding: 1px; "><small>[[F.C. Esperia Viareggio|Viareggio]]</small></span></div></div></div>
+<div class="thumbcaption">Location of teams in Girone B 2011–12
+</div>
+</div>
+</div>
+{| class="wikitable sortable"	
+|-	
+! Club	
+! City
+! Stadium
+! Capacity
+! 2011–12 season
+|-
+| [[A.S. Andria BAT|Andria&nbsp;BAT]]
+| [[Andria, Apulia|Andria]]
+| [[Stadio Degli Ulivi|Degli Ulivi]]
+| 9,140
+| [[2011-12 Lega Pro Prima Divisione|12th in Lega Pro Prima Divisione B]]
+|-
+| [[A.S. Avellino 1912|Avellino]]
+| [[Avellino]]
+| [[Stadio Partenio-Adriano Lombardi|Partenio-Lombardi]]
+| 7,450
+| [[2011-12 Lega Pro Prima Divisione|5th in Lega Pro Prima Divisione A]]
+|-
+| [[S.S. Barletta Calcio|Barletta]]
+| [[Barletta]]	
+| Cosimo Puttilli
+| 4,018
+| [[2011-12 Lega Pro Prima Divisione|6th in Lega Pro Prima Divisione B]]
+|-
+| [[Benevento Calcio|Benevento]]	
+| [[Benevento]]
+| [[Stadio Ciro Vigorito|Ciro Vigorito]]
+| 12,847
+| [[2011-12 Lega Pro Prima Divisione|6th in Lega Pro Prima Divisione A]]
+|-
+| [[Carrarese Calcio|Carrarese]]
+| [[Carrara]]
+| dei Marmi
+| 9,500	
+| [[2011-12 Lega Pro Prima Divisione|8th in Lega Pro Prima Divisione B]]	
+|-
+| [[U.S. Catanzaro 1929|Catanzaro]]
+| [[Catanzaro]]
+| [[Stadio Nicola Ceravolo|Nicola Ceravolo]]
+| 14,650
+| [[2011-12 Lega Pro Seconda Divisione|2nd in Lega Pro Seconda Divisione B]]
+|-
+| [[Frosinone Calcio|Frosinone]]
+| [[Frosinone]]
+| [[Stadio Matusa|Matusa]]
+| 9,680	
+| [[2011-12 Lega Pro Prima Divisione|9th in Lega Pro Prima Divisione B]]	
+|-
+| [[A.S. Gubbio 1910|Gubbio]]
+| [[Gubbio]]
+| [[Stadio Pietro Barbetti|Pietro Barbetti]]
+| 5,300
+| [[2011-12 Serie B|21th in Serie B]]
+|-
+| [[U.S. Latina Calcio|Latina]]	
+| [[Latina, Lazio|Latina]]	
+| Domenico Francioni	
+| 6,850
+| [[2011-12 Lega Pro Prima Divisione|16th in Lega Pro Prima Divisione B]]	
+|-
+| [[A.S.G. Nocerina|Nocerina]]
+| [[Nocera Inferiore]]
+| [[Stadio San Francesco d'Assisi|San Francesco]]
+| 7,632
+| [[2011-12 Serie B|20th in Serie B]]
+|-
+| [[Paganese Calcio 1926|Paganese]]
+| [[Pagani, Italy|Pagani]]
+| [[Stadio Marcello Torre|Marcello Torre]]
+| 5,900
+| [[2011-12 Lega Pro Seconda Divisione|6th in Lega Pro Seconda Divisione B]]		
+|-
+| [[A.C. Perugia Calcio|Perugia]]
+| [[Perugia]]
+| [[Stadio Renato Curi|Renato Curi]]
+| 28,000
+| [[2011-12 Lega Pro Seconda Divisione|1st in Lega Pro Seconda Divisione B]]	
+|-
+| [[A.C. Pisa 1909|Pisa]]	
+| [[Pisa]]
+| [[Arena Garibaldi – Stadio Romeo Anconetani|Arena Garibaldi]]
+| 14,869
+| [[2011-12 Lega Pro Prima Divisione|7th in Lega Pro Prima Divisione A]]
+|-
+| [[A.C. Prato|Prato]]
+| [[Prato]]
+| Lungobisenzio
+| 6,750
+| [[2011-12 Lega Pro Prima Divisione|14th in Lega Pro Prima Divisione B]]	
+|-
+| [[Sorrento Calcio|Sorrento]]
+| [[Sorrento]]<br/><small>(playing in [[Cava de' Tirreni]])
+| [[Stadio Simonetta Lamberti|Simonetta Lamberti]]	
+| 5,200	
+| [[2011-12 Lega Pro Prima Divisione|4th in Lega Pro Prima Divisione A]]
+|-
+| [[F.C. Esperia Viareggio|Viareggio]]	
+| [[Viareggio]]	
+| Torquato Bresciani	
+| 7,000
+| [[2011-12 Lega Pro Prima Divisione|14th in Lega Pro Prima Divisione A]]
+|}
+
+
+===League table===
+
+{|class="wikitable" style="text-align: center;"
+|+
+!width=28|<abbr   title="<nowiki>Position</nowiki>">Pos</abbr><br />
+!width=190|Team<br />
+!width=28|<abbr   title="<nowiki>Played</nowiki>">Pld</abbr><br />
+!width=28|<abbr   title="<nowiki>Won</nowiki>">W</abbr><br />
+!width=28|<abbr   title="<nowiki>Drawn</nowiki>">D</abbr><br />
+!width=28|<abbr   title="<nowiki>Lost</nowiki>">L</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals for</nowiki>">GF</abbr><br />
+!width=28|<abbr   title="<nowiki>Goals against</nowiki>">GA</abbr><br />
+!width=28|<abbr   title="<nowiki>Goal difference</nowiki>">GD</abbr><br />
+!width=28|<abbr   title="<nowiki>Points</nowiki>">Pts</abbr><br />
+!<center>Qualification or relegation<br />
+|- style="background-color:#ACE1AF"
+|1
+|align=left|[[Frosinone Calcio|Frosinone]]
+|8
+|5
+|2
+|1
+|11
+|6||+5
+|'''16'''<sup class="reference plainlinks nourlexpansion" id="ref_31">[[#endnote_31|31]]</sup>
+|rowspan=1|<span style="font-size:92.5%;">Promotion to&nbsp;[[Serie B]] </span>
+|- style="background-color:#D0F0C0"
+|2
+|align=left|[[U.S. Latina Calcio|Latina]]
+|8
+|5
+|2
+|1
+|9
+|5||+4
+|'''16'''<sup class="reference plainlinks nourlexpansion" id="ref_33">[[#endnote_33|33]]</sup>
+|rowspan=4|<span style="font-size:92.5%;">Qualification to&nbsp;[[#Promotion play-off|Promotion play-off]] </span>
+|- style="background-color:#D0F0C0"
+|3
+|align=left|[[A.C. Pisa 1909|Pisa]]
+|8
+|4
+|3
+|1
+|16
+|9||+7
+|'''15'''
+|- style="background-color:#D0F0C0"
+|4
+|align=left|[[A.S. Gubbio 1910|Gubbio]]
+|8
+|4
+|2
+|2
+|5
+|4||+1
+|'''14'''
+|- style="background-color:#D0F0C0"
+|5
+|align=left|[[A.C. Perugia Calcio|Perugia]]
+|8
+|4
+|2
+|2
+|11
+|7||+4
+|'''13'''<sup class="reference plainlinks nourlexpansion" id="ref_32">[[#endnote_32|32]]</sup>
+|- 
+|6
+|align=left|[[F.C. Esperia Viareggio|Viareggio]]
+|8
+|3
+|4
+|1
+|12
+|9||+3
+|'''13'''
+|- 
+|7
+|align=left|[[A.S. Avellino 1912|Avellino]]
+|8
+|3
+|4
+|1
+|9
+|7||+2
+|'''13'''
+|- 
+|8
+|align=left|[[Paganese Calcio 1926|Paganese]]
+|8
+|3
+|3
+|2
+|10
+|6||+4
+|'''12'''
+|- 
+|9
+|align=left|[[Benevento Calcio|Benevento]]
+|8
+|3
+|1
+|4
+|10
+|8||+2
+|'''10'''
+|- 
+|10
+|align=left|[[A.G. Nocerina 1910|Nocerina]]
+|8
+|2
+|4
+|2
+|10
+|11||&minus;1
+|'''10'''
+|- 
+|11
+|align=left|[[A.S. Andria BAT|Andria BAT]]
+|8
+|2
+|4
+|2
+|10
+|11||&minus;1
+|'''9'''<sup class="reference plainlinks nourlexpansion" id="ref_33">[[#endnote_33|33]]</sup>
+|- style="background-color:#FFCCCC"
+|12
+|align=left|[[A.C. Prato|Prato]]
+|8
+|2
+|3
+|3
+|6
+|6||0
+|'''9'''
+|rowspan=4|<span style="font-size:92.5%;">Qualification to&nbsp;[[#Relegation play-off|Relegation play-off]] </span>
+|- style="background-color:#FFCCCC"
+|13
+|align=left|[[Sorrento Calcio|Sorrento]]
+|8
+|1
+|3
+|4
+|4
+|8||&minus;4
+|'''6'''
+|- style="background-color:#FFCCCC"
+|14
+|align=left|[[U.S. Catanzaro 1929|Catanzaro]]
+|8
+|1
+|2
+|5
+|9
+|16||&minus;7
+|'''5'''
+|- style="background-color:#FFCCCC"
+|15
+|align=left|[[S.S. Barletta Calcio|Barletta]]
+|8
+|0
+|3
+|5
+|7
+|14||&minus;7
+|'''3'''
+|- style="background-color:#FF8888"
+|16
+|align=left|[[Carrarese Calcio|Carrarese]]
+|8
+|1
+|0
+|7
+|3
+|16||&minus;13
+|'''3'''
+|rowspan=1|<span style="font-size:92.5%;">Relegation to&nbsp;[[Lega Pro Seconda Divisione]] </span>
+|}
+<small>
+Updated to games played on 28 October 2012<br />Source: [[Category:All articles with unsourced statements]][[Category:Articles with unsourced statements from August 2012]]<sup class="Template-Fact" style="white-space:nowrap;">&#91;<i>[[Wikipedia:Citation needed|<span title="This claim needs references to reliable sources<nowiki/> from August 2012">citation needed</span>]]</i>&#93;</sup><br />Rules for classification:<span class="Unicode"> </span>
+1) points; 2) goal difference; 3) number of goals scored.<br />'''(C)''' = Champion; '''(R)''' = Relegated; '''(P)''' = Promoted; '''(O)''' = Play-off winner; '''(A)''' = Advances to a further round. <br />Only applicable when the season is not finished: <br />'''(Q)''' = Qualified to the phase of tournament indicated; '''(TQ)''' = Qualified to tournament, but not yet to the particular phase indicated; '''(DQ)''' = Disqualified from tournament.<br />
+</small>
+
+:31.<span class="citation wikicite" id="endnote_31"><b>[[#ref_31|^]]</b></span>  Frosinone was deducted 1 point due to the [[2011 Italian football scandal]].
+:32.<span class="citation wikicite" id="endnote_32"><b>[[#ref_32|^]]</b></span>  Perugia was deducted 1 point due to financial irregularities.
+:33.<span class="citation wikicite" id="endnote_33"><b>[[#ref_33|^]]</b></span>  Andria BAT and Latina were deducted 1 point due to financial irregularities.
+
+==Notes==
+<div class="reflist references-column-count references-column-count-1" style="-moz-column-count: 1; -webkit-column-count: 1; column-count: 1; list-style-type: decimal;">
+<references group=""></references></div>
+
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:Lega Pro Prima Divisione teamlist|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:Lega Pro Prima Divisione teamlist|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:Lega_Pro_Prima_Divisione_teamlist&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[Lega Pro Prima Divisione]] &middot; [[2012–13 Lega Pro Prima Divisione|2012–13 clubs]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Girone A</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[U.C. AlbinoLeffe|AlbinoLeffe]]
+* [[Carpi F.C. 1909|Carpi]]
+* [[Calcio Como|Como]]
+* [[U.S. Cremonese|Cremonese]]
+* [[A.C. Cuneo 1905|Cuneo]]
+* [[FeralpiSalò]]
+* [[U.S. Lecce|Lecce]]
+* [[A.C. Lumezzane|Lumezzane]]
+* [[A.C. Pavia|Pavia]]
+* [[Calcio Portogruaro Summaga|Portogruaro]]
+* [[A.C. Reggiana 1919|Reggiana]]
+* [[San Marino Calcio|San Marino]]
+* [[F.C. Südtirol-Alto Adige|Südtirol]]
+* [[Trapani Calcio|Trapani]]
+* [[F.C. Treviso|Treviso]]
+* [[Tritium Calcio 1908|Tritium]]
+* [[Virtus Entella]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Girone B</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[A.S. Andria BAT|Andria BAT]]
+* [[A.S. Avellino 1912|Avellino]]
+* [[S.S. Barletta Calcio|Barletta]]
+* [[Benevento Calcio|Benevento]]
+* [[Carrarese Calcio|Carrarese]]
+* [[U.S. Catanzaro 1929|Catanzaro]]
+* [[Frosinone Calcio|Frosinone]]
+* [[A.S. Gubbio 1910|Gubbio]]
+* [[U.S. Latina Calcio|Latina]]
+* [[A.S.G. Nocerina|Nocerina]]
+* [[Paganese Calcio 1926|Paganese]]
+* [[A.C. Perugia Calcio|Perugia]]
+* [[A.C. Pisa 1909|Pisa]]
+* [[A.C. Prato|Prato]]
+* [[Sorrento Calcio|Sorrento]]
+* [[F.C. Esperia Viareggio|Viareggio]]</div></td></tr></table></td></tr></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:Lega Pro Prima Divisione seasons|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:Lega Pro Prima Divisione seasons|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:Lega_Pro_Prima_Divisione_seasons&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[Lega Pro Prima Divisione]] seasons</div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Seconda Divisione</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* 1920–21
+* 1921–22
+* 1922–23
+* 1923–24
+* 1924–25
+* 1925–26
+* [[1926–27 Seconda Divisione|1926–27]]
+* 1927–28
+* 1928–29
+* 1929–30</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[Prima Divisione]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* 1920–21
+* 1921–22
+* 1922–23
+* 1923–24
+* 1924–25
+* 1925–26
+* 1926–27
+* 1927–28
+* 1928–29
+* [[1929–30 Prima Divisione|1929–30]]
+* [[1930–31 Prima Divisione|1930–31]]
+* [[1931–32 Prima Divisione|1931–32]]
+* [[1932–33 Prima Divisione|1932–33]]
+* [[1933–34 Prima Divisione|1933–34]]
+* [[1934–35 Prima Divisione|1934–35]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Serie C</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* 1930–31
+* 1931–32
+* 1932–33
+* 1933–34
+* 1934–35
+* [[1935–36 Serie C|1935–36]]
+* [[1936–37 Serie C|1936–37]]
+* [[1937–38 Serie C|1937–38]]
+* [[1938–39 Serie C|1938–39]]
+* [[1939–40 Serie C|1939–40]]
+* [[1940–41 Serie C|1940–41]]
+* [[1941–42 Serie C|1941–42]]
+* [[1942–43 Serie C|1942–43]]
+* 1943–44
+* 1944–45
+* [[1945–46 Serie C|1945–46]]
+* [[1946–47 Serie C|1946–47]]
+* [[1947–48 Serie C|1947–48]]
+* [[1948–49 Serie C|1948–49]]
+* [[1949–50 Serie C|1949–50]]
+* [[1950–51 Serie C|1950–51]]
+* [[1951–52 Serie C|1951–52]]
+* [[1952–53 Serie C|1952–53]]
+* [[1953–54 Serie C|1953–54]]
+* [[1954–55 Serie C|1954–55]]
+* [[1955–56 Serie C|1955–56]]
+* [[1956–57 Serie C|1956–57]]
+* [[1957–58 Serie C|1957–58]]
+* [[1958–59 Serie C|1958–59]]
+* [[1959–60 Serie C|1959–60]]
+* [[1960–61 Serie C|1960–61]]
+* [[1961–62 Serie C|1961–62]]
+* [[1962–63 Serie C|1962–63]]
+* [[1963–64 Serie C|1963–64]]
+* [[1964–65 Serie C|1964–65]]
+* 1965–66
+* 1966–67
+* 1967–68
+* 1968–69
+* 1969–70
+* 1970–71
+* 1971–72
+* 1972–73
+* 1973–74
+* 1974–75
+* 1975–76
+* 1976–77
+* 1977–78
+* 1978–79
+* 1979–80</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[Lega Pro Prima Divisione|Serie C1]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* 1970–71
+* 1971–72
+* 1972–73
+* 1973–74
+* 1974–75
+* 1975–76
+* 1976–77
+* 1977–78
+* 1978–79
+* 1979–80
+* 1980–81
+* 1981–82
+* [[1982–83 Serie C1|1982–83]]
+* [[1983–84 Serie C1|1983–84]]
+* [[1984–85 Serie C1|1984–85]]
+* [[1985–86 Serie C1|1985–86]]
+* 1986–87
+* 1987–88
+* 1988–89
+* 1989–90
+* 1990–91
+* 1991–92
+* 1992–93
+* 1993–94
+* 1994–95
+* 1995–96
+* 1996–97
+* 1997–98
+* 1998–99
+* 1999–2000
+* 2000–01
+* 2001–02
+* [[2002–03 Serie C1|2002–03]]
+* [[2003–04 Serie C1|2003–04]]
+* [[2004–05 Serie C1|2004–05]]
+* [[2005–06 Serie C1|2005–06]]
+* [[2006–07 Serie C1|2006–07]]
+* [[2007–08 Serie C1|2007–08]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Lega Pro Prima Divisione</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2008–09 Lega Pro Prima Divisione|2008–09]]
+* [[2009–10 Lega Pro Prima Divisione|2009–10]]
+* [[2010–11 Lega Pro Prima Divisione|2010–11]]
+* [[2011–12 Lega Pro Prima Divisione|2011–12]]
+* '''[[2012–13 Lega Pro Prima Divisione|2012–13]]'''</div></td></tr></table></td></tr></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:2012–13 in Italian football|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:2012–13 in Italian football|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:2012%E2%80%9313_in_Italian_football&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[2012–13 in Italian football]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow " style=";" colspan="2"><div>
+<div style="float: left;"> « <span style="font-size:90%;">[[2011–12 in Italian football|2011–12]]</span> </div></div></td></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic leagues</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2012–13 Serie A|Serie A]]
+* [[2012–13 Serie B|Serie B]]
+* [[2012–13 Lega Pro Prima Divisione|Lega Pro Prima Divisione]]
+* [[2012–13 Lega Pro Seconda Divisione|Lega Pro Seconda Divisione]]
+* [[2012–13 Serie D|Serie D]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Domestic cups</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012–13 Coppa Italia|Coppa Italia]] <small>([[2013 Coppa Italia Final|Final]])</small>
+* [[2012 Supercoppa Italiana|Supercoppa Italiana]]
+* [[2012–13 Coppa Italia Lega Pro|Coppa Italia Lega Pro]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">International club<br />competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">Men</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2012–13 UEFA Champions League|Champions League]]
+* [[2012–13 UEFA Europa League|Europa League]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">Women</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[2012–13 UEFA Women's Champions League|Women's Champions League]]</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Related to<br />national teams</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks   navbox-subgroup" style="border-spacing:0;;;;"><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">[[Italy national football team|Men]]</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd "><div style="padding:0em 0.25em">
+* [[2014 FIFA World Cup qualification (UEFA)]] <small>([[2014 FIFA World Cup qualification – UEFA Group B|Group B]])</small>
+* [[2013 UEFA European Under-21 Football Championship|2013 UEFA U-21 Champ.]] <small>([[2013 UEFA European Under-21 Football Championship qualification Group 7|Qual. group 7]], [[2013 UEFA European Under-21 Football Championship qualification play-offs#Matches|play-offs]], [[2013 UEFA European Under-21 Football Championship|Final phase]])</small>
+* [[2013 UEFA European Under-19 Football Championship|2013 UEFA U-19 Champ.]] <small>([[2013 UEFA European Under-19 Football Championship qualification#Group 7|Qual. first round]], [[2013 UEFA European Under-19 Football Championship elite qualification|elite round]])</small>
+* [[2013 UEFA European Under-17 Football Championship|2013 UEFA U-17 Champ.]] <small>([[2013 UEFA European Under-17 Football Championship qualifying round#Group 3|Qual. first round]], [[2013 UEFA European Under-17 Football Championship elite round|elite round]])</small></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";padding-left:0em;padding-right:0em;;"><div style="padding:0em 0.75em;">[[Italy women's national football team|Women]]</div></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even "><div style="padding:0em 0.25em">
+* [[UEFA Women's Euro 2013]] <small>([[UEFA Women's Euro 2013 qualifying#Group 1_2|Qual. group 1]], [[UEFA Women's Euro 2013|Final phase]])</small>
+* [[2013 UEFA Women's U-19 Championship|2013 UEFA Women's U-19 Champ.]] <small>([[2013 UEFA Women's U-19 Championship First qualifying round#Group 2|Qual. first round]], [[2013 UEFA Women's U-19 Championship Second qualifying round#Group 2|second round]])</small>
+* [[2013 UEFA Women's U-17 Championship|2013 UEFA Women's U-17 Champ.]] <small>([[2013 UEFA Women's U-17 Championship#Group 2|Qual. first round]], [[2013 UEFA Women's U-17 Championship#Second qualifying round|second round]])</small></div></td></tr></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td colspan=2 style="width:100%;padding:0px;;;background-color:#e6e6ff; font-weight:bold;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+Club seasons</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Serie A|Serie A]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[2012–13 Atalanta B.C. season|Atalanta]]
+* [[2012–13 Bologna F.C. 1909 season|Bologna]]
+* [[2012–13 Cagliari Calcio season|Cagliari]]
+* [[2012–13 Calcio Catania season|Catania]]
+* [[2012–13 A.C. ChievoVerona season|Chievo]]
+* [[2012–13 ACF Fiorentina season|Fiorentina]]
+* [[2012–13 Genoa C.F.C. season|Genoa]]
+* [[2012–13 F.C. Internazionale Milano season|Internazionale]]
+* [[2012–13 Juventus F.C. season|Juventus]]
+* [[2012–13 S.S. Lazio season|Lazio]]
+* [[2012–13 A.C. Milan season|Milan]]
+* [[2012–13 S.S.C. Napoli season|Napoli]]
+* [[2012–13 U.S. Città di Palermo season|Palermo]]
+* [[2012–13 Parma F.C. season|Parma]]
+* [[2012–13 Delfino Pescara 1936 season|Pescara]]
+* [[2012–13 A.S. Roma season|Roma]]
+* [[2012–13 U.C. Sampdoria season|Sampdoria]]
+* [[2012–13 A.C. Siena season|Siena]]
+* [[2012–13 Torino F.C. season|Torino]]
+* [[2012–13 Udinese Calcio season|Udinese]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[2012–13 Serie B|Serie B]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[2012–13 Ascoli Calcio 1898|Ascoli]]
+* [[2012–13 A.S. Bari season|Bari]]
+* [[2012–13 Brescia Calcio season|Brescia]]
+* [[2012–13 A.C. Cesena|Cesena]]
+* [[2012–13 A.S. Cittadella|Cittadella]]
+* [[2012–13 F.C. Crotone|Crotone]]
+* [[2012–13 Empoli F.C.|Empoli]]
+* [[2012–13 U.S. Grosseto F.C.|Grosseto]]
+* [[2012–13 S.S. Juve Stabia|Juve Stabia]]
+* [[2012–13 U.S. Lecce|Lecce]]
+* [[2012–13 A.S. Livorno Calcio|Livorno]] 
+* [[2012–13 Modena F.C.|Modena]]
+* [[2012–13 Novara Calcio|Novara]]
+* [[2012–13 Calcio Padova|Padova]]
+* [[2012–13 F.C. Pro Vercelli 1892|Pro Vercelli]]
+* [[2012–13 Reggina Calcio|Reggina]]
+* [[2012–13 U.S. Sassuolo Calcio|Sassuolo]]
+* [[2012–13 Spezia Calcio|Spezia]]
+* [[2012–13 Ternana Calcio|Ternana]]
+* [[2012–13 A.S. Varese 1910|Varese]]
+* [[2012–13 Hellas Verona F.C.|Verona]]
+* [[2012–13 S.S. Virtus Lanciano 1924|Virtus Lanciano]]</div></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow hlist" style=";" colspan="2"><div>
+* [[List of Italian football transfers summer 2012 (July)|July 2012 transfers]]
+* [[List of Italian football transfers summer 2012 (August)|August 2012 transfers]]
+* [[List of Italian football transfers summer 2012 (co-ownership)| Summer 2012 co-ownership deal resolutions]]
+* [[List of Italian football transfers winter 2012–13|Winter 2012–13 transfers]]
+* [[List of Italian football transfers summer 2013|Summer 2013 transfers]]</div></td></tr></table></td></tr></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks  collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan=2><div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view">[[Template:Football in Italy|<span title="View this template" style=";;background:none transparent;border:none;">v</span>]]</li><li class="nv-talk">[[Template talk:Football in Italy|<span title="Discuss this template" style=";;background:none transparent;border:none;">t</span>]]</li><li class="nv-edit">[//en.wikipedia.org/w/index.php?title=Template:Football_in_Italy&action=edit <span title="Edit this template" style=";;background:none transparent;border:none;">e</span>]</li></ul></div><div class="" style="font-size:110%;">
+[[Football in Italy]]</div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Overview</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[Italian Football Federation|National association]]
+* [[Italian football league system|League system]]
+* [[List of football clubs in Italy|List of clubs]]
+* [[List of football stadiums in Italy|List of venues]]
+* [[Football records in Italy|Records]]
+* [[List of Italian football champions|Scudetto]]
+* [[Capocannoniere]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">International</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[Italy national football team|Italy]]
+* [[Italy national under-21 football team|Under-21]]
+* [[Italy national under-20 football team|Under-20]]
+* [[Italy national under-19 football team|Under-19]]
+* [[Italy national under-18 football team|Under-18]]
+* [[Italy national under-17 football team|Under-17]]
+* [[Italy national under-16–15 football team|Under-16]]
+* [[Italy women's national football team|Italy women]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Leagues</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[Lega Serie A]]
+* [[Lega Serie B]]
+* [[Lega Pro]]
+* [[Lega Nazionale Dilettanti]]
+* ''[[Lega Nazionale Professionisti|Lega Calcio]]'' (folded)</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[:Category:Football competitions in Italy|League competitions]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[Serie A]]
+* [[Serie B]]
+* [[Lega Pro Prima Divisione]]
+* [[Lega Pro Seconda Divisione]]
+* [[Serie D]]
+* [[Eccellenza]]
+* [[Promozione]]
+* [[Prima Categoria]]
+* [[Seconda Categoria]]
+* [[Terza Categoria]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Cup competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[Coppa Italia]]
+* [[Supercoppa Italiana]]
+* [[Coppa Italia Lega Pro]]
+* [[Supercoppa di Lega di Prima Divisione]]
+* [[Supercoppa di Lega di Seconda Divisione]]
+* [[Coppa Italia Serie D]]
+* [[Coppa Italia Dilettanti]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">[[:Category:Youth football competitions in Italy|Youth competitions]]</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[Campionato Nazionale Primavera]]
+* [[Coppa Italia Primavera]]
+* [[Supercoppa Primavera]]
+* [[Torneo di Viareggio]]
+* [[Campionato Nazionale Dante Berretti]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Women's competitions</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[Serie A (women's football)|Serie A]]
+* [[Italian Women's Cup|Coppa Italia]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Awards</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[Oscar del Calcio|Oscar del Calcio AIC]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Miscellaneous</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+* [[Totonero 1980]]
+* [[Totonero 1986]]
+* [[2006 Italian football scandal]]
+* [[2011–2012 Italian football scandal]]
+* [[List of foreign Serie A players|Foreign Serie A players]]
+* [[List of foreign Serie B players|Foreign Serie B players]]
+* [[France–Italy football rivalry]]</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group " style=";;">Season</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+* [[1999–2000 in Italian football]]
+* [[2000–01 in Italian football|2000–01]]
+* [[2001–02 in Italian football|2001–02]]
+* [[2002–03 in Italian football|2002–03]]
+* [[2003–04 in Italian football|2003–04]]
+* [[2004–05 in Italian football|2004–05]]
+* [[2005–06 in Italian football|2005–06]]
+* [[2006–07 in Italian football|2006–07]]
+* [[2007–08 in Italian football|2007–08]]
+* [[2008–09 in Italian football|2008–09]]
+* [[2009–10 in Italian football|2009–10]]
+* [[2010–11 in Italian football|2010–11]]
+* [[2011–12 in Italian football|2011–12]]
+* [[2012–13 in Italian football|2012–13]]</div></td></tr></table></td></tr></table>
+
+
+[[Category:Lega Pro Prima Divisione seasons|2012-13]]
+[[Category:2012–13 in Italian football|3]]
+[[Category:2012–13 domestic association football leagues]]
+
+[[it:Lega Pro Prima Divisione 2012-2013]]
