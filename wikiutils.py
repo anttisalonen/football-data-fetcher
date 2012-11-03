@@ -9,7 +9,7 @@ from settings import Globals
 removeAngleBrackets_re = re.compile(r'\<[^>]*\>')
 
 opener = urllib2.build_opener()
-opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+opener.addheaders = [('User-agent', 'football-data-fetcher/0.1 (https://github.com/anttisalonen/football-data-fetcher)')]
 
 def stripFormatting(s):
     s2 = s.split('[[')
