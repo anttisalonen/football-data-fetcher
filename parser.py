@@ -37,7 +37,7 @@ def getTopLeagues():
                                 print 'Found', name
     return leagues
 
-def getLeagueData(leaguetitle, promotionleague, rvtext):
+def getLeagueData(rvtext, leaguedata):
     season = None
     relegationleagues = dict()
     numteams = 0
@@ -117,21 +117,35 @@ def getLeagueData(leaguetitle, promotionleague, rvtext):
                             else:
                                 season = link
 
-    return soccer.LeagueData(leaguetitle, season, relegationleagues, promotionleague, numteams, levelnum)
+    if not leaguedata.season:
+        leaguedata.season = season
+    if not leaguedata.relegationleagues:
+        leaguedata.relegationleagues = relegationleagues
+    if not leaguedata.numteams:
+        leaguedata.numteams = numteams
+    if not leaguedata.levelnum:
+        leaguedata.levelnum = levelnum
 
-def getSeasonTeams(rvtext, numteams):
-    teams = None
+def getSeasonTeams(rvtext, numteams, leaguetitle):
+    # collect all lists that seem correct along with their corresponding headings.
+    # if more than one team list found, pick the one with the correct heading.
+    teamlists = []
 
     tableStatus = 0
     teamColumn = -1
     thisColumn = -1
     haveTeams = False
+    thisTeamHeading = None
 
     for line in rvtext.split('\n'):
         lineWithoutSpaces = ''.join(line.split())
 
         ls = line.strip()
         # print "Table status", tableStatus, "line", ls
+        hd = wikiutils.getHeading(ls)
+        if hd:
+            thisTeamHeading = hd
+
         if table_re.match(ls):
             tableStatus = 1
             teamColumn = -1
@@ -192,24 +206,42 @@ def getSeasonTeams(rvtext, numteams):
                     tableStatus = 2
 
         if (tableStatus == 2 or tableStatus == 3) and ls[0:2] == '|}':
-            tableStatus = 0
             # make sure there are no duplicates in the list - may happen
             # e.g. with historical winners tables (Regionalliga_Süd)
             if len(thisteams) == numteams and len(set(thisteams)) == len(thisteams):
-                teams = thisteams
-                break
+                teamlists.append((thisTeamHeading, thisteams))
 
-    if teams:
+            tableStatus = 0
+            thisteams = []
+            thisTeamHeading = None
+
+    if teamlists:
+        if len(teamlists) == 1:
+            teams = teamlists[0][1]
+        else:
+            teams = None
+            if leaguetitle:
+                for theading, tlist in teamlists:
+                    if theading and leaguetitle in theading:
+                        teams = tlist
+                        break
+            if teams == None:
+                # if not found, default to the first one
+                teams = teamlists[0][1]
+
         teamres = []
         for t in teams:
             name, link = wikiutils.unlinkify(t)
             teamres.append((name, link))
         return teamres
-    else:
-        return None
 
-def handleSeason(rvtext, leaguedata):
-    teams = getSeasonTeams(rvtext, leaguedata.numteams)
+    return None
+
+def getTeamData(rvtext, leaguedata):
+    if leaguedata.numPartialTeams or leaguedata.numCompleteTeams:
+        return
+
+    teams = getSeasonTeams(rvtext, leaguedata.numteams, leaguedata.title)
 
     numPartialTeams = 0
     numCompleteTeams = 0
@@ -231,6 +263,6 @@ def handleSeason(rvtext, leaguedata):
     else:
         print "Failed finding teams."
 
-    return numCompleteTeams, numPartialTeams
-
+    leaguedata.numPartialTeams = numPartialTeams
+    leaguedata.numCompleteTeams = numCompleteTeams
 

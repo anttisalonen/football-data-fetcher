@@ -11,6 +11,7 @@ import utils
 import parser
 from settings import Globals
 import wikiutils
+import soccer
 
 def fetchLeagueData(specificLeague):
     try:
@@ -55,45 +56,55 @@ def fetchLeagueData(specificLeague):
 
         numCompleteTeams = 0
         numPartialTeams = 0
-        numFollowingLeagues = 0
 
         promotionleague = None
         for processedleaguename, processedleague in Globals.progress.processedleagues.items():
-            if processedleague.leaguedata.relegationleagues and leaguetitle in processedleague.leaguedata.relegationleagues:
+            if processedleague.relegationleagues and leaguetitle in processedleague.relegationleagues:
                 promotionleague = processedleaguename
                 break
 
         leaguedata = None
         rvtext = wikiutils.getPage(leaguetitle)
         if rvtext:
-            leaguedata = parser.getLeagueData(leaguetitle, promotionleague, rvtext)
-            if leaguedata.numteams and leaguedata.levelnum:
-                print 'proceed to current season.'
-                if Globals.fetchTeams:
-                    if leaguedata.season:
-                        stext = wikiutils.getPage(leaguedata.season, True)
-                    else: # if no season page, try to derive season data from the league page
-                        stext = rvtext
-                    if stext:
-                        numCompleteTeams, numPartialTeams = parser.handleSeason(stext, leaguedata)
-                    else:
-                        print 'Failed - no season text.'
+            """First get and parse the league text as it may contain a link to the current season.
+            Then, try to complement any league data from the season page.
+            Finally, try to get the team data, from the season link first if possible."""
+            leaguedata = soccer.LeagueData(leaguetitle, promotionleague)
+            parser.getLeagueData(rvtext, leaguedata)
+            if leaguedata.season:
+                stext = wikiutils.getPage(leaguedata.season, True)
+            else:
+                stext = None
 
+            if stext:
+                parser.getLeagueData(stext, leaguedata)
+            if Globals.fetchTeams:
+                if stext:
+                    parser.getTeamData(stext, leaguedata)
+                parser.getTeamData(rvtext, leaguedata)
+
+            if not leaguedata.levelnum:
+                if not promotionleague:
+                    leaguedata.levelnum = 1
+                else:
+                    leaguedata.levelnum = Globals.progress.processedleagues[promotionleague].levelnum + 1
+
+            if leaguedata.numteams:
                 if leaguedata.relegationleagues:
-                    numFollowingLeagues = 0
                     for rln, rll in leaguedata.relegationleagues.items():
                         if rln not in Globals.progress.leagues:
                             Globals.progress.leagues[rll] = rln
-                        numFollowingLeagues += 1
-                    print '%d following league(s): %s' % (numFollowingLeagues, leaguedata.relegationleagues.keys())
+                    print '%d following league(s): %s' % (len(leaguedata.relegationleagues), leaguedata.relegationleagues.keys())
+                else:
+                    print 'No following leagues.'
             else:
-                print 'Failed.'
+                print 'Failed to fetch teams.'
         else:
             print 'No revision text for league.'
 
         Globals.didSomething = True
         if leaguedata:
-            Globals.progress.leagueProcessed(leaguedata, numCompleteTeams, numPartialTeams, numFollowingLeagues)
+            Globals.progress.leagueProcessed(leaguedata)
         else:
             del Globals.progress.leagues[leaguetitle]
 

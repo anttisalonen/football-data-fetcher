@@ -5,8 +5,8 @@ class Progress:
         self.leagues = dict()
         self.processedleagues = dict()
 
-    def leagueProcessed(self, l, numCompleteTeams, numPartialTeams, numFollowingLeagues):
-        self.processedleagues[l.title] = soccer.ProcessedLeague(l, numCompleteTeams, numPartialTeams, numFollowingLeagues)
+    def leagueProcessed(self, l):
+        self.processedleagues[l.title] = l
         if l.title in self.leagues:
             del self.leagues[l.title]
 
@@ -32,11 +32,11 @@ class Progress:
         if self.processedleagues:
             s += u'%40s    %5s %5s %5s %5s %5s %5s %5s\n' % ('League', '1', '2', '3', '4', '5', '6', '7')
             for l, data in sorted(self.processedleagues.items()):
-                if data.leaguedata.levelnum == 1:
+                if data.levelnum == 1:
                     teaminfo = dict()
-                    teaminfo[1] = [(data.numCompleteTeams, data.leaguedata.numteams)]
+                    teaminfo[1] = [(data.numCompleteTeams, data.numteams)]
                     visitedDeps = set()
-                    openDeps = set(data.leaguedata.relegationleagues.keys())
+                    openDeps = set(data.relegationleagues.keys())
                     while True:
                         if not openDeps:
                             break
@@ -46,16 +46,16 @@ class Progress:
                         except KeyError:
                             pass
                         else:
-                            newDeps = set(rel.leaguedata.relegationleagues.keys())
+                            newDeps = set(rel.relegationleagues.keys())
                             newDeps -= visitedDeps
                             if newDeps:
                                 openDeps |= newDeps
-                            if rel.leaguedata.levelnum not in teaminfo:
-                                teaminfo[rel.leaguedata.levelnum] = [(rel.numCompleteTeams, rel.leaguedata.numteams)]
+                            if rel.levelnum not in teaminfo:
+                                teaminfo[rel.levelnum] = [(rel.numCompleteTeams, rel.numteams)]
                             else:
-                                teaminfo[rel.leaguedata.levelnum].append((rel.numCompleteTeams, rel.leaguedata.numteams))
+                                teaminfo[rel.levelnum].append((rel.numCompleteTeams, rel.numteams))
 
-                    s += u'%40s => ' % data.leaguedata.title
+                    s += u'%40s => ' % data.title
                     for i in xrange(1, 8):
                         if i not in teaminfo:
                             s += u'%5s ' % '-'

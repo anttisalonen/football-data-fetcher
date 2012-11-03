@@ -45,11 +45,9 @@ def getKeyValue(line):
 
 def getHeading(line):
     s = line.strip()
-    if not s.startswith('==') or not s.endswith('=='):
+    if not s.startswith('=') or not s.endswith('='):
         return None
-    s = s.strip('==')
-    s = s.strip()
-    return s
+    return s.strip('=').strip()
 
 def getPage(title, expandTemplates = False):
     title = title.replace(' ', '_')

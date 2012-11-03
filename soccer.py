@@ -68,15 +68,15 @@ class Team:
         return teamelem
 
 class LeagueData:
-    def __init__(self, title, season, relegationleagues, promotionleague, numteams, levelnum):
-        self.title = title
-        self.season = season
-        self.relegationleagues = relegationleagues
-        self.numteams = numteams
-        if self.numteams is None:
-            self.numteams = 0
+    def __init__(self, leaguetitle, promotionleague):
+        self.title = leaguetitle
+        self.season = None
+        self.relegationleagues = None
+        self.numteams = 0
         self.promotionleague = promotionleague
-        self.levelnum = levelnum
+        self.levelnum = 0
+        self.numPartialTeams = 0
+        self.numCompleteTeams = 0
 
     def __str__(self):
         return unicode(self).encode('utf-8')
@@ -90,19 +90,4 @@ class LeagueData:
         s += u'\tPromotion league: %s\n' % self.promotionleague
         s += u'\tLevel number: %s\n' % self.levelnum
         return s
-
-class ProcessedLeague:
-    def __init__(self, leaguedata, numCompleteTeams, numPartialTeams, numFollowingLeagues):
-        self.leaguedata = leaguedata
-        self.numCompleteTeams = numCompleteTeams
-        self.numPartialTeams = numPartialTeams
-        self.numFollowingLeagues = numFollowingLeagues
-
-    def __str__(self):
-        return unicode(self).encode('utf-8')
-
-    def __unicode__(self):
-        return u'ProcessedLeague with %d complete teams, %d partial teams, %d following leagues - LeagueData:\n%s' % \
-                (self.numCompleteTeams, self.numPartialTeams, self.numFollowingLeagues, self.leaguedata)
-
 
