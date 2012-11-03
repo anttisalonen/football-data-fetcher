@@ -61,7 +61,11 @@ class Progress:
                             s += u'%5s ' % '-'
                         else:
                             if len(teaminfo[i]) == 1:
-                                stats = teaminfo[i][0]
+                                stats = list(teaminfo[i][0])
+                                if not stats[0]:
+                                    stats[0] = 0
+                                if not stats[1]:
+                                    stats[1] = 0
                                 s += u'%2d/%2d ' % (stats[0], stats[1])
                             else:
                                 s += u'%4dL ' % len(teaminfo[i])

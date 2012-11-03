@@ -137,6 +137,7 @@ def main():
         finally:
             try:
                 cleanup()
+                print Globals.progress
             except Exception, e:
                 print >> sys.stderr, "Error: couldn't save progress:", str(e)
                 pass
@@ -144,6 +145,7 @@ def main():
         if Globals.didSomething:
             print 'Finished.'
             cleanup()
+            print Globals.progress
 
 def save():
     with open(Globals.progpath, 'w') as f:
@@ -154,7 +156,6 @@ def load():
         Globals.progress = pickle.load(f)
 
 def cleanup():
-    print Globals.progress
     if Globals.didSomething:
         save()
     Globals.errlog.close()
