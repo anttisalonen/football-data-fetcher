@@ -1,2 +1,3 @@
-- Fix Venezuelan and Bulgarian leagues (two top-level leagues reported)
-
+- Fix players that have "sortname" as name (e.g. Nottingham_Forest)
+- Set correct kit type
+- Don't create league XML files for empty leagues
