@@ -16,7 +16,7 @@ class ParseLeague(unittest.TestCase):
         else:
             seasontext = None
 
-        leaguedata = soccer.LeagueData(name, '')
+        leaguedata = soccer.LeagueData(name)
         parser.getLeagueData(leaguetext, leaguedata)
 
         groups = None
@@ -42,7 +42,7 @@ class ParseLeague(unittest.TestCase):
     def test_parseEnglishPremierLeagueSeason(self):
         for file in ['tests/wikidumps/2012–13_Premier_League.txt', 'tests/wikidumps/Premier_League.txt']:
             with open(file, 'r') as f:
-                l = soccer.LeagueData('', '')
+                l = soccer.LeagueData()
                 l.numteams = 20
                 groups = parser.getSeasonTeams(f.read(), l)
                 self.assertEqual(len(groups), 1)
@@ -64,7 +64,7 @@ class ParseLeague(unittest.TestCase):
                 'tests/wikidumps/Football_League_One.txt',
                 'tests/wikidumps/Football_League_Two.txt']:
             with open(file, 'r') as f:
-                leaguedata = soccer.LeagueData('', '')
+                leaguedata = soccer.LeagueData()
                 parser.getLeagueData(f.read(), leaguedata)
                 self.assertEqual(leaguedata.numteams, 24)
 
@@ -73,7 +73,7 @@ class ParseLeague(unittest.TestCase):
                 'tests/wikidumps/2012–13_Football_League_One.txt',
                 'tests/wikidumps/2012–13_Football_League_Two.txt']:
             with open(file, 'r') as f:
-                l = soccer.LeagueData('', '')
+                l = soccer.LeagueData()
                 l.numteams = 24
                 groups = parser.getSeasonTeams(f.read(), l)
                 self.assertEqual(len(groups), 1)
@@ -116,7 +116,7 @@ class ParseLeague(unittest.TestCase):
             numteams = leagues[i][1]
             nextleaguename = leagues[i + 1][0] if i < len(leagues) - 1 else None
             seasonname = '2012–13 ' + leaguename.replace('Football League ', '')
-            promotionleague = None if i == 0 else leagues[i - 1][0]
+            promotionleague = '' if i == 0 else leagues[i - 1][0]
             leaguepath = 'tests/wikidumps/' + wikiutils.titleToFilename(leaguename) + '.txt'
             seasonpath = 'tests/wikidumps/' + wikiutils.titleToFilename(seasonname) + '.txt'
             leaguedata = soccer.LeagueData(leaguename, promotionleague)
@@ -143,7 +143,7 @@ class ParseLeague(unittest.TestCase):
 
     def test_parseOldInfoboxFootball(self):
         with open('tests/wikidumps/Regionalliga_Nord.txt', 'r') as f:
-            leaguedata = soccer.LeagueData('', '')
+            leaguedata = soccer.LeagueData()
             parser.getLeagueData(f.read(), leaguedata)
             self.assertEqual(leaguedata.season, '2012–13 Fußball-Regionalliga')
             self.assertEqual(leaguedata.numteams, 18)
@@ -163,7 +163,7 @@ class ParseLeague(unittest.TestCase):
 
     def test_ignoreHistoricalTeamList(self):
         with open('tests/wikidumps/Regionalliga_Süd.txt', 'r') as f:
-            l = soccer.LeagueData('', '')
+            l = soccer.LeagueData()
             l.numteams = 18
             teams = parser.getSeasonTeams(f.read(), l)
             self.assertTrue(not teams)
@@ -171,7 +171,7 @@ class ParseLeague(unittest.TestCase):
     def test_parseLegaProPrimaDivisione(self):
         leaguetext = open('tests/wikidumps/Lega_Pro_Prima_Divisione.txt', 'r').read()
         seasontext = open('tests/wikidumps/2012–13_Lega_Pro_Prima_Divisione.txt', 'r').read()
-        leaguedata = soccer.LeagueData('', '')
+        leaguedata = soccer.LeagueData()
         parser.getLeagueData(leaguetext, leaguedata)
         self.assertEqual(leaguedata.numteams, 33)
         groups = parser.getSeasonTeams(seasontext, leaguedata)

@@ -49,12 +49,14 @@ def fetchLeagueData(specificLeague):
 
             if found:
                 leaguetitle = found
+                leaguename, country, toplevelleague, confederationname = Globals.progress.leagues[found]
             else:
                 print >> sys.stderr, "I don't have league '%s' queued.\n" % specificLeague
                 print >> sys.stderr, "%s\n" % Globals.progress.printQueuedLeagues()
                 return
         else:
             leaguetitle = iter(Globals.progress.leagues).next()
+            leaguename, country, toplevelleague, confederationname = Globals.progress.leagues[leaguetitle]
 
         promotionleague = None
         for processedleaguename, processedleague in Globals.progress.processedleagues.items():
@@ -68,7 +70,7 @@ def fetchLeagueData(specificLeague):
             """First get and parse the league text as it may contain a link to the current season.
             Then, try to complement any league data from the season page.
             Finally, try to get the team data, from the season link first if possible."""
-            leaguedata = soccer.LeagueData(leaguetitle, promotionleague)
+            leaguedata = soccer.LeagueData(leaguetitle, promotionleague, confederationname, country, toplevelleague)
             parser.getLeagueData(rvtext, leaguedata)
             if leaguedata.season:
                 stext = wikiutils.getPage(leaguedata.season, True)
@@ -77,34 +79,29 @@ def fetchLeagueData(specificLeague):
 
             if stext:
                 parser.getLeagueData(stext, leaguedata)
+
+            # overwrite levelnum from the wiki info as it seems to be unreliable (e.g. Venezuelan_Segunda_División)
+            if not promotionleague:
+                leaguedata.levelnum = 1
+            else:
+                leaguedata.levelnum = Globals.progress.processedleagues[promotionleague].levelnum + 1
+
             if Globals.fetchTeams:
                 if stext:
                     parser.getTeamData(stext, leaguedata)
                 parser.getTeamData(rvtext, leaguedata)
 
-                if leaguedata.hasTeams():
-                    root = etree.Element("League")
-                    root.set('title', leaguedata.title)
-                    for g in leaguedata.groups:
-                        groupelem = etree.SubElement(root, 'Group')
-                        groupelem.set('title', g.title)
-                        for td in g.teams:
-                            teamelem = td.toXML()
-                            groupelem.append(teamelem)
-                    with open(Globals.outputdir + leaguedata.title + '.xml', 'w') as f:
-                        f.write(etree.tostring(root, pretty_print=True))
-
-            if not leaguedata.levelnum:
-                if not promotionleague:
-                    leaguedata.levelnum = 1
-                else:
-                    leaguedata.levelnum = Globals.progress.processedleagues[promotionleague].levelnum + 1
+                root = leaguedata.toXML()
+                outdir = Globals.outputdir + wikiutils.titleToFilename(leaguedata.confederation) + '/' + country + '/'
+                utils.mkdir_p(outdir)
+                with open(outdir + wikiutils.titleToFilename(leaguedata.title) + '.xml', 'w') as f:
+                    f.write(etree.tostring(root, pretty_print=True))
 
             if leaguedata.numteams:
                 if leaguedata.relegationleagues:
                     for rln, rll in leaguedata.relegationleagues.items():
                         if rln not in Globals.progress.leagues:
-                            Globals.progress.leagues[rll] = rln
+                            Globals.progress.leagues[rll] = (rln, country, toplevelleague, confederationname)
                     print '%d following league(s): %s' % (len(leaguedata.relegationleagues), leaguedata.relegationleagues.keys())
                 else:
                     print 'No following leagues.'

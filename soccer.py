@@ -79,15 +79,20 @@ class LeagueGroup:
         self.numCompleteTeams = 0
 
 class LeagueData:
-    def __init__(self, leaguetitle, promotionleague):
+    def __init__(self, leaguetitle = '', promotionleague = '', confederation = '', country = '', toplevelleague = ''):
         self.title = leaguetitle
         self.groups = []
-        self.season = None
-        self.relegationleagues = None
+        self.season = ''
+        self.relegationleagues = dict()
         self.promotionleague = promotionleague
+        if not self.promotionleague:
+            self.promotionleague = ''
         self.levelnum = 0
         self.divisions = 0
         self.numteams = 0
+        self.confederation = confederation
+        self.toplevelleague = toplevelleague
+        self.country = country
 
     def getTotalCompleteTeams(self):
         return sum([group.numCompleteTeams for group in self.groups])
@@ -114,4 +119,29 @@ class LeagueData:
         s += u'\tLevel number: %s\n' % self.levelnum
         s += u'\tDivisions: %s\n' % self.divisions
         return s
+
+    def toXML(self):
+        root = etree.Element("League")
+        root.set('title', self.title)
+        root.set('season', self.season)
+        root.set('number_of_teams', str(self.numteams))
+        root.set('promotion_league', self.promotionleague)
+        root.set('level_number', str(self.levelnum))
+        root.set('divisions', str(self.divisions if self.divisions else len(self.groups)))
+        root.set('confederation', self.confederation)
+        root.set('country', self.country)
+        root.set('toplevel_league', self.toplevelleague)
+
+        relegationLeagues = etree.SubElement(root, 'Relegation_Leagues')
+        for l, l2 in self.relegationleagues.items():
+            rl = etree.SubElement(relegationLeagues, 'League')
+            rl.set('title', l)
+
+        for g in self.groups:
+            groupelem = etree.SubElement(root, 'Group')
+            groupelem.set('title', g.title)
+            for td in g.teams:
+                teamelem = td.toXML()
+                groupelem.append(teamelem)
+        return root
 

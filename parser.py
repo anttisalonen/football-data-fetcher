@@ -16,6 +16,7 @@ def getTopLeagues():
             'CAF_leagues', 'AFC_leagues', 'OFC_leagues']
     leagues = dict()
     for t in templates:
+        confederationname = t.split('_')[0]
         text = wikiutils.getPage('Template:' + t)
         if text:
             print 'done.'
@@ -33,12 +34,12 @@ def getTopLeagues():
                             v = line.strip('*').strip()
                             name, link = wikiutils.unlinkify(v)
                             if link:
-                                leagues[link] = name
+                                leagues[link] = (name, name, link, confederationname)
                                 print 'Found', name
     return leagues
 
 def getLeagueData(rvtext, leaguedata):
-    season = None
+    season = ''
     relegationleagues = dict()
     numteams = 0
     levelnum = 0
@@ -58,7 +59,8 @@ def getLeagueData(rvtext, leaguedata):
         if not season and lineWithoutSpaces.startswith("|current="):
             k, v = wikiutils.getKeyValue(line)
             competition, competitionlink = wikiutils.unlinkify(v)
-            season = competitionlink
+            if competitionlink:
+                season = competitionlink
 
         if not divisions and (lineWithoutSpaces.startswith("|divisions=") or lineWithoutSpaces.startswith("|division=")):
             tp = wikiutils.getNumberKeyValue(line)
