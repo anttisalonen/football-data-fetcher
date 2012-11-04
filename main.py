@@ -156,7 +156,7 @@ def main():
         if Globals.didSomething:
             print 'Finished.'
             cleanup()
-            print Globals.progress
+        print Globals.progress
 
 def save():
     with open(Globals.progpath, 'wb') as f:
