@@ -1,5 +1,2 @@
-- write test cases (e.g. parse at least all Premier League teams, most teams
-  of top four English leagues, most teams of top two Norwegian leagues)
-- successfully parse more regional leagues and divisions
 - Fix Venezuelan and Bulgarian leagues (two top-level leagues reported)
 
