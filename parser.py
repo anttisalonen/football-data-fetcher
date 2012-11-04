@@ -22,13 +22,13 @@ def getTopLeagues():
             state = 0
             for line in text.split('\n'):
                 lineWithoutSpaces = ''.join(line.split())
-                if state == 0 and lineWithoutSpaces == '|list1=':
+                if state == 0 and re.match('\|list[123456789]=', lineWithoutSpaces):
                     state = 1
 
                 elif state == 1:
                     if lineWithoutSpaces:
                         if (lineWithoutSpaces[0] == '|' or lineWithoutSpaces[0] == '}'):
-                            break
+                            state == 0
                         if lineWithoutSpaces[0] == '*':
                             v = line.strip('*').strip()
                             name, link = wikiutils.unlinkify(v)
