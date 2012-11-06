@@ -39,18 +39,22 @@ def fetchLeagueData(specificLeague):
             for k in Globals.progress.leagues.keys():
                 if specificLeague in k:
                     found = k
+                    leaguetitle = found
+                    leaguename, country, toplevelleague, confederationname = Globals.progress.leagues[found]
                     break
 
             if not found:
                 for k in Globals.progress.processedleagues.keys():
-                    if specificLeague in k:
+                    if specificLeague == k:
                         found = k
+                        leaguetitle = found
+                        league = Globals.progress.processedleagues[found]
+                        country = league.country
+                        toplevelleague = league.toplevelleague
+                        confederationname = league.confederation
                         break
 
-            if found:
-                leaguetitle = found
-                leaguename, country, toplevelleague, confederationname = Globals.progress.leagues[found]
-            else:
+            if not found:
                 print >> sys.stderr, "I don't have league '%s' queued.\n" % specificLeague
                 print >> sys.stderr, "%s\n" % Globals.progress.printQueuedLeagues()
                 return
