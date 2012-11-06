@@ -83,10 +83,10 @@ def parseTeam(team, rvtext, mayGetTemplates):
 
         if lineWithoutSpaces.startswith("|position="):
             # this seems to usually be either this or last season's position
-            # TODO: Problems arise when a team was promoted or relegated
-            tp = wikiutils.getNumberKeyValue(line)
-            if tp:
-                teamposition = tp
+            if not ('promoted' in lineWithoutSpaces.lower() or 'relegated' in lineWithoutSpaces.lower()):
+                tp = wikiutils.getNumberKeyValue(line)
+                if tp:
+                    teamposition = tp
 
         kitresults = kitinfo_re.findall(line)
         for kitresult in kitresults:
