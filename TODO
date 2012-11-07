@@ -1,3 +1,4 @@
 - Fix players that have "sortname" as name (e.g. Nottingham_Forest)
 - Set correct kit type
-- Don't create league XML files for empty leagues
+- Fix case where a league is created twice (e.g. Bohemian_Football_League + Moravian-Silesian_Football_League)
+- Fix players that have "other" as name (e.g. Bayern Leverkusen)
