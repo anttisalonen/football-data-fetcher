@@ -95,13 +95,13 @@ def fetchLeagueData(specificLeague):
                     parser.getTeamData(stext, leaguedata)
                 parser.getTeamData(rvtext, leaguedata)
 
+            if leaguedata.hasTeams():
                 root = leaguedata.toXML()
                 outdir = Globals.outputdir + wikiutils.titleToFilename(leaguedata.confederation) + '/' + country + '/'
                 utils.mkdir_p(outdir)
                 with open(outdir + wikiutils.titleToFilename(leaguedata.title) + '.xml', 'w') as f:
                     f.write(etree.tostring(root, pretty_print=True))
 
-            if leaguedata.numteams:
                 if leaguedata.relegationleagues:
                     for rln, rll in leaguedata.relegationleagues.items():
                         if rln not in Globals.progress.leagues:
