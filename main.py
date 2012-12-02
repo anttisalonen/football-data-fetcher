@@ -126,7 +126,9 @@ def fetchLeagueData(specificLeague):
             return
 
 def usage():
-    print 'Usage: %s [--help] [-l] [tests|league to fetch]' % sys.argv[0]
+    print 'Usage: %s [--help] [-l] [league to fetch]' % sys.argv[0]
+    print '\nFetches soccer league, team and player data from Wikipedia and'
+    print 'stores the result in $HOME/.football_data_fetcher.\n'
     print '\t-l\tOnly fetch league structure (no XML created)'
 
 def main():
