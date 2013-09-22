@@ -8,6 +8,7 @@ import sys
 import os, errno
 import json
 import cPickle as pickle
+import argparse
 
 import utils
 import parser
@@ -125,25 +126,20 @@ def fetchLeagueData(specificLeague):
         if specificLeague:
             return
 
-def usage():
-    print 'Usage: %s [--help] [-l] [league to fetch]' % sys.argv[0]
-    print '\nFetches soccer league, team and player data from Wikipedia and'
-    print 'stores the result in $HOME/.football_data_fetcher.\n'
-    print '\t-l\tOnly fetch league structure (no XML created)'
-
 def main():
-    specificLeague = None
-    for arg in sys.argv[1:]:
-        if arg == '-h' or arg == '--help':
-            usage()
-            sys.exit(0)
-        elif arg == '-l':
-            Globals.fetchTeams = False
-        else:
-            specificLeague = arg.decode('utf-8')
-            Globals.dumpTextFiles = True
+    parser = argparse.ArgumentParser(description = 'Fetch soccer league, team and player data from Wikipedia.')
+    parser.add_argument('-L', dest = 'specific_league', type = str,
+            default = '', help = 'fetch only one league')
+    parser.add_argument('-l', dest = 'fetch_only_leagues', action = 'store_true', help = 'fetch only leagues')
+    parser.add_argument('-o', dest = 'output_dir', action = 'store', type = str, default = '', help = 'output directory')
+
+    args = parser.parse_args()
+    Globals.setDataDir(args.output_dir)
+    if args.fetch_only_leagues:
+        Globals.fetchTeams = False
+        Globals.dumpTextFiles = True
     try:
-        fetchLeagueData(specificLeague)
+        fetchLeagueData(args.specific_league)
     except:
         # http://www.doughellmann.com/articles/how-tos/python-exception-handling/index.html
         try:
