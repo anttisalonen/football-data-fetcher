@@ -58,7 +58,7 @@ class Progress:
                             else:
                                 teaminfo[rel.levelnum].append((rel.totalCompleteTeams, rel.getTotalNumTeams()))
 
-                    s += u'%50s => ' % data.title
+                    s += u'%50s => ' % data.country
                     for i in xrange(1, 11):
                         if i not in teaminfo:
                             s += u'%7s ' % '-'

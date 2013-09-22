@@ -156,6 +156,68 @@ def main():
             print 'Finished.'
             cleanup()
         print Globals.progress
+        run_tests(Globals.progress)
+
+def run_tests(progress):
+    to_test = {
+            'England'                : [0.95, 0.95, 0.95, 0.90, 0.90],
+            'Scotland'               : [0.95, 0.95, 0.95, 0.95],
+            'Brazil'                 : [1.00, 1.00, 0.90],
+            'Italy'                  : [0.95, 0.95, 0.90],
+            'France'                 : [0.90, 0.90, 0.90],
+            'Germany'                : [0.90, 0.85, 0.85],
+            'Japan'                  : [0.90, 0.90, 0.50],
+            'Austria'                : [0.90, 0.90, 0.25],
+            'Belgium'                : [1.00, 1.00],
+            'Argentina'              : [0.95, 0.95],
+            'Thailand'               : [0.95, 0.95],
+            'Spain'                  : [0.90, 0.90],
+            'Netherlands'            : [0.90, 0.90],
+            'Portugal'               : [0.90, 0.90],
+            'Finland'                : [0.90, 0.90],
+            'Poland'                 : [0.90, 0.90],
+            'Russia'                 : [0.80, 0.70],
+            'Norway'                 : [0.80, 0.70],
+            'Iceland'                : [0.80, 0.70],
+            'Sweden'                 : [0.95],
+            'Chile'                  : [0.90],
+            'Denmark'                : [0.90],
+            'Ecuador'                : [0.90],
+            'United States & Canada' : [0.90],
+            'Switzerland'            : [0.90],
+            'Turkey'                 : [0.90],
+            'Peru'                   : [0.90],
+            }
+
+    for country, level in to_test.items():
+        for key, data in progress.processedleagues.items():
+            if data.country == country:
+                if data.levelnum - 1 < len(level) and not isinstance(level[data.levelnum - 1], tuple):
+                    try:
+                        have_percentage = data.totalCompleteTeams / float(data.getTotalNumTeams())
+                    except ZeroDivisionError:
+                        have_percentage = 0.0
+                    level[data.levelnum - 1] = level[data.levelnum - 1], have_percentage
+
+    OKGREEN = '\033[92m'
+    ENDC = '\033[0m'
+    FAIL = '\033[91m'
+
+    for country, level in sorted(to_test.items()):
+        for l, n in enumerate(level):
+            if isinstance(n, tuple):
+                if n[1] < n[0]:
+                    color = FAIL
+                    ps = ' (expected %d%%)' % int(n[0] * 100)
+                else:
+                    color = ENDC
+                    ps = ''
+                print >> sys.stderr, color + '%-30sLevel %d: %3d%% complete teams found%s.' % (
+                        country, l + 1, int(n[1] * 100), ps)
+            else:
+                print >> sys.stderr, FAIL + '%-30sLevel %d: missing.' % (country, l + 1)
+
+    print ENDC
 
 def save():
     with open(Globals.progpath, 'wb') as f:
