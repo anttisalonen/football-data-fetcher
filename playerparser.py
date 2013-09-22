@@ -4,7 +4,19 @@ import wikiutils
 import soccer
 from settings import Globals
 
-unlinker_re = re.compile(r'(.*)\[\[(.*)\|(.*)\]\](.*)')
+def unlink_wiki(line):
+    if '[[' in line:
+        l1, l2 = line.split('[[', 1)
+        if ']]' not in l2:
+            # wiki syntax error
+            return l1 + l2
+        else:
+            l3, l4 = l2.split(']]', 1)
+            if '|' in l3:
+                l3 = l3.split('|', 1)[1]
+            return l1 + l3 + unlink_wiki(l4)
+    else:
+        return line
 
 def fetchPlayer(line):
     def playerError(msg):
@@ -15,18 +27,7 @@ def fetchPlayer(line):
     if '{{fs player' in ll or \
             '{{football squad player' in ll or \
             '{{fs2 player' in ll:
-        unlinkedline = line
-        while True:
-            res = unlinker_re.match(unlinkedline)
-            if res:
-                groups = res.groups()
-                try:
-                    unlinkedline = groups[0] + groups[2] + groups[3]
-                except IndexError:
-                    playerError(u"Couldn't find groups at %s" % groups)
-                    break
-            else:
-                break
+        unlinkedline = unlink_wiki(line)
 
         columns = [s.strip() for s in unlinkedline.replace('{', '').replace('}', '').split('|')]
         number = None
