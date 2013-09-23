@@ -139,7 +139,7 @@ def main():
         Globals.fetchTeams = False
         Globals.dumpTextFiles = True
     try:
-        fetchLeagueData(args.specific_league)
+        fetchLeagueData(args.specific_league.decode('utf-8'))
     except:
         # http://www.doughellmann.com/articles/how-tos/python-exception-handling/index.html
         try:
