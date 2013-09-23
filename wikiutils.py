@@ -35,6 +35,20 @@ def unlinkify(origstr):
     else:
         return (s, None)
 
+def unlink_wiki(line):
+    if '[[' in line:
+        l1, l2 = line.split('[[', 1)
+        if ']]' not in l2:
+            # wiki syntax error
+            return l1 + l2
+        else:
+            l3, l4 = l2.split(']]', 1)
+            if '|' in l3:
+                l3 = l3.split('|', 1)[1]
+            return l1 + l3 + unlink_wiki(l4)
+    else:
+        return line
+
 def getKeyValue(line):
     try:
         vals = [s.strip() for s in line.split('=')]

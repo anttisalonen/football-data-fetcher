@@ -4,20 +4,6 @@ import wikiutils
 import soccer
 from settings import Globals
 
-def unlink_wiki(line):
-    if '[[' in line:
-        l1, l2 = line.split('[[', 1)
-        if ']]' not in l2:
-            # wiki syntax error
-            return l1 + l2
-        else:
-            l3, l4 = l2.split(']]', 1)
-            if '|' in l3:
-                l3 = l3.split('|', 1)[1]
-            return l1 + l3 + unlink_wiki(l4)
-    else:
-        return line
-
 def fetchPlayer(line):
     def playerError(msg):
         print >> Globals.errlog, "Player %s: %s" % (line.encode('utf-8'), msg.encode('utf-8'))
@@ -27,7 +13,7 @@ def fetchPlayer(line):
     if '{{fs player' in ll or \
             '{{football squad player' in ll or \
             '{{fs2 player' in ll:
-        unlinkedline = unlink_wiki(line)
+        unlinkedline = wikiutils.unlink_wiki(line)
 
         columns = [s.strip() for s in unlinkedline.replace('{', '').replace('}', '').split('|')]
         number = None
