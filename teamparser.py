@@ -116,7 +116,7 @@ def parseTeam(team, rvtext, mayGetTemplates):
                     n = int(k[0]) - 1
                     if n == 0 or n == 1:
                         kit[n].sockscolor = getColorValue(v)
-                elif k.startswith('pattern_b'):
+                elif k.startswith('pattern_b') and k != 'pattern_blue':
                     k = k[9:]
                     if not k: continue
                     n = int(k[0]) - 1
